@@ -7654,4 +7654,5 @@ img.mfp-img {
 /* A pile of dirty hacks */
 .lanyrd-detailed-list .extended-detail, .name, .bio {
   font-family: Open Sans, Source Sans Pro, Helvetica, Arial, sans-serif;
+  color: black;
 }
