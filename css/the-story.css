@@ -6657,7 +6657,7 @@ footer a {
 }
 .lazy-container {
   text-align: center;
-  min-height: 400px;
+  min-height: 100px;
 }
 .spinner {
   padding-top: 200px;
