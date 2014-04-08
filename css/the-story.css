@@ -7656,3 +7656,9 @@ img.mfp-img {
   font-family: Open Sans, Source Sans Pro, Helvetica, Arial, sans-serif;
   color: black;
 }
+
+.lanyrd-detailed-list .lanyrd-people-list .avatar {
+  padding: 0px;
+  width: 48px;
+  height: 48px;
+}
