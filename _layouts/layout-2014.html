@@ -1,17 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Agile Day Riga</title>
+  <title>Agile Day Riga 2014</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
-  <meta name="description" content="Agile Day Riga - the conference for those who care about people.">
+  <meta name="description" content="Agile Day Riga 2014 - the conference for those who care about people.">
+  <meta name="keywords" content="Agile, Lean, Scrum, Kanban, XP, conference, community, project management, software development, culture">
   <meta name="author" content="Agile Latvia">
+  <meta property="og:title" content="Agile Day Riga 2014" />
+  <meta property="og:description" content="Agile Day Riga is back in the new format of unconference. We will be glad you to join the crowd on April, 26. We invite you to join and share your insights and feelings, discuss the questions you care about." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://www.agiledayriga.lv/events/2014/index.html" />
+  <meta property="og:image" content="http://www.agiledayriga.lv/img/og/adr14-color.png" />
 
   <!-- Load The Story -->
-  <link id="the-story-css-file"href="css/2014.css" rel="stylesheet" media="screen">
+  <link id="the-story-css-file"href="/css/2014.css" rel="stylesheet" media="screen">
 
   <!-- Favicon -->
-  <link rel="shortcut icon" href="img/favicon.ico">
+  <link rel="shortcut icon" href="/img/favicon.ico">
 
   <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!--[if lt IE 9]>
@@ -31,7 +37,7 @@
           <span class="sr-only">Toggle navigation</span>
           <i class="fa fa-bars"></i>
         </button>
-        <a class="navbar-brand" href="#">Agile Day Riga</a> 
+        <a class="navbar-brand" href="/index.html">Agile Day Riga</a> 
       </div>
       <div id="nav-collapse" class="collapse navbar-collapse navbar-ex1-collapse">
         <ul class="nav navbar-nav navbar-right">
@@ -40,7 +46,14 @@
           <li><a title="Vote for sessions" href="#vfs" class="scroll fadeto brand-3">Schedule</a></li>
           <li><a title="Slides and Videos" href="#coverage" class="scroll fadeto brand-4">Slides and Videos</a></li>
           <li><a title="Venue" href="#venue" class=" scroll brand-2">Venue</a></li>
-          <li><a title="Past events" href="http://sites.google.com/site/agilerigaday/" target="_blank">Past events</a></li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Events&nbsp;<span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <li><a href="/index.html">2015</a></li>
+              <li><a href="/events/2014/index.html">2014</a></li>
+              <li><a title="Past events" href="http://sites.google.com/site/agilerigaday/" target="_blank">Past events</a></li>
+            </ul>
+          </li>
         </ul>
       </div>
     </div><!-- /.navbar-container -->
@@ -64,18 +77,9 @@
           </div>
       </div>
     </div> <!-- /Twitter stream -->
-    <div class="inner-page row">
-      <div class="col-md-6 social">
-        <a href="http://twitter.com/agilelatvia/"><i class="fa fa-twitter"></i></a>
-        <a href="http://www.facebook.com/agilelatvia"><i class="fa fa-facebook-square"></i></a>
-        <a href="http://www.linkedin.com/groups?mostPopular=&gid=3136148"><i class="fa fa-linkedin-square"></i></a>
-        <a href="http://www.youtube.com/user/AgileLatvia"><i class="fa fa-youtube-square"></i></a>
-        <a href="https://google.com/+AgilelatviaOrg"><i class="fa fa-google-plus-square"></i></a>
-      </div>
-      <div class="col-md-6 text-right copyright">
-        &copy; 2011-2014 <a href="http://agilelatvia.org" title="twitter bootstrap themes">agile latvia</a> | all rights reserved | <a href="#top" title="Got to top" class="scroll">To top <i class="fa fa-caret-up"></i></a>
-      </div>
-    </div>
+
+    {% include footer-social.html %}
+
   </footer>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <script>
@@ -88,17 +92,17 @@
 
   <!-- Minimize in production. -->
 
-  <script src="js/bootstrap.js"></script>
+  <script src="/js/bootstrap.js"></script>
  
-  <script src="js/lazyload.js"></script>
-  <script src="js/spin.js"></script>
-  <script src="js/bootstrap.js"></script>
-  <script src="js/lightbox.js"></script>
-  <script src="js/bootstrap.js"></script>
-  <script src="js/jquery.history.js"></script>
+  <script src="/js/lazyload.js"></script>
+  <script src="/js/spin.js"></script>
+  <script src="/js/bootstrap.js"></script>
+  <script src="/js/lightbox.js"></script>
+  <script src="/js/bootstrap.js"></script>
+  <script src="/js/jquery.history.js"></script>
 
     <!-- Main js fail. -->
-  <script src="js/main.js"></script>
+  <script src="/js/main.js"></script>
 
   <!-- Add this to the end of body -->
   <script src="http://cdn.lanyrd.net/badges/embed-v1.min.js"></script>
