@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Agile Day Riga</title>
+  <title>Agile Day Riga {% if page.year %}{{ page.year }}{% endif %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
     {% include meta.html %}
 
   <!-- Load The Story -->
-  <link id="the-story-css-file"href="css/2014.css" rel="stylesheet" media="screen">
+  <link id="the-story-css-file"href="/css/{% if page.year %}{{ page.year }}.css{% else %}the-story.css{% endif %}" rel="stylesheet" media="screen">
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="img/favicon.ico">
@@ -36,10 +36,18 @@
         <ul class="nav navbar-nav navbar-right">
           <li class="active"><a title="Home page" class="scroll brand-1" href="#home">Home</a></li>
           <li><a title="About Agile Day Riga" href="#about" class="scroll fadeto brand-4">About</a></li>
-          <li><a title="Vote for sessions" href="#vfs" class="scroll fadeto brand-3">Schedule</a></li>
-          <li><a title="Slides and Videos" href="#coverage" class="scroll fadeto brand-4">Slides and Videos</a></li>
+          <!-- TBD -->
+          <!-- <li><a title="Call for Papers" href="#cfp" class="scroll fadeto brand-3">Call for Papers</a></li> -->
+          <!-- <li><a title="Slides and Videos" href="#coverage" class="scroll fadeto brand-4">Slides and Videos</a></li> -->
           <li><a title="Venue" href="#venue" class=" scroll brand-2">Venue</a></li>
-          <li><a title="Past events" href="http://sites.google.com/site/agilerigaday/" target="_blank">Past events</a></li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Past events&nbsp;<span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <li><a href="/events/2015/index.html">2015</a></li>
+              <li><a href="/events/2014/index.html">2014</a></li>
+              <li><a title="Past events" href="http://sites.google.com/site/agilerigaday/" target="_blank">Older</a></li>
+            </ul>
+          </li>
         </ul>
       </div>
     </div><!-- /.navbar-container -->
@@ -48,34 +56,21 @@
   <!-- content -->
   <div id="content">
     {{ content }}
+    {% if page.about-block == "on" %}{% include all-about.html %}{% endif %}
+    {% if page.cfp-block == "on" %}{% include all-cfp.html %}{% endif %}
+    {% if page.sponsors-block == "on" %}{% include all-sponsors.html %}{% endif %}
+    {% if page.sessions-block == "on" %}{% include all-sessions.html %}{% endif %}
+    {% if page.tickets-block == "on" %}{% include all-tickets.html %}{% endif %}
+    {% if page.feedback-block == "on" %}{% include all-feedback.html %}{% endif %}
+    {% if page.venue-block == "on" %}{% include all-venue.html %}{% endif %}
   </div>
 
   <!-- The footer, social media icons, and copyright -->
   <footer class="page color-5">
-    <!-- Twitter stream -->
-    <div class="inner-page row">
-      <div class="twitter-timelines row">
-        <div class="col-md-6"><a class="twitter-timeline" href="https://twitter.com/agilelatvia" data-widget-id="439780009348046849">Tweets by @agilelatvia</a>
-        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-        </div>
-        <div class="col-md-6"><a class="twitter-timeline" href="https://twitter.com/search?q=%23adr14" data-widget-id="439780709054431233">Tweets about "#adr14"</a>
-        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-          </div>
-      </div>
-    </div> <!-- /Twitter stream -->
-    <div class="inner-page row">
-      <div class="col-md-6 social">
-        <a href="http://twitter.com/agilelatvia/"><i class="fa fa-twitter"></i></a>
-        <a href="http://www.facebook.com/agilelatvia"><i class="fa fa-facebook-square"></i></a>
-        <a href="http://www.linkedin.com/groups?mostPopular=&gid=3136148"><i class="fa fa-linkedin-square"></i></a>
-        <a href="http://www.youtube.com/user/AgileLatvia"><i class="fa fa-youtube-square"></i></a>
-        <a href="https://google.com/+AgilelatviaOrg"><i class="fa fa-google-plus-square"></i></a>
-      </div>
-      <div class="col-md-6 text-right copyright">
-        &copy; 2011-2014 <a href="http://agilelatvia.org" title="twitter bootstrap themes">agile latvia</a> | all rights reserved | <a href="#top" title="Got to top" class="scroll">To top <i class="fa fa-caret-up"></i></a>
-      </div>
-    </div>
+  {% if page.social-block == "on" %}{% include all-social.html %}{% endif %}
+  {% include all-footer.html %}
   </footer>
+
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <script>
   if (typeof jQuery == 'undefined') {
@@ -87,6 +82,23 @@
 
   <!-- Minimize in production. -->
 
+  <script src="js/the-story.min.js"></script>
+
+
+  <!-- vvv probably old scripts vvv -->
+
+<!-- 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>
+  if (typeof jQuery == 'undefined') {
+    document.write(unescape("%3Cscript src='js/jquery-1.9.1.min.js' type='text/javascript'%3E%3C/script%3E"));
+  }
+  </script>
+
+ -->  <!-- JQUERY END -->
+
+  <!-- Minimize in production. -->
+<!-- 
   <script src="js/bootstrap.js"></script>
  
   <script src="js/lazyload.js"></script>
@@ -95,9 +107,11 @@
   <script src="js/lightbox.js"></script>
   <script src="js/bootstrap.js"></script>
   <script src="js/jquery.history.js"></script>
+ -->
+  <!-- Main js fail. 
+  <script src="js/main.js"></script> -->
 
-    <!-- Main js fail. -->
-  <script src="js/main.js"></script>
+  <!-- ^^^ end of probably old scripts ^^^^ -->
 
   <!-- Add this to the end of body -->
   <script src="http://cdn.lanyrd.net/badges/embed-v1.min.js"></script>
