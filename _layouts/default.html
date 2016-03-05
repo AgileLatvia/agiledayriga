@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head prefix="og: http://ogp.me/ns#">
   <title>Agile Day Riga {% if page.year %}{{ page.year }}{% endif %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
-    {% include meta.html %}
+  {% include all-meta.html %}
 
   <!-- Load The Story -->
   <link id="the-story-css-file"href="/css/{% if page.year %}{{ page.year }}.css{% else %}the-story.css{% endif %}" rel="stylesheet" media="screen">
 
   <!-- Favicon -->
-  <link rel="shortcut icon" href="img/favicon.ico">
+  <link rel="shortcut icon" href="img/{{ page.year }}.ico">
 
   <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!--[if lt IE 9]>
@@ -36,8 +36,7 @@
         <ul class="nav navbar-nav navbar-right">
           <li class="active"><a title="Home page" class="scroll brand-1" href="#home">Home</a></li>
           <li><a title="About Agile Day Riga" href="#about" class="scroll fadeto brand-4">About</a></li>
-          <!-- TBD -->
-          <!-- <li><a title="Call for Papers" href="#cfp" class="scroll fadeto brand-3">Call for Papers</a></li> -->
+          <li><a title="Call for Papers" href="#cfp" class="scroll fadeto brand-3">Call for Papers</a></li>
           <!-- <li><a title="Slides and Videos" href="#coverage" class="scroll fadeto brand-4">Slides and Videos</a></li> -->
           <li><a title="Venue" href="#venue" class=" scroll brand-2">Venue</a></li>
           <li class="dropdown">
@@ -83,35 +82,6 @@
   <!-- Minimize in production. -->
 
   <script src="js/the-story.min.js"></script>
-
-
-  <!-- vvv probably old scripts vvv -->
-
-<!-- 
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>
-  if (typeof jQuery == 'undefined') {
-    document.write(unescape("%3Cscript src='js/jquery-1.9.1.min.js' type='text/javascript'%3E%3C/script%3E"));
-  }
-  </script>
-
- -->  <!-- JQUERY END -->
-
-  <!-- Minimize in production. -->
-<!-- 
-  <script src="js/bootstrap.js"></script>
- 
-  <script src="js/lazyload.js"></script>
-  <script src="js/spin.js"></script>
-  <script src="js/bootstrap.js"></script>
-  <script src="js/lightbox.js"></script>
-  <script src="js/bootstrap.js"></script>
-  <script src="js/jquery.history.js"></script>
- -->
-  <!-- Main js fail. 
-  <script src="js/main.js"></script> -->
-
-  <!-- ^^^ end of probably old scripts ^^^^ -->
 
   <!-- Add this to the end of body -->
   <script src="http://cdn.lanyrd.net/badges/embed-v1.min.js"></script>
