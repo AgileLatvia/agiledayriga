@@ -7,71 +7,37 @@
     </div>
     <div class="inner-page row">
       <div class="col-md-12">
-      <!-- TBD: make link dynamic -->
-        <p class="lead">The schedule has been finalized. Session order is subject to change, check back <a href="http://lanyrd.com/2015/adr15/schedule/?day=may-23&fullscreen=1&view=grid" targer="_blank">here</a> for updates.</p> 
+        <p class="lead">{% if page.schedule-status %}{{ page.schedule-status }}{% endif %} {% if page.schedule-lanyrd %}The recent schedule can be found <a href="{{ page.schedule-status }}" target="_blank">here</a>.{% endif %}</p> 
       </div>
     </div>
 
     <!-- Sessions -->
     <div class="row inner-page">
+    {% for sessions in site.data.sessions[page.year] %}
+      <!-- {{ sessions[0] }} -->
       <div class="col-md-12">
-      	<h3>Why We Fail to Change</h3>
-      	<p>Improvement initiatives are like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it.
-
-		For decades most of improvement programs fail. Interestingly enough, with the rise of Agile and Lean the success rates of change initiatives don’t get better. Why so?
-
-		Every now and then we focus on processes and methods. We exploit success stories from other organizations just to find ourselves failing again. Should it be a surprise given how little attention we pay to our specific context? Should it be a surprise given bias toward methods and tools at cost of mindset?
-
-		Let me discuss some of methods we use to drive improvements. My goal is to show you that most of the time you shouldn’t even bother to use them. The missing bit is almost never a tool or a method. This is going to be sort of myth busting. We need that to change our focus to the important bits: right mindset and understanding the context</p>
+      	<h3>{% if sessions[1].title %}{{ sessions[1].title | strip_html }}{% endif %}{% if sessions[1].time %} ({{ sessions[1].time | strip_html }}){% endif %}</h3>
+      	<p>{% if sessions[1].about %}{{ sessions[1].about | strip_html }}{% endif %}</p>
 		<p class="social">
-			<i class="fa fa-facebook-square"></i><a href="#slides">Slides</a>
-			<a href="#slides"><i class="fa fa-facebook-square"></i></a>
+		  {% if sessions[1].slides %}<a href="{{ sessions[1].slides }}" title="Slides"><i class="fa fa-file-text"></i></a>{% endif %}
+		  {% if sessions[1].video %}<a href="{{ sessions[1].video }}" title="Video"><i class="fa fa-youtube-square"></i></a>{% endif %}
 		</p>
-		<div class="col-md-6 social">
-          <a href="#slides"><i class="fa fa-facebook-square"></i></a>
-          <a href="#slides"><i class="fa fa-facebook-square"></i></a>
-        </div>
       </div>
-
+      <!-- Speaker #1 -->
       <div class="col-md-2">
-      	<!-- image -->
-      	<img class="pull-left" style="width: 160px; margin-top: 16px; margin-right: 16px"   src="https://s3.amazonaws.com/lanyrd-image-uploads/cropped-profile-photos/0c19f11c83f8d492e18f5c56de329b8cf6c53649.jpeg" >
+      	<img class="pull-left figurette lazy" style="width: 160px; margin-top: 16px; margin-right: 16px"   src="{% if page.title %}{{ sessions[1].photo }}{% endif %}" >
       </div>
       <div class="col-md-10">
-      	<h4>Pawel Brodzinski</h4>
-      	<p>Leader of Lunar Logic (http://lunarlogic.io). Persistent experimenter. Whiteboard junkie. Lean and Agile coach. Prolific blogger.</p>
-      	<p class="social">
-      	<i class="fa fa-home"></i>  <a href="prettystrap.com">http://prettystrap.com</a>
-      	<i class="fa fa-envelope-o"></i>  <a href="info@email.com">info@email.com</a>
-      		      	<a href="#Blog"><i class="fa fa-facebook-square"></i></a>
-	        <a href="#FB"><i class="fa fa-facebook-square"></i></a>
-	        <a href="#Twi"><i class="fa fa-twitter"></i></a>
-	        <a href="#LIn"><i class="fa fa-github-square"></i></a>
-
+      	<h4>{% if sessions[1].name %}{{ sessions[1].name | strip_html }}{% endif %}</h4>
+      	<p>{% if sessions[1].bio %}{{ sessions[1].bio | strip_html }}{% endif %}</p>
+      	<p class="social"	>
+     	  {% if sessions[1].blog %}<a href="{{ sessions[1].blog }}" title="Blog"><i class="fa fa-home"></i></a>{% endif %}
+	      {% if sessions[1].facebook %}<a href="{{ sessions[1].facebook }}" title="Facebook"><i class="fa fa-facebook-square"></i></a>{% endif %}
+	      {% if sessions[1].twitter %}<a href="{{ sessions[1].twitter }}" title="Twitter"><i class="fa fa-twitter"></i></a>{% endif %}
+	      {% if sessions[1].linkedin %}<a href="{{ sessions[1].linkedin }}" title="LinkedIn"><i class="fa fa-linkedin-square"></i></a>{% endif %}
+	      {% if sessions[1].google-plus %}<a href="{{ sessions[1].google-plus }}" title="Google+"><i class="fa fa-google-plus"></i></a>{% endif %}
       	</p>
-
-      </div>
-    </div>
-
-	<!-- Team -->
-	<div class="row inner-page team">
-	  <div class="col-md-6">
-	    <img class="pull-left" src="img/speakers/cookies.png" alt="A cookie" />
-	    <h4>Jane Doe</h4>
-	    <p>Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis.</p>
-	    <ul>
-	      <li><i class="fa fa-home"></i>  <a href="prettystrap.com">http://prettystrap.com</a>
-	      </li>
-	      <li><i class="fa fa-envelope-o"></i>  <a href="info@email.com">info@email.com</a>
-	      </li>
-	      <li class="social">
-	        <a href="#about"><i class="fa fa-facebook-square"></i></a>
-	        <a href="#about"><i class="fa fa-twitter"></i></a>
-	        <a href="#about"><i class="fa fa-github-square"></i></a>
-	      </li>
-	    </ul>
-	  </div>
-	</div>
-
-
-  </div> <!-- /sessions -->
+      </div>      
+    {% endfor %}
+    </div> <!-- /sessions -->
+  </div> <!-- /Schedule -->
