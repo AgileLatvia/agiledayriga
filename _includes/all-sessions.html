@@ -13,9 +13,8 @@
 
     <!-- Sessions -->
     <div class="row inner-page">
-    {% for session in site.data.sessions[page.year] | sort 'session[0]' %}
-      <!-- {{ session[0] }} -->
-      <div class="col-md-12">
+    {% for session in site.data.sessions[page.year] %}
+      <div id="{{ session[0] }}" class="col-md-12">
       	<h3>{% if session[1].title %}{{ session[1].title | strip_html }}{% endif %}{% if session[1].time %} ({{ session[1].time | strip_html }}){% endif %}</h3>
       	<p>{% if session[1].about %}{{ session[1].about | strip_html }}{% endif %}</p>
 		<p class="social">

@@ -1,3 +1,44 @@
-{% if page.year == 2016 %}
-  {% include 2016-sponsors.html %}
-{% endif %}
+    <!-- sponsors -->
+    <div class="inner-page">
+      <h2 class="page-headline">Our gratitude to</h2>
+    </div>
+
+    {% for platinums in site.data.sponsors[page.year].platinum %}
+    <div class="inner-page row">
+      <div class="col-md-4">
+        <a title="{{ platinums[1].title }}" href="{{ platinums[1].url }}" target="_blank"><img class="lazy" src="{{ platinums[1].image }}" alt="{{ platinums[1].title }}"></a>
+      </div>
+      <div class="col-md-1"></div>
+      <div class="col-md-7">
+        <p class="lead">{{ platinums[1].promo }}</p>
+      </div>    
+    </div>
+    {% endfor %}
+    <div class="inner-page row">
+      <div class="col-md-1"></div>
+      {% for golds in site.data.sponsors[page.year].gold %}
+      <div class="col-md-3">
+        <a href="{{ golds[1].url }}" title="{{ golds[1].title }}" target="_blank"><img class="lazy" src="{{ golds[1].image }}" alt="{{ golds[1].title }}"></a>
+      </div>
+      <div class="col-md-1"></div>
+      {% endfor %}
+    </div>
+    <div class="inner-page row">
+      <div class="col-md-1"></div>
+      {% for silvers in site.data.sponsors[page.year].silver %}
+      <div class="col-md-3">
+        <a href="{{ silvers[1].url }}" title="{{ silvers[1].title }}" target="_blank"><img class="lazy" src="{{ silvers[1].image }}" alt="{{ silvers[1].title }}"></a>
+      </div>
+      <div class="col-md-1"></div>
+      {% endfor %}
+    </div> 
+    <div class="inner-page row">
+      <div class="col-md-1"></div>
+      {% for infos in site.data.sponsors[page.year].info %}
+      <div class="col-md-2">
+        <a href="{{ infos[1].url }}" title="{{ infos[1].title }}" target="_blank"><img class="lazy" src="{{ infos[1].image }}" alt="{{ infos[1].title }}"></a>
+      </div>
+      <div class="col-md-1"></div>
+      {% endfor %}
+    </div> 
+    <!-- /sponsors -->
