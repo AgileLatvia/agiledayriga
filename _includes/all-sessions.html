@@ -13,29 +13,28 @@
 
     <!-- Sessions -->
     <div class="row inner-page">
-    {% for sessions in site.data.sessions[page.year] %}
-      <!-- {{ sessions[0] }} -->
+    {% for session in site.data.sessions[page.year] | sort 'session[0]' %}
+      <!-- {{ session[0] }} -->
       <div class="col-md-12">
-      	<h3>{% if sessions[1].title %}{{ sessions[1].title | strip_html }}{% endif %}{% if sessions[1].time %} ({{ sessions[1].time | strip_html }}){% endif %}</h3>
-      	<p>{% if sessions[1].about %}{{ sessions[1].about | strip_html }}{% endif %}</p>
+      	<h3>{% if session[1].title %}{{ session[1].title | strip_html }}{% endif %}{% if session[1].time %} ({{ session[1].time | strip_html }}){% endif %}</h3>
+      	<p>{% if session[1].about %}{{ session[1].about | strip_html }}{% endif %}</p>
 		<p class="social">
-		  {% if sessions[1].slides %}<a href="{{ sessions[1].slides }}" title="Slides"><i class="fa fa-file-text"></i></a>{% endif %}
-		  {% if sessions[1].video %}<a href="{{ sessions[1].video }}" title="Video"><i class="fa fa-youtube-square"></i></a>{% endif %}
+		  {% if session[1].slides %}<a href="{{ session[1].slides }}" title="Slides"><i class="fa fa-file-text"></i></a>{% endif %}
+		  {% if session[1].video %}<a href="{{ session[1].video }}" title="Video"><i class="fa fa-youtube-square"></i></a>{% endif %}
 		</p>
       </div>
-      <!-- Speaker #1 -->
       <div class="col-md-2">
-      	<img class="pull-left figurette lazy" style="width: 160px; margin-top: 16px; margin-right: 16px"   src="{% if page.title %}{{ sessions[1].photo }}{% endif %}" >
+      	<img class="pull-left figurette lazy" style="width: 160px; margin-top: 16px; margin-right: 16px"   src="{% if page.title %}{{ session[1].photo }}{% endif %}" >
       </div>
       <div class="col-md-10">
-      	<h4>{% if sessions[1].name %}{{ sessions[1].name | strip_html }}{% endif %}</h4>
-      	<p>{% if sessions[1].bio %}{{ sessions[1].bio | strip_html }}{% endif %}</p>
+      	<h4>{% if session[1].name %}{{ session[1].name | strip_html }}{% endif %}</h4>
+      	<p>{% if session[1].bio %}{{ session[1].bio | strip_html }}{% endif %}</p>
       	<p class="social"	>
-     	  {% if sessions[1].blog %}<a href="{{ sessions[1].blog }}" title="Blog"><i class="fa fa-home"></i></a>{% endif %}
-	      {% if sessions[1].facebook %}<a href="{{ sessions[1].facebook }}" title="Facebook"><i class="fa fa-facebook-square"></i></a>{% endif %}
-	      {% if sessions[1].twitter %}<a href="{{ sessions[1].twitter }}" title="Twitter"><i class="fa fa-twitter"></i></a>{% endif %}
-	      {% if sessions[1].linkedin %}<a href="{{ sessions[1].linkedin }}" title="LinkedIn"><i class="fa fa-linkedin-square"></i></a>{% endif %}
-	      {% if sessions[1].google-plus %}<a href="{{ sessions[1].google-plus }}" title="Google+"><i class="fa fa-google-plus"></i></a>{% endif %}
+     	  {% if session[1].blog %}<a href="{{ session[1].blog }}" title="Blog"><i class="fa fa-home"></i></a>{% endif %}
+	      {% if session[1].facebook %}<a href="{{ session[1].facebook }}" title="Facebook"><i class="fa fa-facebook-square"></i></a>{% endif %}
+	      {% if session[1].twitter %}<a href="{{ session[1].twitter }}" title="Twitter"><i class="fa fa-twitter"></i></a>{% endif %}
+	      {% if session[1].linkedin %}<a href="{{ session[1].linkedin }}" title="LinkedIn"><i class="fa fa-linkedin-square"></i></a>{% endif %}
+	      {% if session[1].google-plus %}<a href="{{ session[1].google-plus }}" title="Google+"><i class="fa fa-google-plus"></i></a>{% endif %}
       	</p>
       </div>      
     {% endfor %}

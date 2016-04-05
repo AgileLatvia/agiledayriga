@@ -7,11 +7,11 @@
     slides: 
     video: 
     name: "Henrik Kniberg"
-    bio: "Henrik Kniberg is a coach and consultant at Crisp. Henrik's background is a mix of development and management, and his passion is applying Lean and Agile principles to help debug, optimize, and refactor companies. Henrik is the author of Scrum and XP from the Trenches and Kanban & Scrum, making the most of both and a popular keynote speaker at conferences worldwide. Henrik lives in Stockholm with his wife and four kids, and in his 'spare time' plays bass and keyboard with two local bands."
+    bio: "Henrik Kniberg is a coach and consultant at Crisp. Henrik's background is a mix of development and management, and his passion is applying Lean and Agile principles to help debug, optimize, and refactor companies. Henrik is the author of 'Scrum and XP from the Trenches' and 'Kanban & Scrum', making the most of both and a popular keynote speaker at conferences worldwide. Henrik lives in Stockholm with his wife and four kids, and in his 'spare time' plays bass and keyboard with two local bands."
     photo: "/img/speakers/henrik-kniberg.png"
     blog: 
     facebook: 
-    twitter: 
+    twitter: "https://twitter.com/henrikkniberg"
     linkedin: "https://lv.linkedin.com/in/hkniberg"
     google-plus: 
   session02:
@@ -22,7 +22,7 @@
     slides: 
     video: 
     name: "Inge Gorgon"
-    bio: "I am a passionate agile coach with over 10 years of experience in agile analysis, testing and as a scrum master. I have experience as a speaker on conferences such as the Agile Business Conference in London, the ALE conferences in Bucharest en Sofia and for the Agile Consortium Belgium. "
+    bio: "I am a passionate agile coach with over 10 years of experience in agile analysis, testing and as a Scrum Master. I have experience as a speaker on conferences such as the Agile Business Conference in London, the ALE conferences in Bucharest and Sofia and for the Agile Consortium Belgium."
     photo: "/img/speakers/inge-gorgon.png"
     blog: 
     facebook: 
@@ -33,7 +33,7 @@
     order: 3
     time: 
     title: "Lean Metrics - Measuring and Driving Change"
-    about: "In order to do successful development, you want metrics to tell you whether you are heading to right direction. In this talk you will get an example of measurement stack aligned through strategy, customer, current operational mode - all the way to changes that you are introducing. From the session you will get example tools for measuring: Change in business environment, Customer understanding, Process cycle efficiency, Change implementation progress, Continuous improvement and learning. One key thing is also to keep the metrics lean. So sweep away the massive Excel sheets and bring in simple indicators that everyone can understand, from developers to decision-makers."
+    about: "In order to do successful development, you want metrics to tell you whether you are heading to the right direction. In this talk you will get an example of measurement stack aligned through strategy, customer, current operational mode - all the way to changes that you are introducing. From the session you will get example tools for measuring: Change in business environment, Customer understanding, Process cycle efficiency, Change implementation progress, Continuous improvement and learning. One key thing is also to keep the metrics lean. So sweep away the massive Excel sheets and bring in simple indicators that everyone can understand, from developers to decision-makers."
     slides: 
     video: 
     name: "Karoliina Luoto"
@@ -48,11 +48,11 @@
     order: 4
     time: 
     title: "SCRUM Pitfalls"
-    about: "Have you wondered why so many try SCRUM and do not succeed? Wonder no more! Over the years I have gained a lot of experience on how not to do SCRUM and I hope that I can share this with you too so you do not step over same pitfalls I did. See you soon!"
+    about: "Have you wondered why so many try SCRUM and do not succeed? Wonder no more! Over the years I have gained a lot of experience on how not to do SCRUM and I hope that I can share this with you too, so you do not step over same pitfalls I did. See you soon!"
     slides: 
     video: 
     name: "Jānis Lāma"
-    bio: "Jānis Lāma is a proud agile practitioner currently working in industry leading Evolutiongaming company as a chief scrum master. Has strong background as Agile practitioner and is 100% Latvia grown product. He is also teaching Agile in BDA: PMI - Agile Certified Practitioner (PMI-ACP), InAPM - Introduction to Agile project Management and Scrum fundamentals by BDA, SMC - Scrum Master Certified by Scrumstudy.com. First in this area in Latvia."
+    bio: "Jānis Lāma is a proud agile practitioner currently working in industry leading Evolution Gaming company as a chief Scrum Master. Has strong background as Agile practitioner and is 100% Latvia grown product. He is also teaching Agile in BDA: PMI - Agile Certified Practitioner (PMI-ACP), InAPM - Introduction to Agile project Management and Scrum fundamentals by BDA, SMC - Scrum Master Certified by Scrumstudy.com. The first one in this area in Latvia."
     photo: "/img/speakers/janis-lama.png"
     blog: 
     facebook: 
@@ -63,7 +63,7 @@
     order: 5
     time: 
     title: "Enterprise Agile Pasta"
-    about: "Join Enterprise Agile Pasta game! Feel the challenges of Agile teams in the Enterprise environment - scaling agile, distributed teams, communication issues, different cultures and leadership styles etc. During the 3 phases of the game we will be debriefing and discussing learnings, so you could walk-away with useful insights. Last bJoin the  Enterprise Agile Pasta game! Feel the challenges of Agile teams in the Enterprise environment - scaling agile, distributed teams, communication issues, different cultures and leadership styles etc. During the 3 phases of the game we will be debriefing and discussing lessons learnt, so you could walk-away with useful insights, understanding of agile scaling issues and practical advise. Last, but not least, it is a fun activity and opportunity to make friends with a like-minded people. The game has been created by agiletransformer.com experts and will be led by Vladimirs Ivanovs, Optimus Prime and agile project management enthusiast."
+    about: "Join Enterprise Agile Pasta game! Feel the challenges of Agile teams in the Enterprise environment - scaling agile, distributed teams, communication issues, different cultures and leadership styles etc. During the 3 phases of the game we will be debriefing and discussing learnings, so you could walk-away with useful insights and understanding of Agile scaling issues and practical advise. Last, but not least, it is a fun activity and opportunity to make friends with a like-minded people. The game has been created by agiletransformer.com experts and will be led by Vladimirs Ivanovs, Optimus Prime and Agile project management enthusiast."
     slides: 
     video: 
     name: "Vladimir Ivanov"
@@ -71,6 +71,28 @@
     photo: "/img/speakers/vladimir-ivanov.png"
     blog: 
     facebook: 
-    twitter: 
+    twitter: "https://twitter.com/vivanovs"
     linkedin: "https://www.linkedin.com/in/vivanov/en"
+    google-plus: "https://plus.google.com/111063784323765456395"
+  session06:
+    order: 6
+    time: 
+    title: "Scrum Master's Personal Development Techniques"
+    about: "It is not easy to do a Scrum Master job. There's only a two days training 
+and then - you're on your own. Where to go next, how to structure your work, what 
+to do when you're joining an existing team or starting to change development 
+processes in your organization? I'm going to share some useful techniques, which can be transformed into set of individual choices aimed to help our fellow Scrum Master to manage the chaos of a software development world world. The ideas of those techniques are coming  from a many sources, from many areas of human knowledge: drawing, fencing, physical  exercises, philosophy. So, I'm going to wrap it up and share it with you. It helped me a lot, it will help you too."
+    slides: 
+    video: 
+    name: "Dmitry Lebedev"
+    bio: "Dmitry started his job as a software engineer 20 years ago, has delivered 
+many software projects, failed a few, learned a lot of things from other people 
+and now he is willing to share his stories of success and failures with broader 
+audience. The ultimate goal of his activities is that software could be developed 
+pragmatically, based on an engineering approach and mutual respect between all involved parts."
+    photo: "/img/speakers/dmitry-lebedev.png"
+    blog: 
+    facebook: 
+    twitter: "https://twitter.com/mservices_stuff"
+    linkedin: "https://lv.linkedin.com/in/dmitrylebedev"
     google-plus:
