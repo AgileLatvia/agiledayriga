@@ -2,7 +2,7 @@
     <div class="inner-page">
       <h2 class="page-headline">Our gratitude to</h2>
     </div>
-
+    <!-- platinums -->
     {% for platinums in site.data.sponsors[page.year].platinum %}
     <div class="inner-page row">
       <div class="col-md-4">
@@ -14,27 +14,48 @@
       </div>    
     </div>
     {% endfor %}
+    <!-- golds -->
     <div class="inner-page row">
-      <div class="col-md-1"></div>
+      {% assign golds_counter = 0 %}
       {% for golds in site.data.sponsors[page.year].gold %}
+      {% assign golds_counter = golds_counter | plus: 1 %}
+      {% if golds_counter > 3 %}
+    </div>
+    <div class="inner-page row">
+      {% assign golds_counter = 0 %}
+      {% endif%}
       <div class="col-md-3">
         <a href="{{ golds[1].url }}" title="{{ golds[1].title }}" target="_blank"><img class="lazy" src="{{ golds[1].image }}" alt="{{ golds[1].title }}"></a>
       </div>
       <div class="col-md-1"></div>
       {% endfor %}
     </div>
+    <!-- silvers -->
     <div class="inner-page row">
-      <div class="col-md-1"></div>
+      {% assign silvers_counter = 0 %}
       {% for silvers in site.data.sponsors[page.year].silver %}
+      {% assign silvers_counter = silvers_counter | plus: 1 %}
+      {% if silvers_counter > 3 %}
+    </div>
+    <div class="inner-page row">
+      {% assign silvers_counter = 0 %}
+      {% endif%}
       <div class="col-md-3">
         <a href="{{ silvers[1].url }}" title="{{ silvers[1].title }}" target="_blank"><img class="lazy" src="{{ silvers[1].image }}" alt="{{ silvers[1].title }}"></a>
       </div>
       <div class="col-md-1"></div>
       {% endfor %}
-    </div> 
+    </div>
+    <!-- infos -->
     <div class="inner-page row">
-      <div class="col-md-1"></div>
+      {% assign infos_counter = 0 %}
       {% for infos in site.data.sponsors[page.year].info %}
+      {% assign infos_counter = infos_counter | plus: 1 %}
+      {% if infos_counter > 4 %}
+    </div>
+    <div class="inner-page row">
+      {% assign silvers_counter = 0 %}
+      {% endif%}
       <div class="col-md-2">
         <a href="{{ infos[1].url }}" title="{{ infos[1].title }}" target="_blank"><img class="lazy" src="{{ infos[1].image }}" alt="{{ infos[1].title }}"></a>
       </div>
