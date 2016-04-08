@@ -41,7 +41,7 @@
     photo: "/img/speakers/karoliina-luoto.png"
     blog: 
     facebook: 
-    twitter: 
+    twitter: "https://twitter.com/totoroki"
     linkedin: "https://fi.linkedin.com/in/karoliinaluoto"
     google-plus:
   session04:
@@ -96,3 +96,18 @@ pragmatically, based on an engineering approach and mutual respect between all i
     twitter: "https://twitter.com/mservices_stuff"
     linkedin: "https://lv.linkedin.com/in/dmitrylebedev"
     google-plus:
+  session07:
+    order: 7
+    time: 
+    title: "The Great Intersection of Psychology and Agile"
+    about: "Coming from a strong psychological background, I was immersed into the world of software development. With no technical background nor prior experience, I was slowly discovering that those two worlds, that seemed to be so far from each other, are after all very connected. I would like to guide you through my journey and put on psychologist’s glasses for a while. Together we’ll look into Agile world from a different perspective."
+    slides: 
+    video: 
+    name: "Kasia Ryniak"
+    bio: "I combine psychological education with working as a Scrum Master in a technology consulting company called u2i. I am a constant learner and discoverer, fascinated in people and relations behind the creation of products."
+    photo: "/img/speakers/kasia-ryniak.png"
+    blog: 
+    facebook: 
+    twitter: "https://twitter.com/katiryniak"
+    linkedin: "https://pl.linkedin.com/in/kasiaryniak"
+    google-plus: 
