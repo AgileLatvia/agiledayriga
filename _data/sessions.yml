@@ -2,17 +2,18 @@
   session01:
     order: 1
     time: 
-    title: "Keynote"
-    about: "Coming soon…"
+    title: "Beyond Budgeting – an Agile Management Model for New Business and People Realities
+– the Statoil Implementation Journey"
+    about: "The problems with traditional management, including budgeting. The Beyond Budgeting principles and companies on the journey. Statoil's 'Ambition to Action' model: redefining performance, dynamic and relative targets and a holistic performance evaluation, dynamic forecasting and resource allocation and no traditional budgets, from calendar-driven to event-driven; a more self-regulating management model. Implementation experiences and advice."
     slides: 
     video: 
-    name: "Henrik Kniberg"
-    bio: "Henrik Kniberg is a coach and consultant at Crisp. Henrik's background is a mix of development and management, and his passion is applying Lean and Agile principles to help debug, optimize, and refactor companies. Henrik is the author of 'Scrum and XP from the Trenches' and 'Kanban & Scrum', making the most of both and a popular keynote speaker at conferences worldwide. Henrik lives in Stockholm with his wife and four kids, and in his 'spare time' plays bass and keyboard with two local bands."
-    photo: "/img/speakers/henrik-kniberg.png"
+    name: "Bjarte Bogsnes"
+    bio: "Bjarte Bogsnes has a long international career, both in Finance and HR. He is currently heading up the implementation of Beyond Budgeting at Statoil, Scandinavia’s largest company. Bjarte is Chairman of Beyond Budgeting Round Table (BBRT).  He is a popular international business speaker and is the winner of a Harvard Business Review/McKinsey Management Innovation award. Bjarte is the author of 'Implementing Beyond Budgeting - Unlocking the Performance Potential', where he writes about his implementation experiences. Statoil has recently opened up for Bjarte to undertake select external consulting work."
+    photo: "/img/speakers/bjarte-bogsnes.jpg"
     blog: 
     facebook: 
-    twitter: "https://twitter.com/henrikkniberg"
-    linkedin: "https://lv.linkedin.com/in/hkniberg"
+    twitter: "https://twitter.com/bbogsnes"
+    linkedin: "https://no.linkedin.com/in/bjarte-bogsnes-41557910"
     google-plus: 
   session02:
     order: 2
@@ -114,16 +115,15 @@ pragmatically, based on an engineering approach and mutual respect between all i
   session08:
     order: 8
     time: 
-    title: "Beyond Budgeting – an Agile Management Model for New Business and People Realities
-– the Statoil Implementation Journey"
-    about: "The problems with traditional management, including budgeting. The Beyond Budgeting principles and companies on the journey. Statoil's 'Ambition to Action' model: redefining performance, dynamic and relative targets and a holistic performance evaluation, dynamic forecasting and resource allocation and no traditional budgets, from calendar-driven to event-driven; a more self-regulating management model. Implementation experiences and advice."
+    title: "Closing Keynote"
+    about: "To be announced..."
     slides: 
     video: 
-    name: "Bjarte Bogsnes"
-    bio: "Bjarte Bogsnes has a long international career, both in Finance and HR. He is currently heading up the implementation of Beyond Budgeting at Statoil, Scandinavia’s largest company. Bjarte is Chairman of Beyond Budgeting Round Table (BBRT).  He is a popular international business speaker and is the winner of a Harvard Business Review/McKinsey Management Innovation award. Bjarte is the author of 'Implementing Beyond Budgeting - Unlocking the Performance Potential', where he writes about his implementation experiences. Statoil has recently opened up for Bjarte to undertake select external consulting work."
-    photo: "/img/speakers/bjarte-bogsnes.jpg"
+    name: "Dave Snowden"
+    bio: "David John Snowden is a Welsh academic, consultant and researcher in the field of knowledge management. He is the founder and chief scientific officer of Cognitive Edge, a consulting company and research network focusing on complexity theory in sensemaking. Snowden is an Honorary Professor in the School of Psychology at Bangor University and holds an MBA from Middlesex University, and a BA in Philosophy from Lancaster University. He started his working career with Data Sciences Ltd (formerly Thorn EMI software), acquired by IBM in 1996. He was the Director of IBM`s Institute for Knowledge Management, and the founder of the Cynefin Center for Organizational Complexity. Snowden developed the Cynefin framework, a practical application of complexity theory to management science."
+    photo: "/img/speakers/dave-snowden.jpg"
     blog: 
     facebook: 
-    twitter: "https://twitter.com/bbogsnes"
-    linkedin: "https://no.linkedin.com/in/bjarte-bogsnes-41557910"
+    twitter: "https://twitter.com/snowded"
+    linkedin: "https://uk.linkedin.com/in/dave-snowden-2a93b"
     google-plus: 
