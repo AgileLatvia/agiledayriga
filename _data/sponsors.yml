@@ -7,14 +7,18 @@
       promo: "Our mission is to make operators successful and provide an excellent user experience for their end-users by offering a flawless and localised Live Casino into regulated markets, on all digital platforms for online and land-based operators and their customers. Our vision is to maintain and strengthen our position as the world’s number one Live Casino provider as gaming markets continue to evolve globally."
   gold:
     sponsor01:
-      title: "Tele2"
-      image: "/img/sponsors/tele2.png"
-      url: "http://www.tele2.com/ssc"
-  silver:
-    sponsor01:
       title: 
       image:
       url: 
+  silver:
+    sponsor01:
+      title: "Eptron"
+      image: "/img/sponsors/eptron.png"
+      url: "http://www.eptron.eu/"
+    sponsor02:
+      title: "BDA"
+      image: "/img/sponsors/bda.png"
+      url: "http://www.bda.lv/"
   info:
     sponsor01:
       title:
