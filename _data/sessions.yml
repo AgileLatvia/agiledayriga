@@ -1,7 +1,7 @@
 2016:
   session01:
     order: 1
-    time: 
+    time: "10:00 - 11:00"
     title: "Beyond Budgeting – an Agile Management Model for New Business and People Realities
 – the Statoil Implementation Journey"
     about: "The problems with traditional management, including budgeting. The Beyond Budgeting principles and companies on the journey. Statoil's 'Ambition to Action' model: redefining performance, dynamic and relative targets and a holistic performance evaluation, dynamic forecasting and resource allocation and no traditional budgets, from calendar-driven to event-driven; a more self-regulating management model. Implementation experiences and advice."
@@ -17,22 +17,7 @@
     google-plus: 
   session02:
     order: 2
-    time: 
-    title: "Is It Time to Renew Agile?"
-    about: "In 2001 the Agile Manifesto was made. Today, 15 years later Agile seems to become a commodity. Everyone wants to do Agile, transformation coaches are in a booming business, the books, blogs and papers on the subject are countless, ... But is the Agile Manifesto still up to date? Do we have to renew Agile? Let's explore this subject."
-    slides: 
-    video: 
-    name: "Inge Gorgon"
-    bio: "I am a passionate agile coach with over 10 years of experience in agile analysis, testing and as a Scrum Master. I have experience as a speaker on conferences such as the Agile Business Conference in London, the ALE conferences in Bucharest and Sofia and for the Agile Consortium Belgium."
-    photo: "/img/speakers/inge-gorgon.png"
-    blog: 
-    facebook: 
-    twitter: 
-    linkedin: "https://be.linkedin.com/in/inge-gorgon-9189658"
-    google-plus: 
-  session03:
-    order: 3
-    time: 
+    time: "11:15 - 12:00"
     title: "Lean Metrics - Measuring and Driving Change"
     about: "In order to do successful development, you want metrics to tell you whether you are heading to the right direction. In this talk you will get an example of measurement stack aligned through strategy, customer, current operational mode - all the way to changes that you are introducing. From the session you will get example tools for measuring: Change in business environment, Customer understanding, Process cycle efficiency, Change implementation progress, Continuous improvement and learning. One key thing is also to keep the metrics lean. So sweep away the massive Excel sheets and bring in simple indicators that everyone can understand, from developers to decision-makers."
     slides: 
@@ -45,39 +30,39 @@
     twitter: "https://twitter.com/totoroki"
     linkedin: "https://fi.linkedin.com/in/karoliinaluoto"
     google-plus:
-  session04:
-    order: 4
-    time: 
-    title: "SCRUM Pitfalls"
-    about: "Have you wondered why so many try SCRUM and do not succeed? Wonder no more! Over the years I have gained a lot of experience on how not to do SCRUM and I hope that I can share this with you too, so you do not step over same pitfalls I did. See you soon!"
+  session03:
+    order: 3
+    time: "13:00 - 13:45, Room A"
+    title: "The Great Intersection of Psychology and Agile"
+    about: "Coming from a strong psychological background, I was immersed into the world of software development. With no technical background nor prior experience, I was slowly discovering that those two worlds, that seemed to be so far from each other, are after all very connected. I would like to guide you through my journey and put on psychologist’s glasses for a while. Together we’ll look into Agile world from a different perspective."
     slides: 
     video: 
-    name: "Jānis Lāma"
-    bio: "Jānis Lāma is a proud agile practitioner currently working in industry leading Evolution Gaming company as a chief Scrum Master. Has strong background as Agile practitioner and is 100% Latvia grown product. He is also teaching Agile in BDA: PMI - Agile Certified Practitioner (PMI-ACP), InAPM - Introduction to Agile project Management and Scrum fundamentals by BDA, SMC - Scrum Master Certified by Scrumstudy.com. The first one in this area in Latvia."
-    photo: "/img/speakers/janis-lama.png"
+    name: "Kasia Ryniak"
+    bio: "I combine psychological education with working as a Scrum Master in a technology consulting company called u2i. I am a constant learner and discoverer, fascinated in people and relations behind the creation of products."
+    photo: "/img/speakers/kasia-ryniak.png"
+    blog: 
+    facebook: 
+    twitter: "https://twitter.com/katiryniak"
+    linkedin: "https://pl.linkedin.com/in/kasiaryniak"
+    google-plus: 
+  session04:
+    order: 4
+    time: "13:00 - 13:45, Room B"
+    title: "Is It Time to Renew Agile?"
+    about: "In 2001 the Agile Manifesto was made. Today, 15 years later Agile seems to become a commodity. Everyone wants to do Agile, transformation coaches are in a booming business, the books, blogs and papers on the subject are countless, ... But is the Agile Manifesto still up to date? Do we have to renew Agile? Let's explore this subject."
+    slides: 
+    video: 
+    name: "Inge Gorgon"
+    bio: "I am a passionate agile coach with over 10 years of experience in agile analysis, testing and as a Scrum Master. I have experience as a speaker on conferences such as the Agile Business Conference in London, the ALE conferences in Bucharest and Sofia and for the Agile Consortium Belgium."
+    photo: "/img/speakers/inge-gorgon.png"
     blog: 
     facebook: 
     twitter: 
-    linkedin: "https://lv.linkedin.com/in/janislama"
-    google-plus:
+    linkedin: "https://be.linkedin.com/in/inge-gorgon-9189658"
+    google-plus: 
   session05:
     order: 5
-    time: 
-    title: "Enterprise Agile Pasta"
-    about: "Join Enterprise Agile Pasta game! Feel the challenges of Agile teams in the Enterprise environment - scaling agile, distributed teams, communication issues, different cultures and leadership styles etc. During the 3 phases of the game we will be debriefing and discussing learnings, so you could walk-away with useful insights and understanding of Agile scaling issues and practical advise. Last, but not least, it is a fun activity and opportunity to make friends with a like-minded people. The game has been created by agiletransformer.com experts and will be led by Vladimirs Ivanovs, Optimus Prime and Agile project management enthusiast."
-    slides: 
-    video: 
-    name: "Vladimir Ivanov"
-    bio: "I am Optimus Prime of the agiletransformer.com team of Agile coaches/experts. My focus in the team is mixing experience and knowledge from the past (traditional IT Management, ITIL, Project Management) with contemporary approaches such as Agile, Scrum, Lean, Kanban."
-    photo: "/img/speakers/vladimir-ivanov.png"
-    blog: 
-    facebook: 
-    twitter: "https://twitter.com/vivanovs"
-    linkedin: "https://www.linkedin.com/in/vivanov/en"
-    google-plus: "https://plus.google.com/111063784323765456395"
-  session06:
-    order: 6
-    time: 
+    time: "14:00 - 14:45, Room A"
     title: "Scrum Master's Personal Development Techniques"
     about: "It is not easy to do a Scrum Master job. There's only a two days training 
 and then - you're on your own. Where to go next, how to structure your work, what 
@@ -97,30 +82,53 @@ pragmatically, based on an engineering approach and mutual respect between all i
     twitter: "https://twitter.com/mservices_stuff"
     linkedin: "https://lv.linkedin.com/in/dmitrylebedev"
     google-plus:
-  session07:
-    order: 7
-    time: 
-    title: "The Great Intersection of Psychology and Agile"
-    about: "Coming from a strong psychological background, I was immersed into the world of software development. With no technical background nor prior experience, I was slowly discovering that those two worlds, that seemed to be so far from each other, are after all very connected. I would like to guide you through my journey and put on psychologist’s glasses for a while. Together we’ll look into Agile world from a different perspective."
+  session06:
+    order: 6
+    time: "14:00 - 15:45, Room B"
+    title: "Enterprise Agile Pasta"
+    about: "Join Enterprise Agile Pasta game! Feel the challenges of Agile teams in the Enterprise environment - scaling agile, distributed teams, communication issues, different cultures and leadership styles etc. During the 3 phases of the game we will be debriefing and discussing learnings, so you could walk-away with useful insights and understanding of Agile scaling issues and practical advise. Last, but not least, it is a fun activity and opportunity to make friends with a like-minded people. The game has been created by agiletransformer.com experts and will be led by Vladimirs Ivanovs, Optimus Prime and Agile project management enthusiast."
     slides: 
     video: 
-    name: "Kasia Ryniak"
-    bio: "I combine psychological education with working as a Scrum Master in a technology consulting company called u2i. I am a constant learner and discoverer, fascinated in people and relations behind the creation of products."
-    photo: "/img/speakers/kasia-ryniak.png"
+    name: "Vladimir Ivanov"
+    bio: "I am Optimus Prime of the agiletransformer.com team of Agile coaches/experts. My focus in the team is mixing experience and knowledge from the past (traditional IT Management, ITIL, Project Management) with contemporary approaches such as Agile, Scrum, Lean, Kanban."
+    photo: "/img/speakers/vladimir-ivanov.png"
     blog: 
     facebook: 
-    twitter: "https://twitter.com/katiryniak"
-    linkedin: "https://pl.linkedin.com/in/kasiaryniak"
-    google-plus: 
+    twitter: "https://twitter.com/vivanovs"
+    linkedin: "https://www.linkedin.com/in/vivanov/en"
+    google-plus: "https://plus.google.com/111063784323765456395"
+  session07:
+    order: 7
+    time: "15:00 - 15:45, Room A"
+    title: "SCRUM Pitfalls"
+    about: "Have you wondered why so many try SCRUM and do not succeed? Wonder no more! Over the years I have gained a lot of experience on how not to do SCRUM and I hope that I can share this with you too, so you do not step over same pitfalls I did. See you soon!"
+    slides: 
+    video: 
+    name: "Jānis Lāma"
+    bio: "Jānis Lāma is a proud agile practitioner currently working in industry leading Evolution Gaming company as a chief Scrum Master. Has strong background as Agile practitioner and is 100% Latvia grown product. He is also teaching Agile in BDA: PMI - Agile Certified Practitioner (PMI-ACP), InAPM - Introduction to Agile project Management and Scrum fundamentals by BDA, SMC - Scrum Master Certified by Scrumstudy.com. The first one in this area in Latvia."
+    photo: "/img/speakers/janis-lama.png"
+    blog: 
+    facebook: 
+    twitter: 
+    linkedin: "https://lv.linkedin.com/in/janislama"
+    google-plus:
   session08:
     order: 8
-    time: 
+    time: "16:15 - 17:30"
     title: "Closing Keynote"
     about: "To be announced..."
     slides: 
     video: 
     name: "Dave Snowden"
-    bio: "David John Snowden is a Welsh academic, consultant and researcher in the field of knowledge management. He is the founder and chief scientific officer of Cognitive Edge, a consulting company and research network focusing on complexity theory in sensemaking. Snowden is an Honorary Professor in the School of Psychology at Bangor University and holds an MBA from Middlesex University, and a BA in Philosophy from Lancaster University. He started his working career with Data Sciences Ltd (formerly Thorn EMI software), acquired by IBM in 1996. He was the Director of IBM`s Institute for Knowledge Management, and the founder of the Cynefin Center for Organizational Complexity. Snowden developed the Cynefin framework, a practical application of complexity theory to management science."
+    bio: "Dave Snowden is the founder and chief scientific officer of Cognitive Edge. His work is international in nature and covers government and industry looking at complex issues relating to strategy, organisational decision making and decision making. He has pioneered a science based approach to organisations drawing on anthropology, neuroscience and complex adaptive systems theory. He is a popular and passionate keynote speaker on a range of subjects, and is well known for his pragmatic cynicism and iconoclastic style.
+    
+    He currently holds positions as extra-ordinary Professor at the Universities of Pretoria and Stellenbosch and has held similar positions at Hong Kong Polytechnic University, Canberra Univerity, the University of Warwick and The University of Surrey. He held the position of senior fellow at the Institute of Defence and Strategic Studies at Nanyang University and the Civil Service College in Singapore during a sabbatical period in Nanyang.
+    
+    His paper with Boone on Leadership was the cover article for the Harvard Business Review in November 2007 and also won the Academy of Management aware for the best practitioner paper in the same year. He has previously won a special award from the Academy for originality in his work on knowledge management. He is a editorial board member of several academic and practitioner journals in the field of knowledge management and is an Editor in Chief of E:CO. In 2006 he was Director of the EPSRC (UK) research programme on emergence and in 2007 was appointed toan NSF (US) review panel on complexity science research.
+    
+    He previously worked for IBM where he was a Director of the Institution for Knowledge Management and founded the Cynefin Centre for Organisational Complexity; during that period he was selected by IBM as one of six on-demand thinkers for a world wide advertising campaign. Prior to that he worked in a range of strategic and management roles in the service sector.
+    
+    His company Cognitive Edge exists to integrate academic thinking with practice in organisations throughout the world and operates on a network model working with Academics, Government, Commercial Organisations, NGOs and Independent Consultants. He is also the main designer of the SenseMaker® software suite, originally developed in the field of counter terrorism and now being actively deployed in both Government and Industry to handle issues of impact measurement, customer/employee insight, narrative based knowledge management, strategic foresight and risk management."
     photo: "/img/speakers/dave-snowden.jpg"
     blog: 
     facebook: 
