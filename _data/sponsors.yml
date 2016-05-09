@@ -19,6 +19,10 @@
       title: "BDA"
       image: "/img/sponsors/bda.png"
       url: "http://www.bda.lv/"
+    sponsor03:
+      title: "LikeIT"
+      image: "/img/sponsors/likeit.png"
+      url: "http://www.likeit.lv/"
   info:
     sponsor01:
       title:
