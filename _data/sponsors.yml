@@ -23,6 +23,10 @@
       title: "LikeIT"
       image: "/img/sponsors/likeit.png"
       url: "http://www.likeit.lv/"
+    sponsor04:
+      title: "4finance"
+      image: "/img/sponsors/4finance.png"
+      url: "http://www.4finance.com/"
   info:
     sponsor01:
       title: "Kursors.lv"
