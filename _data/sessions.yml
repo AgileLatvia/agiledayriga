@@ -100,17 +100,17 @@ pragmatically, based on an engineering approach and mutual respect between all i
   session07:
     order: 7
     time: "15:00 - 15:45, Room A"
-    title: "SCRUM Pitfalls"
-    about: "Have you wondered why so many try SCRUM and do not succeed? Wonder no more! Over the years I have gained a lot of experience on how not to do SCRUM and I hope that I can share this with you too, so you do not step over same pitfalls I did. See you soon!"
+    title: "Scrumming the Evil out of a Bank"
+    about: "Agile Practitioner at Bigbank"
     slides: 
     video: 
-    name: "Jānis Lāma"
+    name: "Heldin Rikk"
     bio: "Jānis Lāma is a proud agile practitioner currently working in industry leading Evolution Gaming company as a chief Scrum Master. Has strong background as Agile practitioner and is 100% Latvia grown product. He is also teaching Agile in BDA: PMI - Agile Certified Practitioner (PMI-ACP), InAPM - Introduction to Agile project Management and Scrum fundamentals by BDA, SMC - Scrum Master Certified by Scrumstudy.com. The first one in this area in Latvia."
-    photo: "/img/speakers/janis-lama.png"
+    photo: "/img/speakers/heldin-rikk.jpg"
     blog: 
     facebook: 
     twitter: 
-    linkedin: "https://lv.linkedin.com/in/janislama"
+    linkedin: "https://ee.linkedin.com/in/heldinrikk"
     google-plus:
   session08:
     order: 8
