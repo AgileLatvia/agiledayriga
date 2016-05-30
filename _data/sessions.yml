@@ -5,7 +5,7 @@
     title: "Beyond Budgeting – an Agile Management Model for New Business and People Realities
 – the Statoil Implementation Journey"
     about: "The problems with traditional management, including budgeting. The Beyond Budgeting principles and companies on the journey. Statoil's 'Ambition to Action' model: redefining performance, dynamic and relative targets and a holistic performance evaluation, dynamic forecasting and resource allocation and no traditional budgets, from calendar-driven to event-driven; a more self-regulating management model. Implementation experiences and advice."
-    slides: 
+    slides: "https://speakerdeck.com/agilelatvia/beyond-budgeting-an-agile-management-model-for-new-business-and-people-realities-the-statoil-implementation-journey-by-bjarte-bogsnes"
     video: 
     name: "Bjarte Bogsnes"
     bio: "Bjarte Bogsnes has a long international career, both in Finance and HR. He is currently heading up the implementation of Beyond Budgeting at Statoil, Scandinavia’s largest company. Bjarte is Chairman of Beyond Budgeting Round Table (BBRT).  He is a popular international business speaker and is the winner of a Harvard Business Review/McKinsey Management Innovation award. Bjarte is the author of 'Implementing Beyond Budgeting - Unlocking the Performance Potential', where he writes about his implementation experiences. Statoil has recently opened up for Bjarte to undertake select external consulting work."
@@ -20,7 +20,7 @@
     time: "11:15 - 12:00"
     title: "Lean Metrics - Measuring and Driving Change"
     about: "In order to do successful development, you want metrics to tell you whether you are heading to the right direction. In this talk you will get an example of measurement stack aligned through strategy, customer, current operational mode - all the way to changes that you are introducing. From the session you will get example tools for measuring: Change in business environment, Customer understanding, Process cycle efficiency, Change implementation progress, Continuous improvement and learning. One key thing is also to keep the metrics lean. So sweep away the massive Excel sheets and bring in simple indicators that everyone can understand, from developers to decision-makers."
-    slides: 
+    slides: "http://www.slideshare.net/totoroki/lean-metrics-riga"
     video: 
     name: "Karoliina Luoto"
     bio: "Agile Coach and Consultant aiming for business-valuable, user-oriented digital services and happy people behind them."
@@ -35,7 +35,7 @@
     time: "13:00 - 13:45, Room A"
     title: "The Great Intersection of Psychology and Agile"
     about: "Coming from a strong psychological background, I was immersed into the world of software development. With no technical background nor prior experience, I was slowly discovering that those two worlds, that seemed to be so far from each other, are after all very connected. I would like to guide you through my journey and put on psychologist’s glasses for a while. Together we’ll look into Agile world from a different perspective."
-    slides: 
+    slides: "https://speakerdeck.com/agilelatvia/the-great-intersection-of-psychology-and-agile-by-kasia-ryniak"
     video: 
     name: "Kasia Ryniak"
     bio: "I combine psychological education with working as a Scrum Master in a technology consulting company called u2i. I am a constant learner and discoverer, fascinated in people and relations behind the creation of products."
@@ -68,7 +68,7 @@
 and then - you're on your own. Where to go next, how to structure your work, what 
 to do when you're joining an existing team or starting to change development 
 processes in your organization? I'm going to share some useful techniques, which can be transformed into set of individual choices aimed to help our fellow Scrum Master to manage the chaos of a software development world. The ideas of those techniques are coming  from a many sources, from many areas of human knowledge: drawing, fencing, physical  exercises, philosophy. So, I'm going to wrap it up and share it with you. It helped me a lot, it will help you too."
-    slides: 
+    slides: "http://www.slideshare.net/lebedevdmitry/scrum-master-personal-development-practices"
     video: 
     name: "Dmitry Lebedev"
     bio: "Dmitry started his job as a software engineer 20 years ago, has delivered 
