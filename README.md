@@ -60,6 +60,7 @@ By setting variables 'on' or 'off' you will make them and menu item related to t
 
 ## Step 2
 Let's start with 'About' block:
+
 1. Copy one of the existing 'About' snippets to the new one which will be used this year:
 ```
 cp _includes/2016-about.html _includes/2017-about.html
@@ -71,10 +72,11 @@ You should see the block on the page and the new menu item.
 
 ## Step 3
 Then we should add and enable 'Social' snippet. It contains two Twitter streams one filtered by our community account and another by the conference hashtag. You should go to Twitter and create a widget there first.
+
 1. Copy one of the existing 'Social' snippets to the new one which will be used this year:
-```
-cp _includes/2016-social.html _includes/2017-social.html
-```
+ ```
+ cp _includes/2016-social.html _includes/2017-social.html
+ ```
 2. Edit `_includes/2017-social.html` the way you need.
 3. Edit `_includes/all-social.html` and add the reference to the new snippet there.
 4. Enable new block.
@@ -86,7 +88,7 @@ Now it's time to add CFP snippet...
 If we know the venue then...
 
 
-
+-----
 
 ### To Be Developed
 1. Add HTML minification.
