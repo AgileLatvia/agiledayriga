@@ -17,7 +17,7 @@
       <div id="{{ session[0] }}" class="col-md-12">
       	<h3>{% if session[1].title %}{{ session[1].title | strip_html }}{% endif %}{% if session[1].time %} ({{ session[1].time | strip_html }}){% endif %}</h3>
       	<p>{% if session[1].about %}{{ session[1].about | strip_html }}{% endif %}</p>
-		<p class="social">
+		<p class="social-darker">
 		  {% if session[1].slides %}<a href="{{ session[1].slides }}" title="Slides"><i class="fa fa-file-text"></i></a>{% endif %}
 		  {% if session[1].video %}<a href="{{ session[1].video }}" title="Video"><i class="fa fa-youtube-square"></i></a>{% endif %}
 		</p>
@@ -28,7 +28,7 @@
       <div class="col-md-10">
       	<h4>{% if session[1].name %}{{ session[1].name | strip_html }}{% endif %}</h4>
       	<p>{% if session[1].bio %}{{ session[1].bio | strip_html }}{% endif %}</p>
-      	<p class="social"	>
+      	<p class="social-darker">
      	  {% if session[1].blog %}<a href="{{ session[1].blog }}" title="Blog"><i class="fa fa-home"></i></a>{% endif %}
 	      {% if session[1].facebook %}<a href="{{ session[1].facebook }}" title="Facebook"><i class="fa fa-facebook-square"></i></a>{% endif %}
 	      {% if session[1].twitter %}<a href="{{ session[1].twitter }}" title="Twitter"><i class="fa fa-twitter"></i></a>{% endif %}

@@ -31,25 +31,24 @@
           <span class="sr-only">Toggle navigation</span>
           <i class="fa fa-bars"></i>
         </button>
-        <a class="navbar-brand" href="/">Agile Day Riga</a> 
+        <a class="navbar-brand" href="#">Agile Day Riga</a> 
       </div>
       <div id="nav-collapse" class="collapse navbar-collapse navbar-ex1-collapse">
         <ul class="nav navbar-nav navbar-right">
           <li class="active"><a title="Home page" class="scroll brand-1" href="#home">Home</a></li>
-          {% if page.about-block == "on" %}<li><a title="About Agile Day Riga" href="#about" class="scroll fadeto brand-4">About</a></li>{% endif %} 
-          {% if page.cfp-block == "on" %}<li><a title="Call for Papers" href="#cfp" class="scroll fadeto brand-3">Call for Papers</a></li>{% endif %}
-          {% if page.sessions-block == "on" %}<li><a title="Sessions" href="#sessions" class="scroll fadeto brand-3">Schedule</a></li>{% endif %}
-          {% if page.tickets-block == "on" %}<li><a title="Tickets" href="#tickets" class="scroll fadeto brand-1">Tickets</a></li>{% endif %}
-          {% if page.feedback-block == "on" %}<li><a title="Feedback" href="#feedback" class="scroll fadeto brand-1">Fast Feedback</a></li>{% endif %}
-          {% if page.venue-block == "on" %}<li><a title="Venue" href="#venue" class=" scroll brand-2">Venue</a></li>{% endif %}
-          {% if page.social-block == "on" %}{% endif %}
-          
+          <li><a title="About Agile Day Riga" href="#about" class="scroll fadeto brand-4">About</a></li>
+          <li><a title="Schedule" href="#schedule" class="scroll fadeto brand-3">Schedule</a></li>
+          <!-- <li><a title="Call for Papers" href="#cfp" class="scroll fadeto brand-3">Call for Papers</a></li> -->
+          <!-- <li><a title="Tickets" href="#tickets" class="scroll fadeto brand-1">Tickets</a></li> -->
+          <!-- <li><a title="Feedback" href="#feedback" class="scroll fadeto brand-1">Fast Feedback</a></li> -->
+          <!-- <li><a title="Slides and Videos" href="#coverage" class="scroll fadeto brand-4">Slides and Videos</a></li> -->
+          <li><a title="Venue" href="#venue" class=" scroll brand-2">Venue</a></li>
           <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Past Events&nbsp;<span class="caret"></span></a>
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Past events&nbsp;<span class="caret"></span></a>
             <ul class="dropdown-menu" role="menu">
-              {% for menu in site.data.events %}
-              <li><a href="{{ menu[1].url }}">{{ menu[1].title }}</a></li>
-              {% endfor %}
+              <li><a href="/events/2015/index.html">2015</a></li>
+              <li><a href="/events/2014/index.html">2014</a></li>
+              <li><a title="Past events" href="http://sites.google.com/site/agilerigaday/" target="_blank">Older</a></li>
             </ul>
           </li>
           <li><a title="Contact Us" href="mailto:info@agilelatvia.org" class="brand-1">Contact Us</a></li>
@@ -87,7 +86,7 @@
 
   <!-- Minimize in production. -->
 
-  <script src="/js/the-story.min.js"></script>
+  <script src="js/the-story.min.js"></script>
 
   <!-- Add this to the end of body -->
   <script src="http://cdn.lanyrd.net/badges/embed-v1.min.js"></script>

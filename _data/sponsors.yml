@@ -1,4 +1,4 @@
-2016:
+2017:
   platinum:
     sponsor01:
       title: "Evolution Gaming"
@@ -7,9 +7,31 @@
       promo: "Our mission is to make operators successful and provide an excellent user experience for their end-users by offering a flawless and localised Live Casino into regulated markets, on all digital platforms for online and land-based operators and their customers. Our vision is to maintain and strengthen our position as the world’s number one Live Casino provider as gaming markets continue to evolve globally."
   gold:
     sponsor01:
-      title: 
-      image:
-      url: 
+      title: "Twino"
+      image: "/img/sponsors/twino.png"
+      url: "https://join.twino.eu/en/"
+  # silver:
+  #   sponsor01:
+  #     title: "Tieto"
+  #     image: "/img/sponsors/tieto.png"
+  #     url: "http://www.eptron.eu/"
+  info:
+    sponsor01:
+      title: "Scrum Alliance UG"
+      image: "/img/SCR20456_UserGroup_Logo-RGB-107x130.png"
+      url: "https://membership.scrumalliance.org/search/all.asp?bst=agile+latvia&c=32"
+2016:
+  platinum:
+    sponsor01:
+      title: "Evolution Gaming"
+      image: "/img/sponsors/evolution-gaming.png"
+      url: "https://www.evolutiongaming.com/"
+      promo: "Our mission is to make operators successful and provide an excellent user experience for their end-users by offering a flawless and localised Live Casino into regulated markets, on all digital platforms for online and land-based operators and their customers. Our vision is to maintain and strengthen our position as the world’s number one Live Casino provider as gaming markets continue to evolve globally."
+  # gold:
+  #   sponsor01:
+  #     title: 
+  #     image:
+  #     url: 
   silver:
     sponsor01:
       title: "Eptron"

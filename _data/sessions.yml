@@ -1,3 +1,19 @@
+2017:
+  session01:
+    order: 1
+    time: "10:00 - 11:00"
+    title: "Just an Example"
+    about: "The problems with traditional management is traditional management."
+    slides: ""
+    video: ""
+    name: "John Brown"
+    bio: "John Brown has a long international career."
+    photo: "/img/speakers/john-doe.png"
+    blog: 
+    facebook: 
+    twitter: "https://twitter.com/john-doe"
+    linkedin: ""
+    google-plus: 
 2016:
   session01:
     order: 1

@@ -2,6 +2,13 @@
     <div class="inner-page">
       <h2 class="page-headline">Our gratitude to</h2>
     </div>
+    {% if page.call-for-sponsors == "on" %}
+    <div class="inner-page row">
+      <div class="col-md-12">
+        <p class="lead">Check our sponsorship proposal <a href="{{ page.call-for-sponsors-proposal }}" target="_blank">here</a>.</p>
+      </div>
+    </div>
+    {% endif %}
     <!-- platinums -->
     {% for platinums in site.data.sponsors[page.year].platinum %}
     <div class="inner-page row">
@@ -14,52 +21,55 @@
       </div>    
     </div>
     {% endfor %}
+
     <!-- golds -->
-    <div class="inner-page row">
+      {% assign golds_qnt = 0 %}
+      {% for golds in site.data.sponsors[page.year].gold %}{% assign golds_qnt = golds_qnt | plus: 1 %}{% endfor %}
+      {% if golds_qnt > 0 %}<div class="inner-page row">{% endif %}
+
       {% assign golds_counter = 0 %}
       {% for golds in site.data.sponsors[page.year].gold %}
       {% assign golds_counter = golds_counter | plus: 1 %}
-      {% if golds_counter > 3 %}
-    </div>
-    <div class="inner-page row">
-      {% assign golds_counter = 0 %}
-      {% endif%}
+      {% if golds_counter == 4 %}</div><div class="inner-page row">{% endif %}
       <div class="col-md-3">
         <a href="{{ golds[1].url }}" title="{{ golds[1].title }}" target="_blank"><img class="lazy" src="{{ golds[1].image }}" alt="{{ golds[1].title }}"></a>
       </div>
       <div class="col-md-1"></div>
       {% endfor %}
-    </div>
-    <!-- silvers -->
-    <div class="inner-page row">
+
+      {% if golds_qnt > 0 %}</div>{% endif %}
+    <!-- /golds -->
+    <!-- silver -->
+      {% assign silvers_qnt = 0 %}
+      {% for silvers in site.data.sponsors[page.year].silver %}{% assign silvers_qnt = silvers_qnt | plus: 1 %}{% endfor %}
+      {% if silvers_qnt > 0 %}<div class="inner-page row">{% endif %}
+
       {% assign silvers_counter = 0 %}
       {% for silvers in site.data.sponsors[page.year].silver %}
       {% assign silvers_counter = silvers_counter | plus: 1 %}
-      {% if silvers_counter > 3 %}
-    </div>
-    <div class="inner-page row">
-      {% assign silvers_counter = 0 %}
-      {% endif%}
+      {% if silvers_counter == 4 %}</div><div class="inner-page row">{% endif %}
       <div class="col-md-3">
         <a href="{{ silvers[1].url }}" title="{{ silvers[1].title }}" target="_blank"><img class="lazy" src="{{ silvers[1].image }}" alt="{{ silvers[1].title }}"></a>
       </div>
       <div class="col-md-1"></div>
       {% endfor %}
-    </div>
+
+      {% if silvers_qnt > 0 %}</div>{% endif %}
+    <!-- /silver -->
     <!-- infos -->
-    <div class="inner-page row">
+      {% assign infos_qnt = 0 %}
+      {% for infos in site.data.sponsors[page.year].info %}{% assign infos_qnt = infos_qnt | plus: 1 %}{% endfor %}
+      {% if infos_qnt > 0 %}<div class="inner-page row">{% endif %}
+
       {% assign infos_counter = 0 %}
       {% for infos in site.data.sponsors[page.year].info %}
       {% assign infos_counter = infos_counter | plus: 1 %}
-      {% if infos_counter > 4 %}
-    </div>
-    <div class="inner-page row">
-      {% assign silvers_counter = 0 %}
-      {% endif%}
+      {% if infos_counter == 5 %}</div><div class="inner-page row">{% endif %}
       <div class="col-md-2">
         <a href="{{ infos[1].url }}" title="{{ infos[1].title }}" target="_blank"><img class="lazy" src="{{ infos[1].image }}" alt="{{ infos[1].title }}"></a>
       </div>
       <div class="col-md-1"></div>
       {% endfor %}
-    </div> 
-    <!-- /sponsors -->
+
+      {% if infos_qnt > 0 %}</div>{% endif %}
+    <!-- /infos -->
