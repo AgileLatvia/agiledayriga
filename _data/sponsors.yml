@@ -10,6 +10,10 @@
       title: "Twino"
       image: "/img/sponsors/twino.png"
       url: "https://join.twino.eu/en/"
+    sponsor02:
+      title: "4finance"
+      image: "/img/sponsors/4finance.png"
+      url: "http://www.4finance.com/"
   # silver:
   #   sponsor01:
   #     title: "Tieto"

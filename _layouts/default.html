@@ -21,6 +21,8 @@
   <meta http-equiv=X-UA-Compatible content=IE=edge>    
 </head>
 
+{% if page.about-block == "on" %}{% include event-microdata.html %}{% endif %}
+
 <!-- activate scrollspy -->
 
 <body id="top" data-spy="scroll" data-target=".navbar" data-offset="50">
