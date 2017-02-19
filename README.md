@@ -16,8 +16,9 @@ In order to setup the conference site for the new conference we need to move the
 ```
 2016:
   title: "2016"
-  url: "/events/2016/index.html"
+  url: "http://www.agiledayriga.lv/events/2016/index.html"
 ```
+This change will affect both menu and `sitemap.xml`.
 
 - If done right when you browse http://127.0.0.1:4000/events/2016/index.html you should see the copy of recent conference.
 
@@ -88,6 +89,8 @@ If we know the venue then...
 
 ## Step 6
 Time for sponsors...
+
+Adding logos do not forget to make them of equal height and center the logo both vertically and horizontally.
 
 -----
 
