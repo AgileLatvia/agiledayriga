@@ -151,3 +151,124 @@ pragmatically, based on an engineering approach and mutual respect between all i
     twitter: "https://twitter.com/snowded"
     linkedin: "https://uk.linkedin.com/in/dave-snowden-2a93b"
     google-plus: 
+2011:
+  session01:
+    order: 1
+    time: 
+    title: "How to Adopt Agile at Your Organization"
+    about: "Works for Tieto Latvia and promotes new technologies, open source and Agile software development. Previously he has worked a lot with Oracle databases, development tools and applications but in recent years he is passionate Ruby and JavaScript developer and is promoting use of modern web technologies in many enterprises. He is contributing to Ruby on Rails and other open source projects. He uses and promotes to others Test Driven Development which he considers as one of the key Agile technical practices."
+    slides: "https://sites.google.com/site/agilerigaday/past-conferences/2011/programme/presentations"
+    video: 
+    name: "Raimonds Simanovskis"
+    bio: "Works for Tieto Latvia and promotes new technologies, open source and Agile software development. Previously he has worked a lot with Oracle databases, development tools and applications but in recent years he is passionate Ruby and JavaScript developer and is promoting use of modern web technologies in many enterprises. He is contributing to Ruby on Rails and other open source projects. He uses and promotes to others Test Driven Development which he considers as one of the key Agile technical practices."
+    photo: "/img/speakers/raimonds-simanovskis.jpg"
+    blog: "http://blog.rayapps.com/"
+    facebook: 
+    twitter: "https://twitter.com/rsim"
+    linkedin: "https://www.linkedin.com/in/raimondssimanovskis/"
+    google-plus: 
+  session02:
+    order: 2
+    time: 
+    title: "Patterns of Agility, How to Recognize and Agile Project When You See One"
+    about: "Currently an Agile Project Coach at Nokia, Vasco Duarte is an experienced product and project manager, having worked in the software industry since 1997. Vasco has also been an Agile practitioner since 2004, he is one of the leaders and a catalyst in the adoption of Agile methods and an Agile culture at Nokia and previously at F-Secure."
+    slides: "http://www.slideshare.net/duartevasco/patterns-of-agility-how-to-recognize-and-agile-project-when-you-see-one"
+    video: 
+    name: "Vasco Duarte"
+    bio: "I want to transform product development organizations into product business organizations. I do that by focusing the work of the product development teams on the end-to-end life-cycle of their products."
+    photo: "/img/speakers/vasco-duarte.jpg"
+    blog: "http://softwaredevelopmenttoday.blogspot.com/"
+    facebook: 
+    twitter: "https://twitter.com/duarte_vasco"
+    linkedin: "https://www.linkedin.com/in/duartevasco/"
+    google-plus: 
+  session03:
+    order: 3
+    time: 
+    title: "Practical Intro to Kanban"
+    about: "How to start with Kanban in a simple and clear way."
+    slides: "http://www.slideshare.net/AGILEMinds/practical-intro-to-kanban-joakim-sunden"
+    video: 
+    name: "Joakim Sundén"
+    bio: "Joakim is an Agile & Lean Coach with Avega Group, Sweden. He helps clients improve through coaching and mentoring of individuals, teams and organizations. This is often accomplished using Agile and Lean software development methodologies such as Scrum, XP and Kanban. When working as a developer coach Joakim favors Test Driven Development, refactoring and evolutionary object-oriented design, mainly on the .NET platform. He is an organizer of, and active participant in, conferences, networks and user groups in the Agile, Lean and .NET communities."
+    photo: "/img/speakers/joakim-sunden.jpg"
+    blog: "http://joakimsunden.com/"
+    facebook: 
+    twitter: "https://twitter.com/joakimsunden"
+    linkedin: "https://www.linkedin.com/in/joakimsunden/"
+    google-plus: 
+  session04:
+    order: 4
+    time: 
+    title: "Company Culture as the Key Agile Milestone"
+    about: "Zuzana  started with agile and Scrum back in 2005, where she was involved in implementing the agile methods at large US company operating in the medical area. From that time, she was responsible for implementation of  agile and Scrum  to  teams in the Czech Republic operating in different areas of  IT industry (i.e. air traffic control management systems, extensive healthcare applications, public safety systems and small and extremely fast internet projects). Currently she works as a consultant and coach for software organizations, support them in tailoring their agile adoption processes to company culture. She  founded Czech  agile community Agile Association  - AgilniAsociace.cz, organizing conferences and events and sharing the agile experience all around. She is Managing Director of LOTOFIDEA."
+    slides: "http://www.slideshare.net/zuzuzka/company-culture-as-the-key-agile-milestone-7168263"
+    video: 
+    name: "Zuzana Sochova"
+    bio: "Certified Scrum Trainer, CST with ScrumAlliance. I work as Agile coach, consultant and trainer for both large and small organizations. I’m regular speaker at Agile international conferences. I’m also a founder of the Agile Association (Agilni Asociace, agilniasociace.cz) Czech Republic, organizing the Agile Czech community and annual Agile Prague Conference (agileprague.com). Started with Agile and Scrum back in 2005, where I was involved in implementing the Agile methods at Medtronic, USA. From that time, I was responsible for Agile transformation and implementation of Agile and Scrum to many companies and teams. Over 15 years of commercial experiences in IT, beginning as a software development."
+    photo: "/img/speakers/zuzana-sochova.jpg"
+    blog: "http://soch.cz/blog"
+    facebook: 
+    twitter: "https://twitter.com/zuzuzka"
+    linkedin: "https://www.linkedin.com/in/zuzka"
+    google-plus: 
+  session05:
+    order: 5
+    time: 
+    title: "Agile Brings Value: Two Scrum Implementation Success Stories and Lessons Learned"
+    about: "I share my experiences in implementing Scrum in two organizations and provide lessons learned ad the end."
+    slides: "http://www.slideshare.net/vaidasa/agile-brings-value-two-scrum-implementation-success-stories-and-lessons-learned"
+    video: 
+    name: "Vaidas Adomauskas"
+    bio: "Is working as a Product Manager and Scrum Coach in Adform. He is Product Owner (Product Manager) of one of the key company products as well as coaching Scrum teams with every day improvements. Before Adform, Vaidas had implemented Scrum in Lavasoft in Sweden. Vaidas is the author of the blog http://scrum.agile.lt, initiator of Agile and Scrum Users Group in Lithuania, Certified Scrum Master (CSM), Certified Scrum Product Owner (CSPO), participant/speaker of international and national IT/Agile conferences, lecturer at Vilnius University (“Agile Project Management with Scrum” course), and member of Lithuanian Project Management Association."
+    photo: "/img/speakers/vaidas-adomauskas.jpg"
+    blog: "http://agilecoach.lt/"
+    facebook: "https://www.facebook.com/agilecoachlt"
+    twitter: "https://twitter.com/adomauskas"
+    linkedin: "http://www.linkedin.com/in/vaidas"
+    google-plus: 
+  session06:
+    order: 6
+    time: 
+    title: "Agile at Evolution Gaming Latvia"
+    about: "Agile experience at Evolution Gaming."
+    slides: "http://www.slideshare.net/jelescic/agile-riga-jelenascickov3"
+    video: 
+    name: "Jelena Scicko"
+    bio: "QA Engineer at Evolution Gaming Latvia."
+    photo: "/img/speakers/john-doe.png"
+    blog: 
+    facebook: 
+    twitter: 
+    linkedin: 
+    google-plus: 
+  session07:
+    order: 7
+    time: 
+    title: "How to Succeed with Agile"
+    about: "A few tips on succeeding with agile projects."
+    slides: "http://www.slideshare.net/abaranovskis/how-to-succeed-with-agile-v2"
+    video: 
+    name: "Armands Baranovskis" 
+    bio: "Armands Baranovskis has graduated from Riga Technical University with a Masters degree in industrial management and continues to study there in the IT PhD program. His main professional interests are Service Oriented Architecture and Agile development. Armands has recently joined the newly founded eBIT team as a Technical Architect and Project Manager, Scrum Master and Product Owner."
+    photo: "/img/speakers/armands-baranovskis.jpg"
+    blog: 
+    facebook: "https://www.facebook.com/armands.baranovskis"
+    twitter: "https://twitter.com/xabarx"
+    linkedin: "http://www.linkedin.com/pub/armands-baranovskis/14/35b/980"
+    google-plus: 
+  session08:
+    order: 8
+    time: 
+    title: "Enterprise Agile and How to Succeed with It."
+    about: "Enterprise agile and how to succeed with it on C.T.Co example."
+    slides: "http://www.slideshare.net/lebedevdmitry/enterprise-agile-and-how-to-succeed-with-it-by-sergey-zabaluev"
+    video: 
+    name: "Sergey Zabaluev"
+    bio: "Is a Business Development Director in C.T.Co. He has more than 10 years of professional software development experience. He participated in numerous international projects for financial, reinsurance and e-commerce industries as a project manager, system architect and consultant. Sergey has a strong background with applying Agile methodologies in projects for top level enterprise clients."
+    photo: "/img/speakers/sergey-zabaluev.jpg"
+    blog: 
+    facebook: 
+    twitter: 
+    linkedin: "https://www.linkedin.com/in/sergey-zabaluev-a269303/"
+    google-plus: 

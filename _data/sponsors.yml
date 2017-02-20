@@ -58,3 +58,40 @@
       title: "Kursors.lv"
       image: "/img/sponsors/kursorslv.png"
       url: "http://www.kursors.lv/"
+2012:
+  platinum:
+    sponsors01:
+      title: ""
+      image: ""
+      url: ""
+      promo: ""
+2011:
+  platinum:
+    sponsor01:
+      title: "Agile Alliance"
+      image: "/img/sponsors/agile-logo-4c-sponsor.jpg"
+      url: "https://www.agilealliance.org"
+      promo: "Agile Alliance supports people who explore and apply Agile values, principles, and practices to make building software solutions more effective, humane, and sustainable. We share our passion to deliver software better every day.
+We are a nonprofit organization with global membership, supporting and serving the Agile software community since 2001."
+  gold:
+    sponsor01:
+      title: "LikeIT"
+      image: "/img/sponsors/likeit.png"
+      url: "http://www.likeit.lv/"
+    sponsor02:
+      title: "77 Agency"
+      image: "/img/sponsors/77-agency.jpg"
+      url: "http://www.77agency.com/"
+    sponsor03:
+      title: "C.T.Co"
+      image: "/img/sponsors/c-t-co.jpg"
+      url: "http://ctco.lv/"
+    sponsor04:
+      title: "Tieto"
+      image: "/img/sponsors/tieto.png"
+      url: "https://www.tieto.lv/"
+  silver:
+    sponsor01:
+      title: "Exigen Services"
+      image: "/img/sponsors/exigen-services.jpg"
+      url: "http://www.exigenservices.lv/"

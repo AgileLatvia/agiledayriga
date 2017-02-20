@@ -1,19 +1,22 @@
 
 
   <!-- Schedule caption -->
-  <div id="schedule" class="page color-3">
+  <div id="sessions" class="page color-3">
     <div class="inner-page">
       <h2 class="page-headline">Schedule</h2>
     </div>
-    <div class="inner-page row">
+    {% if page.year > 2011 %}
+    <div class="inner-page">
       <div class="col-md-12">
         <p class="lead">{% if page.schedule-status %}{{ page.schedule-status }}{% endif %} {% if page.schedule-lanyrd %}The recent schedule can be found <a href="{{ page.schedule-lanyrd }}" target="_blank">here</a>.{% endif %}</p> 
       </div>
     </div>
+    {% endif %}
 
     <!-- Sessions -->
     <div class="row inner-page">
     {% for session in site.data.sessions[page.year] %}
+      <hr class="col-md-12">
       <div id="{{ session[0] }}" class="col-md-12">
       	<h3>{% if session[1].title %}{{ session[1].title | strip_html }}{% endif %}{% if session[1].time %} ({{ session[1].time | strip_html }}){% endif %}</h3>
       	<p>{% if session[1].about %}{{ session[1].about | strip_html }}{% endif %}</p>
@@ -35,7 +38,7 @@
 	      {% if session[1].linkedin %}<a href="{{ session[1].linkedin }}" title="LinkedIn"><i class="fa fa-linkedin-square"></i></a>{% endif %}
 	      {% if session[1].google-plus %}<a href="{{ session[1].google-plus }}" title="Google+"><i class="fa fa-google-plus"></i></a>{% endif %}
       	</p>
-      </div>      
+      </div>
     {% endfor %}
     </div> <!-- /sessions -->
   </div> <!-- /Schedule -->
