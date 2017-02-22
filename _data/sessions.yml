@@ -6,14 +6,16 @@
     about: "The problems with traditional management is traditional management."
     slides: ""
     video: ""
-    name: "John Brown"
-    bio: "John Brown has a long international career."
-    photo: "/img/speakers/john-doe.png"
-    blog: 
-    facebook: 
-    twitter: "https://twitter.com/john-doe"
-    linkedin: ""
-    google-plus: 
+    speakers:
+      speaker01:
+        name: "John Brown"
+        bio: "John Brown has a long international career."
+        photo: "/img/speakers/john-doe.png"
+        blog: 
+        facebook: 
+        twitter: "https://twitter.com/john-doe"
+        linkedin: ""
+        google-plus: 
 2016:
   session01:
     order: 1
@@ -23,14 +25,16 @@
     about: "The problems with traditional management, including budgeting. The Beyond Budgeting principles and companies on the journey. Statoil's 'Ambition to Action' model: redefining performance, dynamic and relative targets and a holistic performance evaluation, dynamic forecasting and resource allocation and no traditional budgets, from calendar-driven to event-driven; a more self-regulating management model. Implementation experiences and advice."
     slides: "https://speakerdeck.com/agilelatvia/beyond-budgeting-an-agile-management-model-for-new-business-and-people-realities-the-statoil-implementation-journey-by-bjarte-bogsnes"
     video: "https://youtu.be/G2N4Oxm6Vik"
-    name: "Bjarte Bogsnes"
-    bio: "Bjarte Bogsnes has a long international career, both in Finance and HR. He is currently heading up the implementation of Beyond Budgeting at Statoil, Scandinavia’s largest company. Bjarte is Chairman of Beyond Budgeting Round Table (BBRT).  He is a popular international business speaker and is the winner of a Harvard Business Review/McKinsey Management Innovation award. Bjarte is the author of 'Implementing Beyond Budgeting - Unlocking the Performance Potential', where he writes about his implementation experiences. Statoil has recently opened up for Bjarte to undertake select external consulting work."
-    photo: "/img/speakers/bjarte-bogsnes.jpg"
-    blog: 
-    facebook: 
-    twitter: "https://twitter.com/bbogsnes"
-    linkedin: "https://no.linkedin.com/in/bjarte-bogsnes-41557910"
-    google-plus: 
+    speakers:
+      speaker01:
+        name: "Bjarte Bogsnes"
+        bio: "Bjarte Bogsnes has a long international career, both in Finance and HR. He is currently heading up the implementation of Beyond Budgeting at Statoil, Scandinavia’s largest company. Bjarte is Chairman of Beyond Budgeting Round Table (BBRT).  He is a popular international business speaker and is the winner of a Harvard Business Review/McKinsey Management Innovation award. Bjarte is the author of 'Implementing Beyond Budgeting - Unlocking the Performance Potential', where he writes about his implementation experiences. Statoil has recently opened up for Bjarte to undertake select external consulting work."
+        photo: "/img/speakers/bjarte-bogsnes.jpg"
+        blog: 
+        facebook: 
+        twitter: "https://twitter.com/bbogsnes"
+        linkedin: "https://no.linkedin.com/in/bjarte-bogsnes-41557910"
+        google-plus: 
   session02:
     order: 2
     time: "11:15 - 12:00"
@@ -38,14 +42,16 @@
     about: "In order to do successful development, you want metrics to tell you whether you are heading to the right direction. In this talk you will get an example of measurement stack aligned through strategy, customer, current operational mode - all the way to changes that you are introducing. From the session you will get example tools for measuring: Change in business environment, Customer understanding, Process cycle efficiency, Change implementation progress, Continuous improvement and learning. One key thing is also to keep the metrics lean. So sweep away the massive Excel sheets and bring in simple indicators that everyone can understand, from developers to decision-makers."
     slides: "http://www.slideshare.net/totoroki/lean-metrics-riga"
     video: "https://youtu.be/oVXXRMpwaZ4"
-    name: "Karoliina Luoto"
-    bio: "Agile Coach and Consultant aiming for business-valuable, user-oriented digital services and happy people behind them."
-    photo: "/img/speakers/karoliina-luoto.png"
-    blog: 
-    facebook: 
-    twitter: "https://twitter.com/totoroki"
-    linkedin: "https://fi.linkedin.com/in/karoliinaluoto"
-    google-plus:
+    speakers:
+      speaker01:
+        name: "Karoliina Luoto"
+        bio: "Agile Coach and Consultant aiming for business-valuable, user-oriented digital services and happy people behind them."
+        photo: "/img/speakers/karoliina-luoto.png"
+        blog: 
+        facebook: 
+        twitter: "https://twitter.com/totoroki"
+        linkedin: "https://fi.linkedin.com/in/karoliinaluoto"
+        google-plus:
   session03:
     order: 3
     time: "13:00 - 13:45, Room A"
@@ -53,14 +59,16 @@
     about: "Coming from a strong psychological background, I was immersed into the world of software development. With no technical background nor prior experience, I was slowly discovering that those two worlds, that seemed to be so far from each other, are after all very connected. I would like to guide you through my journey and put on psychologist’s glasses for a while. Together we’ll look into Agile world from a different perspective."
     slides: "https://speakerdeck.com/agilelatvia/the-great-intersection-of-psychology-and-agile-by-kasia-ryniak"
     video: "https://youtu.be/0CYd4fkaKro"
-    name: "Kasia Ryniak"
-    bio: "I combine psychological education with working as a Scrum Master in a technology consulting company called u2i. I am a constant learner and discoverer, fascinated in people and relations behind the creation of products."
-    photo: "/img/speakers/kasia-ryniak.png"
-    blog: 
-    facebook: 
-    twitter: "https://twitter.com/katiryniak"
-    linkedin: "https://pl.linkedin.com/in/kasiaryniak"
-    google-plus: 
+    speakers:
+      speaker01:
+        name: "Kasia Ryniak"
+        bio: "I combine psychological education with working as a Scrum Master in a technology consulting company called u2i. I am a constant learner and discoverer, fascinated in people and relations behind the creation of products."
+        photo: "/img/speakers/kasia-ryniak.png"
+        blog: 
+        facebook: 
+        twitter: "https://twitter.com/katiryniak"
+        linkedin: "https://pl.linkedin.com/in/kasiaryniak"
+        google-plus: 
   session04:
     order: 4
     time: "13:00 - 13:45, Room B"
@@ -68,14 +76,16 @@
     about: "In 2001 the Agile Manifesto was made. Today, 15 years later Agile seems to become a commodity. Everyone wants to do Agile, transformation coaches are in a booming business, the books, blogs and papers on the subject are countless, ... But is the Agile Manifesto still up to date? Do we have to renew Agile? Let's explore this subject."
     slides: 
     video: 
-    name: "Inge Gorgon"
-    bio: "I am a passionate agile coach with over 10 years of experience in agile analysis, testing and as a Scrum Master. I have experience as a speaker on conferences such as the Agile Business Conference in London, the ALE conferences in Bucharest and Sofia and for the Agile Consortium Belgium."
-    photo: "/img/speakers/inge-gorgon.png"
-    blog: 
-    facebook: 
-    twitter: 
-    linkedin: "https://be.linkedin.com/in/inge-gorgon-9189658"
-    google-plus: 
+    speakers:
+      speaker01:
+        name: "Inge Gorgon"
+        bio: "I am a passionate agile coach with over 10 years of experience in agile analysis, testing and as a Scrum Master. I have experience as a speaker on conferences such as the Agile Business Conference in London, the ALE conferences in Bucharest and Sofia and for the Agile Consortium Belgium."
+        photo: "/img/speakers/inge-gorgon.png"
+        blog: 
+        facebook: 
+        twitter: 
+        linkedin: "https://be.linkedin.com/in/inge-gorgon-9189658"
+        google-plus: 
   session05:
     order: 5
     time: "14:00 - 14:45, Room A"
@@ -86,18 +96,20 @@ to do when you're joining an existing team or starting to change development
 processes in your organization? I'm going to share some useful techniques, which can be transformed into set of individual choices aimed to help our fellow Scrum Master to manage the chaos of a software development world. The ideas of those techniques are coming  from a many sources, from many areas of human knowledge: drawing, fencing, physical  exercises, philosophy. So, I'm going to wrap it up and share it with you. It helped me a lot, it will help you too."
     slides: "http://www.slideshare.net/lebedevdmitry/scrum-master-personal-development-practices"
     video: "https://youtu.be/UewKdQ_v-5Y"
-    name: "Dmitry Lebedev"
-    bio: "Dmitry started his job as a software engineer 20 years ago, has delivered 
-many software projects, failed a few, learned a lot of things from other people 
-and now he is willing to share his stories of success and failures with broader 
-audience. The ultimate goal of his activities is that software could be developed 
-pragmatically, based on an engineering approach and mutual respect between all involved parts."
-    photo: "/img/speakers/dmitry-lebedev.png"
-    blog: 
-    facebook: 
-    twitter: "https://twitter.com/mservices_stuff"
-    linkedin: "https://lv.linkedin.com/in/dmitrylebedev"
-    google-plus:
+    speakers:
+      speaker01:
+        name: "Dmitry Lebedev"
+        bio: "Dmitry started his job as a software engineer 20 years ago, has delivered 
+    many software projects, failed a few, learned a lot of things from other people 
+    and now he is willing to share his stories of success and failures with broader 
+    audience. The ultimate goal of his activities is that software could be developed 
+    pragmatically, based on an engineering approach and mutual respect between all involved parts."
+        photo: "/img/speakers/dmitry-lebedev.png"
+        blog: 
+        facebook: 
+        twitter: "https://twitter.com/mservices_stuff"
+        linkedin: "https://lv.linkedin.com/in/dmitrylebedev"
+        google-plus:
   session06:
     order: 6
     time: "14:00 - 15:45, Room B"
@@ -105,14 +117,16 @@ pragmatically, based on an engineering approach and mutual respect between all i
     about: "Join Enterprise Agile Pasta game! Feel the challenges of Agile teams in the Enterprise environment - scaling agile, distributed teams, communication issues, different cultures and leadership styles etc. During the 3 phases of the game we will be debriefing and discussing learnings, so you could walk-away with useful insights and understanding of Agile scaling issues and practical advise. Last, but not least, it is a fun activity and opportunity to make friends with a like-minded people. The game has been created by agiletransformer.com experts and will be led by Vladimirs Ivanovs, Optimus Prime and Agile project management enthusiast."
     slides: 
     video: 
-    name: "Vladimir Ivanov"
-    bio: "I am Optimus Prime of the agiletransformer.com team of Agile coaches/experts. My focus in the team is mixing experience and knowledge from the past (traditional IT Management, ITIL, Project Management) with contemporary approaches such as Agile, Scrum, Lean, Kanban."
-    photo: "/img/speakers/vladimir-ivanov.png"
-    blog: 
-    facebook: 
-    twitter: "https://twitter.com/vivanovs"
-    linkedin: "https://www.linkedin.com/in/vivanov/en"
-    google-plus: "https://plus.google.com/111063784323765456395"
+    speakers:
+      speaker01:
+        name: "Vladimir Ivanov"
+        bio: "I am Optimus Prime of the agiletransformer.com team of Agile coaches/experts. My focus in the team is mixing experience and knowledge from the past (traditional IT Management, ITIL, Project Management) with contemporary approaches such as Agile, Scrum, Lean, Kanban."
+        photo: "/img/speakers/vladimir-ivanov.png"
+        blog: 
+        facebook: 
+        twitter: "https://twitter.com/vivanovs"
+        linkedin: "https://www.linkedin.com/in/vivanov/en"
+        google-plus: "https://plus.google.com/111063784323765456395"
   session07:
     order: 7
     time: "15:00 - 15:45, Room A"
@@ -120,14 +134,16 @@ pragmatically, based on an engineering approach and mutual respect between all i
     about: "In this talk I will share the Bigbank journey starting from 2014, when Scrum was first introduced, up until today. Today we have 9 Scrum teams, who have fought their way through multiple changes, mistakes, victories and all kinds of mess. So what can you achieve within 2 years? Well, you need to come and see it for yourself!"
     slides: "https://speakerdeck.com/agilelatvia/scrumming-the-evil-out-of-a-bank-by-heldin-rikk"
     video: "https://youtu.be/lW9r5jX3PNA"
-    name: "Heldin Rikk"
-    bio: "Agile Practitioner at Bigbank"
-    photo: "/img/speakers/heldin-rikk.jpg"
-    blog: 
-    facebook: 
-    twitter: 
-    linkedin: "https://ee.linkedin.com/in/heldinrikk"
-    google-plus:
+    speakers:
+      speaker01:
+        name: "Heldin Rikk"
+        bio: "Agile Practitioner at Bigbank"
+        photo: "/img/speakers/heldin-rikk.jpg"
+        blog: 
+        facebook: 
+        twitter: 
+        linkedin: "https://ee.linkedin.com/in/heldinrikk"
+        google-plus:
   session08:
     order: 8
     time: "16:15 - 17:30"
@@ -135,22 +151,26 @@ pragmatically, based on an engineering approach and mutual respect between all i
     about: "Managing under conditions of uncertainty: lessons from the natural sciences. One of key quotes: “You can’t design a complex adaptive system, you stimulate it with multiple ‘safe to fail’ experiments to see what the evolutionary potentials of the present are. Very small change, massive impact in terms of strategy and we way we work.”"
     slides: "https://speakerdeck.com/agilelatvia/managing-under-conditions-of-uncertainty-by-dave-snowden"
     video: "https://youtu.be/8a3yCJ85t58"
-    name: "Dave Snowden"
-    bio: "Dave Snowden is the founder and chief scientific officer of Cognitive Edge. His work is international in nature and covers government and industry looking at complex issues relating to strategy, organisational decision making and decision making. He has pioneered a science based approach to organisations drawing on anthropology, neuroscience and complex adaptive systems theory. He is a popular and passionate keynote speaker on a range of subjects, and is well known for his pragmatic cynicism and iconoclastic style.
-    
-    He currently holds positions as extra-ordinary Professor at the Universities of Pretoria and Stellenbosch and has held similar positions at Hong Kong Polytechnic University, Canberra Univerity, the University of Warwick and The University of Surrey. He held the position of senior fellow at the Institute of Defence and Strategic Studies at Nanyang University and the Civil Service College in Singapore during a sabbatical period in Nanyang.
-    
-    His paper with Boone on Leadership was the cover article for the Harvard Business Review in November 2007 and also won the Academy of Management aware for the best practitioner paper in the same year. He has previously won a special award from the Academy for originality in his work on knowledge management. He is a editorial board member of several academic and practitioner journals in the field of knowledge management and is an Editor in Chief of E:CO. In 2006 he was Director of the EPSRC (UK) research programme on emergence and in 2007 was appointed toan NSF (US) review panel on complexity science research.
-    
-    He previously worked for IBM where he was a Director of the Institution for Knowledge Management and founded the Cynefin Centre for Organisational Complexity; during that period he was selected by IBM as one of six on-demand thinkers for a world wide advertising campaign. Prior to that he worked in a range of strategic and management roles in the service sector.
-    
-    His company Cognitive Edge exists to integrate academic thinking with practice in organisations throughout the world and operates on a network model working with Academics, Government, Commercial Organisations, NGOs and Independent Consultants. He is also the main designer of the SenseMaker® software suite, originally developed in the field of counter terrorism and now being actively deployed in both Government and Industry to handle issues of impact measurement, customer/employee insight, narrative based knowledge management, strategic foresight and risk management."
-    photo: "/img/speakers/dave-snowden.jpg"
-    blog: 
-    facebook: 
-    twitter: "https://twitter.com/snowded"
-    linkedin: "https://uk.linkedin.com/in/dave-snowden-2a93b"
-    google-plus: 
+    speakers:
+      speaker01:
+        name: "Dave Snowden"
+        bio: "Dave Snowden is the founder and chief scientific officer of Cognitive Edge. His work is international in nature and covers government and industry looking at complex issues relating to strategy, organisational decision making and decision making. He has pioneered a science based approach to organisations drawing on anthropology, neuroscience and complex adaptive systems theory. He is a popular and passionate keynote speaker on a range of subjects, and is well known for his pragmatic cynicism and iconoclastic style.
+        
+        He currently holds positions as extra-ordinary Professor at the Universities of Pretoria and Stellenbosch and has held similar positions at Hong Kong Polytechnic University, Canberra Univerity, the University of Warwick and The University of Surrey. He held the position of senior fellow at the Institute of Defence and Strategic Studies at Nanyang University and the Civil Service College in Singapore during a sabbatical period in Nanyang.
+        
+        His paper with Boone on Leadership was the cover article for the Harvard Business Review in November 2007 and also won the Academy of Management aware for the best practitioner paper in the same year. He has previously won a special award from the Academy for originality in his work on knowledge management. He is a editorial board member of several academic and practitioner journals in the field of knowledge management and is an Editor in Chief of E:CO. In 2006 he was Director of the EPSRC (UK) research programme on emergence and in 2007 was appointed toan NSF (US) review panel on complexity science research.
+        
+        He previously worked for IBM where he was a Director of the Institution for Knowledge Management and founded the Cynefin Centre for Organisational Complexity; during that period he was selected by IBM as one of six on-demand thinkers for a world wide advertising campaign. Prior to that he worked in a range of strategic and management roles in the service sector.
+        
+        His company Cognitive Edge exists to integrate academic thinking with practice in organisations throughout the world and operates on a network model working with Academics, Government, Commercial Organisations, NGOs and Independent Consultants. He is also the main designer of the SenseMaker® software suite, originally developed in the field of counter terrorism and now being actively deployed in both Government and Industry to handle issues of impact measurement, customer/employee insight, narrative based knowledge management, strategic foresight and risk management."
+        photo: "/img/speakers/dave-snowden.jpg"
+        blog: 
+        facebook: 
+        twitter: "https://twitter.com/snowded"
+        linkedin: "https://uk.linkedin.com/in/dave-snowden-2a93b"
+        google-plus: 
+2012:
+  session01:
 2011:
   session01:
     order: 1
@@ -159,14 +179,16 @@ pragmatically, based on an engineering approach and mutual respect between all i
     about: "Works for Tieto Latvia and promotes new technologies, open source and Agile software development. Previously he has worked a lot with Oracle databases, development tools and applications but in recent years he is passionate Ruby and JavaScript developer and is promoting use of modern web technologies in many enterprises. He is contributing to Ruby on Rails and other open source projects. He uses and promotes to others Test Driven Development which he considers as one of the key Agile technical practices."
     slides: "https://sites.google.com/site/agilerigaday/past-conferences/2011/programme/presentations"
     video: 
-    name: "Raimonds Simanovskis"
-    bio: "Works for Tieto Latvia and promotes new technologies, open source and Agile software development. Previously he has worked a lot with Oracle databases, development tools and applications but in recent years he is passionate Ruby and JavaScript developer and is promoting use of modern web technologies in many enterprises. He is contributing to Ruby on Rails and other open source projects. He uses and promotes to others Test Driven Development which he considers as one of the key Agile technical practices."
-    photo: "/img/speakers/raimonds-simanovskis.jpg"
-    blog: "http://blog.rayapps.com/"
-    facebook: 
-    twitter: "https://twitter.com/rsim"
-    linkedin: "https://www.linkedin.com/in/raimondssimanovskis/"
-    google-plus: 
+    speakers:
+      speaker01:
+        name: "Raimonds Simanovskis"
+        bio: "Works for Tieto Latvia and promotes new technologies, open source and Agile software development. Previously he has worked a lot with Oracle databases, development tools and applications but in recent years he is passionate Ruby and JavaScript developer and is promoting use of modern web technologies in many enterprises. He is contributing to Ruby on Rails and other open source projects. He uses and promotes to others Test Driven Development which he considers as one of the key Agile technical practices."
+        photo: "/img/speakers/raimonds-simanovskis.jpg"
+        blog: "http://blog.rayapps.com/"
+        facebook: 
+        twitter: "https://twitter.com/rsim"
+        linkedin: "https://www.linkedin.com/in/raimondssimanovskis/"
+        google-plus: 
   session02:
     order: 2
     time: 
@@ -174,14 +196,16 @@ pragmatically, based on an engineering approach and mutual respect between all i
     about: "Currently an Agile Project Coach at Nokia, Vasco Duarte is an experienced product and project manager, having worked in the software industry since 1997. Vasco has also been an Agile practitioner since 2004, he is one of the leaders and a catalyst in the adoption of Agile methods and an Agile culture at Nokia and previously at F-Secure."
     slides: "http://www.slideshare.net/duartevasco/patterns-of-agility-how-to-recognize-and-agile-project-when-you-see-one"
     video: 
-    name: "Vasco Duarte"
-    bio: "I want to transform product development organizations into product business organizations. I do that by focusing the work of the product development teams on the end-to-end life-cycle of their products."
-    photo: "/img/speakers/vasco-duarte.jpg"
-    blog: "http://softwaredevelopmenttoday.blogspot.com/"
-    facebook: 
-    twitter: "https://twitter.com/duarte_vasco"
-    linkedin: "https://www.linkedin.com/in/duartevasco/"
-    google-plus: 
+    speakers:
+      speaker01:
+        name: "Vasco Duarte"
+        bio: "I want to transform product development organizations into product business organizations. I do that by focusing the work of the product development teams on the end-to-end life-cycle of their products."
+        photo: "/img/speakers/vasco-duarte.jpg"
+        blog: "http://softwaredevelopmenttoday.blogspot.com/"
+        facebook: 
+        twitter: "https://twitter.com/duarte_vasco"
+        linkedin: "https://www.linkedin.com/in/duartevasco/"
+        google-plus: 
   session03:
     order: 3
     time: 
@@ -189,14 +213,16 @@ pragmatically, based on an engineering approach and mutual respect between all i
     about: "How to start with Kanban in a simple and clear way."
     slides: "http://www.slideshare.net/AGILEMinds/practical-intro-to-kanban-joakim-sunden"
     video: 
-    name: "Joakim Sundén"
-    bio: "Joakim is an Agile & Lean Coach with Avega Group, Sweden. He helps clients improve through coaching and mentoring of individuals, teams and organizations. This is often accomplished using Agile and Lean software development methodologies such as Scrum, XP and Kanban. When working as a developer coach Joakim favors Test Driven Development, refactoring and evolutionary object-oriented design, mainly on the .NET platform. He is an organizer of, and active participant in, conferences, networks and user groups in the Agile, Lean and .NET communities."
-    photo: "/img/speakers/joakim-sunden.jpg"
-    blog: "http://joakimsunden.com/"
-    facebook: 
-    twitter: "https://twitter.com/joakimsunden"
-    linkedin: "https://www.linkedin.com/in/joakimsunden/"
-    google-plus: 
+    speakers:
+      speaker01:
+        name: "Joakim Sundén"
+        bio: "Joakim is an Agile & Lean Coach with Avega Group, Sweden. He helps clients improve through coaching and mentoring of individuals, teams and organizations. This is often accomplished using Agile and Lean software development methodologies such as Scrum, XP and Kanban. When working as a developer coach Joakim favors Test Driven Development, refactoring and evolutionary object-oriented design, mainly on the .NET platform. He is an organizer of, and active participant in, conferences, networks and user groups in the Agile, Lean and .NET communities."
+        photo: "/img/speakers/joakim-sunden.jpg"
+        blog: "http://joakimsunden.com/"
+        facebook: 
+        twitter: "https://twitter.com/joakimsunden"
+        linkedin: "https://www.linkedin.com/in/joakimsunden/"
+        google-plus: 
   session04:
     order: 4
     time: 
@@ -204,14 +230,16 @@ pragmatically, based on an engineering approach and mutual respect between all i
     about: "Zuzana  started with agile and Scrum back in 2005, where she was involved in implementing the agile methods at large US company operating in the medical area. From that time, she was responsible for implementation of  agile and Scrum  to  teams in the Czech Republic operating in different areas of  IT industry (i.e. air traffic control management systems, extensive healthcare applications, public safety systems and small and extremely fast internet projects). Currently she works as a consultant and coach for software organizations, support them in tailoring their agile adoption processes to company culture. She  founded Czech  agile community Agile Association  - AgilniAsociace.cz, organizing conferences and events and sharing the agile experience all around. She is Managing Director of LOTOFIDEA."
     slides: "http://www.slideshare.net/zuzuzka/company-culture-as-the-key-agile-milestone-7168263"
     video: 
-    name: "Zuzana Sochova"
-    bio: "Certified Scrum Trainer, CST with ScrumAlliance. I work as Agile coach, consultant and trainer for both large and small organizations. I’m regular speaker at Agile international conferences. I’m also a founder of the Agile Association (Agilni Asociace, agilniasociace.cz) Czech Republic, organizing the Agile Czech community and annual Agile Prague Conference (agileprague.com). Started with Agile and Scrum back in 2005, where I was involved in implementing the Agile methods at Medtronic, USA. From that time, I was responsible for Agile transformation and implementation of Agile and Scrum to many companies and teams. Over 15 years of commercial experiences in IT, beginning as a software development."
-    photo: "/img/speakers/zuzana-sochova.jpg"
-    blog: "http://soch.cz/blog"
-    facebook: 
-    twitter: "https://twitter.com/zuzuzka"
-    linkedin: "https://www.linkedin.com/in/zuzka"
-    google-plus: 
+    speakers:
+      speaker01:
+        name: "Zuzana Sochova"
+        bio: "Certified Scrum Trainer, CST with ScrumAlliance. I work as Agile coach, consultant and trainer for both large and small organizations. I’m regular speaker at Agile international conferences. I’m also a founder of the Agile Association (Agilni Asociace, agilniasociace.cz) Czech Republic, organizing the Agile Czech community and annual Agile Prague Conference (agileprague.com). Started with Agile and Scrum back in 2005, where I was involved in implementing the Agile methods at Medtronic, USA. From that time, I was responsible for Agile transformation and implementation of Agile and Scrum to many companies and teams. Over 15 years of commercial experiences in IT, beginning as a software development."
+        photo: "/img/speakers/zuzana-sochova.jpg"
+        blog: "http://soch.cz/blog"
+        facebook: 
+        twitter: "https://twitter.com/zuzuzka"
+        linkedin: "https://www.linkedin.com/in/zuzka"
+        google-plus: 
   session05:
     order: 5
     time: 
@@ -219,14 +247,16 @@ pragmatically, based on an engineering approach and mutual respect between all i
     about: "I share my experiences in implementing Scrum in two organizations and provide lessons learned ad the end."
     slides: "http://www.slideshare.net/vaidasa/agile-brings-value-two-scrum-implementation-success-stories-and-lessons-learned"
     video: 
-    name: "Vaidas Adomauskas"
-    bio: "Is working as a Product Manager and Scrum Coach in Adform. He is Product Owner (Product Manager) of one of the key company products as well as coaching Scrum teams with every day improvements. Before Adform, Vaidas had implemented Scrum in Lavasoft in Sweden. Vaidas is the author of the blog http://scrum.agile.lt, initiator of Agile and Scrum Users Group in Lithuania, Certified Scrum Master (CSM), Certified Scrum Product Owner (CSPO), participant/speaker of international and national IT/Agile conferences, lecturer at Vilnius University (“Agile Project Management with Scrum” course), and member of Lithuanian Project Management Association."
-    photo: "/img/speakers/vaidas-adomauskas.jpg"
-    blog: "http://agilecoach.lt/"
-    facebook: "https://www.facebook.com/agilecoachlt"
-    twitter: "https://twitter.com/adomauskas"
-    linkedin: "http://www.linkedin.com/in/vaidas"
-    google-plus: 
+    speakers:
+      speaker01:
+        name: "Vaidas Adomauskas"
+        bio: "Is working as a Product Manager and Scrum Coach in Adform. He is Product Owner (Product Manager) of one of the key company products as well as coaching Scrum teams with every day improvements. Before Adform, Vaidas had implemented Scrum in Lavasoft in Sweden. Vaidas is the author of the blog http://scrum.agile.lt, initiator of Agile and Scrum Users Group in Lithuania, Certified Scrum Master (CSM), Certified Scrum Product Owner (CSPO), participant/speaker of international and national IT/Agile conferences, lecturer at Vilnius University (“Agile Project Management with Scrum” course), and member of Lithuanian Project Management Association."
+        photo: "/img/speakers/vaidas-adomauskas.jpg"
+        blog: "http://agilecoach.lt/"
+        facebook: "https://www.facebook.com/agilecoachlt"
+        twitter: "https://twitter.com/adomauskas"
+        linkedin: "http://www.linkedin.com/in/vaidas"
+        google-plus: 
   session06:
     order: 6
     time: 
@@ -234,14 +264,16 @@ pragmatically, based on an engineering approach and mutual respect between all i
     about: "Agile experience at Evolution Gaming."
     slides: "http://www.slideshare.net/jelescic/agile-riga-jelenascickov3"
     video: 
-    name: "Jelena Scicko"
-    bio: "QA Engineer at Evolution Gaming Latvia."
-    photo: "/img/speakers/john-doe.png"
-    blog: 
-    facebook: 
-    twitter: 
-    linkedin: 
-    google-plus: 
+    speakers:
+      speaker01:
+        name: "Jelena Scicko"
+        bio: "QA Engineer at Evolution Gaming Latvia."
+        photo: "/img/speakers/john-doe.png"
+        blog: 
+        facebook: 
+        twitter: 
+        linkedin: 
+        google-plus: 
   session07:
     order: 7
     time: 
@@ -249,14 +281,25 @@ pragmatically, based on an engineering approach and mutual respect between all i
     about: "A few tips on succeeding with agile projects."
     slides: "http://www.slideshare.net/abaranovskis/how-to-succeed-with-agile-v2"
     video: 
-    name: "Armands Baranovskis" 
-    bio: "Armands Baranovskis has graduated from Riga Technical University with a Masters degree in industrial management and continues to study there in the IT PhD program. His main professional interests are Service Oriented Architecture and Agile development. Armands has recently joined the newly founded eBIT team as a Technical Architect and Project Manager, Scrum Master and Product Owner."
-    photo: "/img/speakers/armands-baranovskis.jpg"
-    blog: 
-    facebook: "https://www.facebook.com/armands.baranovskis"
-    twitter: "https://twitter.com/xabarx"
-    linkedin: "http://www.linkedin.com/pub/armands-baranovskis/14/35b/980"
-    google-plus: 
+    speakers:
+      speaker01:
+        name: "Armands Baranovskis" 
+        bio: "Armands Baranovskis has graduated from Riga Technical University with a Masters degree in industrial management and continues to study there in the IT PhD program. His main professional interests are Service Oriented Architecture and Agile development. Armands has recently joined the newly founded eBIT team as a Technical Architect and Project Manager, Scrum Master and Product Owner."
+        photo: "/img/speakers/armands-baranovskis.jpg"
+        blog: 
+        facebook: "https://www.facebook.com/armands.baranovskis"
+        twitter: "https://twitter.com/xabarx"
+        linkedin: "http://www.linkedin.com/pub/armands-baranovskis/14/35b/980"
+        google-plus: 
+      speaker02:
+        name: "Elina Jakubaneca" 
+        bio: "Elīna Jakubaneca has been working for Tieto Latvia (former TietoEnator Alise) for five years as Scrum Master, Project Supervisor and Department Manager for Oracle E-Business Suite based projects. Now she is Senior Consultant in her newly founded company eBIT, SIA. Her main professional interests are related to Agile project supervision and project portfolio management."
+        photo: "/img/speakers/elina-jakubaneca.jpg"
+        blog: 
+        facebook: 
+        twitter: "https://twitter.com/ejakubaneca"
+        linkedin: "https://www.linkedin.com/in/ejakubaneca/"
+        google-plus: 
   session08:
     order: 8
     time: 
@@ -264,11 +307,13 @@ pragmatically, based on an engineering approach and mutual respect between all i
     about: "Enterprise agile and how to succeed with it on C.T.Co example."
     slides: "http://www.slideshare.net/lebedevdmitry/enterprise-agile-and-how-to-succeed-with-it-by-sergey-zabaluev"
     video: 
-    name: "Sergey Zabaluev"
-    bio: "Is a Business Development Director in C.T.Co. He has more than 10 years of professional software development experience. He participated in numerous international projects for financial, reinsurance and e-commerce industries as a project manager, system architect and consultant. Sergey has a strong background with applying Agile methodologies in projects for top level enterprise clients."
-    photo: "/img/speakers/sergey-zabaluev.jpg"
-    blog: 
-    facebook: 
-    twitter: 
-    linkedin: "https://www.linkedin.com/in/sergey-zabaluev-a269303/"
-    google-plus: 
+    speakers:
+      speaker01:
+        name: "Sergey Zabaluev"
+        bio: "Is a Business Development Director in C.T.Co. He has more than 10 years of professional software development experience. He participated in numerous international projects for financial, reinsurance and e-commerce industries as a project manager, system architect and consultant. Sergey has a strong background with applying Agile methodologies in projects for top level enterprise clients."
+        photo: "/img/speakers/sergey-zabaluev.jpg"
+        blog: 
+        facebook: 
+        twitter: 
+        linkedin: "https://www.linkedin.com/in/sergey-zabaluev-a269303/"
+        google-plus: 
