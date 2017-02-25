@@ -60,11 +60,92 @@
       url: "http://www.kursors.lv/"
 2012:
   platinum:
-    sponsors01:
-      title: ""
-      image: ""
-      url: ""
-      promo: ""
+    sponsor01:
+      title: "Agile Alliance"
+      image: "/img/sponsors/agile-logo-4c-sponsor.jpg"
+      url: "https://www.agilealliance.org"
+      promo: "Agile Alliance supports people who explore and apply Agile values, principles, and practices to make building software solutions more effective, humane, and sustainable. We share our passion to deliver software better every day.
+We are a nonprofit organization with global membership, supporting and serving the Agile software community since 2001."
+    sponsor02:
+      title: "C.T.Co"
+      image: "/img/sponsors/c-t-co.jpg"
+      url: "http://ctco.lv/"
+      promo: "C.T.Co is a leader in agile application development. C.T.Co limited is a Europe-oriented IT solutions and services provider, based in Riga, Latvia (EU) with a track record of delivering enterprise solutions to top global clients for over 15 years."
+  gold:
+    sponsor01:
+      title: "Gold Sponsor - Odnoklassniki"
+      image: "/img/sponsors/odnoklassniki-100.png"
+      url: "http://odnoklassniki.ru/"
+    sponsor02:
+      title: "Gold Sponsor - Rubylight"
+      image: "/img/sponsors/rubylight-100.png"
+      url: "http://rubylight.com/"
+    sponsor03:
+      title: "Gold Sponsor - eBIT"
+      image: "/img/sponsors/ebit.jpg"
+      url: "https://www.ebit.lv"
+    sponsor04:
+      title: "Gold Sponsor - Idea Port Riga"
+      image: "/img/sponsors/idea-port-riga-100.png"
+      url: "http://join.ideaportriga.lv/"
+    sponsor05:
+      title: "Gold Sponsor - Tieto"
+      image: "/img/sponsors/tieto-100.png"
+      url: "https://www.tieto.lv/"
+  silver:
+    sponsor01:
+      title: "Special Sponsor - O'Reilly"
+      image: "/img/sponsors/oreilly.png"
+      url: "http://www.likeit.lv/"
+    sponsor02:
+      title: "Silver Sponsor - Uniso"
+      image: "/img/sponsors/uniso-55.png"
+      url: "https://www.uniso.lv/"
+  info:
+    sponsor01:
+      title: "Info Sponsor - TechHub Riga"
+      image: "/img/sponsors/techhub-55.png"
+      url: "http://www.techhub.com/riga.html"
+    sponsor02:
+      title: "Info Sponsor - JUG.LV"
+      image: "/img/sponsors/jug-lv-55.png"
+      url: "http://www.jug.lv/"
+    sponsor03:
+      title: "Info Sponsor - DevClub.eu"
+      image: "/img/sponsors/devclub-eu-55.png"
+      url: "http://www.devclub.eu/"
+    sponsor04:
+      title: "Info Sponsor - New Horizons"
+      image: "/img/sponsors/new-horizons-55.png"
+      url: "http://www.newhorizons.lv/"
+    sponsor05:
+      title: "Info Sponsor - Agile Estonia"
+      image: "/img/sponsors/agile-ee-55.png"
+      url: "http://www.agile.ee/"
+    sponsor06:
+      title: "Info Sponsor - Agile Lietuva"
+      image: "/img/sponsors/agile-lt-55.jpg"
+      url: "http://scrum.blogas.lt/agilelietuva"
+    sponsor07:
+      title: "Info Sponsor - LNPVA"
+      image: "/img/sponsors/lnpva-55.png"
+      url: "http://www.lnpva.lv/"
+    sponsor08:
+      title: "Info Sponsor - IIBA Latvia"
+      image: "/img/sponsors/iiba-latvia-55.jpg"
+      url: "http://latvia.theiiba.org/"
+    sponsor09:
+      title: "Info Sponsor - LATA"
+      image: "/img/sponsors/lata-55.png"
+      url: "http://www.lata.org.lv/"
+    sponsor10:
+      title: "Info Sponsor - Latvian IT Cluster"
+      image: "/img/sponsors/it-cluster-55.png"
+      url: "http://www.itbaltic.com/"
+    sponsor11:
+      title: "Info Sponsor - "
+      image: "/img/sponsors/likeit.png"
+      url: "http://www.likeit.lv/"
 2011:
   platinum:
     sponsor01:

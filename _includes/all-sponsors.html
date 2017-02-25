@@ -47,7 +47,7 @@
       {% assign silvers_counter = 0 %}
       {% for silvers in site.data.sponsors[page.year].silver %}
       {% assign silvers_counter = silvers_counter | plus: 1 %}
-      {% if silvers_counter == 4 %}</div><div class="inner-page row">{% endif %}
+      {% if silvers_counter == 4 or silvers_counter == 8 or silvers_counter == 12 %}</div><div class="inner-page row">{% endif %}
       <div class="col-md-3">
         <a href="{{ silvers[1].url }}" title="{{ silvers[1].title }}" target="_blank"><img class="lazy" src="{{ silvers[1].image }}" alt="{{ silvers[1].title }}"></a>
       </div>
@@ -64,7 +64,7 @@
       {% assign infos_counter = 0 %}
       {% for infos in site.data.sponsors[page.year].info %}
       {% assign infos_counter = infos_counter | plus: 1 %}
-      {% if infos_counter == 5 %}</div><div class="inner-page row">{% endif %}
+      {% if infos_counter == 5 or infos_counter == 9 or infos_counter == 13 %}</div><div class="inner-page row">{% endif %}
       <div class="col-md-2">
         <a href="{{ infos[1].url }}" title="{{ infos[1].title }}" target="_blank"><img class="lazy" src="{{ infos[1].image }}" alt="{{ infos[1].title }}"></a>
       </div>
