@@ -6,11 +6,15 @@
       <h2 class="page-headline">Schedule</h2>
     </div>
     {% if page.year > 2011 %}
+      {% if page.schedule-status == "on" %}
     <div class="inner-page">
       <div class="col-md-12">
-        <p class="lead">{% if page.schedule-status %}{{ page.schedule-status }}{% endif %} {% if page.schedule-lanyrd %}The recent schedule can be found <a href="{{ page.schedule-lanyrd }}" target="_blank">here</a>.{% endif %}</p> 
+        <p class="lead">
+        {% if page.schedule-lanyrd %}The recent schedule can be found <a href="{{ page.schedule-lanyrd }}" target="_blank">here</a>.{% endif %}
+        </p> 
       </div>
     </div>
+    {% endif %}
     {% endif %}
 
     <!-- Sessions -->

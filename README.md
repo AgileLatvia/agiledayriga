@@ -149,11 +149,13 @@ Here's an example:
         google-plus: 
 ```
 
+## Step 8
+How to setup conference schedule? :x: 
 
 -----
 
 ### To Be Developed
-0. Fix the issue with speakers if there're no SMs defined. In this case the 2nd speaker's block is aligned improperly.
+0. Fix the issue with speakers if there're no SMs defined. In this case the 2nd speaker's block is aligned improperly. :x: 
 1. Add HTML minification. :x: 
 2. Add HTTPS if possible. :heavy_minus_sign: (not available for custom domains)
 3. Add Events microdata. :heavy_check_mark: 
