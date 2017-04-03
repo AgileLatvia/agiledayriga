@@ -1,20 +1,29 @@
 2017:
   session01:
     order: 1
-    time: "10:00 - 11:00"
-    title: "Just an Example"
-    about: "The problems with traditional management is traditional management."
-    slides: ""
-    video: ""
+    time: 
+    title: "Nexus: How We Do Scrum with 150+ People"
+    about: "Nexus is a framework for scaled Scrum developed by Scrum co-creator Ken Schwaber and Scrum.org community. It addresses the most painful problems of scaled development – dealing with dependencies and building 'Done' integrated software every iteration. In our short talk, we are going to explain the key concepts of Nexus and illustrate them with our own case study where 150+ people successfully do Scrum to build software for a big North American retail company using Nexus."
+    slides: 
+    video: 
     speakers:
       speaker01:
-        name: "John Brown"
-        bio: "John Brown has a long international career."
-        photo: "/img/speakers/john-doe.png"
+        name: "Artem Kolyshkin"
+        bio: "Artem Kolyshkin is a Senior Delivery Manager at EPAM with wide experience of product and project delivery. Currently implementing the Nexus framework on a project with 150 + people."
+        photo: "/img/speakers/artem-kolyshkin.jpg"
         blog: 
         facebook: 
-        twitter: "https://twitter.com/john-doe"
-        linkedin: ""
+        twitter: 
+        linkedin: "https://www.linkedin.com/in/akolyshkin/"
+        google-plus: 
+      speaker02:
+        name: "Konstantin Razumovsky"
+        bio: "Konstantin Razumovsky is an Agile Coach and Professional Scrum Trainer by Scrum.org. He has an extensive hands-on experience as a Java Developer, Scrum Master, and Project Manager."
+        photo: "/img/speakers/konstantin-razumovsky.jpg"
+        blog: "http://proscrum.by/"
+        facebook: 
+        twitter: 
+        linkedin: "https://www.linkedin.com/in/razumovsky/"
         google-plus: 
 2016:
   session01:
