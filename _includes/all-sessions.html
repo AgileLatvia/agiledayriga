@@ -31,19 +31,21 @@
       </div>
       <!-- Speaker (s) -->
       {% for speaker in session[1].speakers %}
-      <div class="col-md-2">
-        <img class="pull-left figurette lazy" style="width: 160px; margin-top: 16px; margin-right: 16px"   src="{% if page.title %}{{ speaker[1].photo }}{% endif %}" >
-      </div>
-      <div class="col-md-10">
-        <h4>{% if speaker[1].name %}{{ speaker[1].name | strip_html }}{% endif %}</h4>
-        <p>{% if speaker[1].bio %}{{ speaker[1].bio | strip_html }}{% endif %}</p>
-        <p class="social-darker">
-        {% if speaker[1].blog %}<a href="{{ speaker[1].blog }}" title="Blog"><i class="fa fa-home"></i></a>{% endif %}
-        {% if speaker[1].facebook %}<a href="{{ speaker[1].facebook }}" title="Facebook"><i class="fa fa-facebook-square"></i></a>{% endif %}
-        {% if speaker[1].twitter %}<a href="{{ speaker[1].twitter }}" title="Twitter"><i class="fa fa-twitter"></i></a>{% endif %}
-        {% if speaker[1].linkedin %}<a href="{{ speaker[1].linkedin }}" title="LinkedIn"><i class="fa fa-linkedin-square"></i></a>{% endif %}
-        {% if speaker[1].google-plus %}<a href="{{ speaker[1].google-plus }}" title="Google+"><i class="fa fa-google-plus"></i></a>{% endif %}
-        </p>
+      <div class="row">
+        <div class="col-md-2">
+          <img class="pull-left figurette lazy" style="width: 160px; margin-top: 16px; margin-right: 16px"   src="{% if page.title %}{{ speaker[1].photo }}{% endif %}" >
+        </div>
+        <div class="col-md-10">
+          <h4>{% if speaker[1].name %}{{ speaker[1].name | strip_html }}{% endif %}</h4>
+          <p>{% if speaker[1].bio %}{{ speaker[1].bio | strip_html }}{% endif %}</p>
+          <p class="social-darker">
+          {% if speaker[1].blog %}<a href="{{ speaker[1].blog }}" title="Blog"><i class="fa fa-home"></i></a>{% endif %}
+          {% if speaker[1].facebook %}<a href="{{ speaker[1].facebook }}" title="Facebook"><i class="fa fa-facebook-square"></i></a>{% endif %}
+          {% if speaker[1].twitter %}<a href="{{ speaker[1].twitter }}" title="Twitter"><i class="fa fa-twitter"></i></a>{% endif %}
+          {% if speaker[1].linkedin %}<a href="{{ speaker[1].linkedin }}" title="LinkedIn"><i class="fa fa-linkedin-square"></i></a>{% endif %}
+          {% if speaker[1].google-plus %}<a href="{{ speaker[1].google-plus }}" title="Google+"><i class="fa fa-google-plus"></i></a>{% endif %}
+          </p>
+        </div>
       </div>
       {% endfor %}
     {% endfor %}

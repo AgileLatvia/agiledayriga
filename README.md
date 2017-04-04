@@ -155,12 +155,14 @@ How to setup conference schedule? :x:
 -----
 
 ### To Be Developed
-0. Fix the issue with speakers if there're no SMs defined. In this case the 2nd speaker's block is aligned improperly. :x: 
 1. Add HTML minification. :x: 
 2. Add HTTPS if possible. :heavy_minus_sign: (not available for custom domains)
-3. Add Events microdata. :heavy_check_mark: 
+3. Add Events microdata. :white_check_mark: 
+4. Fix the issue with speakers if there're no SMs defined. In this case the 2nd speaker's block is aligned improperly. :white_check_mark: 
+5. Update event schema.org markup with Eventbrite link and data. :x:
+
 
 ### To Be Done
 1. Move 2015 under standard flow.
 2. Move 2014 under standard flow.
-3. Move older conferences under standard flow.
+3. Move older conferences under standard flow. :white_check_mark: 
