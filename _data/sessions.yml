@@ -25,6 +25,23 @@
         twitter: 
         linkedin: "https://www.linkedin.com/in/razumovsky/"
         google-plus: 
+  session02:
+    order: 2
+    time: 
+    title: "Scrum as an Engine for Organizational Changes"
+    about: "When people talk about Scrum they usually discuss corresponding roles, artifacts and events. Also most of the people think that Scrum is about fast delivery. Well, actually Scrum is about radical organizational changes and optimizing business value. Proper Scrum implementation leads to changes in organizational structures, policies and processes. Also proper Scrum implementation means descaling your organization and making it a much flatter one. Not obvious why? Let’s discuss it."
+    slides: 
+    video: 
+    speakers:
+      speaker01:
+        name: "Illya Pavlichenko"
+        bio: "Agile Coach and Professional Scrum Trainer (PST) at Scrum.org. Has never worked in his life because a border between the work and life does not exist for him. During last several years Illya focused on transforming large organizations to Agile style of being. Organizer of the largest Agile meetup in Russia and Scrum Russia conference."
+        photo: "/img/speakers/illya-pavlichenko.jpg"
+        blog: "https://www.scrum.org/user/144"
+        facebook: "https://www.facebook.com/illya.pavlichenko"
+        twitter: "https://twitter.com/fancydev"
+        linkedin: 
+        google-plus:
 2016:
   session01:
     order: 1
