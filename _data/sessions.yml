@@ -87,11 +87,28 @@
       speaker01:
         name: "Uldis Karlovs-Karlovskis"
         bio: "I’ve been DevOps in some way since I was 12. Now it’s been almost 20 years applying its philosophy at everything I do."
-        photo: "/img/speakers/uldis-karlovs-karlovskis.png"
+        photo: "/img/speakers/uldis-karlovs-karlovskis.jpg"
         blog: "http://ukkaboutcm.blogspot.com/"
         facebook: 
         twitter: 
         linkedin: "https://www.linkedin.com/in/uldiskarlovskarlovskis/"
+        google-plus:
+  session06:
+    order: 6
+    time: 
+    title: "Agile Organization - Organization 3.0"
+    about: "The rules of work are changing. Organization 3.0 reflects Agility, an understanding of tribal leadership models, and a recognition that new rules are needed to navigate new organizations that are changing the world today. Teamwork, collaboration, and positive relationships are what matter. If you cannot adopt the new standards, you will be left behind. Previous organizational structures and processes also reflected their times. Organization 1.0, showed the mentality of industrialism, with stable hierarchies and rule following the norm. Organization 2.0 rewarded specialization, processes, and structure over teams and groups. The 'me first' workplace served the lucky few, but is now being replaced by a new generation, with a more thoughtful organization of our lives and work."
+    slides: 
+    video: 
+    speakers:
+      speaker01:
+        name: "Zuzana Šochová"
+        bio: "Zuzana 'Zuzi' Šochová is an independent Agile coach and trainer and a Certified Scrum Trainer with more than fifteen years of experience in the IT industry. She started with Agile and Scrum back in 2005, when she was implementing Agile methods in the USA. From that time, she has been credited with Agile transformation and implementation for many companies and teams around the world. As a Certified Scrum Trainer (CST) with Scrum Alliance, Zuzi has trained thousands of ScrumMasters and Product Owners. By creating and sustaining Agile leadership, Zuzi believes the worlds of work and life can be made happier and more successful. She is an author of The Great Scrum Master: #ScrumMasterWay book (Addison-Wesley Signature Series (Cohn)). She is a member of the Board of Directors of Scrum Alliance. She is a founder of the Agile Association (Agilni Asociace, agilniasociace.cz) Czech Republic, organizing the Agile Czech community and annual Agile Prague Conference (agileprague.com). She is a regular speaker at international conferences. The talk is based on concepts described in my new book The Great ScrumMaster."
+        photo: "/img/speakers/zuzana-sochova-2017.jpg"
+        blog: "http://sochova.cz/"
+        facebook: "http://www.facebook.com/groups/174076899296502/"
+        twitter: "https://twitter.com/zuzuzka"
+        linkedin: "http://cz.linkedin.com/in/zuzka"
         google-plus:
 2016:
   session01:
