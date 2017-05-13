@@ -5,6 +5,11 @@
       image: "/img/sponsors/evolution-gaming.png"
       url: "https://www.evolutiongaming.com/"
       promo: "Our mission is to make operators successful and provide an excellent user experience for their end-users by offering a flawless and localised Live Casino into regulated markets, on all digital platforms for online and land-based operators and their customers. Our vision is to maintain and strengthen our position as the world’s number one Live Casino provider as gaming markets continue to evolve globally."
+    sponsor02:
+      title: "Scrum Alliance"
+      image: "/img/sponsors/scrum-alliance.png" 
+      url: "http://www.scrumalliance.org/"
+      promo: "Become part of something bigger than you alone. Founded in 2001, Scrum Alliance® is the largest, most established and influential professional membership and certification organization in the Agile community. Scrum Alliance® is a nonprofit association, having certified more than 450,000 individuals worldwide. Its vision is to 'Transform the World of Work' with a mission to guide and inspire individuals, leaders, and organizations with practices, principles, and values that create workplaces that are joyful, prosperous, and sustainable. Come sprint with us at <a href='http://www.scrumalliance.org'>www.ScrumAlliance.org</a>."
   gold:
     sponsor01:
       title: "Twino"
@@ -19,11 +24,11 @@
   #     title: "Tieto"
   #     image: "/img/sponsors/tieto.png"
   #     url: "http://www.eptron.eu/"
-  info:
-    sponsor01:
-      title: "Scrum Alliance UG"
-      image: "/img/SCR20456_UserGroup_Logo-RGB-107x130.png"
-      url: "https://membership.scrumalliance.org/search/all.asp?bst=agile+latvia&c=32"
+  # info:
+  #   sponsor01:
+  #     title: "Scrum Alliance UG"
+  #     image: "/img/SCR20456_UserGroup_Logo-RGB-107x130.png"
+  #     url: "https://membership.scrumalliance.org/search/all.asp?bst=agile+latvia&c=32"
 2016:
   platinum:
     sponsor01:
