@@ -127,57 +127,74 @@
         twitter: "https://twitter.com/jasoncovington"
         linkedin: "https://www.linkedin.com/in/jasoncovington/"
         google-plus:
-  # session08:
-  #   order: 8
-  #   time: 
-  #   title: ""
-  #   about: ""
-  #   slides: 
-  #   video: 
-  #   speakers:
-  #     speaker01:
-  #       name: ""
-  #       bio: ""
-  #       photo: "/img/speakers/"
-  #       blog: ""
-  #       facebook: ""
-  #       twitter: ""
-  #       linkedin: ""
-  #       google-plus:
-  # session09:
-  #   order: 9
-  #   time: 
-  #   title: ""
-  #   about: ""
-  #   slides: 
-  #   video: 
-  #   speakers:
-  #     speaker01:
-  #       name: ""
-  #       bio: ""
-  #       photo: "/img/speakers/"
-  #       blog: ""
-  #       facebook: ""
-  #       twitter: ""
-  #       linkedin: ""
-  #       google-plus:
-  # session10:
-  #   order: 10
-  #   time: 
-  #   title: ""
-  #   about: ""
-  #   slides: 
-  #   video: 
-  #   speakers:
-  #     speaker01:
-  #       name: ""
-  #       bio: ""
-  #       photo: "/img/speakers/"
-  #       blog: ""
-  #       facebook: ""
-  #       twitter: ""
-  #       linkedin: ""
-  #       google-plus:
+  session08:
+    order: 8
+    time: 
+    title: "Learnings from Agile Transition Journey"
+    about: "Extensive product with biannual releases. Numerous customers worldwide with customised solutions including specific business and regional market requirements. More than 100 developers and 20+ years of continues product development… is a successful transition to Agile methodology possible in few months in such circumstances? Find out more about Tieto’s Learnings from Agile Transition Journey. What were we afraid of and what should we really be afraid of. What matters more: people, emotions and soft skills or practices, techniques and methodologies?"
+    slides: 
+    video: 
+    speakers:
+      speaker01:
+        name: "Romans Korsaks"
+        bio: "Romans Korsaks is Product Ownership unit Manager at Tieto. A professional experienced leader with deep knowledge of software product development, customer service and IT. Certified LeSS Practitioner, CSPO and CSM."
+        photo: "/img/speakers/romans-korsaks.jpg"
+        blog: 
+        facebook: 
+        twitter: 
+        linkedin: "https://linkedin.com/in/romankorsak"
+        google-plus:
+  session09:
+    order: 9
+    time: 
+    title: "Me and My Deadly Agile Sins"
+    about: "Over the course of past years I have gotten into trouble with my co-workers and I would like to share this with others in hope that perhaps some of these you have not yet made. Perhaps you will be able to find something to learn as well. The focus will be on 3 habits: MissDoesALot, MissKnowsALot, MissFearsALot. I will aim to present them as stories as I see them now. Sad, but true: I was not as helpful to my teams as I thought I was. It’s amazing how sometimes we get blinded by the good intentions that also contributes to raise our own ignorance and blindness. Luckily it is not all that grim and I also have a list of 10 golden rules I’d love to share. These lessons were learned while volunteering at different conventions and conferences."
+    slides: 
+    video: 
+    speakers:
+      speaker01:
+        name: "Guna Petrova"
+        bio: "I like testing / missHugsALot / Volunteer Junkee / Question Assurance (:"
+        photo: "/img/speakers/guna-petrova.jpg"
+        blog: "http://alts-notes.blogspot.com/"
+        facebook: "https://www.facebook.com/lv.alt"
+        twitter: "https://twitter.com/alt_lv"
+        linkedin: 
+        google-plus:
+  session10:
+    order: 10
+    time: 
+    title: "Coaching Clinique"
+    about: "Agiletransformer.com propose to run a coaching clinique corner during the whole day of the conference somewhere in the hall of the conference place (if it's not too loud there) or in one of the dedicated stream/room English, Latvian, Russian Coaching clinique Coahing clinique has high value because is done for practitioners by practitioners Vladimirs Ivanovs."
+    slides: 
+    video: 
+    speakers:
+      speaker01:
+        name: "Vladimir Ivanov"
+        bio: "I am Optimus Prime of the agiletransformer.com team of Agile coaches/experts. My focus in the team is mixing experience and knowledge from the past (traditional IT Management, ITIL, Project Management) with contemporary approaches such as Agile, Scrum, Lean, Kanban."
+        photo: "/img/speakers/vladimir-ivanov.png"
+        blog: 
+        facebook: 
+        twitter: "https://twitter.com/vivanovs"
+        linkedin: "https://www.linkedin.com/in/vivanov/en"
+        google-plus: "https://plus.google.com/111063784323765456395"
+  session11:
+    order: 11
+    time: 
+    title: "Learning Through Osmosis"
+    about: "Many different roles contribute to building software: product owners, business specialists. testers. Yet knowledge of programming keeps these roles at a distance. In this talk, I will share how I have come to programming: not through wanting to program and taking courses on it, but through working with programmers in a style called mob programming. This talk serves as an inspiration for programmers to invite non-programmers to learning code a layer at a time, immersed in the experience of creating software together to transform the ability to deliver. Lessons specific to skillsets rub in both ways, leaving everyone better off after the experience. In this talk, you will learn: What is mob programming and why you should care about working in that style? How to use strong-style pairing as a means of connecting everyone regardless of their programming skill level? What contributions non-programmers make in a mob before they learn to program? How I became a programmer through working in mobs at work and at community meetups over learning by studying programming?"
+    slides: 
+    video: 
+    speakers:
+      speaker01:
+        name: "Maaret Pyhäjärvi"
+        bio: "Maaret Pyhäjärvi is a software specialist with emphasis on testing. She works with a 10-person software development team at Granlund Oy as the testing specialist. On the side, she delivers hands-on testing trainings and consults on testing through Altom Consulting Oy. In addition to being an exploratory tester extraordinaire who teaches testing effectively in a mob testing format, she is an international conference speaker and an experienced organizer, facilitator and volunteer with various non-profit communities (Agile Finland, Software Testing Finland, Learn with Llew, Speak Easy, European Testing Conference) and book author, blogger and tweeter."
+        photo: "/img/speakers/maaret-pyhajarvi.jpg"
+        blog: "http://visible-quality.blogspot.com/"
+        facebook: "http://facebook.com/MaaretPy/"
+        twitter: "http://twitter.com/maaretp"
+        linkedin: "https://fi.linkedin.com/in/maaret"
+        google-plus:
 2016:
   session01:
     order: 1
