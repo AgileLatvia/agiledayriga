@@ -110,6 +110,74 @@
         twitter: "https://twitter.com/zuzuzka"
         linkedin: "http://cz.linkedin.com/in/zuzka"
         google-plus:
+  session07:
+    order: 7
+    time: 
+    title: "Lessons from Silicon Valley"
+    about: "The Silicon Valley and San Francisco are the birthplace to some of the most valuable companies in the world. Many of these companies started in a garage (Apple Computer) or in a dorm room (Facebook). The nimble, lean approach to collaboration is the key ingredient. Let’s examine some of the most successful companies in the Silicon Valley and how we can apply lessons learned there to other organizations around the world."
+    slides: 
+    video: 
+    speakers:
+      speaker01:
+        name: "Jason Covington"
+        bio: "Jason Covington grew up in Cupertino, California, in the heart of the Silicon Valley. His father was one of the first Apple Computer employees, and out of that culture of innovation and entrepreneurship, Jason saw small collaborative teams take iterative approaches to technology such as the first mobile and wireless devices and the Blackberry. Jason lives in South San Francisco and is an agile transformation leader and coach. He has led transformations at American Express, General Electric, Cisco, and many others."
+        photo: "/img/speakers/jason-covington.jpg"
+        blog: "http://www.jasoncovington.com/"
+        facebook: 
+        twitter: "https://twitter.com/jasoncovington"
+        linkedin: "https://www.linkedin.com/in/jasoncovington/"
+        google-plus:
+  # session08:
+  #   order: 8
+  #   time: 
+  #   title: ""
+  #   about: ""
+  #   slides: 
+  #   video: 
+  #   speakers:
+  #     speaker01:
+  #       name: ""
+  #       bio: ""
+  #       photo: "/img/speakers/"
+  #       blog: ""
+  #       facebook: ""
+  #       twitter: ""
+  #       linkedin: ""
+  #       google-plus:
+  # session09:
+  #   order: 9
+  #   time: 
+  #   title: ""
+  #   about: ""
+  #   slides: 
+  #   video: 
+  #   speakers:
+  #     speaker01:
+  #       name: ""
+  #       bio: ""
+  #       photo: "/img/speakers/"
+  #       blog: ""
+  #       facebook: ""
+  #       twitter: ""
+  #       linkedin: ""
+  #       google-plus:
+  # session10:
+  #   order: 10
+  #   time: 
+  #   title: ""
+  #   about: ""
+  #   slides: 
+  #   video: 
+  #   speakers:
+  #     speaker01:
+  #       name: ""
+  #       bio: ""
+  #       photo: "/img/speakers/"
+  #       blog: ""
+  #       facebook: ""
+  #       twitter: ""
+  #       linkedin: ""
+  #       google-plus:
 2016:
   session01:
     order: 1
