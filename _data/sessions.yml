@@ -195,6 +195,23 @@
         twitter: "http://twitter.com/maaretp"
         linkedin: "https://fi.linkedin.com/in/maaret"
         google-plus:
+  session12:
+    order: 12
+    time: 
+    title: "Leadership Begins with Responsibility"
+    about: "Are you stuck or facing problems in life? Would you like to learn to lead yourself and others better? Are you wondering how to get your sub-ordinates to take more responsibility? Would you like to live a life of freedom? Then join this talk, and learn about Christopher Avery's Responsibility Process. It is a psychological process, that explains how we all naturally react to problems, and how our brains create obstacles for us in taking responsibility. Understanding and practicing Responsibility may help in: Leading yourself and others, Building teams, Understanding organizations, Breaking through problems, Understanding behaviours such as blaming and shaming, Living a life of freedom, power, and choice"
+    slides: 
+    video: 
+    speakers:
+      speaker01:
+        name: "Ari Tanninen"
+        bio: "Ari Tanninen is a humane engineer, a product developer, and a trainer at JCI Finland. Early in his career Ari's plan was to save the planet with perfect software and Agile methods. Then after bumping his head on organizations he graduated to advocating lean and systems thinking. In later years, he has moved on user-centered design, and to human beings. It turns out, that free, motivated and empowered human beings are the core of everything. Which brings us to The Responsibility Process, which Ari has practised for 2,5 years."
+        photo: "/img/speakers/ari-tanninen-2017.png"
+        blog: "http://stopandfix.blogspot.com/"
+        facebook: 
+        twitter: "http://twitter.com/aritanninen"
+        linkedin: "http://fi.linkedin.com/in/aritanninen"
+        google-plus: "https://plus.google.com/+AriTanninen"
 2016:
   session01:
     order: 1
