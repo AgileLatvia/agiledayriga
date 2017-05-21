@@ -212,6 +212,23 @@
         twitter: "http://twitter.com/aritanninen"
         linkedin: "http://fi.linkedin.com/in/aritanninen"
         google-plus: "https://plus.google.com/+AriTanninen"
+  session13:
+    order: 13
+    time: 
+    title: "Code Smells - Developing Design Sense for your Code"
+    about: "'In order to make delicious food,you must eat delicious food…. you need to develop a palate capable of discerning good and bad. Without good taste, you can't make good food.' - Jiro Ono (World’s Best Sushi Chef). The same is true for great code. If we want to make great code we need a refined palate for what great code looks like. We need to look at code and develop a sense for it’s properties and smells. Sadly this is rarely ever done. Programmers are expected to just 'know' what is good and what is bad with ever getting a chance to develop and curate an aesthetic sense. Worse, code is rarely looked at unless it is causing us problems so we are expected to be gourmets while spending our time eating at McDonalds. Come work on your sense of code. We will look at many snippets to compare and contrast different aspects of what good code is. Learning Outcomes: How to identify and correct, Clutter, Long lines, Long Methods, Bad Names, Duplication, Inconsistency."
+    slides: 
+    video: 
+    speakers:
+      speaker01:
+        name: "Llewellyn Falco"
+        bio: "Llewellyn Falco is an Agile Technical Coach specializing in Legacy Code and Test Driven Development. He is the creator of the open source testing tool ApprovalTests (www.approvaltests.com), co-founder of TeachingKidsProgram (www.teachingkidsprogramming.org) and a PluralSight author."
+        photo: "/img/speakers/llewellyn-falco.jpg"
+        blog: "http://llewellynfalco.blogspot.com/"
+        facebook: 
+        twitter: "https://twitter.com/LlewellynFalco"
+        linkedin: "https://www.linkedin.com/in/llewellyn-falco-406742/"
+        google-plus: 
 2016:
   session01:
     order: 1
