@@ -148,13 +148,13 @@
     order: 9
     time: 
     title: "Me and My Deadly Agile Sins"
-    about: "Over the course of past years I have gotten into trouble with my co-workers and I would like to share this with others in hope that perhaps some of these you have not yet made. Perhaps you will be able to find something to learn as well. The focus will be on 3 habits: MissDoesALot, MissKnowsALot, MissFearsALot. I will aim to present them as stories as I see them now. Sad, but true: I was not as helpful to my teams as I thought I was. It’s amazing how sometimes we get blinded by the good intentions that also contributes to raise our own ignorance and blindness. Luckily it is not all that grim and I also have a list of 10 golden rules I’d love to share. These lessons were learned while volunteering at different conventions and conferences."
+    about: "Over the course of past years I have gotten into trouble with my co-workers and I would like to share this with others in hope that perhaps some of these you have not yet made. The focus will be on 3 habits: MissDoesALot, MissKnowsALot, MissFearsALot. I will list the negative downsides, how to identify and some steps to take to improve from there. My personal conclusion is that I was not as helpful to my teams as I have hoped. It’s amazing how sometimes one gets blinded by the good intentions that also contributes to growth of own ignorance and blindness. Luckily it is not all that grim and I have a list of 10 golden rules I’d love to share. These lessons were learned while volunteering at different conventions and conferences. Cheers!"
     slides: 
     video: 
     speakers:
       speaker01:
         name: "Guna Petrova"
-        bio: "I like testing / missHugsALot / Volunteer Junkee / Question Assurance (:"
+        bio: "I like to test, volunteer and give hugs. I have also been described as 'Question Assurance'. The testing world is like great ocean of knowledge. To keep your ship afloat one needs to experiment and adapt to the waves coming your way."
         photo: "/img/speakers/guna-petrova.jpg"
         blog: "http://alts-notes.blogspot.com/"
         facebook: "https://www.facebook.com/lv.alt"
@@ -165,13 +165,13 @@
     order: 10
     time: 
     title: "Coaching Clinique"
-    about: "Agiletransformer.com propose to run a coaching clinique corner during the whole day of the conference somewhere in the hall of the conference place (if it's not too loud there) or in one of the dedicated stream/room English, Latvian, Russian Coaching clinique Coahing clinique has high value because is done for practitioners by practitioners Vladimirs Ivanovs."
+    about: "Coaches’ Clinics are a unique and free service designed to help you with specific challenges you’ve encountered on your way to a more Agile way of working. Organized by Agiletransformer.com training and coaching community, these short coaching sessions are available during our event that our coaches and trainers attend to support the Agile Latvia community. Based on their individual needs, participants are matched with volunteer coaches, to discuss technical practices, organizational change, Scrum, Kanban, Agile Coaching as a career, and topics such as breaking down development silos to coordinating multiple teams and educating upper management for enhanced agility."
     slides: 
     video: 
     speakers:
       speaker01:
         name: "Vladimir Ivanov"
-        bio: "Coaches’ Clinics are a unique and free service designed to help you with specific challenges you’ve encountered on your way to a more Agile way of working. Organized by Agiletransformer.com training and coaching community, these short coaching sessions are available during our event that our coaches and trainers attend to support the Agile Latvia community. Based on their individual needs, participants are matched with volunteer coaches, to discuss technical practices, organizational change, Scrum, Kanban, Agile Coaching as a career, and topics such as breaking down development silos to coordinating multiple teams and educating upper management for enhanced agility."
+        bio: "Vladimirs Ivanovs (40), have realised that I am the 'fox' and as philosopher Isaiah Berlin puts it 'the fox knows many things, but the hedgehog knows one big thing'. Since then I’ve started to form teams with the 'hedgehog focus'. agiletransofrmer.com is a perfect hedgehog, as is formed by the practitioners for the practitioners around one big thing – Agile (closely connected to Lean and Kanban). I love exploring cross-cultural differences and travel, so I do that in a form of 'workations' – public speaking on conferences + site seeing. Events are not only Agile related (also IPMA, PMI, itSMF, IT) in the following countries: Latvia, Lithuania, Estonia, Sweden, UK, Germany, Netherlands, Croatia, Czech Republic, Poland, Ukraine, Belarus, Russia, Kazakhstan, India."
         photo: "/img/speakers/vladimir-ivanov.png"
         blog: 
         facebook: 
