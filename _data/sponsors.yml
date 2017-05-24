@@ -11,19 +11,19 @@
       url: "http://www.scrumalliance.org/"
       promo: "Become part of something bigger than you alone. Founded in 2001, Scrum Alliance® is the largest, most established and influential professional membership and certification organization in the Agile community. Scrum Alliance® is a nonprofit association, having certified more than 450,000 individuals worldwide. Its vision is to 'Transform the World of Work' with a mission to guide and inspire individuals, leaders, and organizations with practices, principles, and values that create workplaces that are joyful, prosperous, and sustainable. Come sprint with us at <a href='http://www.scrumalliance.org'>www.ScrumAlliance.org</a>."
   gold:
-    # sponsor01:
-    #   title: "Twino"
-    #   image: "/img/sponsors/twino.png"
-    #   url: "https://join.twino.eu/en/"
+    sponsor01:
+      title: "Accenture"
+      image: "/img/sponsors/accenture.png"
+      url: "http://www.accenture.lv/"
     sponsor02:
       title: "4finance"
       image: "/img/sponsors/4finance.png"
       url: "http://www.4finance.com/"
-  # silver:
-  #   sponsor01:
-  #     title: "Tieto"
-  #     image: "/img/sponsors/tieto.png"
-  #     url: "http://www.eptron.eu/"
+  silver:
+    sponsor01:
+      title: "Tieto"
+      image: "/img/sponsors/tieto.png"
+      url: "http://www.eptron.eu/"
   # info:
   #   sponsor01:
   #     title: "Scrum Alliance UG"
