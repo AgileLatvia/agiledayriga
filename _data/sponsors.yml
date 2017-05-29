@@ -5,25 +5,36 @@
       image: "/img/sponsors/evolution-gaming.png"
       url: "https://www.evolutiongaming.com/"
       promo: "Our mission is to make operators successful and provide an excellent user experience for their end-users by offering a flawless and localised Live Casino into regulated markets, on all digital platforms for online and land-based operators and their customers. Our vision is to maintain and strengthen our position as the world’s number one Live Casino provider as gaming markets continue to evolve globally."
-    sponsor02:
+    sponsor02: # temporary solution
+      title: "Tieto"
+      image: "/img/sponsors/tieto-2017-small.png"
+      url: "http://www.tieto.com"
+      promo: "Tieto aims to capture the significant opportunities of the data-driven world and turn them into lifelong value for people, business and society. Having a strong role in the ecosystems, we use our software and services capabilities to create tools and services that simplify everyday life of millions of people; to help our customers renew their businesses by capturing the opportunities of modernization, digitalization and innovation and to foster new opportunities based on openness, co-innovation and ecosystems."
+    sponsor03:
+      title: "Accenture"
+      image: "/img/sponsors/accenture.png"
+      url: "http://www.accenture.lv/"
+      promo: "Accenture is a leading global professional services company, providing a broad range of services and solutions in strategy, consulting, digital, technology and operations. With approximately 401,000 people serving clients in more than 120 countries, Accenture drives innovation to improve the way the world works and lives. Accenture Latvia was founded in 2002. Last November, the company welcomed its 1000.employee.Visit us at www.accenture.lv."
+    sponsor04:
       title: "Scrum Alliance"
       image: "/img/sponsors/scrum-alliance.png" 
       url: "http://www.scrumalliance.org/"
       promo: "Become part of something bigger than you alone. Founded in 2001, Scrum Alliance® is the largest, most established and influential professional membership and certification organization in the Agile community. Scrum Alliance® is a nonprofit association, having certified more than 450,000 individuals worldwide. Its vision is to 'Transform the World of Work' with a mission to guide and inspire individuals, leaders, and organizations with practices, principles, and values that create workplaces that are joyful, prosperous, and sustainable. Come sprint with us at <a href='http://www.scrumalliance.org'>www.ScrumAlliance.org</a>."
   gold:
-    sponsor01:
-      title: "Accenture"
-      image: "/img/sponsors/accenture.png"
-      url: "http://www.accenture.lv/"
+    # sponsor01:
+    #   title: "Accenture"
+    #   image: "/img/sponsors/accenture.png"
+    #   url: "http://www.accenture.lv/"
     sponsor02:
       title: "4finance"
       image: "/img/sponsors/4finance.png"
       url: "http://www.4finance.com/"
   silver:
-    sponsor01:
-      title: "Tieto"
-      image: "/img/sponsors/tieto.png"
-      url: "http://www.eptron.eu/"
+    # sponsor01:
+    #   title: "Tieto"
+    #   image: "/img/sponsors/tieto-2017.png"
+    #   url: "http://www.tieto.com"
+    #   promo: "aaa"
   # info:
   #   sponsor01:
   #     title: "Scrum Alliance UG"
