@@ -229,6 +229,23 @@
         twitter: "https://twitter.com/LlewellynFalco"
         linkedin: "https://www.linkedin.com/in/llewellyn-falco-406742/"
         google-plus: 
+  session14:
+    order: 14
+    time: 
+    title: "Large-Scale Scrum simulation with LEGO!"
+    about: "Since invented in 2009 lego4scrum has become a very popular simulation to teach Scrum. Nowadays how to get several teams to scrum, seems, is no longer a secret. Though knowing how to make agile work in a large-scale multi-team environment is. So In 2016 I was able to scale lego4scrum to over 155 people (22 development teams) all building an overall product. This approach is described in a newly released book called (what a suprise!): 'lego4scrum'. This practical session we will simulated a large-scale environment with 10+ teams (we need your help - please come to this session!). What will we be doing: working closely with the market representatives to know their needs, achieving shared understanding of a product with 10+ teams working together, setting up a suitable (flat) organizational structure capable of delivering, putting a lightweight process on top that is barely enough but enables self-management, building a working product that satisfies the market needs. Great helpers here are understanding complexity and system thinking, knowing how Scrum really works on the team-level, and few core ideas from LeSS framework, such as: an overall product backlog, a single Product Owner, joint team meetings."
+    slides: 
+    video: 
+    speakers:
+      speaker01:
+        name: "Alexey Krivitsky"
+        bio: "Agile Coach and Certified Scrum Trainer at www.agiletrainings.eu ,the author of the mini-book Agile Retrospective Kickstarter and a hands-on Lean-Agile practitioner with the first Scrum experiment dated back to 2003-2005. Alexey kicked off the AgileUkraine community in 2007, co-produced dozens of Agile events, including the sounding Agile Eastern Europe Conferences. Also he is inventor of a simulation #lego4scrum and creator of a coaching tool Agile Coaching Canvas."
+        photo: "/img/speakers/alexey-krivitsky.jpg"
+        blog: 
+        facebook: "https://www.facebook.com/alexey.krivitsky.1"
+        twitter: "https://twitter.com/alexeykri"
+        linkedin: "https://www.linkedin.com/in/alexeykrivitsky"
+        google-plus: 
 2016:
   session01:
     order: 1
