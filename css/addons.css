@@ -13,7 +13,7 @@
   color: #333333;
 }
 /* Sponsors section subtitles */
-.sponsors-subtitle h2, h3 {
+.sponsors-subtitle {
 	font-size: 34px;
 	text-align: center;
 	margin-top: 2px;
