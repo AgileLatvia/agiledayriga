@@ -94,19 +94,38 @@ If we know the venue then we can put it on our site. In order to do that follow 
 ## Step 6
 Time for the sponsors, if there're some of them at the moment. 
 
-1. Open `index.html` and set `sponsors-block` variable to `on`.
+1. Open `index.html` and set `sponsors-block` variable to `on`. By doind this you will enable this block on the conference page as well as menu item for this section.
 2. Then open `_data/sponsors.yml`
 3. Create a section for the conference year you need and start to add data.
 4. It should be taken into consideration that we have several levels of sponsorship: platinum, gold, silver, info. There're differences between how the sponsors will be displayed based on level of the sponsorship: platinum sponsors have the biggest size of the logo and the additional text; silver and info have smallest size of logos; gold is somewhere in between.
 5. Sponsors logos shoul be stored in `img/sponsors/`. Adding logos do not forget to make them of equal height and center the logo both vertically and horizontally.
+6. There are two more options to alter how this block will be rendered:
+6.1. `show-subtitles` will display the sponsors section sub titles, if they are provided.
+6.2. `show-captions` will display the promo text provided by sponsor. It's a default way of rendering for platinum sponsors, but it can be enabled for gold and silver sponsors by setting this parameter to `on`.
 
 Here's an example:
 ```
+2017:
+  show-subtitles: "true"
+  platinum:
+    title: "Platinum Sponsors"
+    sponsor01:
+      title: "Evolution Gaming"
+      image: "/img/sponsors/evolution-gaming.png"
+      url: "https://www.evolutiongaming.com/"
+      promo: "Some promo text here."
   gold:
+    show-captions: "true"
     sponsor01:
       title: "Twino"
       image: "/img/sponsors/twino.png"
       url: "https://join.twino.eu/en/"
+      promo: "Another promo text here."
+  silver:
+    sponsor01:
+      title: "Scrum Alliance"
+      image: "/img/sponsors/scrum-alliance.png" 
+      url: "http://www.scrumalliance.org/"
 ```
 
 ## Step 7

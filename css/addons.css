@@ -12,3 +12,10 @@
   text-decoration: none;
   color: #333333;
 }
+/* Sponsors section subtitles */
+.sponsors-subtitle h2, h3 {
+	font-size: 34px;
+	text-align: center;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
