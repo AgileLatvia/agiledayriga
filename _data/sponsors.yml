@@ -33,12 +33,12 @@
       image: "/img/sponsors/tieto-2017-small.png"
       url: "http://www.tieto.com"
       promo: "Tieto aims to capture the significant opportunities of the data-driven world and turn them into lifelong value for people, business and society. Having a strong role in the ecosystems, we use our software and services capabilities to create tools and services that simplify everyday life of millions of people; to help our customers renew their businesses by capturing the opportunities of modernization, digitalization and innovation and to foster new opportunities based on openness, co-innovation and ecosystems."
-  # info:
-  #   title: "Info Sponsors"
-  #   sponsor01:
-  #     title: "Scrum Alliance UG"
-  #     image: "/img/SCR20456_UserGroup_Logo-RGB-107x130.png"
-  #     url: "https://membership.scrumalliance.org/search/all.asp?bst=agile+latvia&c=32"
+  info:
+    title: "Info Sponsors"
+    sponsor01:
+      title: "Refresh"
+      image: "/img/sponsors/refresh.png"
+      url: "http://refresh.rocks/"
 2016:
   platinum:
     sponsor01:
