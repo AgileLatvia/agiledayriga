@@ -39,6 +39,10 @@
       title: "Refresh"
       image: "/img/sponsors/refresh.png"
       url: "http://refresh.rocks/"
+    sponsor02:
+      title: "LikeIT"
+      image: "/img/sponsors/likeit.png"
+      url: "http://www.likeit.lv/"
 2016:
   platinum:
     sponsor01:

@@ -19,3 +19,18 @@
 	margin-top: 2px;
 	margin-bottom: 2px;
 }
+/* Verical alighment of logos */
+.logo-info-box {
+	height: 172px;
+	position: relative;
+}
+.logo {
+	position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    /*width: 50%;
+    height: 30%;*/
+    margin: auto;
+}

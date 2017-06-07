@@ -131,10 +131,10 @@
       {% for infos in site.data.sponsors[page.year].info %}
       {% assign infos_counter = infos_counter | plus: 1 %}
       {% if infos_counter == 5 or infos_counter == 9 or infos_counter == 13 %}</div><div class="inner-page row">{% endif %}
-      <div class="col-md-2">
-        <a href="{{ infos[1].url }}" title="{{ infos[1].title }}" target="_blank"><img class="lazy" src="{{ infos[1].image }}" alt="{{ infos[1].title }}"></a>
+      <div class="col-md-2 logo-info-box">
+        <a href="{{ infos[1].url }}" title="{{ infos[1].title }}" target="_blank"><img class="lazy logo" src="{{ infos[1].image }}" alt="{{ infos[1].title }}"></a>
       </div>
-      <div class="col-md-1"></div>
+      <div class="col-md-1 logo-info-box"></div>
       {% endfor %}
 
       {% if infos_qnt > 0 %}</div>{% endif %}
