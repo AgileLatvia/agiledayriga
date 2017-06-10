@@ -6,7 +6,7 @@
       <h2 class="page-headline">Schedule</h2>
     </div>
     {% if page.year > 2011 %}
-      {% if page.schedule-status == "on" %}
+    {% if page.schedule-status == "on" %}
     <div class="inner-page">
       <div class="col-md-12">
         <p class="lead">
@@ -17,12 +17,22 @@
     {% endif %}
     {% endif %}
 
+    <!-- Days -->
+    <!-- check how it done on sponsors page 
+      
+      {% if site.data.sponsors[page.year].show-subtitles == "true" %}
+      <div class="inner-page">
+        <h3 class="sponsors-subtitle">{{ site.data.sponsors[page.year].gold.title }}</h3>
+      </div>{% endif %}
+
+    -->
+
     <!-- Sessions -->
     <div class="row inner-page">
     {% for session in site.data.sessions[page.year] %}
       <hr class="col-md-12">
       <div id="{{ session[0] }}" class="col-md-12">
-      	<h3>{% if session[1].title %}{{ session[1].title | strip_html }}{% endif %}{% if session[1].time %} ({{ session[1].time | strip_html }}){% endif %}</h3>
+      	<h3>{% if session[1].title %}{{ session[1].title | strip_html }}{% endif %}{% if session[1].time %} ({{ session[1].time | strip_html }};{% if session[1].place %} {{ session[1].place | strip_html }}{% endif %}){% endif %}</h3>
       	<p>{% if session[1].about %}{{ session[1].about | strip_html }}{% endif %}</p>
 		<p class="social-darker">
 		  {% if session[1].slides %}<a href="{{ session[1].slides }}" title="Slides"><i class="fa fa-file-text"></i></a>{% endif %}

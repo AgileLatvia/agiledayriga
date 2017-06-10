@@ -1,7 +1,80 @@
 2017:
-  session01:
+  session11:
     order: 1
-    time: 
+    time: "10:00 - 11:00"
+    place: "Daugava 1+2"
+    title: "Learning Through Osmosis"
+    about: "Many different roles contribute to building software: product owners, business specialists. testers. Yet knowledge of programming keeps these roles at a distance. In this talk, I will share how I have come to programming: not through wanting to program and taking courses on it, but through working with programmers in a style called mob programming. This talk serves as an inspiration for programmers to invite non-programmers to learning code a layer at a time, immersed in the experience of creating software together to transform the ability to deliver. Lessons specific to skillsets rub in both ways, leaving everyone better off after the experience. In this talk, you will learn: What is mob programming and why you should care about working in that style? How to use strong-style pairing as a means of connecting everyone regardless of their programming skill level? What contributions non-programmers make in a mob before they learn to program? How I became a programmer through working in mobs at work and at community meetups over learning by studying programming?"
+    slides: 
+    video: 
+    speakers:
+      speaker01:
+        name: "Maaret Pyhäjärvi"
+        bio: "Maaret Pyhäjärvi is a software specialist with emphasis on testing. She works with a 10-person software development team at Granlund Oy as the testing specialist. On the side, she delivers hands-on testing trainings and consults on testing through Altom Consulting Oy. In addition to being an exploratory tester extraordinaire who teaches testing effectively in a mob testing format, she is an international conference speaker and an experienced organizer, facilitator and volunteer with various non-profit communities (Agile Finland, Software Testing Finland, Learn with Llew, Speak Easy, European Testing Conference) and book author, blogger and tweeter."
+        photo: "/img/speakers/maaret-pyhajarvi.jpg"
+        blog: "http://visible-quality.blogspot.com/"
+        facebook: "http://facebook.com/MaaretPy/"
+        twitter: "http://twitter.com/maaretp"
+        linkedin: "https://fi.linkedin.com/in/maaret"
+        google-plus:
+  session03:
+    order: 2
+    time: "11:15 - 12:00"
+    place: "Daugava 1"
+    title: "Leadership, Complexity, LeSS"
+    about: "This session focuses on common root causes that create unintended and unseen complexity in organizations. This complexity is disguised in the form of good management practices, and good intentions and local optimizations. We use one case to describe the rise of complexity and the death of a company Nokia Mobile Phones. Then we show that this pattern can be generalized to any growing company that does not pay attention how to grow. Next, we take a look at Large-Scale Scrum (LeSS) framework and how it avoids building complexity in an organization by being minimalistic and starting the change by real change instead of change theater. Then we look at forces in LeSS that create ownership of change in the organization. We use real life case examples to describe how this is achieved and what key leadership actions are needed to happen, so the change is sustainable. Learning objectives: Insight how LeSS and new leadership thinking is used to simplify the organization."
+    slides: 
+    video: 
+    speakers:
+      speaker01:
+        name: "Ran Nyman"
+        bio: "Ran Nyman is an experienced software professional who has worked since 1995 in professional software development field. First programs he wrote in CP/M operating system using BASIC language in the middle of eighties. Since then he moved to more modern languages like C, C++, and Java. Ran has extensive experience in design patterns, UML, distributed systems, Test Driven Development and Specification by Example, Executable Requirements (also know as Acceptance Test Driven Development). Currently, Ran is working as a consultant and trainer helping large multinational organizations to move from sequential product development to more agile ways of working. The primary focus has been on how to move big products (over 100 people) to use Large-Scale Scrum (LeSS) and Lean. This work includes giving wide range of trainings, workshops, team coaching and management consulting."
+        photo: "/img/speakers/ran-nyman.jpg"
+        blog: "http://gosei.fi/en/blog/"
+        facebook: 
+        twitter: "https://twitter.com/ran_nyman"
+        linkedin: "https://www.linkedin.com/in/rannyman"
+        google-plus:
+  session02:
+    order: 3
+    time: "11:15 - 12:00"
+    place: "Daugava 2"
+    title: "Scrum as an Engine for Organizational Changes"
+    about: "When people talk about Scrum they usually discuss corresponding roles, artifacts and events. Also most of the people think that Scrum is about fast delivery. Well, actually Scrum is about radical organizational changes and optimizing business value. Proper Scrum implementation leads to changes in organizational structures, policies and processes. Also proper Scrum implementation means descaling your organization and making it a much flatter one. Not obvious why? Let’s discuss it."
+    slides: 
+    video: 
+    speakers:
+      speaker01:
+        name: "Illia Pavlichenko"
+        bio: "Agile Coach and Professional Scrum Trainer (PST) at Scrum.org. Has never worked in his life because a border between the work and life does not exist for him. During last several years Illia focused on transforming large organizations to Agile style of being. Organizer of the largest Agile meetup in Russia and Scrum Russia conference."
+        photo: "/img/speakers/illya-pavlichenko.jpg"
+        blog: "https://www.scrum.org/user/144"
+        facebook: "https://www.facebook.com/illya.pavlichenko"
+        twitter: "https://twitter.com/fancydev"
+        linkedin: 
+        google-plus:
+  session09:
+    order: 4
+    time: "11:15 - 12:00"
+    place: "Casino"
+    title: "Me and My Deadly Agile Sins"
+    about: "Over the course of past years I have gotten into trouble with my co-workers and I would like to share this with others in hope that perhaps some of these you have not yet made. The focus will be on 3 habits: MissDoesALot, MissKnowsALot, MissFearsALot. I will list the negative downsides, how to identify and some steps to take to improve from there. My personal conclusion is that I was not as helpful to my teams as I have hoped. It’s amazing how sometimes one gets blinded by the good intentions that also contributes to growth of own ignorance and blindness. Luckily it is not all that grim and I have a list of 10 golden rules I’d love to share. These lessons were learned while volunteering at different conventions and conferences. Cheers!"
+    slides: 
+    video: 
+    speakers:
+      speaker01:
+        name: "Guna Petrova"
+        bio: "I like to test, volunteer and give hugs. I have also been described as 'Question Assurance'. The testing world is like great ocean of knowledge. To keep your ship afloat one needs to experiment and adapt to the waves coming your way."
+        photo: "/img/speakers/guna-petrova.jpg"
+        blog: "http://alts-notes.blogspot.com/"
+        facebook: "https://www.facebook.com/lv.alt"
+        twitter: "https://twitter.com/alt_lv"
+        linkedin: 
+        google-plus:         
+  session01:
+    order: 5
+    time: "12:00 - 13:00"
+    place: "Daugava 1" 
     title: "Nexus: How We Do Scrum with 150+ People"
     about: "Nexus is a framework for scaled Scrum developed by Scrum co-creator Ken Schwaber and Scrum.org community. It addresses the most painful problems of scaled development – dealing with dependencies and building 'Done' integrated software every iteration. In our short talk, we are going to explain the key concepts of Nexus and illustrate them with our own case study where 150+ people successfully do Scrum to build software for a big North American retail company using Nexus."
     slides: 
@@ -25,60 +98,28 @@
         twitter: 
         linkedin: "https://www.linkedin.com/in/razumovsky/"
         google-plus: 
-  session02:
-    order: 2
-    time: 
-    title: "Scrum as an Engine for Organizational Changes"
-    about: "When people talk about Scrum they usually discuss corresponding roles, artifacts and events. Also most of the people think that Scrum is about fast delivery. Well, actually Scrum is about radical organizational changes and optimizing business value. Proper Scrum implementation leads to changes in organizational structures, policies and processes. Also proper Scrum implementation means descaling your organization and making it a much flatter one. Not obvious why? Let’s discuss it."
+  session15:
+    order: 6
+    time: "12:00 - 13:00"
+    place: "Daugava 2" 
+    title: "How Scrum Can Help Me to Save Money on the Long Term?"
+    about: "It was almost midnight when I heard my phone ringing. For my clients from the other part of the Globe it was middle of the day. And not a particular good one. Nothing was working for them because of a bug. What bug? Well, a bug which appeared when they tried to use the application with their new file format. Apparently this blocked their entire system. Damn (!!!) (sigh), not much to do at this hour, I thought, let’s wait for the morning to come to have the chance to talk with the development team, hoping that we will still meet our SLAs. Morning came and I called the technical guys. What ?? Only Alex can solve the problem and he is on holiday?? And he is coming back in two weeks??… As you can imagine, there was no happy end. And the company had to pay a lot of money for not respecting our SLAs. Does the story above sound familiar to you? Unfortunately, I am sure that many of you know what I am talking about. In this presentation we will discuss how to measure the cost of owning a software application and how to decrease this cost as much as possible. For measuring how much a software application costs, instead of considering only the purchase price of an object, the complete cost from purchase to disposal have to be summed up. This calculation is called Total Cost of Ownership, abbreviated TCO, and is designed to help in financial decisions by giving a picture of the profitability over time."
     slides: 
     video: 
     speakers:
       speaker01:
-        name: "Illia Pavlichenko"
-        bio: "Agile Coach and Professional Scrum Trainer (PST) at Scrum.org. Has never worked in his life because a border between the work and life does not exist for him. During last several years Illia focused on transforming large organizations to Agile style of being. Organizer of the largest Agile meetup in Russia and Scrum Russia conference."
-        photo: "/img/speakers/illya-pavlichenko.jpg"
-        blog: "https://www.scrum.org/user/144"
-        facebook: "https://www.facebook.com/illya.pavlichenko"
-        twitter: "https://twitter.com/fancydev"
-        linkedin: 
-        google-plus:
-  session03:
-    order: 3
-    time: 
-    title: "Leadership, Complexity, LeSS"
-    about: "This session focuses on common root causes that create unintended and unseen complexity in organizations. This complexity is disguised in the form of good management practices, and good intentions and local optimizations. We use one case to describe the rise of complexity and the death of a company Nokia Mobile Phones. Then we show that this pattern can be generalized to any growing company that does not pay attention how to grow. Next, we take a look at Large-Scale Scrum (LeSS) framework and how it avoids building complexity in an organization by being minimalistic and starting the change by real change instead of change theater. Then we look at forces in LeSS that create ownership of change in the organization. We use real life case examples to describe how this is achieved and what key leadership actions are needed to happen, so the change is sustainable. Learning objectives: Insight how LeSS and new leadership thinking is used to simplify the organization."
-    slides: 
-    video: 
-    speakers:
-      speaker01:
-        name: "Ran Nyman"
-        bio: "Ran Nyman is an experienced software professional who has worked since 1995 in professional software development field. First programs he wrote in CP/M operating system using BASIC language in the middle of eighties. Since then he moved to more modern languages like C, C++, and Java. Ran has extensive experience in design patterns, UML, distributed systems, Test Driven Development and Specification by Example, Executable Requirements (also know as Acceptance Test Driven Development). Currently, Ran is working as a consultant and trainer helping large multinational organizations to move from sequential product development to more agile ways of working. The primary focus has been on how to move big products (over 100 people) to use Large-Scale Scrum (LeSS) and Lean. This work includes giving wide range of trainings, workshops, team coaching and management consulting."
-        photo: "/img/speakers/ran-nyman.jpg"
-        blog: "http://gosei.fi/en/blog/"
+        name: "Raluca Bejan"
+        bio: "I am an awesome speaker :)! Besides this, I have more than 10 years experience in Agile and Scrum in various software engineers projects. Besides this, I really believe in Scrum and because of this I am very involved in making people believe and understand what I am presenting."
+        photo: "/img/speakers/raluca-bejan.png"
+        blog: "https://beginwithend.wordpress.com/"
         facebook: 
-        twitter: "https://twitter.com/ran_nyman"
-        linkedin: "https://www.linkedin.com/in/rannyman"
-        google-plus:
-  session04:
-    order: 4
-    time: 
-    title: "Remote Team Facilitation and Scaled Scrum: How to Make It Work!"
-    about: "Near-, and off-shoring introduces complexity in scrum teams. When we scale scrum, this complexity is amplified and drastically reduces meeting efficiency. Is there a silver bullet to make remote teams high-performant in a (scaled) scrum environment? When facilitating agile workshops, you probably experienced the difficulties of keeping the remote participants involved. And maybe you also know how hard it is to facilitate a highly interactive session with more than 50 people? Or how much harder it gets when 10 of them are connected remotely? I learned time after time participants feel left out, not listened to or find it impossible to follow discussions. Your sessions, intended to boost productivity, demotivate your remote teams. Join this talk if you are a facilitator working with one or more near-shore teams. I will share my day-to-day experiences and insights that will help you to involve your remote teams."
-    slides: 
-    video: 
-    speakers:
-      speaker01:
-        name: "Roland Flemm"
-        bio: "My technical background in development and infrastructure spans a period of more than 20 years, but more relevant are the 7 years I am working as a scrum master and agile coach. I worked on numerous projects in various international companies, mainly in the banking industry. All of the projects I contributed to, near/and offshoring was involved. Currently I am working as an independent consultant in the role of Agile coach for the CX-tribe of Backbase R&D (Amsterdam). Backbase has 3 near-shore teams in Kiev at Levi-9. I have build up a reputation for a “non-compromise Agility” approach. I was very fortunate to work closely in projects with renowned Dutch agilists like Cesario Ramos and Adrie Dolman."
-        photo: "/img/speakers/roland-flemm.png"
-        blog: "http://www.dcme.nu/"
-        facebook: "https://www.facebook.com/roland.flemm"
         twitter: 
-        linkedin: "https://www.linkedin.com/in/rolandflemm"
+        linkedin: "https://www.linkedin.com/in/raluca-nicoleta-bejan-ioan-9a123a6/"
         google-plus:
   session05:
-    order: 5
-    time: 
+    order: 7
+    time: "12:00 - 13:00"
+    place: "Casino"  
     title: "DevOps at Scale applied in Bunnyworld"
     about: "DevOps at Scale as a problem to solve is becoming more relevant every day. Although there isn’t that much of information how to do it on real multi-project. When I try to address it, techy geeks get into techy rumble and forget what was the question about. This talk abstracts from technology and focuses purely on cultural and organizational topics in a fun way. 'So… meet delivery lead John. He got a brilliant idea - how basically from nothing to make the cutest bunny in the world.'"
     slides: 
@@ -93,26 +134,28 @@
         twitter: 
         linkedin: "https://www.linkedin.com/in/uldiskarlovskarlovskis/"
         google-plus:
-  session06:
-    order: 6
-    time: 
-    title: "Agile Organization - Organization 3.0"
-    about: "The rules of work are changing. Organization 3.0 reflects Agility, an understanding of tribal leadership models, and a recognition that new rules are needed to navigate new organizations that are changing the world today. Teamwork, collaboration, and positive relationships are what matter. If you cannot adopt the new standards, you will be left behind. Previous organizational structures and processes also reflected their times. Organization 1.0, showed the mentality of industrialism, with stable hierarchies and rule following the norm. Organization 2.0 rewarded specialization, processes, and structure over teams and groups. The 'me first' workplace served the lucky few, but is now being replaced by a new generation, with a more thoughtful organization of our lives and work."
+  session16:
+    order: 8
+    time: "13:00 - 14:00"
+    place: "Daugava 1"
+    title: "Rethinking Agile Leadership"
+    about: "The Agile world seems to have recently discovered the importance of 'leadership'. This can be very good news and it can also very bad news. It's bad news if the so-called 'Agile Leadership' is a way to rebrand traditional management models, along with their underlying mindset, so that they could survive in a rather different cultural ecosystem — namely, Agile. On the other hand, this interest can be very good news if Agile Leadership is seen as something almost entirely new. Something tightly connected to Agile and, therefore, deeply rooted in complexity and empiricism. Something that carries a deep understanding of human dynamics in highly cooperative, intellectually intense social environments. Something that — last but not least — is equipped with a good deal of self-awareness, system-awareness and self-transcendence. Modern and truly Agile organizations want and need to, among other things: explore and validate multiple options, not sticking to predefined plans; learn constantly, re-plan as needed; leverage the collective intelligence of their teams, for better exploration of options and smarter learning; have built-in resiliency when facing sudden change; getting results out of people's participation, not out of people's compliance. In this talk we will discuss the case for Agile leadership, why we need it, what are the benefits to the organization and why it's different from other leadership approaches. We'll talk about the individual skills and 'mental stances' that allow leaders to support an organizational Agile mindset. We'll talk about accountability, personal responsibility and the what it means to influence. Finally, we will challenge a few common assumptions on leadership and suggest alternatives."
     slides: 
     video: 
     speakers:
       speaker01:
-        name: "Zuzana Šochová"
-        bio: "Zuzana 'Zuzi' Šochová is an independent Agile coach and trainer and a Certified Scrum Trainer with more than fifteen years of experience in the IT industry. She started with Agile and Scrum back in 2005, when she was implementing Agile methods in the USA. From that time, she has been credited with Agile transformation and implementation for many companies and teams around the world. As a Certified Scrum Trainer (CST) with Scrum Alliance, Zuzi has trained thousands of ScrumMasters and Product Owners. By creating and sustaining Agile leadership, Zuzi believes the worlds of work and life can be made happier and more successful. She is an author of The Great Scrum Master: #ScrumMasterWay book (Addison-Wesley Signature Series (Cohn)). She is a member of the Board of Directors of Scrum Alliance. She is a founder of the Agile Association (Agilni Asociace, agilniasociace.cz) Czech Republic, organizing the Agile Czech community and annual Agile Prague Conference (agileprague.com). She is a regular speaker at international conferences. The talk is based on concepts described in my new book The Great ScrumMaster."
-        photo: "/img/speakers/zuzana-sochova-2017.jpg"
-        blog: "http://sochova.cz/"
-        facebook: "http://www.facebook.com/groups/174076899296502/"
-        twitter: "https://twitter.com/zuzuzka"
-        linkedin: "http://cz.linkedin.com/in/zuzka"
+        name: "Andrea Provaglio"
+        bio: "I help IT organizations to implement better ways of doing business; and I coach teams and individuals who want to improve technically and relationally. My main focus is on helping companies to transition to organizational and cultural models that are better suited to the kind of knowledge work that's so typical of software development - which includes, but it's not limited to, Agile and Lean. In over 20 years of professional experience, I had clients in three different continents and I worked with organizations ranging from the United Nations to small and dynamics IT companies. Currently I work in Europe. I've worked also in the USA on a O-1 visa for 'extraordinary abilities in Sciences'. As part of my regular activities, I enjoy sharing what I know by speaking at major international conferences."
+        photo: "/img/speakers/andrea-provaglio.jpeg"
+        blog: 
+        facebook: 
+        twitter: "http://twitter.com/andreaprovaglio"
+        linkedin: "http://linkedin.com/in/provaglio"
         google-plus:
   session07:
-    order: 7
-    time: 
+    order: 9
+    time: "13:00 - 14:00"
+    place: "Daugava 2"
     title: "Lessons from Silicon Valley"
     about: "The Silicon Valley and San Francisco are the birthplace to some of the most valuable companies in the world. Many of these companies started in a garage (Apple Computer) or in a dorm room (Facebook). The nimble, lean approach to collaboration is the key ingredient. Let’s examine some of the most successful companies in the Silicon Valley and how we can apply lessons learned there to other organizations around the world."
     slides: 
@@ -127,9 +170,29 @@
         twitter: "https://twitter.com/jasoncovington"
         linkedin: "https://www.linkedin.com/in/jasoncovington/"
         google-plus:
+  session13:
+    order: 10
+    time: "13:00 - 14:00"
+    place: "Casino"
+    title: "Lessons from Silicon Valley"
+    title: "Code Smells - Developing Design Sense for your Code"
+    about: "'In order to make delicious food,you must eat delicious food…. you need to develop a palate capable of discerning good and bad. Without good taste, you can't make good food.' - Jiro Ono (World’s Best Sushi Chef). The same is true for great code. If we want to make great code we need a refined palate for what great code looks like. We need to look at code and develop a sense for it’s properties and smells. Sadly this is rarely ever done. Programmers are expected to just 'know' what is good and what is bad with ever getting a chance to develop and curate an aesthetic sense. Worse, code is rarely looked at unless it is causing us problems so we are expected to be gourmets while spending our time eating at McDonalds. Come work on your sense of code. We will look at many snippets to compare and contrast different aspects of what good code is. Learning Outcomes: How to identify and correct, Clutter, Long lines, Long Methods, Bad Names, Duplication, Inconsistency."
+    slides: 
+    video: 
+    speakers:
+      speaker01:
+        name: "Llewellyn Falco"
+        bio: "Llewellyn Falco is an Agile Technical Coach specializing in Legacy Code and Test Driven Development. He is the creator of the open source testing tool ApprovalTests (www.approvaltests.com), co-founder of TeachingKidsProgram (www.teachingkidsprogramming.org) and a PluralSight author."
+        photo: "/img/speakers/llewellyn-falco.jpg"
+        blog: "http://llewellynfalco.blogspot.com/"
+        facebook: 
+        twitter: "https://twitter.com/LlewellynFalco"
+        linkedin: "https://www.linkedin.com/in/llewellyn-falco-406742/"
+        google-plus:
   session08:
-    order: 8
-    time: 
+    order: 11
+    time: "15:00 - 15:45"
+    place: "Daugava 1"
     title: "Learnings from Agile Transition Journey"
     about: "Extensive product with biannual releases. Numerous customers worldwide with customised solutions including specific business and regional market requirements. More than 100 developers and 20+ years of continues product development… is a successful transition to Agile methodology possible in few months in such circumstances? Find out more about Tieto’s Learnings from Agile Transition Journey. What were we afraid of and what should we really be afraid of. What matters more: people, emotions and soft skills or practices, techniques and methodologies?"
     slides: 
@@ -143,23 +206,60 @@
         facebook: 
         twitter: 
         linkedin: "https://linkedin.com/in/romankorsak"
-        google-plus:
-  session09:
-    order: 9
-    time: 
-    title: "Me and My Deadly Agile Sins"
-    about: "Over the course of past years I have gotten into trouble with my co-workers and I would like to share this with others in hope that perhaps some of these you have not yet made. The focus will be on 3 habits: MissDoesALot, MissKnowsALot, MissFearsALot. I will list the negative downsides, how to identify and some steps to take to improve from there. My personal conclusion is that I was not as helpful to my teams as I have hoped. It’s amazing how sometimes one gets blinded by the good intentions that also contributes to growth of own ignorance and blindness. Luckily it is not all that grim and I have a list of 10 golden rules I’d love to share. These lessons were learned while volunteering at different conventions and conferences. Cheers!"
+        google-plus: 
+  session12:
+    order: 12
+    time: "15:00 - 15:45"
+    place: "Daugava 2"
+    title: "Leadership Begins with Responsibility"
+    about: "Are you stuck or facing problems in life? Would you like to learn to lead yourself and others better? Are you wondering how to get your sub-ordinates to take more responsibility? Would you like to live a life of freedom? Then join this talk, and learn about Christopher Avery's Responsibility Process. It is a psychological process, that explains how we all naturally react to problems, and how our brains create obstacles for us in taking responsibility. Understanding and practicing Responsibility may help in: Leading yourself and others, Building teams, Understanding organizations, Breaking through problems, Understanding behaviours such as blaming and shaming, Living a life of freedom, power, and choice"
     slides: 
     video: 
     speakers:
       speaker01:
-        name: "Guna Petrova"
-        bio: "I like to test, volunteer and give hugs. I have also been described as 'Question Assurance'. The testing world is like great ocean of knowledge. To keep your ship afloat one needs to experiment and adapt to the waves coming your way."
-        photo: "/img/speakers/guna-petrova.jpg"
-        blog: "http://alts-notes.blogspot.com/"
-        facebook: "https://www.facebook.com/lv.alt"
-        twitter: "https://twitter.com/alt_lv"
-        linkedin: 
+        name: "Ari Tanninen"
+        bio: "Ari Tanninen is a humane engineer, a product developer, and a trainer at JCI Finland. Early in his career Ari's plan was to save the planet with perfect software and Agile methods. Then after bumping his head on organizations he graduated to advocating lean and systems thinking. In later years, he has moved on user-centered design, and to human beings. It turns out, that free, motivated and empowered human beings are the core of everything. Which brings us to The Responsibility Process, which Ari has practised for 2,5 years."
+        photo: "/img/speakers/ari-tanninen-2017.png"
+        blog: "http://stopandfix.blogspot.com/"
+        facebook: 
+        twitter: "http://twitter.com/aritanninen"
+        linkedin: "http://fi.linkedin.com/in/aritanninen"
+        google-plus: "https://plus.google.com/+AriTanninen"
+  session04:
+    order: 13
+    time: "15:00 - 15:45"
+    place: "Casino"
+    title: "Remote Team Facilitation and Scaled Scrum: How to Make It Work!"
+    about: "Near-, and off-shoring introduces complexity in scrum teams. When we scale scrum, this complexity is amplified and drastically reduces meeting efficiency. Is there a silver bullet to make remote teams high-performant in a (scaled) scrum environment? When facilitating agile workshops, you probably experienced the difficulties of keeping the remote participants involved. And maybe you also know how hard it is to facilitate a highly interactive session with more than 50 people? Or how much harder it gets when 10 of them are connected remotely? I learned time after time participants feel left out, not listened to or find it impossible to follow discussions. Your sessions, intended to boost productivity, demotivate your remote teams. Join this talk if you are a facilitator working with one or more near-shore teams. I will share my day-to-day experiences and insights that will help you to involve your remote teams."
+    slides: 
+    video: 
+    speakers:
+      speaker01:
+        name: "Roland Flemm"
+        bio: "My technical background in development and infrastructure spans a period of more than 20 years, but more relevant are the 7 years I am working as a scrum master and agile coach. I worked on numerous projects in various international companies, mainly in the banking industry. All of the projects I contributed to, near/and offshoring was involved. Currently I am working as an independent consultant in the role of Agile coach for the CX-tribe of Backbase R&D (Amsterdam). Backbase has 3 near-shore teams in Kiev at Levi-9. I have build up a reputation for a “non-compromise Agility” approach. I was very fortunate to work closely in projects with renowned Dutch agilists like Cesario Ramos and Adrie Dolman."
+        photo: "/img/speakers/roland-flemm.png"
+        blog: "http://www.dcme.nu/"
+        facebook: "https://www.facebook.com/roland.flemm"
+        twitter: 
+        linkedin: "https://www.linkedin.com/in/rolandflemm"
+        google-plus:
+  session06:
+    order: 14
+    time: "16:00 - 17:00"
+    place: "Daugava 1+2"
+    title: "Agile Organization - Organization 3.0"
+    about: "The rules of work are changing. Organization 3.0 reflects Agility, an understanding of tribal leadership models, and a recognition that new rules are needed to navigate new organizations that are changing the world today. Teamwork, collaboration, and positive relationships are what matter. If you cannot adopt the new standards, you will be left behind. Previous organizational structures and processes also reflected their times. Organization 1.0, showed the mentality of industrialism, with stable hierarchies and rule following the norm. Organization 2.0 rewarded specialization, processes, and structure over teams and groups. The 'me first' workplace served the lucky few, but is now being replaced by a new generation, with a more thoughtful organization of our lives and work."
+    slides: 
+    video: 
+    speakers:
+      speaker01:
+        name: "Zuzana Šochová"
+        bio: "Zuzana 'Zuzi' Šochová is an independent Agile coach and trainer and a Certified Scrum Trainer with more than fifteen years of experience in the IT industry. She started with Agile and Scrum back in 2005, when she was implementing Agile methods in the USA. From that time, she has been credited with Agile transformation and implementation for many companies and teams around the world. As a Certified Scrum Trainer (CST) with Scrum Alliance, Zuzi has trained thousands of ScrumMasters and Product Owners. By creating and sustaining Agile leadership, Zuzi believes the worlds of work and life can be made happier and more successful. She is an author of The Great Scrum Master: #ScrumMasterWay book (Addison-Wesley Signature Series (Cohn)). She is a member of the Board of Directors of Scrum Alliance. She is a founder of the Agile Association (Agilni Asociace, agilniasociace.cz) Czech Republic, organizing the Agile Czech community and annual Agile Prague Conference (agileprague.com). She is a regular speaker at international conferences. The talk is based on concepts described in my new book The Great ScrumMaster."
+        photo: "/img/speakers/zuzana-sochova-2017.jpg"
+        blog: "http://sochova.cz/"
+        facebook: "http://www.facebook.com/groups/174076899296502/"
+        twitter: "https://twitter.com/zuzuzka"
+        linkedin: "http://cz.linkedin.com/in/zuzka"
         google-plus:
   session10:
     order: 10
@@ -178,57 +278,6 @@
         twitter: "https://twitter.com/vivanovs"
         linkedin: "https://www.linkedin.com/in/vivanov/en"
         google-plus: "https://plus.google.com/111063784323765456395"
-  session11:
-    order: 11
-    time: 
-    title: "Learning Through Osmosis"
-    about: "Many different roles contribute to building software: product owners, business specialists. testers. Yet knowledge of programming keeps these roles at a distance. In this talk, I will share how I have come to programming: not through wanting to program and taking courses on it, but through working with programmers in a style called mob programming. This talk serves as an inspiration for programmers to invite non-programmers to learning code a layer at a time, immersed in the experience of creating software together to transform the ability to deliver. Lessons specific to skillsets rub in both ways, leaving everyone better off after the experience. In this talk, you will learn: What is mob programming and why you should care about working in that style? How to use strong-style pairing as a means of connecting everyone regardless of their programming skill level? What contributions non-programmers make in a mob before they learn to program? How I became a programmer through working in mobs at work and at community meetups over learning by studying programming?"
-    slides: 
-    video: 
-    speakers:
-      speaker01:
-        name: "Maaret Pyhäjärvi"
-        bio: "Maaret Pyhäjärvi is a software specialist with emphasis on testing. She works with a 10-person software development team at Granlund Oy as the testing specialist. On the side, she delivers hands-on testing trainings and consults on testing through Altom Consulting Oy. In addition to being an exploratory tester extraordinaire who teaches testing effectively in a mob testing format, she is an international conference speaker and an experienced organizer, facilitator and volunteer with various non-profit communities (Agile Finland, Software Testing Finland, Learn with Llew, Speak Easy, European Testing Conference) and book author, blogger and tweeter."
-        photo: "/img/speakers/maaret-pyhajarvi.jpg"
-        blog: "http://visible-quality.blogspot.com/"
-        facebook: "http://facebook.com/MaaretPy/"
-        twitter: "http://twitter.com/maaretp"
-        linkedin: "https://fi.linkedin.com/in/maaret"
-        google-plus:
-  session12:
-    order: 12
-    time: 
-    title: "Leadership Begins with Responsibility"
-    about: "Are you stuck or facing problems in life? Would you like to learn to lead yourself and others better? Are you wondering how to get your sub-ordinates to take more responsibility? Would you like to live a life of freedom? Then join this talk, and learn about Christopher Avery's Responsibility Process. It is a psychological process, that explains how we all naturally react to problems, and how our brains create obstacles for us in taking responsibility. Understanding and practicing Responsibility may help in: Leading yourself and others, Building teams, Understanding organizations, Breaking through problems, Understanding behaviours such as blaming and shaming, Living a life of freedom, power, and choice"
-    slides: 
-    video: 
-    speakers:
-      speaker01:
-        name: "Ari Tanninen"
-        bio: "Ari Tanninen is a humane engineer, a product developer, and a trainer at JCI Finland. Early in his career Ari's plan was to save the planet with perfect software and Agile methods. Then after bumping his head on organizations he graduated to advocating lean and systems thinking. In later years, he has moved on user-centered design, and to human beings. It turns out, that free, motivated and empowered human beings are the core of everything. Which brings us to The Responsibility Process, which Ari has practised for 2,5 years."
-        photo: "/img/speakers/ari-tanninen-2017.png"
-        blog: "http://stopandfix.blogspot.com/"
-        facebook: 
-        twitter: "http://twitter.com/aritanninen"
-        linkedin: "http://fi.linkedin.com/in/aritanninen"
-        google-plus: "https://plus.google.com/+AriTanninen"
-  session13:
-    order: 13
-    time: 
-    title: "Code Smells - Developing Design Sense for your Code"
-    about: "'In order to make delicious food,you must eat delicious food…. you need to develop a palate capable of discerning good and bad. Without good taste, you can't make good food.' - Jiro Ono (World’s Best Sushi Chef). The same is true for great code. If we want to make great code we need a refined palate for what great code looks like. We need to look at code and develop a sense for it’s properties and smells. Sadly this is rarely ever done. Programmers are expected to just 'know' what is good and what is bad with ever getting a chance to develop and curate an aesthetic sense. Worse, code is rarely looked at unless it is causing us problems so we are expected to be gourmets while spending our time eating at McDonalds. Come work on your sense of code. We will look at many snippets to compare and contrast different aspects of what good code is. Learning Outcomes: How to identify and correct, Clutter, Long lines, Long Methods, Bad Names, Duplication, Inconsistency."
-    slides: 
-    video: 
-    speakers:
-      speaker01:
-        name: "Llewellyn Falco"
-        bio: "Llewellyn Falco is an Agile Technical Coach specializing in Legacy Code and Test Driven Development. He is the creator of the open source testing tool ApprovalTests (www.approvaltests.com), co-founder of TeachingKidsProgram (www.teachingkidsprogramming.org) and a PluralSight author."
-        photo: "/img/speakers/llewellyn-falco.jpg"
-        blog: "http://llewellynfalco.blogspot.com/"
-        facebook: 
-        twitter: "https://twitter.com/LlewellynFalco"
-        linkedin: "https://www.linkedin.com/in/llewellyn-falco-406742/"
-        google-plus: 
   session14:
     order: 14
     time: 
@@ -246,40 +295,6 @@
         twitter: "https://twitter.com/alexeykri"
         linkedin: "https://www.linkedin.com/in/alexeykrivitsky"
         google-plus: 
-  session15:
-    order: 15
-    time: 
-    title: "How Scrum Can Help Me to Save Money on the Long Term?"
-    about: "It was almost midnight when I heard my phone ringing. For my clients from the other part of the Globe it was middle of the day. And not a particular good one. Nothing was working for them because of a bug. What bug? Well, a bug which appeared when they tried to use the application with their new file format. Apparently this blocked their entire system. Damn (!!!) (sigh), not much to do at this hour, I thought, let’s wait for the morning to come to have the chance to talk with the development team, hoping that we will still meet our SLAs. Morning came and I called the technical guys. What ?? Only Alex can solve the problem and he is on holiday?? And he is coming back in two weeks??… As you can imagine, there was no happy end. And the company had to pay a lot of money for not respecting our SLAs. Does the story above sound familiar to you? Unfortunately, I am sure that many of you know what I am talking about. In this presentation we will discuss how to measure the cost of owning a software application and how to decrease this cost as much as possible. For measuring how much a software application costs, instead of considering only the purchase price of an object, the complete cost from purchase to disposal have to be summed up. This calculation is called Total Cost of Ownership, abbreviated TCO, and is designed to help in financial decisions by giving a picture of the profitability over time."
-    slides: 
-    video: 
-    speakers:
-      speaker01:
-        name: "Raluca Bejan"
-        bio: "I am an awesome speaker :)! Besides this, I have more than 10 years experience in Agile and Scrum in various software engineers projects. Besides this, I really believe in Scrum and because of this I am very involved in making people believe and understand what I am presenting."
-        photo: "/img/speakers/raluca-bejan.png"
-        blog: "https://beginwithend.wordpress.com/"
-        facebook: 
-        twitter: 
-        linkedin: "https://www.linkedin.com/in/raluca-nicoleta-bejan-ioan-9a123a6/"
-        google-plus:
-  session16:
-    order: 16
-    time: 
-    title: "Rethinking Agile Leadership"
-    about: "The Agile world seems to have recently discovered the importance of 'leadership'. This can be very good news and it can also very bad news. It's bad news if the so-called 'Agile Leadership' is a way to rebrand traditional management models, along with their underlying mindset, so that they could survive in a rather different cultural ecosystem — namely, Agile. On the other hand, this interest can be very good news if Agile Leadership is seen as something almost entirely new. Something tightly connected to Agile and, therefore, deeply rooted in complexity and empiricism. Something that carries a deep understanding of human dynamics in highly cooperative, intellectually intense social environments. Something that — last but not least — is equipped with a good deal of self-awareness, system-awareness and self-transcendence. Modern and truly Agile organizations want and need to, among other things: explore and validate multiple options, not sticking to predefined plans; learn constantly, re-plan as needed; leverage the collective intelligence of their teams, for better exploration of options and smarter learning; have built-in resiliency when facing sudden change; getting results out of people's participation, not out of people's compliance. In this talk we will discuss the case for Agile leadership, why we need it, what are the benefits to the organization and why it's different from other leadership approaches. We'll talk about the individual skills and 'mental stances' that allow leaders to support an organizational Agile mindset. We'll talk about accountability, personal responsibility and the what it means to influence. Finally, we will challenge a few common assumptions on leadership and suggest alternatives."
-    slides: 
-    video: 
-    speakers:
-      speaker01:
-        name: "Andrea Provaglio"
-        bio: "I help IT organizations to implement better ways of doing business; and I coach teams and individuals who want to improve technically and relationally. My main focus is on helping companies to transition to organizational and cultural models that are better suited to the kind of knowledge work that's so typical of software development - which includes, but it's not limited to, Agile and Lean. In over 20 years of professional experience, I had clients in three different continents and I worked with organizations ranging from the United Nations to small and dynamics IT companies. Currently I work in Europe. I've worked also in the USA on a O-1 visa for 'extraordinary abilities in Sciences'. As part of my regular activities, I enjoy sharing what I know by speaking at major international conferences."
-        photo: "/img/speakers/andrea-provaglio.jpeg"
-        blog: 
-        facebook: 
-        twitter: "http://twitter.com/andreaprovaglio"
-        linkedin: "http://linkedin.com/in/provaglio"
-        google-plus:
 2016:
   session01:
     order: 1
