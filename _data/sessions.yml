@@ -261,27 +261,11 @@
         twitter: "https://twitter.com/zuzuzka"
         linkedin: "http://cz.linkedin.com/in/zuzka"
         google-plus:
-  session10:
-    order: 10
-    time: 
-    title: "Coaching Clinique"
-    about: "Coaches’ Clinics are a unique and free service designed to help you with specific challenges you’ve encountered on your way to a more Agile way of working. Organized by Agiletransformer.com training and coaching community, these short coaching sessions are available during our event that our coaches and trainers attend to support the Agile Latvia community. Based on their individual needs, participants are matched with volunteer coaches, to discuss technical practices, organizational change, Scrum, Kanban, Agile Coaching as a career, and topics such as breaking down development silos to coordinating multiple teams and educating upper management for enhanced agility."
-    slides: 
-    video: 
-    speakers:
-      speaker01:
-        name: "Vladimir Ivanov"
-        bio: "Vladimirs Ivanovs (40), have realised that I am the 'fox' and as philosopher Isaiah Berlin puts it 'the fox knows many things, but the hedgehog knows one big thing'. Since then I’ve started to form teams with the 'hedgehog focus'. agiletransofrmer.com is a perfect hedgehog, as is formed by the practitioners for the practitioners around one big thing – Agile (closely connected to Lean and Kanban). I love exploring cross-cultural differences and travel, so I do that in a form of 'workations' – public speaking on conferences + site seeing. Events are not only Agile related (also IPMA, PMI, itSMF, IT) in the following countries: Latvia, Lithuania, Estonia, Sweden, UK, Germany, Netherlands, Croatia, Czech Republic, Poland, Ukraine, Belarus, Russia, Kazakhstan, India."
-        photo: "/img/speakers/vladimir-ivanov.png"
-        blog: 
-        facebook: 
-        twitter: "https://twitter.com/vivanovs"
-        linkedin: "https://www.linkedin.com/in/vivanov/en"
-        google-plus: "https://plus.google.com/111063784323765456395"
   session14:
     order: 14
-    time: 
-    title: "Large-Scale Scrum simulation with LEGO!"
+    time: "Day 2"
+    place: "Open Space"
+    title: "Workshop: Large-Scale Scrum simulation with LEGO!"
     about: "Since invented in 2009 lego4scrum has become a very popular simulation to teach Scrum. Nowadays how to get several teams to scrum, seems, is no longer a secret. Though knowing how to make agile work in a large-scale multi-team environment is. So In 2016 I was able to scale lego4scrum to over 155 people (22 development teams) all building an overall product. This approach is described in a newly released book called (what a suprise!): 'lego4scrum'. This practical session we will simulated a large-scale environment with 10+ teams (we need your help - please come to this session!). What will we be doing: working closely with the market representatives to know their needs, achieving shared understanding of a product with 10+ teams working together, setting up a suitable (flat) organizational structure capable of delivering, putting a lightweight process on top that is barely enough but enables self-management, building a working product that satisfies the market needs. Great helpers here are understanding complexity and system thinking, knowing how Scrum really works on the team-level, and few core ideas from LeSS framework, such as: an overall product backlog, a single Product Owner, joint team meetings."
     slides: 
     video: 
@@ -295,6 +279,24 @@
         twitter: "https://twitter.com/alexeykri"
         linkedin: "https://www.linkedin.com/in/alexeykrivitsky"
         google-plus: 
+  session10:
+    order: 20
+    time: "Day 1-2; 11:00 - 16:00"
+    place: "Coaching Corner"
+    title: "The Coaching Clinic"
+    about: "Coaches’ Clinics are a unique and free service designed to help you with specific challenges you’ve encountered on your way to a more Agile way of working. Organized by Agiletransformer.com training and coaching community, these short coaching sessions are available during our event that our coaches and trainers attend to support the Agile Latvia community. Based on their individual needs, participants are matched with volunteer coaches, to discuss technical practices, organizational change, Scrum, Kanban, Agile Coaching as a career, and topics such as breaking down development silos to coordinating multiple teams and educating upper management for enhanced agility."
+    slides: 
+    video: 
+    speakers:
+      speaker01:
+        name: "Vladimir Ivanov"
+        bio: "Vladimirs Ivanovs (40), have realised that I am the 'fox' and as philosopher Isaiah Berlin puts it 'the fox knows many things, but the hedgehog knows one big thing'. Since then I’ve started to form teams with the 'hedgehog focus'. agiletransofrmer.com is a perfect hedgehog, as is formed by the practitioners for the practitioners around one big thing – Agile (closely connected to Lean and Kanban). I love exploring cross-cultural differences and travel, so I do that in a form of 'workations' – public speaking on conferences + site seeing. Events are not only Agile related (also IPMA, PMI, itSMF, IT) in the following countries: Latvia, Lithuania, Estonia, Sweden, UK, Germany, Netherlands, Croatia, Czech Republic, Poland, Ukraine, Belarus, Russia, Kazakhstan, India."
+        photo: "/img/speakers/vladimir-ivanov.png"
+        blog: 
+        facebook: 
+        twitter: "https://twitter.com/vivanovs"
+        linkedin: "https://www.linkedin.com/in/vivanov/en"
+        google-plus: "https://plus.google.com/111063784323765456395"
 2016:
   session01:
     order: 1
