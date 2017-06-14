@@ -201,8 +201,8 @@ How to Setup Conference Schedule? :x:
 2. Add HTTPS if possible. :heavy_minus_sign: (not available for custom domains)
 3. Add Events microdata. :white_check_mark: 
 4. Fix the issue with speakers if there're no SMs defined. In this case the 2nd speaker's block is aligned improperly. :white_check_mark: 
-5. Update event schema.org markup with Eventbrite link and data. :x:
-
+5. Update event schema.org markup with Eventbrite link and data. :white_check_mark: 
+6. Use the approcah from Info sponors for grid view of other types of sponsors.
 
 ### To Be Done
 1. Move 2015 under standard flow.
