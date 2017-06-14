@@ -43,6 +43,14 @@
       title: "LikeIT"
       image: "/img/sponsors/likeit.png"
       url: "http://www.likeit.lv/"
+    sponsor03:
+      title: "Agile Lietuva"
+      image: "/img/sponsors/agile-lietuva.png"
+      url: "http://www.agile.lt/"
+    sponsor04:
+      title: "Agile Transformer"
+      image: "/img/sponsors/agiletransformer.png"
+      url: "http://agiletransformer.com/"
 2016:
   platinum:
     sponsor01:
