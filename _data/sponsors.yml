@@ -32,7 +32,7 @@
       title: "Tieto"
       image: "/img/sponsors/tieto-2017-small.png"
       url: "http://www.tieto.com"
-      promo: "Tieto aims to capture the significant opportunities of the data-driven world and turn them into lifelong value for people, business and society. Having a strong role in the ecosystems, we use our software and services capabilities to create tools and services that simplify everyday life of millions of people; to help our customers renew their businesses by capturing the opportunities of modernization, digitalization and innovation and to foster new opportunities based on openness, co-innovation and ecosystems."
+      promo: "Tieto aims to capture the significant opportunities of the data-driven world and turn them into lifelong value for people, business and society. Having a strong role in the ecosystems, we use our software and services capabilities to create tools and services that simplify everyday life of millions of people; to help our customers renew their businesses by capturing the opportunities of modernization, digitalization and innovation and to foster new opportunities based on openness, co-innovation and ecosystems. Visit us at <a href='www.tieto.com'>www.tieto.com</a> or <a href='www.tieto.com'>www.tieto.lv</a>"
   info:
     title: "Info Sponsors"
     sponsor01:
@@ -51,6 +51,14 @@
       title: "Agile Transformer"
       image: "/img/sponsors/agiletransformer.png"
       url: "http://agiletransformer.com/"
+    sponsor05:
+      title: "Kursors.lv"
+      image: "/img/sponsors/kursorslv.png"
+      url: "http://www.kursors.lv/"
+    sponsor06:
+      title: "Agile Estonia"
+      image: "/img/sponsors/agile-ee-55.png"
+      url: "http://www.agile.ee/"
 2016:
   platinum:
     sponsor01:
