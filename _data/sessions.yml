@@ -138,19 +138,28 @@
     order: 8
     time: "13:00 - 14:00"
     place: "Daugava 1"
-    title: "Rethinking Agile Leadership"
-    about: "The Agile world seems to have recently discovered the importance of 'leadership'. This can be very good news and it can also very bad news. It's bad news if the so-called 'Agile Leadership' is a way to rebrand traditional management models, along with their underlying mindset, so that they could survive in a rather different cultural ecosystem — namely, Agile. On the other hand, this interest can be very good news if Agile Leadership is seen as something almost entirely new. Something tightly connected to Agile and, therefore, deeply rooted in complexity and empiricism. Something that carries a deep understanding of human dynamics in highly cooperative, intellectually intense social environments. Something that — last but not least — is equipped with a good deal of self-awareness, system-awareness and self-transcendence. Modern and truly Agile organizations want and need to, among other things: explore and validate multiple options, not sticking to predefined plans; learn constantly, re-plan as needed; leverage the collective intelligence of their teams, for better exploration of options and smarter learning; have built-in resiliency when facing sudden change; getting results out of people's participation, not out of people's compliance. In this talk we will discuss the case for Agile leadership, why we need it, what are the benefits to the organization and why it's different from other leadership approaches. We'll talk about the individual skills and 'mental stances' that allow leaders to support an organizational Agile mindset. We'll talk about accountability, personal responsibility and the what it means to influence. Finally, we will challenge a few common assumptions on leadership and suggest alternatives."
+    title: "Agnostic Agile"
+    about: "Coming soon..."
     slides: 
     video: 
     speakers:
       speaker01:
-        name: "Andrea Provaglio"
-        bio: "I help IT organizations to implement better ways of doing business; and I coach teams and individuals who want to improve technically and relationally. My main focus is on helping companies to transition to organizational and cultural models that are better suited to the kind of knowledge work that's so typical of software development - which includes, but it's not limited to, Agile and Lean. In over 20 years of professional experience, I had clients in three different continents and I worked with organizations ranging from the United Nations to small and dynamics IT companies. Currently I work in Europe. I've worked also in the USA on a O-1 visa for 'extraordinary abilities in Sciences'. As part of my regular activities, I enjoy sharing what I know by speaking at major international conferences."
-        photo: "/img/speakers/andrea-provaglio.jpeg"
+        name: "Toms Rusovs"
+        bio: 
+        photo: "/img/speakers/john-doe.png"
         blog: 
         facebook: 
-        twitter: "http://twitter.com/andreaprovaglio"
-        linkedin: "http://linkedin.com/in/provaglio"
+        twitter: 
+        linkedin: 
+        google-plus:
+      speaker02:
+        name: "Stefano La Porta"
+        bio: 
+        photo: "/img/speakers/john-doe.png"
+        blog: 
+        facebook: 
+        twitter: 
+        linkedin: 
         google-plus:
   session07:
     order: 9
