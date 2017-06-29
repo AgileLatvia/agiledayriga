@@ -33,6 +33,11 @@
       image: "/img/sponsors/tieto-2017-small.png"
       url: "http://www.tieto.com"
       promo: "Tieto aims to capture the significant opportunities of the data-driven world and turn them into lifelong value for people, business and society. Having a strong role in the ecosystems, we use our software and services capabilities to create tools and services that simplify everyday life of millions of people; to help our customers renew their businesses by capturing the opportunities of modernization, digitalization and innovation and to foster new opportunities based on openness, co-innovation and ecosystems. Visit us at <a href='www.tieto.com'>www.tieto.com</a> or <a href='www.tieto.com'>www.tieto.lv</a>"
+    sponsor03:
+      title: "Exigen Services"
+      image: "/img/sponsors/exigen-service.png"
+      url: "http://www.exigenservices.lv/"
+      promo: "We bring industry insights, the ability to execute on a global basis and a keen eye for our clients’ bottom line that makes us an ideal and trusted partner for responding to business and technology change. Our services focus on customer centricity, data analytics, core systems transformation and the application of innovative and disruptive technologies. Our solutions deliver top-line growth, competitive advantage, margin improvement and reduced complexity."
   info:
     title: "Info Sponsors"
     sponsor01:
