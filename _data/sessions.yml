@@ -139,27 +139,27 @@
     time: "13:00 - 14:00"
     place: "Daugava 1"
     title: "Agnostic Agile"
-    about: "Coming soon..."
+    about: "Being agile is all about embracing change. Therefore, the notion of agility should apply to the process itself. If it is not changing over time, chances are, you are not being agile. In today’s dynamic business environment, we should be careful with “one-size-fits-all” frameworks and rather tailor the process to people and context. In this talk, we will focus on the mind-set, principles and values required to become Agnostic Agile."
     slides: 
     video: 
     speakers:
       speaker01:
         name: "Toms Rusovs"
-        bio: 
-        photo: "/img/speakers/john-doe.png"
+        bio: "Product builder devoted to Agile principles. Working for Accenture as Scrum Master and Product Ownership Evangelist. With a product development and brand management background, he focuses on empowering self-organized teams to understand and create true value for their customers."
+        photo: "/img/speakers/toms-rusovs.jpg"
         blog: 
         facebook: 
         twitter: 
-        linkedin: 
+        linkedin: "https://www.linkedin.com/in/tomsrusovs/?ppe=1" 
         google-plus:
       speaker02:
         name: "Stefano La Porta"
-        bio: 
-        photo: "/img/speakers/john-doe.png"
+        bio: "Stefano La Porta is working as Agile Coach for Accenture Latvia. A globetrotter (before moving to Riga, he worked in Italy, Brazil and Romania), he firmly believes that rather than molding people to a set of common processes and practices, processes and practices should be molded to the team itself. As Agile Coach, his main goal is not to follow a process “by the book” – it is to help self-organizing teams to deliver high-quality working software as frequently as possible."
+        photo: "/img/speakers/stefano-la-porta.jpg"
         blog: 
         facebook: 
         twitter: 
-        linkedin: 
+        linkedin: "https://www.linkedin.com/in/stefanolaporta/"
         google-plus:
   session07:
     order: 9
