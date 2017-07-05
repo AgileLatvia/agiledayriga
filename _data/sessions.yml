@@ -136,7 +136,7 @@
         google-plus:
   session16:
     order: 8
-    time: "13:00 - 14:00"
+    time: "14:00 - 14:45"
     place: "Daugava 1"
     title: "Agnostic Agile"
     about: "Being agile is all about embracing change. Therefore, the notion of agility should apply to the process itself. If it is not changing over time, chances are, you are not being agile. In today’s dynamic business environment, we should be careful with “one-size-fits-all” frameworks and rather tailor the process to people and context. In this talk, we will focus on the mind-set, principles and values required to become Agnostic Agile."
@@ -163,7 +163,7 @@
         google-plus:
   session07:
     order: 9
-    time: "13:00 - 14:00"
+    time: "14:00 - 14:45"
     place: "Daugava 2"
     title: "Lessons from Silicon Valley"
     about: "The Silicon Valley and San Francisco are the birthplace to some of the most valuable companies in the world. Many of these companies started in a garage (Apple Computer) or in a dorm room (Facebook). The nimble, lean approach to collaboration is the key ingredient. Let’s examine some of the most successful companies in the Silicon Valley and how we can apply lessons learned there to other organizations around the world."
@@ -181,7 +181,7 @@
         google-plus:
   session13:
     order: 10
-    time: "13:00 - 14:00"
+    time: "14:00 - 14:45"
     place: "Casino"
     title: "Lessons from Silicon Valley"
     title: "Code Smells - Developing Design Sense for your Code"
