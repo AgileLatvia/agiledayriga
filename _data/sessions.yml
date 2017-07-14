@@ -5,8 +5,8 @@
     place: "Daugava 1+2"
     title: "Learning Through Osmosis"
     about: "Many different roles contribute to building software: product owners, business specialists. testers. Yet knowledge of programming keeps these roles at a distance. In this talk, I will share how I have come to programming: not through wanting to program and taking courses on it, but through working with programmers in a style called mob programming. This talk serves as an inspiration for programmers to invite non-programmers to learning code a layer at a time, immersed in the experience of creating software together to transform the ability to deliver. Lessons specific to skillsets rub in both ways, leaving everyone better off after the experience. In this talk, you will learn: What is mob programming and why you should care about working in that style? How to use strong-style pairing as a means of connecting everyone regardless of their programming skill level? What contributions non-programmers make in a mob before they learn to program? How I became a programmer through working in mobs at work and at community meetups over learning by studying programming?"
-    slides: 
-    video: 
+    slides: "https://speakerdeck.com/agilelatvia/learning-through-osmosis-by-maaret-pyhajarvi"
+    video: "https://youtu.be/fJURwOdjFXI"
     speakers:
       speaker01:
         name: "Maaret Pyhäjärvi"
@@ -23,7 +23,7 @@
     place: "Daugava 1"
     title: "Leadership, Complexity, LeSS"
     about: "This session focuses on common root causes that create unintended and unseen complexity in organizations. This complexity is disguised in the form of good management practices, and good intentions and local optimizations. We use one case to describe the rise of complexity and the death of a company Nokia Mobile Phones. Then we show that this pattern can be generalized to any growing company that does not pay attention how to grow. Next, we take a look at Large-Scale Scrum (LeSS) framework and how it avoids building complexity in an organization by being minimalistic and starting the change by real change instead of change theater. Then we look at forces in LeSS that create ownership of change in the organization. We use real life case examples to describe how this is achieved and what key leadership actions are needed to happen, so the change is sustainable. Learning objectives: Insight how LeSS and new leadership thinking is used to simplify the organization."
-    slides: 
+    slides: "https://speakerdeck.com/agilelatvia/leadership-complexity-less-by-ran-nyman"
     video: 
     speakers:
       speaker01:
@@ -77,7 +77,7 @@
     place: "Daugava 1" 
     title: "Nexus: How We Do Scrum with 150+ People"
     about: "Nexus is a framework for scaled Scrum developed by Scrum co-creator Ken Schwaber and Scrum.org community. It addresses the most painful problems of scaled development – dealing with dependencies and building 'Done' integrated software every iteration. In our short talk, we are going to explain the key concepts of Nexus and illustrate them with our own case study where 150+ people successfully do Scrum to build software for a big North American retail company using Nexus."
-    slides: 
+    slides: "https://speakerdeck.com/agilelatvia/nexus-how-we-do-scrum-with-150-plus-people-by-artem-kolyshkin-and-konstantin-razumovsky"
     video: 
     speakers:
       speaker01:
@@ -140,7 +140,7 @@
     place: "Daugava 1"
     title: "Agnostic Agile"
     about: "Being agile is all about embracing change. Therefore, the notion of agility should apply to the process itself. If it is not changing over time, chances are, you are not being agile. In today’s dynamic business environment, we should be careful with “one-size-fits-all” frameworks and rather tailor the process to people and context. In this talk, we will focus on the mind-set, principles and values required to become Agnostic Agile."
-    slides: 
+    slides: "https://speakerdeck.com/agilelatvia/agnostic-agile-by-stefano-la-porta-and-toms-rusovs"
     video: 
     speakers:
       speaker01:
@@ -222,7 +222,7 @@
     place: "Daugava 2"
     title: "Leadership Begins with Responsibility"
     about: "Are you stuck or facing problems in life? Would you like to learn to lead yourself and others better? Are you wondering how to get your sub-ordinates to take more responsibility? Would you like to live a life of freedom? Then join this talk, and learn about Christopher Avery's Responsibility Process. It is a psychological process, that explains how we all naturally react to problems, and how our brains create obstacles for us in taking responsibility. Understanding and practicing Responsibility may help in: Leading yourself and others, Building teams, Understanding organizations, Breaking through problems, Understanding behaviours such as blaming and shaming, Living a life of freedom, power, and choice"
-    slides: 
+    slides: "https://www.slideshare.net/aritanninen/leadership-begins-with-responsibility-riga-77611609"
     video: 
     speakers:
       speaker01:
@@ -240,7 +240,7 @@
     place: "Casino"
     title: "Remote Team Facilitation and Scaled Scrum: How to Make It Work!"
     about: "Near-, and off-shoring introduces complexity in scrum teams. When we scale scrum, this complexity is amplified and drastically reduces meeting efficiency. Is there a silver bullet to make remote teams high-performant in a (scaled) scrum environment? When facilitating agile workshops, you probably experienced the difficulties of keeping the remote participants involved. And maybe you also know how hard it is to facilitate a highly interactive session with more than 50 people? Or how much harder it gets when 10 of them are connected remotely? I learned time after time participants feel left out, not listened to or find it impossible to follow discussions. Your sessions, intended to boost productivity, demotivate your remote teams. Join this talk if you are a facilitator working with one or more near-shore teams. I will share my day-to-day experiences and insights that will help you to involve your remote teams."
-    slides: 
+    slides: "http://www.dcme.nu/wp-content/uploads/2017/07/remote_team_facilitation_roland_flemm.pdf"
     video: 
     speakers:
       speaker01:
@@ -258,7 +258,7 @@
     place: "Daugava 1+2"
     title: "Agile Organization - Organization 3.0"
     about: "The rules of work are changing. Organization 3.0 reflects Agility, an understanding of tribal leadership models, and a recognition that new rules are needed to navigate new organizations that are changing the world today. Teamwork, collaboration, and positive relationships are what matter. If you cannot adopt the new standards, you will be left behind. Previous organizational structures and processes also reflected their times. Organization 1.0, showed the mentality of industrialism, with stable hierarchies and rule following the norm. Organization 2.0 rewarded specialization, processes, and structure over teams and groups. The 'me first' workplace served the lucky few, but is now being replaced by a new generation, with a more thoughtful organization of our lives and work."
-    slides: 
+    slides: "https://www.slideshare.net/zuzuzka/organization-30-how-to-achieve-modern-agile-organization"
     video: 
     speakers:
       speaker01:
