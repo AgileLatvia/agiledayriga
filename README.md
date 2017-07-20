@@ -136,7 +136,7 @@ It's about time to close CFP. Well, it makes sense to announce a couple of speak
 3. Create a section for the conference year you need and start to add data.
 4. Please note, that if some data is not available do not set anything. `""` is treated as `empty` value.
 5. Please note, that speaker's photo shoul be stored in `img/speakers/`. It's also important to preserve the balance between size and quality.
-6. If there're more than one speaker fell free to add a block for the second one. Check the example below.
+6. If there're more than one speaker feel free to add a block for the second one. Check the example below.
 
 Here's an example:
 ```
@@ -193,6 +193,17 @@ Here's an example of `_includes/2017-tickets.html`:
 
 ## Step 9
 How to Setup Conference Schedule? :x: 
+
+## Step 10
+How to Switch Off Tickets? :x: 
+
+## Step 11
+How to Switch Off Schedule? :x: 
+
+## Step 12
+How to Add Slides and Videos? :x: 
+
+
 
 -----
 

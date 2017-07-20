@@ -78,7 +78,7 @@
     title: "Nexus: How We Do Scrum with 150+ People"
     about: "Nexus is a framework for scaled Scrum developed by Scrum co-creator Ken Schwaber and Scrum.org community. It addresses the most painful problems of scaled development – dealing with dependencies and building 'Done' integrated software every iteration. In our short talk, we are going to explain the key concepts of Nexus and illustrate them with our own case study where 150+ people successfully do Scrum to build software for a big North American retail company using Nexus."
     slides: "https://speakerdeck.com/agilelatvia/nexus-how-we-do-scrum-with-150-plus-people-by-artem-kolyshkin-and-konstantin-razumovsky"
-    video: 
+    video: "https://youtu.be/X7sI4sLSlfQ"
     speakers:
       speaker01:
         name: "Artem Kolyshkin"
@@ -141,7 +141,7 @@
     title: "Agnostic Agile"
     about: "Being agile is all about embracing change. Therefore, the notion of agility should apply to the process itself. If it is not changing over time, chances are, you are not being agile. In today’s dynamic business environment, we should be careful with “one-size-fits-all” frameworks and rather tailor the process to people and context. In this talk, we will focus on the mind-set, principles and values required to become Agnostic Agile."
     slides: "https://speakerdeck.com/agilelatvia/agnostic-agile-by-stefano-la-porta-and-toms-rusovs"
-    video: 
+    video: "https://youtu.be/AChGxp7XPUU"
     speakers:
       speaker01:
         name: "Toms Rusovs"
@@ -186,7 +186,8 @@
     title: "Lessons from Silicon Valley"
     title: "Code Smells - Developing Design Sense for your Code"
     about: "'In order to make delicious food,you must eat delicious food…. you need to develop a palate capable of discerning good and bad. Without good taste, you can't make good food.' - Jiro Ono (World’s Best Sushi Chef). The same is true for great code. If we want to make great code we need a refined palate for what great code looks like. We need to look at code and develop a sense for it’s properties and smells. Sadly this is rarely ever done. Programmers are expected to just 'know' what is good and what is bad with ever getting a chance to develop and curate an aesthetic sense. Worse, code is rarely looked at unless it is causing us problems so we are expected to be gourmets while spending our time eating at McDonalds. Come work on your sense of code. We will look at many snippets to compare and contrast different aspects of what good code is. Learning Outcomes: How to identify and correct, Clutter, Long lines, Long Methods, Bad Names, Duplication, Inconsistency."
-    slides: 
+    slides: "https://speakerdeck.com/agilelatvia/code-smells-developing-design-sense-for-your-code-by-llewellyn-falco"
+    slides: "https://speakerdeck.com/agilelatvia/code-smells-developing-design-sense-for-your-code-by-llewellyn-falco"
     video: 
     speakers:
       speaker01:
@@ -204,7 +205,7 @@
     place: "Daugava 1"
     title: "Learnings from Agile Transition Journey"
     about: "Extensive product with biannual releases. Numerous customers worldwide with customised solutions including specific business and regional market requirements. More than 100 developers and 20+ years of continues product development… is a successful transition to Agile methodology possible in few months in such circumstances? Find out more about Tieto’s Learnings from Agile Transition Journey. What were we afraid of and what should we really be afraid of. What matters more: people, emotions and soft skills or practices, techniques and methodologies?"
-    slides: 
+    slides: "https://speakerdeck.com/agilelatvia/learnings-from-agile-transition-journey-by-romans-korsaks"
     video: 
     speakers:
       speaker01:
@@ -241,7 +242,7 @@
     title: "Remote Team Facilitation and Scaled Scrum: How to Make It Work!"
     about: "Near-, and off-shoring introduces complexity in scrum teams. When we scale scrum, this complexity is amplified and drastically reduces meeting efficiency. Is there a silver bullet to make remote teams high-performant in a (scaled) scrum environment? When facilitating agile workshops, you probably experienced the difficulties of keeping the remote participants involved. And maybe you also know how hard it is to facilitate a highly interactive session with more than 50 people? Or how much harder it gets when 10 of them are connected remotely? I learned time after time participants feel left out, not listened to or find it impossible to follow discussions. Your sessions, intended to boost productivity, demotivate your remote teams. Join this talk if you are a facilitator working with one or more near-shore teams. I will share my day-to-day experiences and insights that will help you to involve your remote teams."
     slides: "http://www.dcme.nu/wp-content/uploads/2017/07/remote_team_facilitation_roland_flemm.pdf"
-    video: 
+    video: "https://youtu.be/qxoId7kYgvo"
     speakers:
       speaker01:
         name: "Roland Flemm"
@@ -259,7 +260,7 @@
     title: "Agile Organization - Organization 3.0"
     about: "The rules of work are changing. Organization 3.0 reflects Agility, an understanding of tribal leadership models, and a recognition that new rules are needed to navigate new organizations that are changing the world today. Teamwork, collaboration, and positive relationships are what matter. If you cannot adopt the new standards, you will be left behind. Previous organizational structures and processes also reflected their times. Organization 1.0, showed the mentality of industrialism, with stable hierarchies and rule following the norm. Organization 2.0 rewarded specialization, processes, and structure over teams and groups. The 'me first' workplace served the lucky few, but is now being replaced by a new generation, with a more thoughtful organization of our lives and work."
     slides: "https://www.slideshare.net/zuzuzka/organization-30-how-to-achieve-modern-agile-organization"
-    video: 
+    video: "https://youtu.be/X4sssXeZ-bI"
     speakers:
       speaker01:
         name: "Zuzana Šochová"
