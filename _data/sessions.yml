@@ -24,7 +24,7 @@
     title: "Leadership, Complexity, LeSS"
     about: "This session focuses on common root causes that create unintended and unseen complexity in organizations. This complexity is disguised in the form of good management practices, and good intentions and local optimizations. We use one case to describe the rise of complexity and the death of a company Nokia Mobile Phones. Then we show that this pattern can be generalized to any growing company that does not pay attention how to grow. Next, we take a look at Large-Scale Scrum (LeSS) framework and how it avoids building complexity in an organization by being minimalistic and starting the change by real change instead of change theater. Then we look at forces in LeSS that create ownership of change in the organization. We use real life case examples to describe how this is achieved and what key leadership actions are needed to happen, so the change is sustainable. Learning objectives: Insight how LeSS and new leadership thinking is used to simplify the organization."
     slides: "https://speakerdeck.com/agilelatvia/leadership-complexity-less-by-ran-nyman"
-    video: 
+    video: "https://www.youtube.com/watch?v=pWScHLkVte8&feature=youtu.be"
     speakers:
       speaker01:
         name: "Ran Nyman"
@@ -187,8 +187,7 @@
     title: "Code Smells - Developing Design Sense for your Code"
     about: "'In order to make delicious food,you must eat delicious food…. you need to develop a palate capable of discerning good and bad. Without good taste, you can't make good food.' - Jiro Ono (World’s Best Sushi Chef). The same is true for great code. If we want to make great code we need a refined palate for what great code looks like. We need to look at code and develop a sense for it’s properties and smells. Sadly this is rarely ever done. Programmers are expected to just 'know' what is good and what is bad with ever getting a chance to develop and curate an aesthetic sense. Worse, code is rarely looked at unless it is causing us problems so we are expected to be gourmets while spending our time eating at McDonalds. Come work on your sense of code. We will look at many snippets to compare and contrast different aspects of what good code is. Learning Outcomes: How to identify and correct, Clutter, Long lines, Long Methods, Bad Names, Duplication, Inconsistency."
     slides: "https://speakerdeck.com/agilelatvia/code-smells-developing-design-sense-for-your-code-by-llewellyn-falco"
-    slides: "https://speakerdeck.com/agilelatvia/code-smells-developing-design-sense-for-your-code-by-llewellyn-falco"
-    video: 
+    video: "https://www.youtube.com/watch?v=H3L0aN9KItA&feature=youtu.be"
     speakers:
       speaker01:
         name: "Llewellyn Falco"
@@ -224,7 +223,7 @@
     title: "Leadership Begins with Responsibility"
     about: "Are you stuck or facing problems in life? Would you like to learn to lead yourself and others better? Are you wondering how to get your sub-ordinates to take more responsibility? Would you like to live a life of freedom? Then join this talk, and learn about Christopher Avery's Responsibility Process. It is a psychological process, that explains how we all naturally react to problems, and how our brains create obstacles for us in taking responsibility. Understanding and practicing Responsibility may help in: Leading yourself and others, Building teams, Understanding organizations, Breaking through problems, Understanding behaviours such as blaming and shaming, Living a life of freedom, power, and choice"
     slides: "https://www.slideshare.net/aritanninen/leadership-begins-with-responsibility-riga-77611609"
-    video: 
+    video: "https://youtu.be/U6O6fagSjHM"
     speakers:
       speaker01:
         name: "Ari Tanninen"

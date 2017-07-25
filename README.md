@@ -195,10 +195,14 @@ Here's an example of `_includes/2017-tickets.html`:
 How to Setup Conference Schedule? :x: 
 
 ## Step 10
-How to Switch Off Tickets? :x: 
+How to Switch Off Tickets and Event Microdata? :x: 
+
+
 
 ## Step 11
 How to Switch Off Schedule? :x: 
+
+
 
 ## Step 12
 How to Add Slides and Videos? :x: 
@@ -210,10 +214,15 @@ How to Add Slides and Videos? :x:
 ### To Be Developed
 1. Add HTML minification. :x: 
 2. Add HTTPS if possible. :heavy_minus_sign: (not available for custom domains)
+
 3. Add Events microdata. :white_check_mark: 
+
 4. Fix the issue with speakers if there're no SMs defined. In this case the 2nd speaker's block is aligned improperly. :white_check_mark: 
 5. Update event schema.org markup with Eventbrite link and data. :white_check_mark: 
-6. Use the approcah from Info sponors for grid view of other types of sponsors.
+
+6. Use the approcah from Info sponors for grid view of other types of sponsors, except Platinums.
+
+7. Support more than 1 day for sessions.
 
 ### To Be Done
 1. Move 2015 under standard flow.

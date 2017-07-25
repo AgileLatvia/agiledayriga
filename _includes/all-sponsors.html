@@ -75,6 +75,7 @@
       {% if golds_qnt > 0 %}</div>{% endif %}
       {% endif %}
     <!-- /golds -->
+
     <!-- silver -->
       {% assign silvers_qnt = 0 %}
       {% for silvers in site.data.sponsors[page.year].silver %}{% assign silvers_qnt = silvers_qnt | plus: 1 %}{% endfor %}
@@ -117,6 +118,7 @@
       {% if silvers_qnt > 0 %}</div>{% endif %}
       {% endif %}
     <!-- /silver -->
+    
     <!-- infos -->
       {% assign infos_qnt = 0 %}
       {% for infos in site.data.sponsors[page.year].info %}{% assign infos_qnt = infos_qnt | plus: 1 %}{% endfor %}
