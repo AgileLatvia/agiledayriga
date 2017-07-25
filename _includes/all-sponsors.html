@@ -81,10 +81,13 @@
       {% for silvers in site.data.sponsors[page.year].silver %}{% assign silvers_qnt = silvers_qnt | plus: 1 %}{% endfor %}
       {% if site.data.sponsors[page.year].silver.show-captions == "true" %} <!-- if captions for silver sponsors are enabled -->
       {% if silvers_qnt > 0 %} <!-- if silver sponsors exist -->
+      {% if site.data.sponsors[page.year].silver.title != null %}
+      {% assign silvers_qnt = silvers_qnt | plus: -2 %}
       {% if site.data.sponsors[page.year].show-subtitles == "true" %} <!-- if sub-titles for silver sponsors are enabled -->
       <div class="inner-page">
         <h3 class="sponsors-subtitle">{{ site.data.sponsors[page.year].silver.title }}</h3>
       </div>{% endif %} <!-- /if sub-titles for silver sponsors are enabled -->
+      {% endif %}
 
       {% for silvers in site.data.sponsors[page.year].silver %}
       {% if silvers[1].title != null %}
@@ -104,21 +107,39 @@
       {% else %} <!-- if captions are not enabled -->
 
       {% if silvers_qnt > 0 %} <!-- if silver sponsors exist -->
+      {% if site.data.sponsors[page.year].silver.title != null %}
+      {% assign silvers_qnt = silvers_qnt | plus: -2 %}
+      {% if site.data.sponsors[page.year].show-subtitles == "true" %} <!-- if sub-titles for silver sponsors are enabled -->
+      <div class="inner-page">
+        <h3 class="sponsors-subtitle">{{ site.data.sponsors[page.year].silver.title }}</h3>
+      </div>{% endif %} <!-- /if sub-titles for silver sponsors are enabled -->
+      {% endif %}
+      {% endif %} 
+
+      {% if silvers_qnt > 0 %} <!-- if silver sponsors exist -->
       <div class="inner-page row">
       {% endif %} 
+
       {% assign silvers_counter = 0 %}
       {% for silvers in site.data.sponsors[page.year].silver %}
       {% assign silvers_counter = silvers_counter | plus: 1 %}
+      
+      {% if silvers[1].url == null %}
+      {% assign silvers_counter = silvers_counter | plus: -1 %}
+      {% else %}
+
       {% if silvers_counter == 4 or silvers_counter == 8 or silvers_counter == 12 %}</div><div class="inner-page row">{% endif %}
       <div class="col-md-3">
         <a href="{{ silvers[1].url }}" title="{{ silvers[1].title }}" target="_blank"><img class="lazy" src="{{ silvers[1].image }}" alt="{{ silvers[1].title }}"></a>
       </div>
       <div class="col-md-1"></div>
+      {% endif %}
       {% endfor %}
       {% if silvers_qnt > 0 %}</div>{% endif %}
+
       {% endif %}
     <!-- /silver -->
-    
+
     <!-- infos -->
       {% assign infos_qnt = 0 %}
       {% for infos in site.data.sponsors[page.year].info %}{% assign infos_qnt = infos_qnt | plus: 1 %}{% endfor %}
