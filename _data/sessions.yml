@@ -120,10 +120,10 @@
     order: 7
     time: "12:00 - 13:00"
     place: "Casino"  
-    title: "DevOps at Scale applied in Bunnyworld"
+    title: "DevOps at Scale Applied in Bunnyworld"
     about: "DevOps at Scale as a problem to solve is becoming more relevant every day. Although there isn’t that much of information how to do it on real multi-project. When I try to address it, techy geeks get into techy rumble and forget what was the question about. This talk abstracts from technology and focuses purely on cultural and organizational topics in a fun way. 'So… meet delivery lead John. He got a brilliant idea - how basically from nothing to make the cutest bunny in the world.'"
     slides: 
-    video: 
+    video: "https://youtu.be/uHcXWfI9Z9E"
     speakers:
       speaker01:
         name: "Uldis Karlovs-Karlovskis"
@@ -205,7 +205,7 @@
     title: "Learnings from Agile Transition Journey"
     about: "Extensive product with biannual releases. Numerous customers worldwide with customised solutions including specific business and regional market requirements. More than 100 developers and 20+ years of continues product development… is a successful transition to Agile methodology possible in few months in such circumstances? Find out more about Tieto’s Learnings from Agile Transition Journey. What were we afraid of and what should we really be afraid of. What matters more: people, emotions and soft skills or practices, techniques and methodologies?"
     slides: "https://speakerdeck.com/agilelatvia/learnings-from-agile-transition-journey-by-romans-korsaks"
-    video: 
+    video: "https://youtu.be/az0nZL5hdxE"
     speakers:
       speaker01:
         name: "Romans Korsaks"
