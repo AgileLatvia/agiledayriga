@@ -168,7 +168,7 @@
     title: "Lessons from Silicon Valley"
     about: "The Silicon Valley and San Francisco are the birthplace to some of the most valuable companies in the world. Many of these companies started in a garage (Apple Computer) or in a dorm room (Facebook). The nimble, lean approach to collaboration is the key ingredient. Let’s examine some of the most successful companies in the Silicon Valley and how we can apply lessons learned there to other organizations around the world."
     slides: 
-    video: 
+    video: "https://youtu.be/PvwoXHWitM0"
     speakers:
       speaker01:
         name: "Jason Covington"
