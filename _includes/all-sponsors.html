@@ -11,37 +11,61 @@
     </div>
     {% endif %}
     <!-- platinums -->
-    {% assign platinums_qnt = 0 %}
-    {% for platinums in site.data.sponsors[page.year].platinum %}{% assign platinums_qnt = platinums_qnt | plus: 1 %}{% endfor %}
-    {% if platinums_qnt > 0 %}
-    {% if site.data.sponsors[page.year].show-subtitles == "true" %}
-    <div class="inner-page">
-      <h3 class="sponsors-subtitle">{{ site.data.sponsors[page.year].platinum.title }}</h3>
-    </div>{% endif %}
-    {% for platinums in site.data.sponsors[page.year].platinum %}
-    {% if platinums[1].title != null %}
-    <div class="inner-page row">
-      <div class="col-md-4">
-        <a title="{{ platinums[1].title }}" href="{{ platinums[1].url }}" target="_blank"><img class="lazy" src="{{ platinums[1].image }}" alt="{{ platinums[1].title }}"></a>
+      <!-- calculate qnt of sponsors -->
+      {% assign platinums_qnt = 0 %}
+      {% for platinums in site.data.sponsors[page.year].platinum %}
+        {% assign platinums_qnt = platinums_qnt | plus: 1 %}
+      {% endfor %}
+      {% if site.data.sponsors[page.year].platinum.title != null %}{% assign platinums_qnt = platinums_qnt | plus: -1 %}{% endif %}
+      {% if site.data.sponsors[page.year].platinum.show-captions != null %}{% assign platinums_qnt = platinums_qnt | plus: -1 %}{% endif %}
+      <!-- /calculate qnt of sponsors -->
+
+      {% if platinums_qnt > 0 %} <!-- if at least 1 platinum sponsors exist -->
+
+      {% if site.data.sponsors[page.year].show-subtitles == "true" %} <!-- if sub-titles for platinum sponsors are enabled -->
+      <div class="inner-page">
+        <h3 class="sponsors-subtitle">{{ site.data.sponsors[page.year].platinum.title }}</h3>
+      </div>{% endif %} <!-- /if sub-titles for platinum sponsors are enabled -->
+
+      {% if site.data.sponsors[page.year].platinum.show-captions == "true" or site.data.sponsors[page.year].platinum.show-captions == null %} <!-- if captions for platinum sponsors are enabled -->
+
+      {% for platinums in site.data.sponsors[page.year].platinum %}
+      {% if platinums[1].title != null %}
+      <div class="inner-page row">
+        <div class="col-md-4">
+          <a title="{{ platinums[1].title }}" href="{{ platinums[1].url }}" target="_blank"><img class="lazy" src="{{ platinums[1].image }}" alt="{{ platinums[1].title }}"></a>
+        </div>
+        <div class="col-md-1"></div>
+        <div class="col-md-7">
+          <p class="lead">{{ platinums[1].promo }}</p>
+        </div>    
       </div>
-      <div class="col-md-1"></div>
-      <div class="col-md-7">
-        <p class="lead">{{ platinums[1].promo }}</p>
-      </div>    
-    </div>
-    {% endif %}
-    {% endfor %}
-    {% endif %}
+      {% endif %}
+      {% endfor %}
+
+      {% endif %} <!-- if captions are not enabled -->
+
+      {% endif %} <!-- /if at least 1 platinum sponsors exist -->
+    <!-- /platinums -->
 
     <!-- golds -->
+      <!-- calculate qnt of gold sponsors -->
       {% assign golds_qnt = 0 %}
-      {% for golds in site.data.sponsors[page.year].gold %}{% assign golds_qnt = golds_qnt | plus: 1 %}{% endfor %}
-      {% if site.data.sponsors[page.year].gold.show-captions == "true" %} <!-- if captions for gold sponsors are enabled -->
-      {% if golds_qnt > 0 %}
-      {% if site.data.sponsors[page.year].show-subtitles == "true" %}
+      {% for golds in site.data.sponsors[page.year].gold %}
+        {% assign golds_qnt = golds_qnt | plus: 1 %}
+      {% endfor %}
+      {% if site.data.sponsors[page.year].gold.title != null %}{% assign golds_qnt = golds_qnt | plus: -1 %}{% endif %}
+      {% if site.data.sponsors[page.year].gold.show-captions != null %}{% assign golds_qnt = golds_qnt | plus: -1 %}{% endif %}
+      <!-- /calculate qnt of gold sponsors -->
+
+      {% if golds_qnt > 0 %} <!-- if at least 1 gold sponsors exist -->
+
+      {% if site.data.sponsors[page.year].show-subtitles == "true" %} <!-- if sub-titles for gold sponsors are enabled -->
       <div class="inner-page">
         <h3 class="sponsors-subtitle">{{ site.data.sponsors[page.year].gold.title }}</h3>
-      </div>{% endif %}
+      </div>{% endif %} <!-- /if sub-titles for gold sponsors are enabled -->
+
+      {% if site.data.sponsors[page.year].gold.show-captions == "true" %} <!-- if captions for gold sponsors are enabled -->
 
       {% for golds in site.data.sponsors[page.year].gold %}
       {% if golds[1].title != null %}
@@ -56,24 +80,27 @@
       </div>
       {% endif %}
       {% endfor %}
-      {% endif %} <!-- / if captions for gold sponsors are enabled -->
 
       {% else %} <!-- if captions are not enabled -->
 
-      {% if golds_qnt > 0 %} <!-- if gold sponsors exist -->
+      {% if golds_qnt > 0 %} <!-- if gold sponsors exist we should add row -->
       <div class="inner-page row">
-      {% endif %}
-      {% assign golds_counter = 0 %}
+      {% endif %} <!-- /if gold sponsors exist we should add row -->
+
       {% for golds in site.data.sponsors[page.year].gold %}
-      {% assign golds_counter = golds_counter | plus: 1 %}
-      {% if golds_counter == 4 %}</div><div class="inner-page row">{% endif %}
-      <div class="col-md-3">
-        <a href="{{ golds[1].url }}" title="{{ golds[1].title }}" target="_blank"><img class="lazy" src="{{ golds[1].image }}" alt="{{ golds[1].title }}"></a>
+      {% if golds[1].title != null %}
+      {% if golds_qnt == 4 or golds_qnt == 8 or golds_qnt == 12 %}</div><div class="inner-page row">{% endif %}
+      <div class="col-md-3 logo-info-box">
+        <a href="{{ golds[1].url }}" title="{{ golds[1].title }}" target="_blank"><img class="lazy logo" src="{{ golds[1].image }}" alt="{{ golds[1].title }}"></a>
       </div>
-      <div class="col-md-1"></div>
+      <div class="col-md-1 logo-info-box"></div>
+      {% endif %}
       {% endfor %}
       {% if golds_qnt > 0 %}</div>{% endif %}
+
       {% endif %}
+
+      {% endif %} <!-- /if at least 1 gold sponsors exist -->
     <!-- /golds -->
 
     <!-- silver -->
@@ -118,10 +145,10 @@
       {% for silvers in site.data.sponsors[page.year].silver %}
       {% if silvers[1].title != null %}
       {% if silvers_qnt == 4 or silvers_qnt == 8 or silvers_qnt == 12 %}</div><div class="inner-page row">{% endif %}
-      <div class="col-md-3">
-        <a href="{{ silvers[1].url }}" title="{{ silvers[1].title }}" target="_blank"><img class="lazy" src="{{ silvers[1].image }}" alt="{{ silvers[1].title }}"></a>
+      <div class="col-md-3 logo-info-box">
+        <a href="{{ silvers[1].url }}" title="{{ silvers[1].title }}" target="_blank"><img class="lazy logo" src="{{ silvers[1].image }}" alt="{{ silvers[1].title }}"></a>
       </div>
-      <div class="col-md-1"></div>
+      <div class="col-md-1 logo-info-box"></div>
       {% endif %}
       {% endfor %}
       {% if silvers_qnt > 0 %}</div>{% endif %}
@@ -132,43 +159,38 @@
     <!-- /silver -->
 
     <!-- infos -->
+      <!-- calculate qnt of info sponsors -->
       {% assign infos_qnt = 0 %}
-      {% for infos in site.data.sponsors[page.year].info %}{% assign infos_qnt = infos_qnt | plus: 1 %}{% endfor %}
+      {% for infos in site.data.sponsors[page.year].info %}
+        {% assign infos_qnt = infos_qnt | plus: 1 %}
+      {% endfor %}
+      {% if site.data.sponsors[page.year].info.title != null %}{% assign infos_qnt = infos_qnt | plus: -1 %}{% endif %}
+      {% if site.data.sponsors[page.year].info.show-captions != null %}{% assign infos_qnt = infos_qnt | plus: -1 %}{% endif %}
+      <!-- /calculate qnt of info sponsors -->
 
-      {% if infos_qnt > 0 %}
-      {% if site.data.sponsors[page.year].info.title != null %}
-      {% assign infos_qnt = infos_qnt | plus: -1 %}
-      {% if site.data.sponsors[page.year].show-subtitles == "true" %}
+      {% if infos_qnt > 0 %} <!-- if at least 1 info sponsors exist -->
+
+      {% if site.data.sponsors[page.year].show-subtitles == "true" %} <!-- if sub-titles for silver sponsors are enabled -->
       <div class="inner-page">
         <h3 class="sponsors-subtitle">{{ site.data.sponsors[page.year].info.title }}</h3>
-      </div>
-      {% endif %}
-      {% endif %}
-      {% endif %}
+      </div>{% endif %} <!-- /if sub-titles for silver sponsors are enabled -->
 
-      {% if infos_qnt > 0 %}
+      {% if infos_qnt > 0 %} <!-- if info sponsors exist we should add row -->
       <div class="inner-page row">
-      {% endif %}
-
-      {% assign infos_counter = 0 %}
+      {% endif %} <!-- /if info sponsors exist we should add row -->
+<!-- -->
+      
       {% for infos in site.data.sponsors[page.year].info %}
-      {% assign infos_counter = infos_counter | plus: 1 %}
-
-      {% if infos[1].url == null %}
-      {% assign infos_counter = infos_counter | plus: -1 %}
-      {% else %}
-
-      {% if infos_counter == 5 or infos_counter == 9 or infos_counter == 13 %}</div><div class="inner-page row">{% endif %}
+      {% if infos[1].url != null %}
+      {% if infos_qnt == 5 or infos_qnt == 9 or infos_qnt == 13 %}</div><div class="inner-page row">{% endif %}
       <div class="col-md-2 logo-info-box">
         <a href="{{ infos[1].url }}" title="{{ infos[1].title }}" target="_blank"><img class="lazy logo" src="{{ infos[1].image }}" alt="{{ infos[1].title }}"></a>
       </div>
       <div class="col-md-1 logo-info-box"></div>
-
-
       {% endif %}
-
       {% endfor %}
-
       {% if infos_qnt > 0 %}</div>{% endif %}
+
+      {% endif %} <!-- /if at least 1 info sponsors exist -->
     <!-- /infos -->
   </div>
