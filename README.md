@@ -100,8 +100,8 @@ Time for the sponsors, if there're some of them at the moment.
 4. It should be taken into consideration that we have several levels of sponsorship: platinum, gold, silver, info. There're differences between how the sponsors will be displayed based on level of the sponsorship: platinum sponsors have the biggest size of the logo and the additional text; silver and info have smallest size of logos; gold is somewhere in between.
 5. Sponsors logos should be stored in `img/sponsors/`. Adding logos do not forget to make them of equal height and center the logo both vertically and horizontally.
 6. There are two more options to alter how this block will be rendered:
-  1. `show-subtitles` will display the sponsors section sub titles, if they are provided.
-  2. `show-captions` will display the promo text provided by sponsor. It's a default way of rendering for platinum sponsors, but it can be enabled for gold and silver sponsors by setting this parameter to `on`. `show-captions` are always `on` for platinum sponsors and always `off` for info sponsors.
+  * `show-subtitles` will display the sponsors section sub titles, if they are provided.
+  * `show-captions` will display the promo text provided by sponsor. It's a default way of rendering for platinum sponsors, but it can be enabled for gold and silver sponsors by setting this parameter to `on`. `show-captions` are always `on` for platinum sponsors and always `off` for info sponsors.
 
 Here's an example:
 ```
