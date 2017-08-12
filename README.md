@@ -98,10 +98,10 @@ Time for the sponsors, if there're some of them at the moment.
 2. Then open `_data/sponsors.yml`
 3. Create a section for the conference year you need and start to add data.
 4. It should be taken into consideration that we have several levels of sponsorship: platinum, gold, silver, info. There're differences between how the sponsors will be displayed based on level of the sponsorship: platinum sponsors have the biggest size of the logo and the additional text; silver and info have smallest size of logos; gold is somewhere in between.
-5. Sponsors logos shoul be stored in `img/sponsors/`. Adding logos do not forget to make them of equal height and center the logo both vertically and horizontally.
+5. Sponsors logos should be stored in `img/sponsors/`. Adding logos do not forget to make them of equal height and center the logo both vertically and horizontally.
 6. There are two more options to alter how this block will be rendered:
-6.1. `show-subtitles` will display the sponsors section sub titles, if they are provided.
-6.2. `show-captions` will display the promo text provided by sponsor. It's a default way of rendering for platinum sponsors, but it can be enabled for gold and silver sponsors by setting this parameter to `on`.
+  1. `show-subtitles` will display the sponsors section sub titles, if they are provided.
+  2. `show-captions` will display the promo text provided by sponsor. It's a default way of rendering for platinum sponsors, but it can be enabled for gold and silver sponsors by setting this parameter to `on`. `show-captions` are always `on` for platinum sponsors and always `off` for info sponsors.
 
 Here's an example:
 ```
@@ -135,7 +135,7 @@ It's about time to close CFP. Well, it makes sense to announce a couple of speak
 2. Then open `_data/sessions.yml`
 3. Create a section for the conference year you need and start to add data.
 4. Please note, that if some data is not available do not set anything. `""` is treated as `empty` value.
-5. Please note, that speaker's photo shoul be stored in `img/speakers/`. It's also important to preserve the balance between size and quality.
+5. Please note, that speaker's photo should be stored in `img/speakers/`. It's also important to preserve the balance between size and quality.
 6. If there're more than one speaker feel free to add a block for the second one. Check the example below.
 
 Here's an example:
@@ -214,17 +214,13 @@ How to Add Slides and Videos? :x:
 ### To Be Developed
 1. Add HTML minification. :x: 
 2. Add HTTPS if possible. :heavy_minus_sign: (not available for custom domains)
-
 3. Add Events microdata. :white_check_mark: 
-
 4. Fix the issue with speakers if there're no SMs defined. In this case the 2nd speaker's block is aligned improperly. :white_check_mark: 
 5. Update event schema.org markup with Eventbrite link and data. :white_check_mark: 
-
-6. Use the approcah from Info sponors for grid view of other types of sponsors, except Platinums.
-
-7. Support more than 1 day for sessions.
+6. Use the same approach from Info sponors for grid view of other types of sponsors, except Platinums. :white_check_mark: 
 
 ### To Be Done
 1. Move 2015 under standard flow.
 2. Move 2014 under standard flow.
 3. Move older conferences under standard flow. :white_check_mark: 
+4. Support more than 1 day for sessions.
