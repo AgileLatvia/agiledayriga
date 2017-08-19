@@ -20,24 +20,51 @@
     <!-- Days -->
     <!-- check how it done on sponsors page 
       
-      {% if site.data.sponsors[page.year].show-subtitles == "true" %}
-      <div class="inner-page">
-        <h3 class="sponsors-subtitle">{{ site.data.sponsors[page.year].gold.title }}</h3>
-      </div>{% endif %}
+     {% assign platinums_qnt = 0 %}
+      {% for platinums in site.data.sponsors[page.year].platinum %}
+        {% assign platinums_qnt = platinums_qnt | plus: 1 %}
+      {% endfor %}
+      {% if site.data.sponsors[page.year].platinum.title != null %}{% assign platinums_qnt = platinums_qnt | plus: -1 %}{% endif %}
+      {% if site.data.sponsors[page.year].platinum.show-captions != null %}{% assign platinums_qnt = platinums_qnt | plus: -1 %}{% endif %}
 
     -->
 
-    <!-- Sessions -->
-    <div class="row inner-page">
+    <!-- calculate number of days -->
+    {% assign days_qnt = 0 %}
+    {% assign days = 0 %}
     {% for session in site.data.sessions[page.year] %}
+      {% if session[1].day != null %}
+        {% if day != session[1].day %}
+          {% assign days = session[1].day %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    <!-- /calculate number of days -->
+
+    <!-- let's iterate by days -->
+    {% for i in (1..days) %}
+      {% if days > 1 %} <!-- display day if more than one -->
+      <div class="inner-page">
+        <h3 class="sponsors-subtitle">Day {{ i }}</h3>
+      </div>
+      {% endif %} <!-- /display day if more than one -->
+
+      <!-- Sessions -->
+      <div class="row inner-page">
+
+      <!-- let's display sessions for the day and sort them -->  
+      {% assign sessions_sorted = site.data.sessions[page.year] | sort:  %}
+
+      {% for session in sessions_sorted %}
+      {% if session[1].day == i %}
       <hr class="col-md-12">
       <div id="{{ session[0] }}" class="col-md-12">
-      	<h3>{% if session[1].title %}{{ session[1].title | strip_html }}{% endif %}{% if session[1].time %} ({{ session[1].time | strip_html }};{% if session[1].place %} {{ session[1].place | strip_html }}{% endif %}){% endif %}</h3>
-      	<p>{% if session[1].about %}{{ session[1].about | strip_html }}{% endif %}</p>
-		<p class="social-darker">
-		  {% if session[1].slides %}<a href="{{ session[1].slides }}" title="Slides"><i class="fa fa-file-text"></i></a>{% endif %}
-		  {% if session[1].video %}<a href="{{ session[1].video }}" title="Video"><i class="fa fa-youtube-square"></i></a>{% endif %}
-		</p>
+        <h3>{% if session[1].title %}{{ session[1].title | strip_html }}{% endif %}{% if session[1].time %} ({{ session[1].time | strip_html }};{% if session[1].place %} {{ session[1].place | strip_html }}{% endif %}){% endif %}</h3>
+        <p>{% if session[1].about %}{{ session[1].about | strip_html }}{% endif %}</p>
+        <p class="social-darker">
+        {% if session[1].slides %}<a href="{{ session[1].slides }}" title="Slides"><i class="fa fa-file-text"></i></a>{% endif %}
+        {% if session[1].video %}<a href="{{ session[1].video }}" title="Video"><i class="fa fa-youtube-square"></i></a>{% endif %}
+        </p>
       </div>
       <!-- Speaker (s) -->
       {% for speaker in session[1].speakers %}
@@ -58,6 +85,11 @@
         </div>
       </div>
       {% endfor %}
+      {% endif %}
+      {% endfor %}
+      <!-- /let's display sessions for the day -->  
     {% endfor %}
+    <!-- /let's iterate by days -->
+
     </div> <!-- /sessions -->
   </div> <!-- /Schedule -->

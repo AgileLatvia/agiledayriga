@@ -137,12 +137,15 @@ It's about time to close CFP. Well, it makes sense to announce a couple of speak
 4. Please note, that if some data is not available do not set anything. `""` is treated as `empty` value.
 5. Please note, that speaker's photo should be stored in `img/speakers/`. It's also important to preserve the balance between size and quality.
 6. If there're more than one speaker feel free to add a block for the second one. Check the example below.
+7. Also take into consideration that `session01` is used for case sensitive sorting. For example `session12` will be shown below `session05`.
+8. Please notice that you can define the day. This field must have a value. If only one day is defined, then it won't be shown.
 
 Here's an example:
 ```
   session01:
-    order: 1
-    time: 
+    day: 1
+    time: "10:00 - 11:00"
+    place: "Room A"
     title: "Nexus: How We Do Scrum with 150+ People"
     about: "Nexus is a framework for scaled Scrum developed by Scrum co-creator Ken Schwaber and Scrum.org community. It addresses the most painful problems of scaled development – dealing with dependencies and building 'Done' integrated software every iteration. In our short talk, we are going to explain the key concepts of Nexus and illustrate them with our own case study where 150+ people successfully do Scrum to build software for a big North American retail company using Nexus."
     slides: 
@@ -192,7 +195,15 @@ Here's an example of `_includes/2017-tickets.html`:
 ```
 
 ## Step 9
-How to Setup Conference Schedule? :x: 
+How to Setup Conference Schedule? 
+
+1. Assuming that you have already created an event in Lanyrd service set `schedule-lanyrd` variable in `index.html` file. Use the link to schedule from event created there.
+2. Set variable `schedule-status` to `on`.
+
+```
+  schedule-status: "off"
+  schedule-lanyrd: "http://lanyrd.com/2017/adr17/schedule/?day=jul-07&fullscreen=1&view=grid"
+```
 
 ## Step 10
 How to Switch Off Tickets and Event Microdata? :x: 
@@ -200,9 +211,9 @@ How to Switch Off Tickets and Event Microdata? :x:
 
 
 ## Step 11
-How to Switch Off Schedule? :x: 
+How to Switch Off Schedule?
 
-
+1. Set variable `schedule-status`  in `index.html` file to `off`.
 
 ## Step 12
 How to Add Slides and Videos? :x: 

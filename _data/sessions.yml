@@ -1,6 +1,6 @@
 2017:
-  session11:
-    order: 1
+  session01:
+    day: 1
     time: "10:00 - 11:00"
     place: "Daugava 1+2"
     title: "Learning Through Osmosis"
@@ -17,8 +17,8 @@
         twitter: "http://twitter.com/maaretp"
         linkedin: "https://fi.linkedin.com/in/maaret"
         google-plus:
-  session03:
-    order: 2
+  session02:
+    day: 1
     time: "11:15 - 12:00"
     place: "Daugava 1"
     title: "Leadership, Complexity, LeSS"
@@ -35,8 +35,8 @@
         twitter: "https://twitter.com/ran_nyman"
         linkedin: "https://www.linkedin.com/in/rannyman"
         google-plus:
-  session02:
-    order: 3
+  session03:
+    day: 1
     time: "11:15 - 12:00"
     place: "Daugava 2"
     title: "Creating Products and Services of Next Generation"
@@ -53,8 +53,8 @@
         twitter: 
         linkedin: "https://www.linkedin.com/in/alexey-eremin-70086417/" 
         google-plus:
-  session09:
-    order: 4
+  session04:
+    day: 1
     time: "11:15 - 12:00"
     place: "Casino"
     title: "Me and My Deadly Agile Sins"
@@ -71,8 +71,8 @@
         twitter: "https://twitter.com/alt_lv"
         linkedin: 
         google-plus:         
-  session01:
-    order: 5
+  session05:
+    day: 1
     time: "12:00 - 13:00"
     place: "Daugava 1" 
     title: "Nexus: How We Do Scrum with 150+ People"
@@ -98,8 +98,8 @@
         twitter: 
         linkedin: "https://www.linkedin.com/in/razumovsky/"
         google-plus: 
-  session15:
-    order: 6
+  session06:
+    day: 1
     time: "12:00 - 13:00"
     place: "Daugava 2" 
     title: "How Scrum Can Help Me to Save Money on the Long Term?"
@@ -116,8 +116,8 @@
         twitter: 
         linkedin: "https://www.linkedin.com/in/raluca-nicoleta-bejan-ioan-9a123a6/"
         google-plus:
-  session05:
-    order: 7
+  session07:
+    day: 1
     time: "12:00 - 13:00"
     place: "Casino"  
     title: "DevOps at Scale Applied in Bunnyworld"
@@ -134,8 +134,8 @@
         twitter: 
         linkedin: "https://www.linkedin.com/in/uldiskarlovskarlovskis/"
         google-plus:
-  session16:
-    order: 8
+  session08:
+    day: 1
     time: "14:00 - 14:45"
     place: "Daugava 1"
     title: "Agnostic Agile"
@@ -161,8 +161,8 @@
         twitter: "https://twitter.com/StefanoAgile"
         linkedin: "https://www.linkedin.com/in/stefanolaporta/"
         google-plus:
-  session07:
-    order: 9
+  session09:
+    day: 1
     time: "14:00 - 14:45"
     place: "Daugava 2"
     title: "Lessons from Silicon Valley"
@@ -179,8 +179,8 @@
         twitter: "https://twitter.com/jasoncovington"
         linkedin: "https://www.linkedin.com/in/jasoncovington/"
         google-plus:
-  session13:
-    order: 10
+  session10:
+    day: 1
     time: "14:00 - 14:45"
     place: "Casino"
     title: "Lessons from Silicon Valley"
@@ -198,8 +198,8 @@
         twitter: "https://twitter.com/LlewellynFalco"
         linkedin: "https://www.linkedin.com/in/llewellyn-falco-406742/"
         google-plus:
-  session08:
-    order: 11
+  session11:
+    day: 1
     time: "15:00 - 15:45"
     place: "Daugava 1"
     title: "Learnings from Agile Transition Journey"
@@ -217,7 +217,7 @@
         linkedin: "https://linkedin.com/in/romankorsak"
         google-plus: 
   session12:
-    order: 12
+    day: 1
     time: "15:00 - 15:45"
     place: "Daugava 2"
     title: "Leadership Begins with Responsibility"
@@ -234,8 +234,8 @@
         twitter: "http://twitter.com/aritanninen"
         linkedin: "http://fi.linkedin.com/in/aritanninen"
         google-plus: "https://plus.google.com/+AriTanninen"
-  session04:
-    order: 13
+  session13:
+    day: 1
     time: "15:00 - 15:45"
     place: "Casino"
     title: "Remote Team Facilitation and Scaled Scrum: How to Make It Work!"
@@ -252,8 +252,8 @@
         twitter: 
         linkedin: "https://www.linkedin.com/in/rolandflemm"
         google-plus:
-  session06:
-    order: 14
+  session14:
+    day: 1
     time: "16:00 - 17:00"
     place: "Daugava 1+2"
     title: "Agile Organization - Organization 3.0"
@@ -270,10 +270,36 @@
         twitter: "https://twitter.com/zuzuzka"
         linkedin: "http://cz.linkedin.com/in/zuzka"
         google-plus:
-  session14:
-    order: 14
-    time: "Day 2"
-    place: "Open Space"
+  session15:
+    day: 1
+    time: "11:00 - 16:00"
+    place: "Coaching Corner"
+    title: "The Coaching Clinic"
+    about: "Coaches’ Clinics are a unique and free service designed to help you with specific challenges you’ve encountered on your way to a more Agile way of working. Organized by Agiletransformer.com training and coaching community, these short coaching sessions are available during our event that our coaches and trainers attend to support the Agile Latvia community. Based on their individual needs, participants are matched with volunteer coaches, to discuss technical practices, organizational change, Scrum, Kanban, Agile Coaching as a career, and topics such as breaking down development silos to coordinating multiple teams and educating upper management for enhanced agility."
+    slides: 
+    video: 
+    speakers:
+      speaker01:
+        name: "Vladimir Ivanov"
+        bio: "Vladimirs Ivanovs (40), have realised that I am the 'fox' and as philosopher Isaiah Berlin puts it 'the fox knows many things, but the hedgehog knows one big thing'. Since then I’ve started to form teams with the 'hedgehog focus'. agiletransofrmer.com is a perfect hedgehog, as is formed by the practitioners for the practitioners around one big thing – Agile (closely connected to Lean and Kanban). I love exploring cross-cultural differences and travel, so I do that in a form of 'workations' – public speaking on conferences + site seeing. Events are not only Agile related (also IPMA, PMI, itSMF, IT) in the following countries: Latvia, Lithuania, Estonia, Sweden, UK, Germany, Netherlands, Croatia, Czech Republic, Poland, Ukraine, Belarus, Russia, Kazakhstan, India."
+        photo: "/img/speakers/vladimir-ivanov.png"
+        blog: 
+        facebook: 
+        twitter: "https://twitter.com/vivanovs"
+        linkedin: "https://www.linkedin.com/in/vivanov/en"
+        google-plus: "https://plus.google.com/111063784323765456395"
+  session16:
+    day: 2
+    time: "10:00 - 16:15"
+    place: "2nd floor"
+    title: "Open Space"
+    about: "What is Open Space? It is agendaless event where people come together, create agenda under specific theme, and then learn from each other in small groups. Items in agenda can be anything: problems, situations, experiences, approaches, lectures, etc. related to the specific theme. "
+    slides: 
+    video: 
+  session17:
+    day: 2
+    time: "11:00 - 13:00"
+    place: "2nd floor"
     title: "Workshop: Large-Scale Scrum simulation with LEGO!"
     about: "Since invented in 2009 lego4scrum has become a very popular simulation to teach Scrum. Nowadays how to get several teams to scrum, seems, is no longer a secret. Though knowing how to make agile work in a large-scale multi-team environment is. So In 2016 I was able to scale lego4scrum to over 155 people (22 development teams) all building an overall product. This approach is described in a newly released book called (what a suprise!): 'lego4scrum'. This practical session we will simulated a large-scale environment with 10+ teams (we need your help - please come to this session!). What will we be doing: working closely with the market representatives to know their needs, achieving shared understanding of a product with 10+ teams working together, setting up a suitable (flat) organizational structure capable of delivering, putting a lightweight process on top that is barely enough but enables self-management, building a working product that satisfies the market needs. Great helpers here are understanding complexity and system thinking, knowing how Scrum really works on the team-level, and few core ideas from LeSS framework, such as: an overall product backlog, a single Product Owner, joint team meetings."
     slides: 
@@ -288,10 +314,10 @@
         twitter: "https://twitter.com/alexeykri"
         linkedin: "https://www.linkedin.com/in/alexeykrivitsky"
         google-plus: 
-  session10:
-    order: 20
-    time: "Day 1-2; 11:00 - 16:00"
-    place: "Coaching Corner"
+  session18:
+    day: 2
+    time: "11:00 - 16:00"
+    place: "2nd floor"
     title: "The Coaching Clinic"
     about: "Coaches’ Clinics are a unique and free service designed to help you with specific challenges you’ve encountered on your way to a more Agile way of working. Organized by Agiletransformer.com training and coaching community, these short coaching sessions are available during our event that our coaches and trainers attend to support the Agile Latvia community. Based on their individual needs, participants are matched with volunteer coaches, to discuss technical practices, organizational change, Scrum, Kanban, Agile Coaching as a career, and topics such as breaking down development silos to coordinating multiple teams and educating upper management for enhanced agility."
     slides: 
@@ -308,7 +334,7 @@
         google-plus: "https://plus.google.com/111063784323765456395"
 2016:
   session01:
-    order: 1
+    day: 1
     time: "10:00 - 11:00"
     title: "Beyond Budgeting – an Agile Management Model for New Business and People Realities
 – the Statoil Implementation Journey"
@@ -326,7 +352,7 @@
         linkedin: "https://no.linkedin.com/in/bjarte-bogsnes-41557910"
         google-plus: 
   session02:
-    order: 2
+    day: 1
     time: "11:15 - 12:00"
     title: "Lean Metrics - Measuring and Driving Change"
     about: "In order to do successful development, you want metrics to tell you whether you are heading to the right direction. In this talk you will get an example of measurement stack aligned through strategy, customer, current operational mode - all the way to changes that you are introducing. From the session you will get example tools for measuring: Change in business environment, Customer understanding, Process cycle efficiency, Change implementation progress, Continuous improvement and learning. One key thing is also to keep the metrics lean. So sweep away the massive Excel sheets and bring in simple indicators that everyone can understand, from developers to decision-makers."
@@ -343,7 +369,7 @@
         linkedin: "https://fi.linkedin.com/in/karoliinaluoto"
         google-plus:
   session03:
-    order: 3
+    day: 1
     time: "13:00 - 13:45, Room A"
     title: "The Great Intersection of Psychology and Agile"
     about: "Coming from a strong psychological background, I was immersed into the world of software development. With no technical background nor prior experience, I was slowly discovering that those two worlds, that seemed to be so far from each other, are after all very connected. I would like to guide you through my journey and put on psychologist’s glasses for a while. Together we’ll look into Agile world from a different perspective."
@@ -360,7 +386,7 @@
         linkedin: "https://pl.linkedin.com/in/kasiaryniak"
         google-plus: 
   session04:
-    order: 4
+    day: 1
     time: "13:00 - 13:45, Room B"
     title: "Is It Time to Renew Agile?"
     about: "In 2001 the Agile Manifesto was made. Today, 15 years later Agile seems to become a commodity. Everyone wants to do Agile, transformation coaches are in a booming business, the books, blogs and papers on the subject are countless, ... But is the Agile Manifesto still up to date? Do we have to renew Agile? Let's explore this subject."
@@ -377,7 +403,7 @@
         linkedin: "https://be.linkedin.com/in/inge-gorgon-9189658"
         google-plus: 
   session05:
-    order: 5
+    day: 1
     time: "14:00 - 14:45, Room A"
     title: "Scrum Master's Personal Development Techniques"
     about: "It is not easy to do a Scrum Master job. There's only a two days training 
@@ -401,7 +427,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: "https://lv.linkedin.com/in/dmitrylebedev"
         google-plus:
   session06:
-    order: 6
+    day: 1
     time: "14:00 - 15:45, Room B"
     title: "Enterprise Agile Pasta"
     about: "Join Enterprise Agile Pasta game! Feel the challenges of Agile teams in the Enterprise environment - scaling agile, distributed teams, communication issues, different cultures and leadership styles etc. During the 3 phases of the game we will be debriefing and discussing learnings, so you could walk-away with useful insights and understanding of Agile scaling issues and practical advise. Last, but not least, it is a fun activity and opportunity to make friends with a like-minded people. The game has been created by agiletransformer.com experts and will be led by Vladimirs Ivanovs, Optimus Prime and Agile project management enthusiast."
@@ -418,7 +444,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: "https://www.linkedin.com/in/vivanov/en"
         google-plus: "https://plus.google.com/111063784323765456395"
   session07:
-    order: 7
+    day: 1
     time: "15:00 - 15:45, Room A"
     title: "Scrumming the Evil out of a Bank"
     about: "In this talk I will share the Bigbank journey starting from 2014, when Scrum was first introduced, up until today. Today we have 9 Scrum teams, who have fought their way through multiple changes, mistakes, victories and all kinds of mess. So what can you achieve within 2 years? Well, you need to come and see it for yourself!"
@@ -435,7 +461,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: "https://ee.linkedin.com/in/heldinrikk"
         google-plus:
   session08:
-    order: 8
+    day: 1
     time: "16:15 - 17:30"
     title: "Managing under Conditions of Uncertainty"
     about: "Managing under conditions of uncertainty: lessons from the natural sciences. One of key quotes: “You can’t design a complex adaptive system, you stimulate it with multiple ‘safe to fail’ experiments to see what the evolutionary potentials of the present are. Very small change, massive impact in terms of strategy and we way we work.”"
@@ -461,7 +487,7 @@ processes in your organization? I'm going to share some useful techniques, which
         google-plus: 
 2012:
   session01:
-    order: 1
+    day: 1
     time: 
     title: "A Coding Dojo With a Twist"
     about: "A CyberDojo is coding dojo with a difference. Each group: writes their code and tests inside a web browser; presses their run-tests button to submit their code and tests to the CyberDojo server, the server saves the submission, runs the tests, and returns the test-outcome to the browser as a traffic light; green if all the tests passed; amber if the tests could not be run (eg syntax error); red if one or more tests failed; a dashboard shows each groups traffic light history. Click on any traffic light to open a diff-view of that submission; periodically a bell rings, indicating the driver from each group must move to another group and become a navigator. I built CyberDojo to promote deliberate software practice of: test driven development, and team dynamics and collaboration. I strongly believe that if you practice coding using your normal development environment then you are likely to be drawn into an unhelpful “completion” mindset. Practising in a CyberDojo helps to combat this tendency since a CyberDojo is so obviously not your normal development environment! Practising in a CyberDojo helps you to concentrate on the practice."
@@ -478,7 +504,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: 
         google-plus: 
   session02:
-    order: 2
+    day: 1
     time: 
     title: "Agile Communication"
     about: "Everybody agrees these days that communication is one of the key success factors in any project, regardless of their size and complexity. During the agile adoption process, many teams and managers are blind to communication issues and believe everything is working just fine. However, experience suggests that communication is failing at many levels -managers don't really understand their developers, testers and other geeks, who on the other hand often fail to effectively sell their point back to management. Similar situations exist between sales and technical experts or even between developers and testers.
@@ -496,7 +522,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: "https://www.linkedin.com/in/zuzka"
         google-plus: 
   session03:
-    order: 3
+    day: 1
     time: 
     title: "Agile Contracts — Thesis, Antithesis, Synthesis"
     about: "Thesis: In order to have control over software project, a customer needs to have a contract that holds a supplier’s feet to the fire and fixes the price and scope of what is delivered. Antithesis: Effective projects require collaboration between a customer and a supplier. A contract that fixes the price and scope of the project undermines the trust needed for this collaboration. Synthesis: Target price contract aligns the incentives of the supplier and the customer towards making the scope match the budget. This gives the customer control over the price and value of the created software while maintaining a collaborative environment."
@@ -513,7 +539,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: 
         google-plus: 
   session04:
-    order: 4
+    day: 1
     time: 
     title: "Anonymous Analyst"
     about: "The role of software analyst is full of misunderstandings. In cross-functional teams we focus on having a shared vision and shared architecture. We avoid specializations, we force every member of a team to act and pull required information from all available sources without additional chains in the communication. The role of traditional software analyst does not fit nicely into Scrum either. They have been usually separated from teams and we cannot call them neither Scrum Masters nor Product Owners. However, software analysts play essential role in cross-functional teams. Our understanding of what they should do and the role they play in a team should be different. Analysts help us understand and we should focus on sharing this understanding inside the team. Here I will present the roots of misunderstandings and some practical tips how they can be avoided."
@@ -530,7 +556,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: 
         google-plus: 
   session05:
-    order: 5
+    day: 1
     time: 
     title: "Becoming Agile in Public Sector Project"
     about: "Becoming agile is not an easy task, especially if you are working in public sector project. Though it is possible and we have managed to do it. Here is our advice on how to do it: Seek for opportunities. Public sector project carry pretty heavy burden of administrative work, which does not go well together with strive of agile practices to eliminate waste. Though sometimes things which seem to us as obstacles at the first glance, are in fact opportunities. We will teach you how to use some of them; Start small. Starting all is often scary, and build resistance to agile practices on both customer and supplier side. By implementing practice by practice you will have enough time to gain trust and build confidence of the team; Work harder! When you start using agile practices in software development, all team members both on customer and supplier side have to commit to following them. Lack of commitment justified by lack of understanding or complexity of chosen approach might actually hide bigger problem - insufficient ability to deliver. Sometimes it is enough just to start working."
@@ -556,7 +582,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: "https://www.linkedin.com/in/ejakubaneca/"
         google-plus: 
   session06:
-    order: 6
+    day: 1
     time: 
     title: "Extreme Startup"
     about: "Extreme startup is a team-based coding competition. Over the course of a few hours, you will write an application that answers the questions from the workshop server. You can work solo or in pairs, test-driven or cowboy coding, in any programming language you want. Answer the most questions and win the competition! This workshop was first run at #xp2011 by Richard Chatley and Matt Wynne. Johannes have run the workshop several times in conferences and companies. For more information on the workshop itself, see Johannes' blog post on extreme startup. Bring a wi-fi-capable computer with the development environment(s) of your choice. (If you can't bring a computer, you can pair with someone else. We depend on most people bringing a computer, though)"
@@ -573,7 +599,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: 
         google-plus: 
   session07:
-    order: 7
+    day: 1
     time: 
     title: "How to Be a Lean Product Developer?"
     about: "We are not just writing software – we are in business of creating a great inspiring product that serves a purpose. During the session you shall learn how to communicate and validate your ideas faster, how to build your product faster, how to measure it all (faster) and how to learn faster while doing all these activities."
@@ -590,7 +616,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: 
         google-plus: 
   session08:
-    order: 8
+    day: 1
     time: 
     title: "How to Change the World"
     about: "How do I make my managers more Agile? How can I convince developers to educate themselves? How can I make customers more cooperative? How do I start a European network of Agile and Lean practitioners? When transforming organizations and other social systems people usually encounter obstacles. And these obstacles very often involve changing other people’s behaviors. Of course, we cannot really _make_ people behave in a different way. We also cannot really make people laugh, and we cannot really make people happy. But… we can certainly try! This session is about Change Management 3.0. It is a new change management “super model” which views organizations as complex adaptive systems and social networks. The Change Management 3.0 supermodel wraps various existing models (PDCA, ADKAR, Adoption Curve and The 5 I's). It lists a few dozen hard questions that can help people in their attempts to change the behaviors of other people in an organization and beyond. No matter whether you are a manager, Scrum Master, Product Owner, software developer or writer, anyone will find it useful to know how to change the world around them."
@@ -607,7 +633,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: 
         google-plus: 
   session09:
-    order: 9
+    day: 1
     time: 
     title: "How to Coach Traditional Managers into Lean and Agile?"
     about: "Managers are often quoted as an impediment for Agile adoption. We have seen also otherwise: managers might be the crucial make it or break it force within organization that is ongoing change. In this presentation several aspects  of change management, leadership and coaching are touched. Real-life examples from Ericsson Finland: team formation and operation (managers and coaches role), Change Roadmap, coaching Leadership Teams, different levels of coaching (individuals, teams, PO, portfolio, line management on different levels). What is required from a management coach? How to get involvement? Why Scrum was seen as a threat for managers? How to involve people to change managers?"
@@ -624,7 +650,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: 
         google-plus: 
   session10:
-    order: 10
+    day: 1
     time: 
     title: "Introducing BDD"
     about: "There is a great promise in BDD (Behaviour Test Driven Development). A promise of better understanding between Product Owner and the development team. Having experienced all that, Aki tells a story how he managed to introduce BDD process to his current work environment and what made it successful. The story has a happy ending."
@@ -641,7 +667,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: 
         google-plus: 
   session11:
-    order: 11
+    day: 1
     time: 
     title: "Mikado Method"
     about: "A code base must be changed, or it will die. But sometimes these changes feels like a fight with the Legacy Software Hydra, for every scary head cut off, two more grows out. Every change takes us further from the goal! Instead, come learn the Mikado Method, a systematic approach to beat the Hydra and change the code in a safe way. It enables continuous delivery, and it enhances team communication, collaboration and learning, helping individuals stay on track. We will practice to visualize, prepare and perform business-value-focused changes, without having a broken code-base in the process. Process/Mechanics: Participants sharing code change horror stories to get in the mood; The horror story behind the Mikado Method, and the resolution; The core concepts to make it work, and the benefits of it; The Mikado Method kata in Java code (https://github.com/mikadomethod/kata-java), performed by presenter; Q&A/Debriefing. Participants perform same demo as a kata. Bring Your Own Laptop!! (Java and C# examples provided); Q&A/Debriefing. The material is also presented in a book which can be downloaded from http://mikadomethod.wordpress.com/book/"
@@ -668,7 +694,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: 
         google-plus: 
   session12:
-    order: 12
+    day: 1
     time: 
     title: "Product Management in Agile Organization with Product Developed by Many Teams"
     about: "Early in 2010 we implemented Scrum in Adform as its development process. More than 40 people were split to 6 cross functional teams. So what’s the big deal you will ask? The big deal for us was: we all work developing ONE product (SaS Ads Serving platform)! We are not working on separate projects! How to organize Product Management work to fit this? How 6 Product Owners should work together, with company management, and other departments? How to split big features and divide work to teams (usually one feature had to be implemented by few teams to bring value to the customer)? What to do with 'research' projects? How to handle the growth of the company (now we have more than 50 people and 8 teams)? In this presentation I will share our journey, as well as mistakes we made and lessons learned. If you are implementing Agile in organization or project with many teams working on one product - this presentation is for you."
@@ -685,7 +711,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: "http://www.linkedin.com/in/vaidas"
         google-plus: 
   session13:
-    order: 13
+    day: 1
     time: 
     title: "Simple Effective Teamwork"
     about: "Agile practices may be the way to build great software but what really matters is how well your team works together. In this beginner-friendly talk, Antti reveals the simple principles behind succesful software teams."
@@ -702,7 +728,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: 
         google-plus: 
   session14:
-    order: 14
+    day: 1
     time: 
     title: "Story Points Considered Harmful – A New Look at Estimation Techniques"
     about: "Story Points are the typical estimation unit for Agile Teams. But do they really work? Or are there better ways to estimate? In this talk, we‘ll look at the problem of estimating, as well as empirical data challenging the validity of story points. Can we find an accurate way of assessing the cost and duration of a project without estimating all our Stories? Come to learn how to do that!"
@@ -719,7 +745,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: "https://www.linkedin.com/in/duartevasco/"
         google-plus: 
   session15:
-    order: 15
+    day: 1
     time: 
     title: "The Red Bead Experiment"
     about: "Targets, rewards, motivational speeches, ranking, individual bonuses, and even punishments, are to this day common management practices to get results from the workers. Are they effective in getting us to do better work? The world famous consultant Dr W Edwards Deming, who was “the man who taught the Japanese, America and many other countries about quality”, created The Red Bead Experiment in 1982 to communicate his take on the subject. In this session we will run a version of the experiment that has been slightly adapted for software development by David P. Joyce. The experiment introduces many of Deming’s ideas about management, the principles of variation and statistical process control charts. And it is a humorous and fun experience for both participants and audience! After the experiment there will be a presentation followed by a group discussions on the learning points and how they can be related to software development and the management of software development teams."
@@ -736,7 +762,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: "https://www.linkedin.com/in/joakimsunden/"
         google-plus: 
   session16:
-    order: 16
+    day: 1
     time: 
     title: "The Role of Management in Agile Through Real-life Stories"
     about: "This session is an entertaining in-depth investigation into the role of management in Agile. At the start of this session we will define management in an Agile context. Then we will proceed through five real-life stories describing problematic situations ranging from teams to organizations. Each story begins with an organization diagram followed by perceived symptoms, root-causes and effects. For developers this session is an opportunity to understand the causes of some of the problems you face in your teams. and for managers this session is an opportunity to learn from mistakes done by others."
@@ -753,7 +779,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: 
         google-plus: 
   session17:
-    order: 17
+    day: 1
     time: 
     title: "Using BDD to Make Clients Happy"
     about: "Today, when good developers are as hard to find as honest politicians, we — the development teams — run the show. But increasingly, we're losing touch with the very thing that allows us to be successful. We're forgetting about how to make our (development) clients happy. More fundamentally, this means that we're losing touch with the end goal: to build products that have a high value, regardless of how they're developed. In this session i'll show you modern agile methodology called BDD and couple of accompanied tools, that will finally help you on the way to make well thought products."
@@ -771,7 +797,7 @@ processes in your organization? I'm going to share some useful techniques, which
         google-plus: 
 2011:
   session01:
-    order: 1
+    day: 1
     time: 
     title: "How to Adopt Agile at Your Organization"
     about: "Works for Tieto Latvia and promotes new technologies, open source and Agile software development. Previously he has worked a lot with Oracle databases, development tools and applications but in recent years he is passionate Ruby and JavaScript developer and is promoting use of modern web technologies in many enterprises. He is contributing to Ruby on Rails and other open source projects. He uses and promotes to others Test Driven Development which he considers as one of the key Agile technical practices."
@@ -788,7 +814,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: "https://www.linkedin.com/in/raimondssimanovskis/"
         google-plus: 
   session02:
-    order: 2
+    day: 1
     time: 
     title: "Patterns of Agility, How to Recognize and Agile Project When You See One"
     about: "Currently an Agile Project Coach at Nokia, Vasco Duarte is an experienced product and project manager, having worked in the software industry since 1997. Vasco has also been an Agile practitioner since 2004, he is one of the leaders and a catalyst in the adoption of Agile methods and an Agile culture at Nokia and previously at F-Secure."
@@ -805,7 +831,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: "https://www.linkedin.com/in/duartevasco/"
         google-plus: 
   session03:
-    order: 3
+    day: 1
     time: 
     title: "Practical Intro to Kanban"
     about: "How to start with Kanban in a simple and clear way."
@@ -822,7 +848,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: "https://www.linkedin.com/in/joakimsunden/"
         google-plus: 
   session04:
-    order: 4
+    day: 1
     time: 
     title: "Company Culture as the Key Agile Milestone"
     about: "Zuzana  started with agile and Scrum back in 2005, where she was involved in implementing the agile methods at large US company operating in the medical area. From that time, she was responsible for implementation of  agile and Scrum  to  teams in the Czech Republic operating in different areas of  IT industry (i.e. air traffic control management systems, extensive healthcare applications, public safety systems and small and extremely fast internet projects). Currently she works as a consultant and coach for software organizations, support them in tailoring their agile adoption processes to company culture. She  founded Czech  agile community Agile Association  - AgilniAsociace.cz, organizing conferences and events and sharing the agile experience all around. She is Managing Director of LOTOFIDEA."
@@ -839,7 +865,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: "https://www.linkedin.com/in/zuzka"
         google-plus: 
   session05:
-    order: 5
+    day: 1
     time: 
     title: "Agile Brings Value: Two Scrum Implementation Success Stories and Lessons Learned"
     about: "I share my experiences in implementing Scrum in two organizations and provide lessons learned ad the end."
@@ -856,7 +882,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: "http://www.linkedin.com/in/vaidas"
         google-plus: 
   session06:
-    order: 6
+    day: 1
     time: 
     title: "Agile at Evolution Gaming Latvia"
     about: "Agile experience at Evolution Gaming."
@@ -873,7 +899,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: 
         google-plus: 
   session07:
-    order: 7
+    day: 1
     time: 
     title: "How to Succeed with Agile"
     about: "A few tips on succeeding with agile projects."
@@ -899,7 +925,7 @@ processes in your organization? I'm going to share some useful techniques, which
         linkedin: "https://www.linkedin.com/in/ejakubaneca/"
         google-plus: 
   session08:
-    order: 8
+    day: 1
     time: 
     title: "Enterprise Agile and How to Succeed with It."
     about: "Enterprise agile and how to succeed with it on C.T.Co example."
