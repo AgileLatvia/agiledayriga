@@ -1,5 +1,3 @@
-
-
   <!-- Schedule caption -->
   <div id="sessions" class="page color-4">
     <div class="inner-page">
@@ -16,18 +14,6 @@
     </div>
     {% endif %}
     {% endif %}
-
-    <!-- Days -->
-    <!-- check how it done on sponsors page 
-      
-     {% assign platinums_qnt = 0 %}
-      {% for platinums in site.data.sponsors[page.year].platinum %}
-        {% assign platinums_qnt = platinums_qnt | plus: 1 %}
-      {% endfor %}
-      {% if site.data.sponsors[page.year].platinum.title != null %}{% assign platinums_qnt = platinums_qnt | plus: -1 %}{% endif %}
-      {% if site.data.sponsors[page.year].platinum.show-captions != null %}{% assign platinums_qnt = platinums_qnt | plus: -1 %}{% endif %}
-
-    -->
 
     <!-- calculate number of days -->
     {% assign days_qnt = 0 %}
