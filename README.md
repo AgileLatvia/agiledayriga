@@ -206,9 +206,10 @@ How to Setup Conference Schedule?
 ```
 
 ## Step 10
-How to Switch Off Tickets and Event Microdata? :x: 
+How to Switch Off Tickets and Event Microdata?
 
-
+1. Disable tickets by opening `index.html` and setting `tickets-block` variable to `off`.
+2. Disable microdata by opening `index.html` and setting `event-microdata` variable to  `off`.
 
 ## Step 11
 How to Switch Off Schedule?
@@ -216,9 +217,10 @@ How to Switch Off Schedule?
 1. Set variable `schedule-status`  in `index.html` file to `off`.
 
 ## Step 12
-How to Add Slides and Videos? :x: 
+How to Add Slides and Videos?
 
-
+1. Open `sessions.yml` and add links to `slides` and `video` variables in appropriate session.
+2. You may add links one by one whenever you want.
 
 -----
 
@@ -234,4 +236,4 @@ How to Add Slides and Videos? :x:
 1. Move 2015 under standard flow.
 2. Move 2014 under standard flow.
 3. Move older conferences under standard flow. :white_check_mark: 
-4. Support more than 1 day for sessions.
+4. Support more than 1 day for sessions. :white_check_mark:
