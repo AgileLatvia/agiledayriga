@@ -941,3 +941,212 @@ processes in your organization? I'm going to share some useful techniques, which
         twitter: 
         linkedin: "https://www.linkedin.com/in/sergey-zabaluev-a269303/"
         google-plus: 
+
+2015:
+  session01:
+    day: 1
+    time: "10:15 - 11:00"
+    place: "Big Hall"
+    title: "Why We Fail to Change"
+    about: "Improvement initiatives are like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it. For decades most of improvement programs fail. Interestingly enough, with the rise of Agile and Lean the success rates of change initiatives don’t get better. Why so? Every now and then we focus on processes and methods. We exploit success stories from other organizations just to find ourselves failing again. Should it be a surprise given how little attention we pay to our specific context? Should it be a surprise given bias toward methods and tools at cost of mindset? Let me discuss some of methods we use to drive improvements. My goal is to show you that most of the time you shouldn’t even bother to use them. The missing bit is almost never a tool or a method. This is going to be sort of myth busting. We need that to change our focus to the important bits: right mindset and understanding the context."
+    slides: "http://www.slideshare.net/pawelbrodzinski/improvement-initiatives-are-like-teenage-sex"
+    video: "http://www.youtube.com/watch?v=FgldJKNnPBw"
+    speakers:
+      speaker01:
+        name: "Pawel Brodzinski"
+        bio: "Leader of Lunar Logic (http://lunarlogic.io). Persistent experimenter. Whiteboard junkie. Lean and Agile coach. Prolific blogger."
+        photo: "/img/speakers/pawel-brodzinski.jpeg"
+        blog: 
+        facebook: 
+        twitter: "https://twitter.com/pawelbrodzinski"
+        linkedin: 
+        google-plus:
+  session02:
+    day: 1
+    time: "11:15 - 12:00"
+    place: "Big Hall"
+    title: "Agile Metrics – what is really needed and makes sense in order to steer a large agile project"
+    about: "This talk introduces a minimal set of agile metrics for agile project management beyond the known ones as e.g. Velocity and Sprint Burndowns. We will talk about how these metrics are defined and how they are visualized while looking at some example scenarios. The presented agile metrics are also the standard set, which Accenture as a world-wide IT service provider uses in his large-scale agile projects."
+    slides: "http://de.slideshare.net/AlexanderBirke/agile-metrics-what-is-rigaversion"
+    video: "https://www.youtube.com/watch?v=7N7kRSmF-SA&feature=youtu.be"
+    speakers:
+      speaker01:
+        name: "Alex Birke"
+        bio: "IT Consultant at Accenture. Alexander Birke is an IT consultant and technical architect in the area of Advanced Systems & Technology at Accenture. He is working in IT for over a decade. He likes to optimize development processes and getting more efficient. His primary focus areas are architecture and software delivery. The main topics of his last 10 years were software development processes, agile and traditional software delivery management and Model-driven-development."
+        photo: "/img/speakers/alexander-birke.jpg"
+        blog: 
+        facebook: 
+        twitter: "https://twitter.com/alexbirke"
+        linkedin: 
+        google-plus:
+  session03:
+    day: 1
+    time: "12:15 - 13:00"
+    place: "Big Hall"
+    title: "Agile Innovation - Why people matters"
+    about: "Many companies and governments today are trying to encourage innovation and new ideas within their organizations but the results are often poor or at least not good enough. Why is that and why do we need to have the human perspective to be successful? How should we act and think before we start a project around innovation or a big change?"
+    slides: "http://www.slideshare.net/Loveinnovation/agile-innovation-by-christian-elffors-1?utm_source=slideshow03&utm_medium=ssemail&utm_campaign=iupload_share_slideshow"
+    video: "https://www.youtube.com/watch?v=yGCB4A7netQ&feature=youtu.be"
+    speakers:
+      speaker01:
+        name: "Christian Elffors"
+        bio: "Creative Director at Zapote. Christian’s main professions are change management and project management. His true desires are innovation and agile development. With 16 years of experience from the IT business and eight years as a leader and manager he has helped a number of companies and organizations to execute their changes and projects. With new knowledge Christian is more and more focusing on how we are working and how we deal with changes with a human perspective."
+        photo: "/img/speakers/christian-elffors.jpeg"
+        blog: 
+        facebook: 
+        twitter: "https://twitter.com/c_elffors"
+        linkedin: 
+        google-plus:
+  session04:
+    day: 1
+    time: "14:00 - 14:30"
+    place: "Room 2"
+    title: "Why to become a Project Manager? Why I did?"
+    about: "My passion changed from Programming to Project Management. I am board member at International Project Management Association Latvia since 2001, am assessor and give classes also on Program and Portfolio Management. I hear many stories of people who somehow found their 'ways to a project management profession'. Let me share the best ones! Set of persona-based stories that could help programmers and people in other roles to better understand if Project Managers job is good for them or not by looking how other people got there. For each case pros and cons are analysed. I was influenced by reading some of Adizes' books."
+    slides: "https://speakerdeck.com/agilelatvia/why-to-become-a-project-manager-why-i-did-by-vladimir-ivanov"
+    video: 
+    speakers:
+      speaker01:
+        name: "Vladimirs Ivanovs"
+        bio: "Putting Projects back in order, making organisations more Lean and Agile."
+        photo: "/img/speakers/vladimir-ivanov.png"
+        blog: 
+        facebook: 
+        twitter: "http://twitter.com/vivanovs"
+        linkedin: "https://www.linkedin.com/in/vivanov"
+        google-plus:
+  session05:
+    day: 1
+    time: "14:00 - 14:30"
+    place: "Room 1"
+    title: "What is a Scrum Master?"
+    about: "This presentation will look into a Scrum Master role as proposed by the Scrum framework. At first - role's essentials in Scrum and shortly its similarities with identical roles in other methods, then overview of this role's different interpretations across the industry and my own experience in that. Why this topic? Scrum Master is a central role in an environment that wants to become Agile. While in the first place Scrum Master is serving a team, he or she is also serving an organization. Scrum Master is a soft role more than a hard one (like developer) and therefore includes coaching too. In my experience and research, above aspects are often under-estimated, which have significant impact on the overall work productivity of an organization that adopts or has adopted Agile. I would like to try clearing things out around this role together with you in ADR 2015!"
+    slides: "http://www.slideshare.net/IvoPeksens/final-adr2015-peksenswhatisascrummaster?qid=0e183e8a-f5f8-459b-a226-1a26ebcc7f8e&v=default&b=&from_search=1"
+    video: "http://www.youtube.com/watch?v=qeWRbMJicr0"
+    speakers:
+      speaker01:
+        name: "Ivo Peksens"
+        bio: "Agile practitioner, facilitator and coach."
+        photo: "/img/speakers/ivo-peksens.jpg"
+        blog: 
+        facebook: 
+        twitter: "http://twitter.com/ivopeksens"
+        linkedin: "https://www.linkedin.com/in/ivopeksens"
+        google-plus:
+  session06:
+    day: 1
+    time: "14:30 - 15:00"
+    place: "Room 2"
+    title: "Agile and a Cookbook"
+    about: "Let's look briefly at ideas behind agile. As well, at a bit of history when these ideas appeared and how they evolved. It allows us to see what do we do ourselves in a different perspective. Agile approach has a lot in common with far more mature scientific development. Let's look at what scientists do? Observe a process, get an idea and check it. What is next? Observe, renew the idea and check it again. What is next? Observe, renew the idea and check it again. What is next? Observe and try do figure out something essential of the process. Usually it is called a hypothesis and an experiment and the development tends to be their sequence."
+    slides: "http://www.slideshare.net/soulne4ny/agile-and-a-cookbook"
+    video: 
+    speakers:
+      speaker01:
+        name: "Alexey Luchko"
+        bio: "SW developer. A wondering pythonic geek working in server side development mostly. Focused on proofs, simple solutions and technologies. 'When you are in doubt making a choise try to explain it to me and we will see what it is.'"
+        photo: "/img/speakers/alexey-luchko.jpg"
+        blog: 
+        facebook: 
+        twitter: 
+        linkedin: "https://www.linkedin.com/pub/alexey-luchko/5/342/282" 
+        google-plus:
+  session07:
+    day: 1
+    time: "14:30 - 15:00"
+    place: "Room 1"
+    title: "Technical... user stories?!"
+    about: "User stories are supposed to reflect the 'human' side of the IT. The should be easy to understand and not too technical. Ok, but what should happen when you're asked to prepare user stories for strictly technical projects/products? Agenda: 1. Understanding target audiences. 2. Understanding scope. 3. Use or not to use user stories -> scope management. 4. Fitting the requirements to 'user stories' oriented tools."
+    slides: "http://www.slideshare.net/kasiamrowca/technical-user-stories"
+    video: "http://www.youtube.com/watch?v=oY4pGbr6gc0"
+    speakers:
+      speaker01:
+        name: "Katarzyna Mrowca"
+        bio: "Product Specialist / Consultant / Digital / Big Data / CRM / Conference Speaker"
+        photo: "/img/speakers/katarzyna-mrowca.jpg"
+        blog: 
+        facebook: 
+        twitter: "http://twitter.com/mrowcakasia"
+        linkedin: "https://www.linkedin.com/in/mrowcakasia"
+        google-plus:
+  session08:
+    day: 1
+    time: "15:30 - 16:00"
+    place: "Room 1"
+    title: "Software architecture also needs Agile"
+    about: "Software architecture is a vital part of the project development life cycle. Done explicitly by a software architect or implicitly in the head of a developer, it has an important role in the whole process. Changes in the requirements, vague definitions, and poor documentation, however, are some of the usual problems software architects encounter. On the other hand Agile methodology gives us ideas how to deal with these problems. Iterations, meetings, and early evaluations are some of the proposed techniques. Can one apply Agile in the context of software architecture? How can a software architect react on specification changes? How can we keep up-to-date documentation of our system? In this talk I will try to give answers to these questions based on my experience and I will do a short demo to illustrate a real scenario."
+    slides: "http://www.slideshare.net/bmihaylov/software-architecture-also-needs-agile"
+    video: "https://www.youtube.com/watch?v=PM42jCM_JRw&feature=youtu.be"
+    speakers:
+      speaker01:
+        name: "Boyan Mihaylov"
+        bio: "Experienced Software Engineer"
+        photo: "/img/speakers/boyan-mihaylov.jpg"
+        blog: "https://github.com/boyanin"
+        facebook: 
+        twitter: 
+        linkedin: "https://www.linkedin.com/in/bmihaylov"
+        google-plus:
+  session09:
+    day: 1
+    time: "15:15 - 16:00"
+    place: "Room 2"
+    title: "Agile in context of Latvian Public Procurement Law"
+    about: "Public Procurement Law sets several constraints for tendering process and delivery of information technology projects. Additional controls may be required depending on project funding i.e. European Regional Development Fund or other. The discussion is aimed for managers, consultants and lawyers being in charge for software development process from both sides - state agencies and software development companies. We assume that participants are familiar with general Agile principles, 'Agile Contracts Primer' http://www.agilecontracts.org/ and requirements of Public Procurement Law however it is not strict requirement and everybody is welcome."
+    slides: "https://www.dropbox.com/s/6os01i5nsg641s5/Agile%20in%20context%20of%20Latvian%20Public%20Procurement%20Law.pdf?dl=0"
+    video: 
+    speakers:
+      speaker01:
+        name: "Mārtiņš Šitcs"
+        bio: "CISA, CSM, ISTQB, ISO27001 and ISO9001 Lead Auditor. Mārtiņš Šitcs has more than 20 years of experience working on different scale IT projects, auditing, testing and managing information systems development and operations. Worked with leading Latvian companies including SWH Riga, Hansabanka and AA Projekts. Founder of 'Red Fox Consulting'. The mission is to promote knowledge, leading approaches and continual improvement in software development and IT management."
+        photo: "/img/speakers/martins-sitcs.jpg"
+        blog: 
+        facebook: 
+        twitter: "http://twitter.com/martinssitcs"
+        linkedin: "https://lv.linkedin.com/pub/martins-sitcs/0/aa6/571/en"
+        google-plus:
+      speaker02:
+        name: "Ainars Biders"
+        bio: "Lawyer, Board member of 'IT Sistēmas'. Working with IT companies and projects since 1995. Experience in public procurement tenders since 2003. Participation in development of requirements for government Electronic procurement portal (www.eis.gov.lv). Author of LIKTA (Latvian Information and Communications Technology Association) guidelines for IT procurements. Founder of www.vajagjuristu.lv project."
+        photo: "/img/speakers/ainars-biders.png"
+        blog: 
+        facebook: 
+        twitter: 
+        linkedin: 
+        google-plus:
+  session10:
+    day: 1
+    time: "16:30 - 17:15"
+    place: "Big Hall"
+    title: "Being Agile to Become Customer Centric"
+    about: "The first principle of Agile manifesto says 'Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.' But, Is our highest priority to delight our customer, or to delight our sponsor. Do we understand who the real customer is and behave accordingly? I’ve often seen Agile teams producing software aimed to delight: another departments within their organization, an external organization hiring their development services, their management or even their Product Owners. But, are those the ones to be delighted by the product in development? I believe that software is awesome when it helps creating awesome experiences to the people the organization is serving. To create those delighting experiences is very important to understand who your real customer is and empathize with him. This session is aimed to create that awareness and to introduce some practical tools that can help creating a 'Customer Centric' Agile implementation and culture in organizations. I will start the session by explaining what is customer centricity and how it can become the competitive advantage of your business and a powerful reason for adopting Agile. I'll continue with simple tips, and practical examples, which attendees can incorporate into your Agile implementation to empower customer delighting. Such as including “moments of truth” in “Personas” and going from 'User Stories' to 'Customer Stories' The listener will get from this session easy-to-apply tools to equip their Agile implementation an extra focus on their real customer to maximize customer satisfaction and create an important foundation for the buy-in of Agile by the business."
+    slides: "http://www.slideshare.net/angeldiazmaroto/customer-centric-agile-adr2015"
+    video: "https://www.youtube.com/watch?v=d0sObvGSpro&feature=youtu.be"
+    speakers:
+      speaker01:
+        name: "Angel Diaz-Maroto"
+        bio: "Agile Coach at Agilar (Certified Enterprise Coach, CEC)"
+        photo: "/img/speakers/angel-diaz-maroto.jpg"
+        blog: 
+        facebook: 
+        twitter: "http://twitter.com/adiazmaroto"
+        linkedin: "https://www.linkedin.com/in/adiazmaroto"
+        google-plus:
+  session11:
+    day: 1
+    time: "17:30 - 18:30"
+    place: "Big Hall"
+    title: "No Estimates: Let's Explore the Possibilities"
+    about: "'The only sure thing about forecasts is that they are WRONG' - James P. Womack and Daniel T. Jones. Estimates have been the bane of software development and programmers for decades. Managers/Customers want to know: When will it be done? How much will it cost? Programmers are told 'We won't hold you to the estimate', and yet they often are. It's my contention that estimates are not useful for this purpose, and even worse they misinform the decisions they are meant to support. Do we really need estimates? Is simply 'getting better' at estimates worthwhile? Can we live without them? Will things be better without them? I don't have answers for you, but I've worked with 'no estimates' for over 4 years and I'm still alive. I want to explore the idea of estimates, why they are pervasive in the programming world, how they might be harmful, and see if we can start a dialog about finding a better way to make decisions."
+    slides: "https://speakerdeck.com/agilelatvia/no-estimates-lets-explore-the-possibilities-by-woody-zuill"
+    video: "https://www.youtube.com/watch?v=5oMk2oRJNbc&feature=youtu.be"
+    speakers:
+      speaker01:
+        name: "Woody Zuill"
+        bio: "Agile, Lean, Mob Programming."
+        photo: "/img/speakers/woody-zuill.jpg"
+        blog: "http://mobprogramming.org/"
+        facebook: 
+        twitter: "http://twitter.com/woodyzuill"
+        linkedin: 
+        google-plus:

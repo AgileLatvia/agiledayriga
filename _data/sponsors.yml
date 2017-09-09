@@ -98,6 +98,36 @@
       title: "Kursors.lv"
       image: "/img/sponsors/kursorslv.png"
       url: "http://www.kursors.lv/"
+2015:
+  platinum:
+    sponsor01:
+      title: "Accenture"
+      image: "/img/sponsors/accenture.png"
+      url: "http://www.accenture.lv/"
+      promo: "Accenture is a global management consulting, technology services and outsourcing company, with more than 281,000 people serving clients in more than 120 countries. Combining unparalleled experience, comprehensive capabilities across all industries and business functions, and extensive research on the world’s most successful companies, Accenture collaborates with clients to help them become high-performance businesses and governments."
+    sponsor02:
+      title: "Scrum "
+      image: "/img/sponsors/scrum-alliance.png"
+      url: "http://www.scrumalliance.org/"
+      promo: "Become part of something bigger than you alone. With over 375,000 members worldwide, <a href='http://www.scrumalliance.org/' target='_blank'>Scrum Alliance</a> brings you together with like-minded people who are passionate about Scrum and who are changing the world of work every day. We are a nonprofit membership organization that encourages and supports the widespread adoption and effective practice of Scrum. We provide advocacy, community, and education to support this movement, equip our members, and help them succeed with Scrum in software development and beyond. Learn more at <a href='http://www.scrumalliance.org/' target='_blank'>www.ScrumAlliance.org</a> and come sprint with us!"
+  gold:
+    sponsor01:
+      title: "Tele2"
+      image: "/img/sponsors/tele2.png"
+      url: "http://www.tele2.lv/"
+    sponsor02:
+      title: "Visma Enterprise"
+      image: "/img/sponsors/visma.png"
+      url: "http://www.visma.lv/"
+    sponsor03:
+      title: "Strategic Stuffing Solutions"
+      image: "/img/sponsors/s3.png"
+      url: "http://www.strategicstaff.com/"
+  info:
+    sponsor01:
+      title: "Kursors.lv"
+      image: "/img/sponsors/kursorslv.png"
+      url: "http://www.kursors.lv/"
 2012:
   platinum:
     sponsor01:
