@@ -233,7 +233,7 @@ How to Add Slides and Videos?
 6. Use the same approach from Info sponors for grid view of other types of sponsors, except Platinums. :white_check_mark: 
 
 ### To Be Done
-1. Move 2015 under standard flow.
-2. Move 2014 under standard flow.
+1. Move 2015 under standard flow. :white_check_mark: 
+2. Move 2014 under standard flow. :white_check_mark:
 3. Move older conferences under standard flow. :white_check_mark: 
 4. Support more than 1 day for sessions. :white_check_mark:

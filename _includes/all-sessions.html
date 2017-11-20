@@ -45,7 +45,7 @@
       {% if session[1].day == i %}
       <hr class="col-md-12">
       <div id="{{ session[0] }}" class="col-md-12">
-        <h3>{% if session[1].title %}{{ session[1].title | strip_html }}{% endif %}{% if session[1].time %} ({{ session[1].time | strip_html }};{% if session[1].place %} {{ session[1].place | strip_html }}{% endif %}){% endif %}</h3>
+        <h3>{% if session[1].title %}{{ session[1].title | strip_html }}{% endif %}{% if session[1].time %} ({{ session[1].time | strip_html }}{% if session[1].place %}; {{ session[1].place | strip_html }}{% endif %}){% endif %}</h3>
         <p>{% if session[1].about %}{{ session[1].about | strip_html }}{% endif %}</p>
         <p class="social-darker">
         {% if session[1].slides %}<a href="{{ session[1].slides }}" title="Slides"><i class="fa fa-file-text"></i></a>{% endif %}

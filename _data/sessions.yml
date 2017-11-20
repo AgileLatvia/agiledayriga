@@ -941,13 +941,12 @@ processes in your organization? I'm going to share some useful techniques, which
         twitter: 
         linkedin: "https://www.linkedin.com/in/sergey-zabaluev-a269303/"
         google-plus: 
-
 2015:
   session01:
     day: 1
     time: "10:15 - 11:00"
     place: "Big Hall"
-    title: "Why We Fail to Change"
+    title: "Why We Fail to Change?"
     about: "Improvement initiatives are like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it. For decades most of improvement programs fail. Interestingly enough, with the rise of Agile and Lean the success rates of change initiatives don’t get better. Why so? Every now and then we focus on processes and methods. We exploit success stories from other organizations just to find ourselves failing again. Should it be a surprise given how little attention we pay to our specific context? Should it be a surprise given bias toward methods and tools at cost of mindset? Let me discuss some of methods we use to drive improvements. My goal is to show you that most of the time you shouldn’t even bother to use them. The missing bit is almost never a tool or a method. This is going to be sort of myth busting. We need that to change our focus to the important bits: right mindset and understanding the context."
     slides: "http://www.slideshare.net/pawelbrodzinski/improvement-initiatives-are-like-teenage-sex"
     video: "http://www.youtube.com/watch?v=FgldJKNnPBw"
@@ -1149,4 +1148,151 @@ processes in your organization? I'm going to share some useful techniques, which
         facebook: 
         twitter: "http://twitter.com/woodyzuill"
         linkedin: 
+        google-plus:
+2014:
+  session01:
+    day: 1
+    time: "10:15 - 11:00"
+    place: 
+    title: "Performance Reviews Are Incompatible with the Agile MindSet"
+    about: "Have you had blood pressure and heart beat increase with the proximity of the annual performance review rituals? Do you get the chills just before your 'performance improvement plan' meeting with your boss? Have you had a poor review because you were not able to perform how you boss wanted, but in reality you could not have done anything different? Performance Reviews are based in completely wrong assumptions. Companies still think that Performance Reviews are great tools to provide feedback, to set goals and to improve the individuals. All this is pure nonsense and in reality Performance Reviews are a cancer for our companies and they need to be removed. Come to see my talk and you will understand how Performance Reviews are completely incompatible with Agile Mindset and I will explain what can be done using examples of companies from all over the world that successfully tackled this problem."
+    slides: "https://speakerdeck.com/agilelatvia/performance-reviews-are-incompatible-with-the-agile-mindset-by-luis-goncalves"
+    video: "https://youtu.be/56H53GEyJV4"
+    speakers:
+      speaker01:
+        name: "Luis Goncalves"
+        bio: "My name is Luis Gonçalves and I am an Agile Coach, Co-Author, Speaker and a Blogger. I have been working in the software industry since 2003, being an Agile practitioner since 2007. I have a lot of experience in integrating sequential projects phases like localization into an Agile Framework and pioneering Agile adoption at different companies and different contexts. I am a co-author of a book called: 'Getting Value Out of Agile Retrospectives'. I have a technical background yet my passion lies at the Management side where I am a Management 3.0 passionate. I am a co-founder of a MeetUp group in Munich, Germany called High Performing Teams. Me and my colleagues created this group with the vision of 'Define the future of Management and Leadership'. We are aiming to collaboratively generate several ideas/theories and try them out in our professional life. I like to write and share ideas with the world and this made me a passionate blogger. I get inspiration from my professional life and from all books that I read every week."
+        photo: "/img/speakers/luis-goncalves.jpg"
+        blog: "http://lmsgoncalves.com/"
+        facebook: "https://www.facebook.com/lmsgoncalves"
+        twitter: "https://twitter.com/lgoncalves1979"
+        linkedin: "https://de.linkedin.com/in/luismsg/"
+        google-plus:
+  session02:
+    day: 1
+    time: "11:15 - 12:15"
+    place: 
+    title: "Organizational Design and Scrum"
+    about: "It's very easy to become hierarchical and turn into a 'bank' when software company is growing fast. Is there a way to avoid that? How to keep the focus on value creation? What about Value departments, not Functional departments? Want to share ideas what we can learn from Scrum and apply in organisational design. Will share hypothesis how company could look like when everybody is focused on value creation."
+    slides: "https://speakerdeck.com/agilelatvia/organizational-design-and-scrum-by-andrej-ruckij"
+    video: "https://youtu.be/5CFMfAwnwyU"
+    speakers:
+      speaker01:
+        name: "Andrej Ruckij"
+        bio: "Development manager."
+        photo: "/img/speakers/andrej-ruckij.jpeg"
+        blog: "www.agilemindstorm.com"
+        facebook: 
+        twitter: "https://twitter.com/ruckiand"
+        linkedin: 
+        google-plus:
+  session03:
+    day: 1
+    time: "12:15 - 12:45"
+    place: 
+    title: "Agile in Big Projects Using Jira"
+    about: "Jira is leader in collaborative software and long time supported Scrum/Kanban workflows. However, with its rich tools it is a challenge to understand how to organize your work across the boards to manage: back log in a way that it does not mess with issues ready for development/in progress; scrum board; overall project flow. How to structure issues efficiently to manage 200, 300 or 500 issues at the same time and overview entire project with few clicks."
+    slides: "https://speakerdeck.com/agilelatvia/big-jira-agile-by-antons-sapriko"
+    video: "https://youtu.be/jkYcIbNS0jM"
+    speakers:
+      speaker01:
+        name: "Antons Sapriko"
+        bio: "Advanced eCommerce Solutions on Magento Platform. Experience: implementation and maintenance of 200+ projects on Magento platform including Lego Wear, Pandora, Netherlands Postal Service, Thomson Reuters, JYSK Home, Olympia Le-Tan Handbags, Danish Ministry of Education. Competences: mobile commerce, multi-channel integration, ERP integration, super-sized catalogs, high-load projects, B2B projects, 24/7 support. Established in 2003, now we are 52 people, who serve clients from New York, London and headquarters in Latvia that is home for 23 (and counting!) Certified Magento Developers. www.scandiweb.com"
+        photo: "/img/speakers/antons-sapriko.jpg"
+        blog: "http://blog.scandiweb.com/"
+        facebook: 
+        twitter: "https://twitter.com/scandiweb"
+        linkedin: "https://www.linkedin.com/in/asapriko/"
+        google-plus:
+  session04:
+    day: 1
+    time: "12:45 - 13:15"
+    place: 
+    title: "Agile vs. Chaotic Projects — Similarities and Differentiations"
+    about: "Field experiences and many observations for the Agile adaptations in various programming set-ups. Some of them has been catastrophic, others very successful. What makes not standard waterfall models to fail or ether to be successful? Is it determined by the size, by customer or by developer teams? How agile can be used to avoid chaos and cost overrun at any parties side?"
+    slides: "https://speakerdeck.com/agilelatvia/agile-vs-chaotic-projects-similarities-and-differentiations-by-aigars-staks"
+    video: "https://youtu.be/0yldwsXfk-4"
+    speakers:
+      speaker01:
+        name: "Aigars Staks"
+        bio: "Project Manager. Specialized on delivery of large scale, business critical projects. Recovery of troubled ICT projects. Veteran of using Agile and Lean techniques to change the limits on what's possible and what should be expected. Solid background of process management. Strategic thinking with emphasis on getting things done as defined by the Customer. Specialties: Agile project management; Project mid-term evaluations; Recovery of projects; Legal dispute support; Quality assurance; Lean Six Sigma."
+        photo: "/img/speakers/aigars-staks.jpg"
+        blog: 
+        facebook: 
+        twitter: 
+        linkedin: "https://www.linkedin.com/in/aigarsstaks/"
+        google-plus:
+  session05:
+    day: 1
+    time: "14:00 - 14:30"
+    place: 
+    title: "Expanding an Agile Culture in Organisations with Design Thinking"
+    about: "Design Thinking refers to the methods and processes to investigate complex problems in highly uncertain systems, acquiring information, analysing knowledge, and positing solutions. This workshop is about the usage of this process to better understand organisation's culture and minimise resistance to change in the creation of an Agile culture. The strategy is to combine empathy for the context, creativity in the generation of insights and solutions, and rationality to analyse and fit solutions to the context. This solutions are aimed to create reasons for people in the organisation to embrace Agile. This iterative process of observation, ideation and implementation can be integrated within your retrospectives and also applied outside IT to create a continuous improvement engine for organisational culture in organisations. This workshop is about how to use a design thinking process an techniques to better understand organisation's culture and minimize resistance to change in the creation of an Agile culture. The strategy is to combine empathy for the context, creativity in the generation of insights and solutions, and rationality to analyze and fit solutions to the context. This solutions are aimed to create reasons for people in the organisation to embrace Agile. You'll also learn some useful design thinking techniques that you can use in your retrospectives!!"
+    slides: "https://www.slideshare.net/angeldiazmaroto/expanding-an-agile-culture-in-organisations-with-design-thinking-agile-day-riga"
+    video: "https://youtu.be/Myl7KUZYmks"
+    speakers:
+      speaker01:
+        name: "Angel Diaz-Maroto"
+        bio: "Agile Coach at Agilar (Certified Enterprise Coach, CEC). Angel is a very energetic Agile coach that truly enjoy challenges. His specialty and passion is putting in place Lean and Agile concepts and practices in very complex environments. As a matter of fact, he successfully led one of the biggest Agile transformations in europe, including IT and business departments of a 1000+ employees bank, from the trenches starting from scratch. In his 15+ years of experience in IT he has worked in various roles: Agile Coach, R&D manager, software developer, software architect, scrum master and trainer. He is also a frequent speaker in international Agile events such as ALE, LESS, CAS, IAD and Agile Coach camps."
+        photo: "/img/speakers/angel-diaz-maroto.jpg"
+        blog: 
+        facebook: 
+        twitter: "http://twitter.com/adiazmaroto"
+        linkedin: "https://www.linkedin.com/in/adiazmaroto"
+        google-plus:
+  session06:
+    day: 1
+    time: "14:30 - 15:00"
+    place: 
+    title: "How to Achieve Efficiency and Happiness Combining Methodologies"
+    about: "Management By Objectives, Getting Things Done, Agile Results, Strengths Based Development, Positive Psychology etc. A lot of methodologies and each of them provides ideas and concepts, fewer - concrete steps and criteria to measure achievements. Let's talk about how to better understand and achieve our goals, how to focus and enjoy our daily work and how make it all together to help our development as professionals and our feeling of happiness by using not one, but combining of those methodologies. What exact steps to make and what tools come handy (some demonstration and comparison also). Real cases will be shown to demonstrate exactly why and how each part can work for everyone of us. Session and topic is for you, if you:
+sometimes feel panic because of overload or just feel overloaded, miss feeling of development as professional, miss the feeling of happiness, even if looks like everything is going fine. As result of this session will be no miracle cure, but maybe some ideas to help you to get in more control of your life and happiness."
+    slides: "https://speakerdeck.com/agilelatvia/how-to-achieve-efficiency-and-happiness-combining-methodologies-by-andris-bariss"
+    video: "https://youtu.be/xXxUZlezf6Q"
+    speakers:
+      speaker01:
+        name: "Andris Bariss"
+        bio: "Business analyst at Idea Port Riga. Passionate about human psychology and usability based efficiency. 20 years in software development."
+        photo: "/img/speakers/andris-bariss.jpg"
+        blog: 
+        facebook: 
+        twitter: 
+        linkedin: "https://lv.linkedin.com/in/andrisbariss/"
+        google-plus:
+  session07:
+    day: 1
+    time: "15:15 - 16:00"
+    place: 
+    title: "Telco Case: Clash of Agile Project and Waterfall Organisation"
+    about: "Let's focus on practical case analysis and avoid general statements you can hear on any agile conference. I will become a storyteller and will share a set of stories, representing lessons learned from runnung an agile project in a waterfall-based telecom culture. I will also give a clear understanding what was a project setup. What was done differently from the enterprise waterfall-based project management standard? What agile principles and specific practices were applied? What were tangible benefits to the business from the situation where one project team became 'outlaws' of the corporate culture. Moreover, I will share the challenges and lessons learned related to both phases - the transfer project and further operations and development of the Service Desk function."
+    slides: "https://speakerdeck.com/agilelatvia/telco-case-clash-of-agile-project-and-waterfall-organisation-by-vladimir-ivanov"
+    video: "https://youtu.be/fd6RHuYB5Ok"
+    speakers:
+      speaker01:
+        name: "Vladimir Ivanov"
+        bio: "Vladimirs Ivanovs (40), have realised that I am the 'fox' and as philosopher Isaiah Berlin puts it 'the fox knows many things, but the hedgehog knows one big thing'. Since then I’ve started to form teams with the 'hedgehog focus'. agiletransofrmer.com is a perfect hedgehog, as is formed by the practitioners for the practitioners around one big thing – Agile (closely connected to Lean and Kanban). I love exploring cross-cultural differences and travel, so I do that in a form of 'workations' – public speaking on conferences + site seeing. Events are not only Agile related (also IPMA, PMI, itSMF, IT) in the following countries: Latvia, Lithuania, Estonia, Sweden, UK, Germany, Netherlands, Croatia, Czech Republic, Poland, Ukraine, Belarus, Russia, Kazakhstan, India."
+        photo: "/img/speakers/vladimir-ivanov.png"
+        blog: 
+        facebook: 
+        twitter: "https://twitter.com/vivanovs"
+        linkedin: "https://www.linkedin.com/in/vivanov/en"
+        google-plus: "https://plus.google.com/111063784323765456395"
+  session08:
+    day: 1
+    time: "16:15 - 17:00"
+    place: 
+    title: "Agile as a Success, Grown up Agile Without Dogma's"
+    about: "Agile is not new. Agile is not a trend. Agile is established. Yet we struggle with a lot of problems doing Agile. Arie's diagnose regarding this problem is most of the time connected to what Arie calls 'Agile in the Core'. Arie has found over the last 20 years that the success of Agile is connected to the quality and discipline used applying the Agile techniques. These techniques are based in strong foundations. During his key note Arie will talk about the true the core of Agile, what it means, how you do them and how you can coach your client doing it. Learn more about Agile in the Core, application and how take your client with you in either continuous delivery or projects."
+    slides: "https://speakerdeck.com/agilelatvia/agile-as-a-success-by-arie-van-bennekum"
+    video: "https://youtu.be/cDZ3o1v7Z9g"
+    speakers:
+      speaker01:
+        name: "Arie van Bennekum"
+        bio: "Co-author of the Agile Manifesto. Thoughtleader at Wemanity Group. Agile is what you are by nature. Then you can really make it work. It is a paradigm shift when you are used to traditional ways of working. It is a mind set to really be and work Agile. If you are not used to it you can learn this. If you like to know more check www.wemanity.com, www.agileconsortium.net, #arievanbennekum and the information about Wemanity in the media and on the web. In 1994 I made my change. Coming from a very traditional environment as developer and technical designer I switched to RAD and later DSDM. I got involved in communities started publishing, training and coaching. Later I got on the board of the DSDM Consortium Benelux and I represented DSDM when we wrote the Agile Manifesto (www.agilemanifesto.org) in February 2001. Now I am working as thought leader for Wemanity. Many years ago I identified that it is in the people that makes the difference over and over again when people struggle to make Agile successful. Agile is in its essence an interaction concept. Basic participation and interaction techniques make Agie work, additional tools can make it excel but the fundament is in the interaction. In our transformation we focus in this, in both small and very large environments. Want to know more? Let me know...
+"
+        photo: "/img/speakers/arie-van-bennekum.jpg"
+        blog: "http://www.agileinthecore.com/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B6amfMmWySR6BkTO4zLzi5g%3D%3D"
+        facebook: 
+        twitter: "https://twitter.com/arievanbennekum?lang=en"
+        linkedin: "https://www.linkedin.com/in/ariev3/"
         google-plus:

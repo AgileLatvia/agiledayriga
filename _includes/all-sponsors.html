@@ -51,6 +51,7 @@
     <!-- golds -->
       <!-- calculate qnt of gold sponsors -->
       {% assign golds_qnt = 0 %}
+      {% assign golds_counter = 0 %}
       {% for golds in site.data.sponsors[page.year].gold %}
         {% assign golds_qnt = golds_qnt | plus: 1 %}
       {% endfor %}
@@ -89,7 +90,8 @@
 
       {% for golds in site.data.sponsors[page.year].gold %}
       {% if golds[1].title != null %}
-      {% if golds_qnt == 4 or golds_qnt == 8 or golds_qnt == 12 %}</div><div class="inner-page row">{% endif %}
+      {% assign golds_counter = golds_counter | plus: 1 %}
+      {% if golds_counter == 4 or golds_counter == 8 or golds_counter == 12 %}</div><div class="inner-page row">{% endif %}
       <div class="col-md-3 logo-info-box">
         <a href="{{ golds[1].url }}" title="{{ golds[1].title }}" target="_blank"><img class="lazy logo" src="{{ golds[1].image }}" alt="{{ golds[1].title }}"></a>
       </div>
@@ -106,6 +108,7 @@
     <!-- silver -->
       <!-- calculate qnt of sponsors -->
       {% assign silvers_qnt = 0 %}
+      {% assign silvers_counter = 0 %}
       {% for silvers in site.data.sponsors[page.year].silver %}
         {% assign silvers_qnt = silvers_qnt | plus: 1 %}
       {% endfor %}
@@ -144,7 +147,8 @@
 
       {% for silvers in site.data.sponsors[page.year].silver %}
       {% if silvers[1].title != null %}
-      {% if silvers_qnt == 4 or silvers_qnt == 8 or silvers_qnt == 12 %}</div><div class="inner-page row">{% endif %}
+      {% assign silvers_counter = silvers_counter | plus: 1 %}
+      {% if silvers_counter == 4 or silvers_counter == 8 or silvers_counter == 12 %}</div><div class="inner-page row">{% endif %}
       <div class="col-md-3 logo-info-box">
         <a href="{{ silvers[1].url }}" title="{{ silvers[1].title }}" target="_blank"><img class="lazy logo" src="{{ silvers[1].image }}" alt="{{ silvers[1].title }}"></a>
       </div>
@@ -161,6 +165,7 @@
     <!-- infos -->
       <!-- calculate qnt of info sponsors -->
       {% assign infos_qnt = 0 %}
+      {% assign infos_counter = 0 %}
       {% for infos in site.data.sponsors[page.year].info %}
         {% assign infos_qnt = infos_qnt | plus: 1 %}
       {% endfor %}
@@ -182,7 +187,8 @@
       
       {% for infos in site.data.sponsors[page.year].info %}
       {% if infos[1].url != null %}
-      {% if infos_qnt == 5 or infos_qnt == 9 or infos_qnt == 13 %}</div><div class="inner-page row">{% endif %}
+      {% assign infos_counter = infos_counter | plus: 1 %}
+      {% if infos_counter == 5 or infos_counter == 9 or infos_counter == 13 %}</div><div class="inner-page row">{% endif %}
       <div class="col-md-2 logo-info-box">
         <a href="{{ infos[1].url }}" title="{{ infos[1].title }}" target="_blank"><img class="lazy logo" src="{{ infos[1].image }}" alt="{{ infos[1].title }}"></a>
       </div>
