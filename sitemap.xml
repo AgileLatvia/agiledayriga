@@ -3,9 +3,9 @@ layout:
 permalink: /sitemap.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="https://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.agiledayriga.lv/</loc>
+    <loc>https://www.agiledayriga.lv/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
   </url>
   {% for links in site.data.events %}<url>
