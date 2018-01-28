@@ -8092,6 +8092,10 @@ hr {
 ul {
   list-style: none;
 }
+.ul-with-bullets {
+  list-style: circle;
+}
+
 .list-inline li {
   display: inline-block;
   padding-right: 8px;
