@@ -1,3 +1,41 @@
+2018:
+  session01:
+    day: 1
+    time: "10:00 - 11:00"
+    place: "Daugava 1+2"
+    title: "Agility in the face of Perplexity"
+    about: "Scrum was officially presented in 1995. In 2001, 17 software development leaders published the &quot;Manifesto for Agile Software Development&quot;. Agile gradually started replacing the industrial way of thinking, with Scrum being the most adopted technique to achieve a higher state of agility. Today, 2018, the Agile paradigm is more needed than ever, to avoid complexity turning into perplexity. Gunther aspires disentangling the clew that ’Scrum’ and ‘Agile’ turned into and show the value and their originality. Gunther has considered what Agile means to him, what it is that makes Agile work, what it is that makes Scrum work, and will share his views on the future state of Scrum and Agile."
+    speakers:
+      speaker01:
+        name: "Gunther Verheyen"
+        bio: "Gunther Verheyen (Belgium) is a longtime Scrum practitioner (2003). After a standing career as a consultant, he became partner to Ken Schwaber and Director of the Professional Scrum series at Scrum.org (2013-2016). Gunther nowadays engages with people and organizations as an independent Scrum Caretaker. In 2013 Gunther published the acclaimed book &quot;Scrum - A Pocket Guide&quot;."
+        photo: "/img/speakers/gunther-verheyen.jpeg"
+        blog: "https://guntherverheyen.com/about/"
+        twitter: "https://twitter.com/Ullizee"
+        linkedin: "https://www.linkedin.com/in/ullizee/"
+  session02:
+    day: 1
+    time: "16:00 - 17:00"
+    place: "Daugava 1+2"
+    title: "Have we lost the real meaning of Agile?"
+    about: "It this talk I will try to shed some light on the history of Agile. I was talking to Manifesto signatories reconstructing the talks they had about the deeper meaning of Agile and looking around 17 years later I can say that we have lost the real meaning of this word.
+
+I want to share with you my findings about the What and about the How of Agile. We will be discussing three goals of Agility and talking about the reasons why different companies are starting on this path. I will tell you about a few wrong reasons and a couple of good ones.
+
+I will also answer the question many people are asking now, is Agile dead, should we switch to building real organisations instead?"
+    speakers:
+      speaker01:
+        name: "Sergey Dmitriev"
+        bio: "Sergey Dmitriev (Russia) is an agile and scrum evangelist focused on improvement of business processes, modern approaches to management and strategy consulting. I can help your organization transform to agile or to improve your existing agile practices. I do executive and team coaching and workshop facilitation.
+
+My mission is to convince the World that traditional approach to managing knowledge workers is broken.
+
+I have diving as hobby. Interested in deep and wreck diving or a combination of both :) I am a father of 4 and a happy man."
+        photo: "/img/speakers/sergey-dmitriev.jpg"
+        blog: "https://www.unusual-concepts.ru/"
+        facebook: "https://www.facebook.com/blackie6"
+        twitter: "https://twitter.com/blackie6?lang=en"
+        linkedin: "https://www.linkedin.com/in/sergeydmitriev/"
 2017:
   session01:
     day: 1
@@ -31,7 +69,7 @@
         bio: "Ran Nyman is an experienced software professional who has worked since 1995 in professional software development field. First programs he wrote in CP/M operating system using BASIC language in the middle of eighties. Since then he moved to more modern languages like C, C++, and Java. Ran has extensive experience in design patterns, UML, distributed systems, Test Driven Development and Specification by Example, Executable Requirements (also know as Acceptance Test Driven Development). Currently, Ran is working as a consultant and trainer helping large multinational organizations to move from sequential product development to more agile ways of working. The primary focus has been on how to move big products (over 100 people) to use Large-Scale Scrum (LeSS) and Lean. This work includes giving wide range of trainings, workshops, team coaching and management consulting."
         photo: "/img/speakers/ran-nyman.jpg"
         blog: "http://gosei.fi/en/blog/"
-        facebook: 
+        facebook:
         twitter: "https://twitter.com/ran_nyman"
         linkedin: "https://www.linkedin.com/in/rannyman"
         google-plus:
@@ -41,17 +79,17 @@
     place: "Daugava 2"
     title: "Creating Products and Services of Next Generation"
     about: "Alexey will speak about the Industry 4.0, digital transformation and other factors, that shapes business all over the world with focus on how to build team around understanding of value, that business creates for their customers."
-    slides: 
+    slides:
     video: "https://youtu.be/Kq8CyYmDZeA"
     speakers:
       speaker01:
         name: "Alexey Eremin"
         bio: "Managing partner in Rocketmind, expert network that specialize in business-modeling, strategy consulting, user experience and digital communication solutions for leading Russian banks, corporations and government, including the Ministry of Communications, Rostelecom, Vimpelcom, AeroExpress, Alfa Bank, Skolkovo, Sberbank, Amedia and others."
         photo: "/img/speakers/alexey-eremin.jpg"
-        blog: 
-        facebook: 
-        twitter: 
-        linkedin: "https://www.linkedin.com/in/alexey-eremin-70086417/" 
+        blog:
+        facebook:
+        twitter:
+        linkedin: "https://www.linkedin.com/in/alexey-eremin-70086417/"
         google-plus:
   session04:
     day: 1
@@ -59,7 +97,7 @@
     place: "Casino"
     title: "Me and My Deadly Agile Sins"
     about: "Over the course of past years I have gotten into trouble with my co-workers and I would like to share this with others in hope that perhaps some of these you have not yet made. The focus will be on 3 habits: MissDoesALot, MissKnowsALot, MissFearsALot. I will list the negative downsides, how to identify and some steps to take to improve from there. My personal conclusion is that I was not as helpful to my teams as I have hoped. It’s amazing how sometimes one gets blinded by the good intentions that also contributes to growth of own ignorance and blindness. Luckily it is not all that grim and I have a list of 10 golden rules I’d love to share. These lessons were learned while volunteering at different conventions and conferences. Cheers!"
-    slides: 
+    slides:
     video: "https://youtu.be/T9OFPjROjNE"
     speakers:
       speaker01:
@@ -69,12 +107,12 @@
         blog: "http://alts-notes.blogspot.com/"
         facebook: "https://www.facebook.com/lv.alt"
         twitter: "https://twitter.com/alt_lv"
-        linkedin: 
-        google-plus:         
+        linkedin:
+        google-plus:
   session05:
     day: 1
     time: "12:00 - 13:00"
-    place: "Daugava 1" 
+    place: "Daugava 1"
     title: "Nexus: How We Do Scrum with 150+ People"
     about: "Nexus is a framework for scaled Scrum developed by Scrum co-creator Ken Schwaber and Scrum.org community. It addresses the most painful problems of scaled development – dealing with dependencies and building 'Done' integrated software every iteration. In our short talk, we are going to explain the key concepts of Nexus and illustrate them with our own case study where 150+ people successfully do Scrum to build software for a big North American retail company using Nexus."
     slides: "https://speakerdeck.com/agilelatvia/nexus-how-we-do-scrum-with-150-plus-people-by-artem-kolyshkin-and-konstantin-razumovsky"
@@ -84,27 +122,27 @@
         name: "Artem Kolyshkin"
         bio: "Artem Kolyshkin is a Senior Delivery Manager at EPAM with wide experience of product and project delivery. Currently implementing the Nexus framework on a project with 150 + people."
         photo: "/img/speakers/artem-kolyshkin.jpg"
-        blog: 
-        facebook: 
-        twitter: 
+        blog:
+        facebook:
+        twitter:
         linkedin: "https://www.linkedin.com/in/akolyshkin/"
-        google-plus: 
+        google-plus:
       speaker02:
         name: "Konstantin Razumovsky"
         bio: "Konstantin Razumovsky is an Agile Coach and Professional Scrum Trainer by Scrum.org. He has an extensive hands-on experience as a Java Developer, Scrum Master, and Project Manager."
         photo: "/img/speakers/konstantin-razumovsky.jpg"
         blog: "http://proscrum.by/"
-        facebook: 
-        twitter: 
+        facebook:
+        twitter:
         linkedin: "https://www.linkedin.com/in/razumovsky/"
-        google-plus: 
+        google-plus:
   session06:
     day: 1
     time: "12:00 - 13:00"
-    place: "Daugava 2" 
+    place: "Daugava 2"
     title: "How Scrum Can Help Me to Save Money on the Long Term?"
     about: "It was almost midnight when I heard my phone ringing. For my clients from the other part of the Globe it was middle of the day. And not a particular good one. Nothing was working for them because of a bug. What bug? Well, a bug which appeared when they tried to use the application with their new file format. Apparently this blocked their entire system. Damn (!!!) (sigh), not much to do at this hour, I thought, let’s wait for the morning to come to have the chance to talk with the development team, hoping that we will still meet our SLAs. Morning came and I called the technical guys. What ?? Only Alex can solve the problem and he is on holiday?? And he is coming back in two weeks??… As you can imagine, there was no happy end. And the company had to pay a lot of money for not respecting our SLAs. Does the story above sound familiar to you? Unfortunately, I am sure that many of you know what I am talking about. In this presentation we will discuss how to measure the cost of owning a software application and how to decrease this cost as much as possible. For measuring how much a software application costs, instead of considering only the purchase price of an object, the complete cost from purchase to disposal have to be summed up. This calculation is called Total Cost of Ownership, abbreviated TCO, and is designed to help in financial decisions by giving a picture of the profitability over time."
-    slides: 
+    slides:
     video: "https://youtu.be/QlegLy2jI-E"
     speakers:
       speaker01:
@@ -112,17 +150,17 @@
         bio: "I am an awesome speaker :)! Besides this, I have more than 10 years experience in Agile and Scrum in various software engineers projects. Besides this, I really believe in Scrum and because of this I am very involved in making people believe and understand what I am presenting."
         photo: "/img/speakers/raluca-bejan.png"
         blog: "https://beginwithend.wordpress.com/"
-        facebook: 
-        twitter: 
+        facebook:
+        twitter:
         linkedin: "https://www.linkedin.com/in/raluca-nicoleta-bejan-ioan-9a123a6/"
         google-plus:
   session07:
     day: 1
     time: "12:00 - 13:00"
-    place: "Casino"  
+    place: "Casino"
     title: "DevOps at Scale Applied in Bunnyworld"
     about: "DevOps at Scale as a problem to solve is becoming more relevant every day. Although there isn’t that much of information how to do it on real multi-project. When I try to address it, techy geeks get into techy rumble and forget what was the question about. This talk abstracts from technology and focuses purely on cultural and organizational topics in a fun way. 'So… meet delivery lead John. He got a brilliant idea - how basically from nothing to make the cutest bunny in the world.'"
-    slides: 
+    slides:
     video: "https://youtu.be/uHcXWfI9Z9E"
     speakers:
       speaker01:
@@ -130,8 +168,8 @@
         bio: "I’ve been DevOps in some way since I was 12. Now it’s been almost 20 years applying its philosophy at everything I do."
         photo: "/img/speakers/uldis-karlovs-karlovskis.jpg"
         blog: "http://ukkaboutcm.blogspot.com/"
-        facebook: 
-        twitter: 
+        facebook:
+        twitter:
         linkedin: "https://www.linkedin.com/in/uldiskarlovskarlovskis/"
         google-plus:
   session08:
@@ -147,17 +185,17 @@
         name: "Toms Rusovs"
         bio: "Product builder devoted to Agile principles. Working for Accenture as Scrum Master and Product Ownership Evangelist. With a product development and brand management background, he focuses on empowering self-organized teams to understand and create true value for their customers."
         photo: "/img/speakers/toms-rusovs.jpg"
-        blog: 
-        facebook: 
-        twitter: 
-        linkedin: "https://www.linkedin.com/in/tomsrusovs/?ppe=1" 
+        blog:
+        facebook:
+        twitter:
+        linkedin: "https://www.linkedin.com/in/tomsrusovs/?ppe=1"
         google-plus:
       speaker02:
         name: "Stefano La Porta"
         bio: "Stefano La Porta is working as Agile Coach for Accenture Latvia. A globetrotter (before moving to Riga, he worked in Italy, Brazil and Romania), he firmly believes that rather than molding people to a set of common processes and practices, processes and practices should be molded to the team itself. As Agile Coach, his main goal is not to follow a process “by the book” – it is to help self-organizing teams to deliver high-quality working software as frequently as possible."
         photo: "/img/speakers/stefano-la-porta.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/StefanoAgile"
         linkedin: "https://www.linkedin.com/in/stefanolaporta/"
         google-plus:
@@ -167,7 +205,7 @@
     place: "Daugava 2"
     title: "Lessons from Silicon Valley"
     about: "The Silicon Valley and San Francisco are the birthplace to some of the most valuable companies in the world. Many of these companies started in a garage (Apple Computer) or in a dorm room (Facebook). The nimble, lean approach to collaboration is the key ingredient. Let’s examine some of the most successful companies in the Silicon Valley and how we can apply lessons learned there to other organizations around the world."
-    slides: 
+    slides:
     video: "https://youtu.be/PvwoXHWitM0"
     speakers:
       speaker01:
@@ -175,7 +213,7 @@
         bio: "Jason Covington grew up in Cupertino, California, in the heart of the Silicon Valley. His father was one of the first Apple Computer employees, and out of that culture of innovation and entrepreneurship, Jason saw small collaborative teams take iterative approaches to technology such as the first mobile and wireless devices and the Blackberry. Jason lives in South San Francisco and is an agile transformation leader and coach. He has led transformations at American Express, General Electric, Cisco, and many others."
         photo: "/img/speakers/jason-covington.jpg"
         blog: "http://www.jasoncovington.com/"
-        facebook: 
+        facebook:
         twitter: "https://twitter.com/jasoncovington"
         linkedin: "https://www.linkedin.com/in/jasoncovington/"
         google-plus:
@@ -194,7 +232,7 @@
         bio: "Llewellyn Falco is an Agile Technical Coach specializing in Legacy Code and Test Driven Development. He is the creator of the open source testing tool ApprovalTests (www.approvaltests.com), co-founder of TeachingKidsProgram (www.teachingkidsprogramming.org) and a PluralSight author."
         photo: "/img/speakers/llewellyn-falco.jpg"
         blog: "http://llewellynfalco.blogspot.com/"
-        facebook: 
+        facebook:
         twitter: "https://twitter.com/LlewellynFalco"
         linkedin: "https://www.linkedin.com/in/llewellyn-falco-406742/"
         google-plus:
@@ -211,11 +249,11 @@
         name: "Romans Korsaks"
         bio: "Romans Korsaks is Product Ownership unit Manager at Tieto. A professional experienced leader with deep knowledge of software product development, customer service and IT. Certified LeSS Practitioner, CSPO and CSM."
         photo: "/img/speakers/romans-korsaks.jpg"
-        blog: 
-        facebook: 
-        twitter: 
+        blog:
+        facebook:
+        twitter:
         linkedin: "https://linkedin.com/in/romankorsak"
-        google-plus: 
+        google-plus:
   session12:
     day: 1
     time: "15:00 - 15:45"
@@ -230,7 +268,7 @@
         bio: "Ari Tanninen is a humane engineer, a product developer, and a trainer at JCI Finland. Early in his career Ari's plan was to save the planet with perfect software and Agile methods. Then after bumping his head on organizations he graduated to advocating lean and systems thinking. In later years, he has moved on user-centered design, and to human beings. It turns out, that free, motivated and empowered human beings are the core of everything. Which brings us to The Responsibility Process, which Ari has practised for 2,5 years."
         photo: "/img/speakers/ari-tanninen-2017.png"
         blog: "http://stopandfix.blogspot.com/"
-        facebook: 
+        facebook:
         twitter: "http://twitter.com/aritanninen"
         linkedin: "http://fi.linkedin.com/in/aritanninen"
         google-plus: "https://plus.google.com/+AriTanninen"
@@ -249,7 +287,7 @@
         photo: "/img/speakers/roland-flemm.png"
         blog: "http://www.dcme.nu/"
         facebook: "https://www.facebook.com/roland.flemm"
-        twitter: 
+        twitter:
         linkedin: "https://www.linkedin.com/in/rolandflemm"
         google-plus:
   session14:
@@ -276,15 +314,15 @@
     place: "Coaching Corner"
     title: "The Coaching Clinic"
     about: "Coaches’ Clinics are a unique and free service designed to help you with specific challenges you’ve encountered on your way to a more Agile way of working. Organized by Agiletransformer.com training and coaching community, these short coaching sessions are available during our event that our coaches and trainers attend to support the Agile Latvia community. Based on their individual needs, participants are matched with volunteer coaches, to discuss technical practices, organizational change, Scrum, Kanban, Agile Coaching as a career, and topics such as breaking down development silos to coordinating multiple teams and educating upper management for enhanced agility."
-    slides: 
-    video: 
+    slides:
+    video:
     speakers:
       speaker01:
         name: "Vladimir Ivanov"
         bio: "Vladimirs Ivanovs (40), have realised that I am the 'fox' and as philosopher Isaiah Berlin puts it 'the fox knows many things, but the hedgehog knows one big thing'. Since then I’ve started to form teams with the 'hedgehog focus'. agiletransofrmer.com is a perfect hedgehog, as is formed by the practitioners for the practitioners around one big thing – Agile (closely connected to Lean and Kanban). I love exploring cross-cultural differences and travel, so I do that in a form of 'workations' – public speaking on conferences + site seeing. Events are not only Agile related (also IPMA, PMI, itSMF, IT) in the following countries: Latvia, Lithuania, Estonia, Sweden, UK, Germany, Netherlands, Croatia, Czech Republic, Poland, Ukraine, Belarus, Russia, Kazakhstan, India."
         photo: "/img/speakers/vladimir-ivanov.png"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/vivanovs"
         linkedin: "https://www.linkedin.com/in/vivanov/en"
         google-plus: "https://plus.google.com/111063784323765456395"
@@ -294,41 +332,41 @@
     place: "2nd floor"
     title: "Open Space"
     about: "What is Open Space? It is agendaless event where people come together, create agenda under specific theme, and then learn from each other in small groups. Items in agenda can be anything: problems, situations, experiences, approaches, lectures, etc. related to the specific theme. "
-    slides: 
-    video: 
+    slides:
+    video:
   session17:
     day: 2
     time: "11:00 - 13:00"
     place: "2nd floor"
     title: "Workshop: Large-Scale Scrum simulation with LEGO!"
     about: "Since invented in 2009 lego4scrum has become a very popular simulation to teach Scrum. Nowadays how to get several teams to scrum, seems, is no longer a secret. Though knowing how to make agile work in a large-scale multi-team environment is. So In 2016 I was able to scale lego4scrum to over 155 people (22 development teams) all building an overall product. This approach is described in a newly released book called (what a suprise!): 'lego4scrum'. This practical session we will simulated a large-scale environment with 10+ teams (we need your help - please come to this session!). What will we be doing: working closely with the market representatives to know their needs, achieving shared understanding of a product with 10+ teams working together, setting up a suitable (flat) organizational structure capable of delivering, putting a lightweight process on top that is barely enough but enables self-management, building a working product that satisfies the market needs. Great helpers here are understanding complexity and system thinking, knowing how Scrum really works on the team-level, and few core ideas from LeSS framework, such as: an overall product backlog, a single Product Owner, joint team meetings."
-    slides: 
-    video: 
+    slides:
+    video:
     speakers:
       speaker01:
         name: "Alexey Krivitsky"
         bio: "Agile Coach and Certified Scrum Trainer at www.agiletrainings.eu ,the author of the mini-book Agile Retrospective Kickstarter and a hands-on Lean-Agile practitioner with the first Scrum experiment dated back to 2003-2005. Alexey kicked off the AgileUkraine community in 2007, co-produced dozens of Agile events, including the sounding Agile Eastern Europe Conferences. Also he is inventor of a simulation #lego4scrum and creator of a coaching tool Agile Coaching Canvas."
         photo: "/img/speakers/alexey-krivitsky.jpg"
-        blog: 
+        blog:
         facebook: "https://www.facebook.com/alexey.krivitsky.1"
         twitter: "https://twitter.com/alexeykri"
         linkedin: "https://www.linkedin.com/in/alexeykrivitsky"
-        google-plus: 
+        google-plus:
   session18:
     day: 2
     time: "11:00 - 16:00"
     place: "2nd floor"
     title: "The Coaching Clinic"
     about: "Coaches’ Clinics are a unique and free service designed to help you with specific challenges you’ve encountered on your way to a more Agile way of working. Organized by Agiletransformer.com training and coaching community, these short coaching sessions are available during our event that our coaches and trainers attend to support the Agile Latvia community. Based on their individual needs, participants are matched with volunteer coaches, to discuss technical practices, organizational change, Scrum, Kanban, Agile Coaching as a career, and topics such as breaking down development silos to coordinating multiple teams and educating upper management for enhanced agility."
-    slides: 
-    video: 
+    slides:
+    video:
     speakers:
       speaker01:
         name: "Vladimir Ivanov"
         bio: "Vladimirs Ivanovs (40), have realised that I am the 'fox' and as philosopher Isaiah Berlin puts it 'the fox knows many things, but the hedgehog knows one big thing'. Since then I’ve started to form teams with the 'hedgehog focus'. agiletransofrmer.com is a perfect hedgehog, as is formed by the practitioners for the practitioners around one big thing – Agile (closely connected to Lean and Kanban). I love exploring cross-cultural differences and travel, so I do that in a form of 'workations' – public speaking on conferences + site seeing. Events are not only Agile related (also IPMA, PMI, itSMF, IT) in the following countries: Latvia, Lithuania, Estonia, Sweden, UK, Germany, Netherlands, Croatia, Czech Republic, Poland, Ukraine, Belarus, Russia, Kazakhstan, India."
         photo: "/img/speakers/vladimir-ivanov.png"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/vivanovs"
         linkedin: "https://www.linkedin.com/in/vivanov/en"
         google-plus: "https://plus.google.com/111063784323765456395"
@@ -346,11 +384,11 @@
         name: "Bjarte Bogsnes"
         bio: "Bjarte Bogsnes has a long international career, both in Finance and HR. He is currently heading up the implementation of Beyond Budgeting at Statoil, Scandinavia’s largest company. Bjarte is Chairman of Beyond Budgeting Round Table (BBRT).  He is a popular international business speaker and is the winner of a Harvard Business Review/McKinsey Management Innovation award. Bjarte is the author of 'Implementing Beyond Budgeting - Unlocking the Performance Potential', where he writes about his implementation experiences. Statoil has recently opened up for Bjarte to undertake select external consulting work."
         photo: "/img/speakers/bjarte-bogsnes.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/bbogsnes"
         linkedin: "https://no.linkedin.com/in/bjarte-bogsnes-41557910"
-        google-plus: 
+        google-plus:
   session02:
     day: 1
     time: "11:15 - 12:00"
@@ -363,8 +401,8 @@
         name: "Karoliina Luoto"
         bio: "Agile Coach and Consultant aiming for business-valuable, user-oriented digital services and happy people behind them."
         photo: "/img/speakers/karoliina-luoto.png"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/totoroki"
         linkedin: "https://fi.linkedin.com/in/karoliinaluoto"
         google-plus:
@@ -380,49 +418,49 @@
         name: "Kasia Ryniak"
         bio: "I combine psychological education with working as a Scrum Master in a technology consulting company called u2i. I am a constant learner and discoverer, fascinated in people and relations behind the creation of products."
         photo: "/img/speakers/kasia-ryniak.png"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/katiryniak"
         linkedin: "https://pl.linkedin.com/in/kasiaryniak"
-        google-plus: 
+        google-plus:
   session04:
     day: 1
     time: "13:00 - 13:45, Room B"
     title: "Is It Time to Renew Agile?"
     about: "In 2001 the Agile Manifesto was made. Today, 15 years later Agile seems to become a commodity. Everyone wants to do Agile, transformation coaches are in a booming business, the books, blogs and papers on the subject are countless, ... But is the Agile Manifesto still up to date? Do we have to renew Agile? Let's explore this subject."
-    slides: 
-    video: 
+    slides:
+    video:
     speakers:
       speaker01:
         name: "Inge Gorgon"
         bio: "I am a passionate agile coach with over 10 years of experience in agile analysis, testing and as a Scrum Master. I have experience as a speaker on conferences such as the Agile Business Conference in London, the ALE conferences in Bucharest and Sofia and for the Agile Consortium Belgium."
         photo: "/img/speakers/inge-gorgon.png"
-        blog: 
-        facebook: 
-        twitter: 
+        blog:
+        facebook:
+        twitter:
         linkedin: "https://be.linkedin.com/in/inge-gorgon-9189658"
-        google-plus: 
+        google-plus:
   session05:
     day: 1
     time: "14:00 - 14:45, Room A"
     title: "Scrum Master's Personal Development Techniques"
-    about: "It is not easy to do a Scrum Master job. There's only a two days training 
-and then - you're on your own. Where to go next, how to structure your work, what 
-to do when you're joining an existing team or starting to change development 
+    about: "It is not easy to do a Scrum Master job. There's only a two days training
+and then - you're on your own. Where to go next, how to structure your work, what
+to do when you're joining an existing team or starting to change development
 processes in your organization? I'm going to share some useful techniques, which can be transformed into set of individual choices aimed to help our fellow Scrum Master to manage the chaos of a software development world. The ideas of those techniques are coming  from a many sources, from many areas of human knowledge: drawing, fencing, physical  exercises, philosophy. So, I'm going to wrap it up and share it with you. It helped me a lot, it will help you too."
     slides: "http://www.slideshare.net/lebedevdmitry/scrum-master-personal-development-practices"
     video: "https://youtu.be/UewKdQ_v-5Y"
     speakers:
       speaker01:
         name: "Dmitry Lebedev"
-        bio: "Dmitry started his job as a software engineer 20 years ago, has delivered 
-    many software projects, failed a few, learned a lot of things from other people 
-    and now he is willing to share his stories of success and failures with broader 
-    audience. The ultimate goal of his activities is that software could be developed 
+        bio: "Dmitry started his job as a software engineer 20 years ago, has delivered
+    many software projects, failed a few, learned a lot of things from other people
+    and now he is willing to share his stories of success and failures with broader
+    audience. The ultimate goal of his activities is that software could be developed
     pragmatically, based on an engineering approach and mutual respect between all involved parts."
         photo: "/img/speakers/dmitry-lebedev.png"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/mservices_stuff"
         linkedin: "https://lv.linkedin.com/in/dmitrylebedev"
         google-plus:
@@ -431,15 +469,15 @@ processes in your organization? I'm going to share some useful techniques, which
     time: "14:00 - 15:45, Room B"
     title: "Enterprise Agile Pasta"
     about: "Join Enterprise Agile Pasta game! Feel the challenges of Agile teams in the Enterprise environment - scaling agile, distributed teams, communication issues, different cultures and leadership styles etc. During the 3 phases of the game we will be debriefing and discussing learnings, so you could walk-away with useful insights and understanding of Agile scaling issues and practical advise. Last, but not least, it is a fun activity and opportunity to make friends with a like-minded people. The game has been created by agiletransformer.com experts and will be led by Vladimirs Ivanovs, Optimus Prime and Agile project management enthusiast."
-    slides: 
-    video: 
+    slides:
+    video:
     speakers:
       speaker01:
         name: "Vladimir Ivanov"
         bio: "I am Optimus Prime of the agiletransformer.com team of Agile coaches/experts. My focus in the team is mixing experience and knowledge from the past (traditional IT Management, ITIL, Project Management) with contemporary approaches such as Agile, Scrum, Lean, Kanban."
         photo: "/img/speakers/vladimir-ivanov.png"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/vivanovs"
         linkedin: "https://www.linkedin.com/in/vivanov/en"
         google-plus: "https://plus.google.com/111063784323765456395"
@@ -455,9 +493,9 @@ processes in your organization? I'm going to share some useful techniques, which
         name: "Heldin Rikk"
         bio: "Agile Practitioner at Bigbank"
         photo: "/img/speakers/heldin-rikk.jpg"
-        blog: 
-        facebook: 
-        twitter: 
+        blog:
+        facebook:
+        twitter:
         linkedin: "https://ee.linkedin.com/in/heldinrikk"
         google-plus:
   session08:
@@ -471,41 +509,41 @@ processes in your organization? I'm going to share some useful techniques, which
       speaker01:
         name: "Dave Snowden"
         bio: "Dave Snowden is the founder and chief scientific officer of Cognitive Edge. His work is international in nature and covers government and industry looking at complex issues relating to strategy, organisational decision making and decision making. He has pioneered a science based approach to organisations drawing on anthropology, neuroscience and complex adaptive systems theory. He is a popular and passionate keynote speaker on a range of subjects, and is well known for his pragmatic cynicism and iconoclastic style.
-        
+
         He currently holds positions as extra-ordinary Professor at the Universities of Pretoria and Stellenbosch and has held similar positions at Hong Kong Polytechnic University, Canberra Univerity, the University of Warwick and The University of Surrey. He held the position of senior fellow at the Institute of Defence and Strategic Studies at Nanyang University and the Civil Service College in Singapore during a sabbatical period in Nanyang.
-        
+
         His paper with Boone on Leadership was the cover article for the Harvard Business Review in November 2007 and also won the Academy of Management aware for the best practitioner paper in the same year. He has previously won a special award from the Academy for originality in his work on knowledge management. He is a editorial board member of several academic and practitioner journals in the field of knowledge management and is an Editor in Chief of E:CO. In 2006 he was Director of the EPSRC (UK) research programme on emergence and in 2007 was appointed toan NSF (US) review panel on complexity science research.
-        
+
         He previously worked for IBM where he was a Director of the Institution for Knowledge Management and founded the Cynefin Centre for Organisational Complexity; during that period he was selected by IBM as one of six on-demand thinkers for a world wide advertising campaign. Prior to that he worked in a range of strategic and management roles in the service sector.
-        
+
         His company Cognitive Edge exists to integrate academic thinking with practice in organisations throughout the world and operates on a network model working with Academics, Government, Commercial Organisations, NGOs and Independent Consultants. He is also the main designer of the SenseMaker® software suite, originally developed in the field of counter terrorism and now being actively deployed in both Government and Industry to handle issues of impact measurement, customer/employee insight, narrative based knowledge management, strategic foresight and risk management."
         photo: "/img/speakers/dave-snowden.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/snowded"
         linkedin: "https://uk.linkedin.com/in/dave-snowden-2a93b"
-        google-plus: 
+        google-plus:
 2012:
   session01:
     day: 1
-    time: 
+    time:
     title: "A Coding Dojo With a Twist"
     about: "A CyberDojo is coding dojo with a difference. Each group: writes their code and tests inside a web browser; presses their run-tests button to submit their code and tests to the CyberDojo server, the server saves the submission, runs the tests, and returns the test-outcome to the browser as a traffic light; green if all the tests passed; amber if the tests could not be run (eg syntax error); red if one or more tests failed; a dashboard shows each groups traffic light history. Click on any traffic light to open a diff-view of that submission; periodically a bell rings, indicating the driver from each group must move to another group and become a navigator. I built CyberDojo to promote deliberate software practice of: test driven development, and team dynamics and collaboration. I strongly believe that if you practice coding using your normal development environment then you are likely to be drawn into an unhelpful “completion” mindset. Practising in a CyberDojo helps to combat this tendency since a CyberDojo is so obviously not your normal development environment! Practising in a CyberDojo helps you to concentrate on the practice."
-    slides: 
-    video: 
+    slides:
+    video:
     speakers:
       speaker01:
         name: "Jon Jagger"
         bio: "Hi. I’m 2C years old (hexadecimal) and I’ve loved software since I was about 10 (decimal). I’m a self employed software coach-consultant-trainer-programmer-etc specializing in practice, people, process, agility, test driven development, and systems thinking. I built CyberDojo to promote deliberate software practice. I’ve worked with Accenture, Cisco, Friends Provident, HP, Microsoft, Opera, Ordnance Survey, RBS, Reuters, Renault F1, Schlumberger, and many many more. I work on a no win, no fee basis. If you don’t like my work I won’t invoice you. I’m the ex ECMA TG2 C# convenor. I’m the current ACCU conference chairman. I’ve had some C# books published. I’m married to the beautiful Natalie, and proud father of Ellie, Penny and Patrick. I love freshwater river fishing. I live in rural Somerset in England."
         photo: "/img/speakers/jon-jagger.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/jonjagger?lang=en"
-        linkedin: 
-        google-plus: 
+        linkedin:
+        google-plus:
   session02:
     day: 1
-    time: 
+    time:
     title: "Agile Communication"
     about: "Everybody agrees these days that communication is one of the key success factors in any project, regardless of their size and complexity. During the agile adoption process, many teams and managers are blind to communication issues and believe everything is working just fine. However, experience suggests that communication is failing at many levels -managers don't really understand their developers, testers and other geeks, who on the other hand often fail to effectively sell their point back to management. Similar situations exist between sales and technical experts or even between developers and testers.
             The fact is that speaking the same language doesn't guarantee the understanding of each other's points. This highly-interactive talk shows typical communication patterns, behaviors and provides eye-opening insights into the ways communication can improved Some practical games include the whole audience, which typically makes the session very lively and engaging."
@@ -517,13 +555,13 @@ processes in your organization? I'm going to share some useful techniques, which
         bio: "Over 11 years of commercial experiences in IT, beginning as a software designer/engineer and moving up into project management, program management, and into executive management at a company provides SW services for international customers (USA, Germany, Austria, Great Britain, …) that operating in mission critical and life critical sectors – i.e. air traffic control management systems, extensive healthcare applications, and public safety systems. Started with agile and Scrum back in 2005, where I was involved in implementing the agile methods at large US company operating in the medical area. From that time, I was responsible for implementation of agile and Scrum to teams in the Czech Republic operating in different areas of IT industry. Currently she works as a trainer, consultant and coach for software organizations, support them in tailoring their agile adoption processes to company culture. She is founder of the Czech agile community Agile Association, organizing conferences and events and sharing the agile experience all around. She is regular speaker at international conferences. She is Managing Director of LOTOFIDEA."
         photo: "/img/speakers/zuzana-sochova.jpg"
         blog: "http://soch.cz/blog"
-        facebook: 
+        facebook:
         twitter: "https://twitter.com/zuzuzka"
         linkedin: "https://www.linkedin.com/in/zuzka"
-        google-plus: 
+        google-plus:
   session03:
     day: 1
-    time: 
+    time:
     title: "Agile Contracts — Thesis, Antithesis, Synthesis"
     about: "Thesis: In order to have control over software project, a customer needs to have a contract that holds a supplier’s feet to the fire and fixes the price and scope of what is delivered. Antithesis: Effective projects require collaboration between a customer and a supplier. A contract that fixes the price and scope of the project undermines the trust needed for this collaboration. Synthesis: Target price contract aligns the incentives of the supplier and the customer towards making the scope match the budget. This gives the customer control over the price and value of the created software while maintaining a collaborative environment."
     slides: "http://www.slideshare.net/jhannes/agile-contracts-12055936"
@@ -533,14 +571,14 @@ processes in your organization? I'm going to share some useful techniques, which
         name: "Johannes Brodwall"
         bio: "Johannes Brodwall is a solution architect by day and a test-infected Java programmer by night. He discovered extreme programming more than ten years ago and has been trying to practice test-driven development, continuous integration and pair programming ever since. He still fails more than he would like. He works for Steria Norway as chief scientist and spends his copious spare time organizing the monthly Oslo XP meetup user group and the annual Smidig 20xx conference."
         photo: "/img/speakers/johannes-brodwall.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/jhannes"
-        linkedin: 
-        google-plus: 
+        linkedin:
+        google-plus:
   session04:
     day: 1
-    time: 
+    time:
     title: "Anonymous Analyst"
     about: "The role of software analyst is full of misunderstandings. In cross-functional teams we focus on having a shared vision and shared architecture. We avoid specializations, we force every member of a team to act and pull required information from all available sources without additional chains in the communication. The role of traditional software analyst does not fit nicely into Scrum either. They have been usually separated from teams and we cannot call them neither Scrum Masters nor Product Owners. However, software analysts play essential role in cross-functional teams. Our understanding of what they should do and the role they play in a team should be different. Analysts help us understand and we should focus on sharing this understanding inside the team. Here I will present the roots of misunderstandings and some practical tips how they can be avoided."
     slides: "http://stanvasilyev.blogspot.com/2012/02/anonymous-analyst.html"
@@ -550,14 +588,14 @@ processes in your organization? I'm going to share some useful techniques, which
         name: "Stanislav Vasilyev"
         bio: "Agile Coach. Co-founder and one of the event organizers at Agile Estonia. Believes in common sense and things that work instead of methodologies and frameworks."
         photo: "/img/speakers/stanislav-vasilyev.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/stanvasilyev"
-        linkedin: 
-        google-plus: 
+        linkedin:
+        google-plus:
   session05:
     day: 1
-    time: 
+    time:
     title: "Becoming Agile in Public Sector Project"
     about: "Becoming agile is not an easy task, especially if you are working in public sector project. Though it is possible and we have managed to do it. Here is our advice on how to do it: Seek for opportunities. Public sector project carry pretty heavy burden of administrative work, which does not go well together with strive of agile practices to eliminate waste. Though sometimes things which seem to us as obstacles at the first glance, are in fact opportunities. We will teach you how to use some of them; Start small. Starting all is often scary, and build resistance to agile practices on both customer and supplier side. By implementing practice by practice you will have enough time to gain trust and build confidence of the team; Work harder! When you start using agile practices in software development, all team members both on customer and supplier side have to commit to following them. Lack of commitment justified by lack of understanding or complexity of chosen approach might actually hide bigger problem - insufficient ability to deliver. Sometimes it is enough just to start working."
     slides: "http://www.slideshare.net/ejakubaneca/becoming-agile-in-public-sector-project"
@@ -567,40 +605,40 @@ processes in your organization? I'm going to share some useful techniques, which
         name: "Linda Vītuma"
         bio: "My passions: information system 'go-live', problem solving and change management. Have worked 12 years in IT industry. Pretend to be 'early adapter'."
         photo: "/img/speakers/linda_vituma.png"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/Linda_Vituma"
-        linkedin: 
-        google-plus: 
+        linkedin:
+        google-plus:
       speaker02:
-        name: "Elina Jakubaneca" 
+        name: "Elina Jakubaneca"
         bio: "Elīna Jakubaneca has been working for Tieto Latvia (former TietoEnator Alise) for five years as Scrum Master, Project Supervisor and Department Manager for Oracle E-Business Suite based projects. Now she is Senior Consultant in her newly founded company eBIT, SIA. Her main professional interests are related to Agile project supervision and project portfolio management."
         photo: "/img/speakers/elina-jakubaneca.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/ejakubaneca"
         linkedin: "https://www.linkedin.com/in/ejakubaneca/"
-        google-plus: 
+        google-plus:
   session06:
     day: 1
-    time: 
+    time:
     title: "Extreme Startup"
     about: "Extreme startup is a team-based coding competition. Over the course of a few hours, you will write an application that answers the questions from the workshop server. You can work solo or in pairs, test-driven or cowboy coding, in any programming language you want. Answer the most questions and win the competition! This workshop was first run at #xp2011 by Richard Chatley and Matt Wynne. Johannes have run the workshop several times in conferences and companies. For more information on the workshop itself, see Johannes' blog post on extreme startup. Bring a wi-fi-capable computer with the development environment(s) of your choice. (If you can't bring a computer, you can pair with someone else. We depend on most people bringing a computer, though)"
     slides: "http://svn.brodwall.com/presentations/public/2012-03-17%20Agile%20Riga%20-%20Extreme%20Startup.pptx"
-    video: 
+    video:
     speakers:
       speaker01:
         name: "Johannes Brodwall"
         bio: "Johannes Brodwall is a solution architect by day and a test-infected Java programmer by night. He discovered extreme programming more than ten years ago and has been trying to practice test-driven development, continuous integration and pair programming ever since. He still fails more than he would like. He works for Steria Norway as chief scientist and spends his copious spare time organizing the monthly Oslo XP meetup user group and the annual Smidig 20xx conference."
         photo: "/img/speakers/johannes-brodwall.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/jhannes"
-        linkedin: 
-        google-plus: 
+        linkedin:
+        google-plus:
   session07:
     day: 1
-    time: 
+    time:
     title: "How to Be a Lean Product Developer?"
     about: "We are not just writing software – we are in business of creating a great inspiring product that serves a purpose. During the session you shall learn how to communicate and validate your ideas faster, how to build your product faster, how to measure it all (faster) and how to learn faster while doing all these activities."
     slides: "http://www.slideshare.net/markoot/how-to-be-a-lean-product-developer-agile-riga-day-2012"
@@ -611,13 +649,13 @@ processes in your organization? I'm going to share some useful techniques, which
         bio: "Marko Taipale is an entrepreneur in Helsinki specializing in management of agile and lean product development processes. He is a co-founder and Chief Technology Officer of Huitale with over 14 years of experience in software development. He has helped a number of companies to transform to agile and shares some his experiences on his blog."
         photo: "/img/speakers/marko-taipale.jpg"
         blog: "http://huitale.blogspot.com/"
-        facebook: 
+        facebook:
         twitter: "https://twitter.com/markotaipale"
-        linkedin: 
-        google-plus: 
+        linkedin:
+        google-plus:
   session08:
     day: 1
-    time: 
+    time:
     title: "How to Change the World"
     about: "How do I make my managers more Agile? How can I convince developers to educate themselves? How can I make customers more cooperative? How do I start a European network of Agile and Lean practitioners? When transforming organizations and other social systems people usually encounter obstacles. And these obstacles very often involve changing other people’s behaviors. Of course, we cannot really _make_ people behave in a different way. We also cannot really make people laugh, and we cannot really make people happy. But… we can certainly try! This session is about Change Management 3.0. It is a new change management “super model” which views organizations as complex adaptive systems and social networks. The Change Management 3.0 supermodel wraps various existing models (PDCA, ADKAR, Adoption Curve and The 5 I's). It lists a few dozen hard questions that can help people in their attempts to change the behaviors of other people in an organization and beyond. No matter whether you are a manager, Scrum Master, Product Owner, software developer or writer, anyone will find it useful to know how to change the world around them."
     slides: "http://www.slideshare.net/jurgenappelo/how-to-change-the-world-9444890"
@@ -627,14 +665,14 @@ processes in your organization? I'm going to share some useful techniques, which
         name: "Jurgen Appelo"
         bio: "Jurgen Appelo is a writer, speaker, trainer, entrepreneur, illustrator, developer, manager, blogger, reader, dreamer, leader, freethinker, and… Dutch guy. Since 2008 Jurgen writes a popular blog at www.noop.nl, which deals with development management, software engineering, business improvement, personal development, and complexity theory. He is the author of the book Management 3.0: Leading Agile Developers, Developing Agile Leaders, which describes the role of the manager in agile organizations. He is also a speaker, being regularly invited to talk at business seminars and conferences around the world. After studying Software Engineering at the Delft University of Technology, and earning his Master’s degree in 1994, Jurgen Appelo has busied himself starting up and leading a variety of Dutch businesses, always in the position of team leader, manager, or executive. Jurgen has experience in leading a horde of 100 software developers, development managers, project managers, business consultants, quality managers, service managers, and kangaroos, some of which he hired accidentally."
         photo: "/img/speakers/jurgen-appelo.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/jurgenappelo"
-        linkedin: 
-        google-plus: 
+        linkedin:
+        google-plus:
   session09:
     day: 1
-    time: 
+    time:
     title: "How to Coach Traditional Managers into Lean and Agile?"
     about: "Managers are often quoted as an impediment for Agile adoption. We have seen also otherwise: managers might be the crucial make it or break it force within organization that is ongoing change. In this presentation several aspects  of change management, leadership and coaching are touched. Real-life examples from Ericsson Finland: team formation and operation (managers and coaches role), Change Roadmap, coaching Leadership Teams, different levels of coaching (individuals, teams, PO, portfolio, line management on different levels). What is required from a management coach? How to get involvement? Why Scrum was seen as a threat for managers? How to involve people to change managers?"
     slides: "http://www.slideshare.net/hkivioja/how-to-coachtraditionalmanagersintoagilelean"
@@ -644,14 +682,14 @@ processes in your organization? I'm going to share some useful techniques, which
         name: "Henri Kivioja"
         bio: "Ericsson Finland started Agile transformation in 2008 with the first Scrum Team. Since then they have scaled up to 30+ teams and set up a complete e2e setup supporting Agile. This transformation has been (and still is) profound change in organizational thinking and culture. Henri Kivioja is delighted to share the experiences and learnings from this journey."
         photo: "/img/speakers/henri-kivioja.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/hkivioja"
-        linkedin: 
-        google-plus: 
+        linkedin:
+        google-plus:
   session10:
     day: 1
-    time: 
+    time:
     title: "Introducing BDD"
     about: "There is a great promise in BDD (Behaviour Test Driven Development). A promise of better understanding between Product Owner and the development team. Having experienced all that, Aki tells a story how he managed to introduce BDD process to his current work environment and what made it successful. The story has a happy ending."
     slides: "http://dl.dropbox.com/u/5356334/AgileRigaDay/Introducing%20BDD.pdf"
@@ -661,41 +699,41 @@ processes in your organization? I'm going to share some useful techniques, which
         name: "Aki Salmi"
         bio: "Aki does not believe in magic. He makes it happen. Aki is a hiking guide of Suomen Latu and is using the leadership principles learned in such an agile environment in his daily work as Scrum Master. He is also the man behind Turku Agile Day, bringing the joy of agile software development to the crowds. Professionally his passion is agile testing and test automation where he has excelled during his whole career. Meet a man who is living his dream."
         photo: "/img/speakers/aki-salmi.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/rinkkasatiainen"
-        linkedin: 
-        google-plus: 
+        linkedin:
+        google-plus:
   session11:
     day: 1
-    time: 
+    time:
     title: "Mikado Method"
     about: "A code base must be changed, or it will die. But sometimes these changes feels like a fight with the Legacy Software Hydra, for every scary head cut off, two more grows out. Every change takes us further from the goal! Instead, come learn the Mikado Method, a systematic approach to beat the Hydra and change the code in a safe way. It enables continuous delivery, and it enhances team communication, collaboration and learning, helping individuals stay on track. We will practice to visualize, prepare and perform business-value-focused changes, without having a broken code-base in the process. Process/Mechanics: Participants sharing code change horror stories to get in the mood; The horror story behind the Mikado Method, and the resolution; The core concepts to make it work, and the benefits of it; The Mikado Method kata in Java code (https://github.com/mikadomethod/kata-java), performed by presenter; Q&A/Debriefing. Participants perform same demo as a kata. Bring Your Own Laptop!! (Java and C# examples provided); Q&A/Debriefing. The material is also presented in a book which can be downloaded from http://mikadomethod.wordpress.com/book/"
     slides: "http://mikadomethod.wordpress.com/book/"
     slides: "http://danielbrolund.wordpress.com/"
-    video: 
+    video:
     speakers:
       speaker01:
         name: "Ola Ellnestam"
         bio: "Ola Ellnestam came in contact with Agile in the year 2000 after reading Extreme Programming Explained. At the time he didn’t know what kind of impact that particular book would have on him and the software industry. Fueled by many new thoughts he began his Agile journey which later led him to start a company specializing in XP and Scrum. In 2005 Ola started Agical with three colleagues, one of Sweden’s most prominent Agile coaching companies of today. As an expert in software developing skills such as TDD and Continuous Integration as well as more soft skills he coaches both developers and leaders while they are learning Agile practices and methods. Today he is working with clients that are working with or would like to be working with Agile methods. This often puts him in situations where he has to defend, promote and question the values and practices behind Agile which he has become very familiar with. Ola is also one of the driving forces behind ‘Agile Sweden’, Sweden’s biggest Agile network."
         photo: "/img/speakers/ola-ellnestam.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/ellnestam"
-        linkedin: 
-        google-plus: 
+        linkedin:
+        google-plus:
       speaker02:
         name: "Daniel Brolund"
         bio: "Automating developer, fearless restructurer of code, intelligent tester, and mentor in all those areas. Daniel is a software developer with a sixth sense for what works and what is effective. He is a co-creator of the Mikado Method, an effective way to restructure code bases of all sizes. He has been a speaker at JavaZone 2011, Turku Agile Day 2011, JFokus 20111, DevLin2011, Øredev2010, Agile2011/2010, XP2010/2009, SPA2010, XPDay2009, SDC2009, all Agila Sverige conferences and Smidig2008. The Mikado Method blog Ola and Daniel have created a method for making large scale refactoring in large software systems. On this blog You can read the latest regarding the method. Daniels blog A well balanced mix of deep thoughts and recommendations about agile practices."
         photo: "/img/speakers/daniel-brolund.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/danielbrolund"
-        linkedin: 
-        google-plus: 
+        linkedin:
+        google-plus:
   session12:
     day: 1
-    time: 
+    time:
     title: "Product Management in Agile Organization with Product Developed by Many Teams"
     about: "Early in 2010 we implemented Scrum in Adform as its development process. More than 40 people were split to 6 cross functional teams. So what’s the big deal you will ask? The big deal for us was: we all work developing ONE product (SaS Ads Serving platform)! We are not working on separate projects! How to organize Product Management work to fit this? How 6 Product Owners should work together, with company management, and other departments? How to split big features and divide work to teams (usually one feature had to be implemented by few teams to bring value to the customer)? What to do with 'research' projects? How to handle the growth of the company (now we have more than 50 people and 8 teams)? In this presentation I will share our journey, as well as mistakes we made and lessons learned. If you are implementing Agile in organization or project with many teams working on one product - this presentation is for you."
     slides: "http://www.slideshare.net/vaidasa/agile-product-management-with-product-developed-by-many-teams-v2"
@@ -709,10 +747,10 @@ processes in your organization? I'm going to share some useful techniques, which
         facebook: "https://www.facebook.com/agilecoachlt"
         twitter: "https://twitter.com/adomauskas"
         linkedin: "http://www.linkedin.com/in/vaidas"
-        google-plus: 
+        google-plus:
   session13:
     day: 1
-    time: 
+    time:
     title: "Simple Effective Teamwork"
     about: "Agile practices may be the way to build great software but what really matters is how well your team works together. In this beginner-friendly talk, Antti reveals the simple principles behind succesful software teams."
     slides: "http://www.slideshare.net/tarvaina/simple-effective-teamwork"
@@ -723,13 +761,13 @@ processes in your organization? I'm going to share some useful techniques, which
         bio: "Antti is a software developer and a coach living in Tampere, Finland. He works for Leonidas and swears to good communication, understanding the customer, and seeing the big picture. He believes that the keys to better software are good communication and keeping it simple. You can find his thoughts in his blog."
         photo: "/img/speakers/antti-tarvainen.jpg"
         blog: "http://tarvainen.wordpress.com/"
-        facebook: 
+        facebook:
         twitter: "https://twitter.com/tarvaina"
-        linkedin: 
-        google-plus: 
+        linkedin:
+        google-plus:
   session14:
     day: 1
-    time: 
+    time:
     title: "Story Points Considered Harmful – A New Look at Estimation Techniques"
     about: "Story Points are the typical estimation unit for Agile Teams. But do they really work? Or are there better ways to estimate? In this talk, we‘ll look at the problem of estimating, as well as empirical data challenging the validity of story points. Can we find an accurate way of assessing the cost and duration of a project without estimating all our Stories? Come to learn how to do that!"
     slides: "http://www.slideshare.net/duartevasco/story-points-considered-harmful-or-why-the-future-of-estimation-is-really-in-our-past"
@@ -740,16 +778,16 @@ processes in your organization? I'm going to share some useful techniques, which
         bio: "I want to transform product development organizations into product business organizations. I do that by focusing the work of the product development teams on the end-to-end life-cycle of their products."
         photo: "/img/speakers/vasco-duarte.jpg"
         blog: "http://softwaredevelopmenttoday.blogspot.com/"
-        facebook: 
+        facebook:
         twitter: "https://twitter.com/duarte_vasco"
         linkedin: "https://www.linkedin.com/in/duartevasco/"
-        google-plus: 
+        google-plus:
   session15:
     day: 1
-    time: 
+    time:
     title: "The Red Bead Experiment"
     about: "Targets, rewards, motivational speeches, ranking, individual bonuses, and even punishments, are to this day common management practices to get results from the workers. Are they effective in getting us to do better work? The world famous consultant Dr W Edwards Deming, who was “the man who taught the Japanese, America and many other countries about quality”, created The Red Bead Experiment in 1982 to communicate his take on the subject. In this session we will run a version of the experiment that has been slightly adapted for software development by David P. Joyce. The experiment introduces many of Deming’s ideas about management, the principles of variation and statistical process control charts. And it is a humorous and fun experience for both participants and audience! After the experiment there will be a presentation followed by a group discussions on the learning points and how they can be related to software development and the management of software development teams."
-    slides: 
+    slides:
     video: "https://youtu.be/aZaqY5mQ7iI"
     speakers:
       speaker01:
@@ -757,30 +795,30 @@ processes in your organization? I'm going to share some useful techniques, which
         bio: "Joakim is an Agile & Lean Coach with Avega Group, Sweden. He helps clients improve through coaching and mentoring of individuals, teams and organizations. This is often accomplished using Agile and Lean software development methodologies such as Scrum, XP and Kanban. When working as a developer coach Joakim favors Test Driven Development, refactoring and evolutionary object-oriented design, mainly on the .NET platform. He is an organizer of, and active participant in, conferences, networks and user groups in the Agile, Lean and .NET communities."
         photo: "/img/speakers/joakim-sunden.jpg"
         blog: "http://joakimsunden.com/"
-        facebook: 
+        facebook:
         twitter: "https://twitter.com/joakimsunden"
         linkedin: "https://www.linkedin.com/in/joakimsunden/"
-        google-plus: 
+        google-plus:
   session16:
     day: 1
-    time: 
+    time:
     title: "The Role of Management in Agile Through Real-life Stories"
     about: "This session is an entertaining in-depth investigation into the role of management in Agile. At the start of this session we will define management in an Agile context. Then we will proceed through five real-life stories describing problematic situations ranging from teams to organizations. Each story begins with an organization diagram followed by perceived symptoms, root-causes and effects. For developers this session is an opportunity to understand the causes of some of the problems you face in your teams. and for managers this session is an opportunity to learn from mistakes done by others."
-    slides: 
-    video: 
+    slides:
+    video:
     speakers:
       speaker01:
         name: "Ari Tanninen"
         bio: "Ari is a software guy who has practiced agile for about a half of his over ten-year career. He has done most jobs that exist in a typical software project, and has been around the industry long enough to know where to use agile and where not to. He is currently Head of Product Development at Intellipocket but still writes code for a living."
         photo: "/img/speakers/ari-tanninen.png"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/aritanninen"
-        linkedin: 
-        google-plus: 
+        linkedin:
+        google-plus:
   session17:
     day: 1
-    time: 
+    time:
     title: "Using BDD to Make Clients Happy"
     about: "Today, when good developers are as hard to find as honest politicians, we — the development teams — run the show. But increasingly, we're losing touch with the very thing that allows us to be successful. We're forgetting about how to make our (development) clients happy. More fundamentally, this means that we're losing touch with the end goal: to build products that have a high value, regardless of how they're developed. In this session i'll show you modern agile methodology called BDD and couple of accompanied tools, that will finally help you on the way to make well thought products."
     slides: "http://speakerdeck.com/u/everzet/p/how-to-make-your-clients-happy-with-bdd"
@@ -790,87 +828,87 @@ processes in your organization? I'm going to share some useful techniques, which
         name: "Konstantin Kudryashov"
         bio: "Senior from-birth web developer. PHP, Symfony, Doctrine, node.js developer. BDD evangelist, QA perfectionist, Mac user, UNIX expert. And loving husband…"
         photo: "/img/speakers/konstantin-kudryashov.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/everzet"
-        linkedin: 
-        google-plus: 
+        linkedin:
+        google-plus:
 2011:
   session01:
     day: 1
-    time: 
+    time:
     title: "How to Adopt Agile at Your Organization"
     about: "Works for Tieto Latvia and promotes new technologies, open source and Agile software development. Previously he has worked a lot with Oracle databases, development tools and applications but in recent years he is passionate Ruby and JavaScript developer and is promoting use of modern web technologies in many enterprises. He is contributing to Ruby on Rails and other open source projects. He uses and promotes to others Test Driven Development which he considers as one of the key Agile technical practices."
     slides: "https://sites.google.com/site/agilerigaday/past-conferences/2011/programme/presentations"
-    video: 
+    video:
     speakers:
       speaker01:
         name: "Raimonds Simanovskis"
         bio: "Works for Tieto Latvia and promotes new technologies, open source and Agile software development. Previously he has worked a lot with Oracle databases, development tools and applications but in recent years he is passionate Ruby and JavaScript developer and is promoting use of modern web technologies in many enterprises. He is contributing to Ruby on Rails and other open source projects. He uses and promotes to others Test Driven Development which he considers as one of the key Agile technical practices."
         photo: "/img/speakers/raimonds-simanovskis.jpg"
         blog: "http://blog.rayapps.com/"
-        facebook: 
+        facebook:
         twitter: "https://twitter.com/rsim"
         linkedin: "https://www.linkedin.com/in/raimondssimanovskis/"
-        google-plus: 
+        google-plus:
   session02:
     day: 1
-    time: 
+    time:
     title: "Patterns of Agility, How to Recognize and Agile Project When You See One"
     about: "Currently an Agile Project Coach at Nokia, Vasco Duarte is an experienced product and project manager, having worked in the software industry since 1997. Vasco has also been an Agile practitioner since 2004, he is one of the leaders and a catalyst in the adoption of Agile methods and an Agile culture at Nokia and previously at F-Secure."
     slides: "http://www.slideshare.net/duartevasco/patterns-of-agility-how-to-recognize-and-agile-project-when-you-see-one"
-    video: 
+    video:
     speakers:
       speaker01:
         name: "Vasco Duarte"
         bio: "I want to transform product development organizations into product business organizations. I do that by focusing the work of the product development teams on the end-to-end life-cycle of their products."
         photo: "/img/speakers/vasco-duarte.jpg"
         blog: "http://softwaredevelopmenttoday.blogspot.com/"
-        facebook: 
+        facebook:
         twitter: "https://twitter.com/duarte_vasco"
         linkedin: "https://www.linkedin.com/in/duartevasco/"
-        google-plus: 
+        google-plus:
   session03:
     day: 1
-    time: 
+    time:
     title: "Practical Intro to Kanban"
     about: "How to start with Kanban in a simple and clear way."
     slides: "http://www.slideshare.net/AGILEMinds/practical-intro-to-kanban-joakim-sunden"
-    video: 
+    video:
     speakers:
       speaker01:
         name: "Joakim Sundén"
         bio: "Joakim is an Agile & Lean Coach with Avega Group, Sweden. He helps clients improve through coaching and mentoring of individuals, teams and organizations. This is often accomplished using Agile and Lean software development methodologies such as Scrum, XP and Kanban. When working as a developer coach Joakim favors Test Driven Development, refactoring and evolutionary object-oriented design, mainly on the .NET platform. He is an organizer of, and active participant in, conferences, networks and user groups in the Agile, Lean and .NET communities."
         photo: "/img/speakers/joakim-sunden.jpg"
         blog: "http://joakimsunden.com/"
-        facebook: 
+        facebook:
         twitter: "https://twitter.com/joakimsunden"
         linkedin: "https://www.linkedin.com/in/joakimsunden/"
-        google-plus: 
+        google-plus:
   session04:
     day: 1
-    time: 
+    time:
     title: "Company Culture as the Key Agile Milestone"
     about: "Zuzana  started with agile and Scrum back in 2005, where she was involved in implementing the agile methods at large US company operating in the medical area. From that time, she was responsible for implementation of  agile and Scrum  to  teams in the Czech Republic operating in different areas of  IT industry (i.e. air traffic control management systems, extensive healthcare applications, public safety systems and small and extremely fast internet projects). Currently she works as a consultant and coach for software organizations, support them in tailoring their agile adoption processes to company culture. She  founded Czech  agile community Agile Association  - AgilniAsociace.cz, organizing conferences and events and sharing the agile experience all around. She is Managing Director of LOTOFIDEA."
     slides: "http://www.slideshare.net/zuzuzka/company-culture-as-the-key-agile-milestone-7168263"
-    video: 
+    video:
     speakers:
       speaker01:
         name: "Zuzana Sochova"
         bio: "Certified Scrum Trainer, CST with ScrumAlliance. I work as Agile coach, consultant and trainer for both large and small organizations. I’m regular speaker at Agile international conferences. I’m also a founder of the Agile Association (Agilni Asociace, agilniasociace.cz) Czech Republic, organizing the Agile Czech community and annual Agile Prague Conference (agileprague.com). Started with Agile and Scrum back in 2005, where I was involved in implementing the Agile methods at Medtronic, USA. From that time, I was responsible for Agile transformation and implementation of Agile and Scrum to many companies and teams. Over 15 years of commercial experiences in IT, beginning as a software development."
         photo: "/img/speakers/zuzana-sochova.jpg"
         blog: "http://soch.cz/blog"
-        facebook: 
+        facebook:
         twitter: "https://twitter.com/zuzuzka"
         linkedin: "https://www.linkedin.com/in/zuzka"
-        google-plus: 
+        google-plus:
   session05:
     day: 1
-    time: 
+    time:
     title: "Agile Brings Value: Two Scrum Implementation Success Stories and Lessons Learned"
     about: "I share my experiences in implementing Scrum in two organizations and provide lessons learned ad the end."
     slides: "http://www.slideshare.net/vaidasa/agile-brings-value-two-scrum-implementation-success-stories-and-lessons-learned"
-    video: 
+    video:
     speakers:
       speaker01:
         name: "Vaidas Adomauskas"
@@ -880,67 +918,67 @@ processes in your organization? I'm going to share some useful techniques, which
         facebook: "https://www.facebook.com/agilecoachlt"
         twitter: "https://twitter.com/adomauskas"
         linkedin: "http://www.linkedin.com/in/vaidas"
-        google-plus: 
+        google-plus:
   session06:
     day: 1
-    time: 
+    time:
     title: "Agile at Evolution Gaming Latvia"
     about: "Agile experience at Evolution Gaming."
     slides: "http://www.slideshare.net/jelescic/agile-riga-jelenascickov3"
-    video: 
+    video:
     speakers:
       speaker01:
         name: "Jelena Scicko"
         bio: "QA Engineer at Evolution Gaming Latvia."
         photo: "/img/speakers/john-doe.png"
-        blog: 
-        facebook: 
-        twitter: 
-        linkedin: 
-        google-plus: 
+        blog:
+        facebook:
+        twitter:
+        linkedin:
+        google-plus:
   session07:
     day: 1
-    time: 
+    time:
     title: "How to Succeed with Agile"
     about: "A few tips on succeeding with agile projects."
     slides: "http://www.slideshare.net/abaranovskis/how-to-succeed-with-agile-v2"
-    video: 
+    video:
     speakers:
       speaker01:
-        name: "Armands Baranovskis" 
+        name: "Armands Baranovskis"
         bio: "Armands Baranovskis has graduated from Riga Technical University with a Masters degree in industrial management and continues to study there in the IT PhD program. His main professional interests are Service Oriented Architecture and Agile development. Armands has recently joined the newly founded eBIT team as a Technical Architect and Project Manager, Scrum Master and Product Owner."
         photo: "/img/speakers/armands-baranovskis.jpg"
-        blog: 
+        blog:
         facebook: "https://www.facebook.com/armands.baranovskis"
         twitter: "https://twitter.com/xabarx"
         linkedin: "http://www.linkedin.com/pub/armands-baranovskis/14/35b/980"
-        google-plus: 
+        google-plus:
       speaker02:
-        name: "Elina Jakubaneca" 
+        name: "Elina Jakubaneca"
         bio: "Elīna Jakubaneca has been working for Tieto Latvia (former TietoEnator Alise) for five years as Scrum Master, Project Supervisor and Department Manager for Oracle E-Business Suite based projects. Now she is Senior Consultant in her newly founded company eBIT, SIA. Her main professional interests are related to Agile project supervision and project portfolio management."
         photo: "/img/speakers/elina-jakubaneca.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/ejakubaneca"
         linkedin: "https://www.linkedin.com/in/ejakubaneca/"
-        google-plus: 
+        google-plus:
   session08:
     day: 1
-    time: 
+    time:
     title: "Enterprise Agile and How to Succeed with It."
     about: "Enterprise agile and how to succeed with it on C.T.Co example."
     slides: "http://www.slideshare.net/lebedevdmitry/enterprise-agile-and-how-to-succeed-with-it-by-sergey-zabaluev"
-    video: 
+    video:
     speakers:
       speaker01:
         name: "Sergey Zabaluev"
         bio: "Is a Business Development Director in C.T.Co. He has more than 10 years of professional software development experience. He participated in numerous international projects for financial, reinsurance and e-commerce industries as a project manager, system architect and consultant. Sergey has a strong background with applying Agile methodologies in projects for top level enterprise clients."
         photo: "/img/speakers/sergey-zabaluev.jpg"
-        blog: 
-        facebook: 
-        twitter: 
+        blog:
+        facebook:
+        twitter:
         linkedin: "https://www.linkedin.com/in/sergey-zabaluev-a269303/"
-        google-plus: 
+        google-plus:
 2015:
   session01:
     day: 1
@@ -955,10 +993,10 @@ processes in your organization? I'm going to share some useful techniques, which
         name: "Pawel Brodzinski"
         bio: "Leader of Lunar Logic (http://lunarlogic.io). Persistent experimenter. Whiteboard junkie. Lean and Agile coach. Prolific blogger."
         photo: "/img/speakers/pawel-brodzinski.jpeg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/pawelbrodzinski"
-        linkedin: 
+        linkedin:
         google-plus:
   session02:
     day: 1
@@ -973,10 +1011,10 @@ processes in your organization? I'm going to share some useful techniques, which
         name: "Alex Birke"
         bio: "IT Consultant at Accenture. Alexander Birke is an IT consultant and technical architect in the area of Advanced Systems & Technology at Accenture. He is working in IT for over a decade. He likes to optimize development processes and getting more efficient. His primary focus areas are architecture and software delivery. The main topics of his last 10 years were software development processes, agile and traditional software delivery management and Model-driven-development."
         photo: "/img/speakers/alexander-birke.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/alexbirke"
-        linkedin: 
+        linkedin:
         google-plus:
   session03:
     day: 1
@@ -991,10 +1029,10 @@ processes in your organization? I'm going to share some useful techniques, which
         name: "Christian Elffors"
         bio: "Creative Director at Zapote. Christian’s main professions are change management and project management. His true desires are innovation and agile development. With 16 years of experience from the IT business and eight years as a leader and manager he has helped a number of companies and organizations to execute their changes and projects. With new knowledge Christian is more and more focusing on how we are working and how we deal with changes with a human perspective."
         photo: "/img/speakers/christian-elffors.jpeg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/c_elffors"
-        linkedin: 
+        linkedin:
         google-plus:
   session04:
     day: 1
@@ -1003,14 +1041,14 @@ processes in your organization? I'm going to share some useful techniques, which
     title: "Why to become a Project Manager? Why I did?"
     about: "My passion changed from Programming to Project Management. I am board member at International Project Management Association Latvia since 2001, am assessor and give classes also on Program and Portfolio Management. I hear many stories of people who somehow found their 'ways to a project management profession'. Let me share the best ones! Set of persona-based stories that could help programmers and people in other roles to better understand if Project Managers job is good for them or not by looking how other people got there. For each case pros and cons are analysed. I was influenced by reading some of Adizes' books."
     slides: "https://speakerdeck.com/agilelatvia/why-to-become-a-project-manager-why-i-did-by-vladimir-ivanov"
-    video: 
+    video:
     speakers:
       speaker01:
         name: "Vladimirs Ivanovs"
         bio: "Putting Projects back in order, making organisations more Lean and Agile."
         photo: "/img/speakers/vladimir-ivanov.png"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "http://twitter.com/vivanovs"
         linkedin: "https://www.linkedin.com/in/vivanov"
         google-plus:
@@ -1027,8 +1065,8 @@ processes in your organization? I'm going to share some useful techniques, which
         name: "Ivo Peksens"
         bio: "Agile practitioner, facilitator and coach."
         photo: "/img/speakers/ivo-peksens.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "http://twitter.com/ivopeksens"
         linkedin: "https://www.linkedin.com/in/ivopeksens"
         google-plus:
@@ -1039,16 +1077,16 @@ processes in your organization? I'm going to share some useful techniques, which
     title: "Agile and a Cookbook"
     about: "Let's look briefly at ideas behind agile. As well, at a bit of history when these ideas appeared and how they evolved. It allows us to see what do we do ourselves in a different perspective. Agile approach has a lot in common with far more mature scientific development. Let's look at what scientists do? Observe a process, get an idea and check it. What is next? Observe, renew the idea and check it again. What is next? Observe, renew the idea and check it again. What is next? Observe and try do figure out something essential of the process. Usually it is called a hypothesis and an experiment and the development tends to be their sequence."
     slides: "http://www.slideshare.net/soulne4ny/agile-and-a-cookbook"
-    video: 
+    video:
     speakers:
       speaker01:
         name: "Alexey Luchko"
         bio: "SW developer. A wondering pythonic geek working in server side development mostly. Focused on proofs, simple solutions and technologies. 'When you are in doubt making a choise try to explain it to me and we will see what it is.'"
         photo: "/img/speakers/alexey-luchko.jpg"
-        blog: 
-        facebook: 
-        twitter: 
-        linkedin: "https://www.linkedin.com/pub/alexey-luchko/5/342/282" 
+        blog:
+        facebook:
+        twitter:
+        linkedin: "https://www.linkedin.com/pub/alexey-luchko/5/342/282"
         google-plus:
   session07:
     day: 1
@@ -1063,8 +1101,8 @@ processes in your organization? I'm going to share some useful techniques, which
         name: "Katarzyna Mrowca"
         bio: "Product Specialist / Consultant / Digital / Big Data / CRM / Conference Speaker"
         photo: "/img/speakers/katarzyna-mrowca.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "http://twitter.com/mrowcakasia"
         linkedin: "https://www.linkedin.com/in/mrowcakasia"
         google-plus:
@@ -1082,8 +1120,8 @@ processes in your organization? I'm going to share some useful techniques, which
         bio: "Experienced Software Engineer"
         photo: "/img/speakers/boyan-mihaylov.jpg"
         blog: "https://github.com/boyanin"
-        facebook: 
-        twitter: 
+        facebook:
+        twitter:
         linkedin: "https://www.linkedin.com/in/bmihaylov"
         google-plus:
   session09:
@@ -1093,14 +1131,14 @@ processes in your organization? I'm going to share some useful techniques, which
     title: "Agile in context of Latvian Public Procurement Law"
     about: "Public Procurement Law sets several constraints for tendering process and delivery of information technology projects. Additional controls may be required depending on project funding i.e. European Regional Development Fund or other. The discussion is aimed for managers, consultants and lawyers being in charge for software development process from both sides - state agencies and software development companies. We assume that participants are familiar with general Agile principles, 'Agile Contracts Primer' http://www.agilecontracts.org/ and requirements of Public Procurement Law however it is not strict requirement and everybody is welcome."
     slides: "https://www.dropbox.com/s/6os01i5nsg641s5/Agile%20in%20context%20of%20Latvian%20Public%20Procurement%20Law.pdf?dl=0"
-    video: 
+    video:
     speakers:
       speaker01:
         name: "Mārtiņš Šitcs"
         bio: "CISA, CSM, ISTQB, ISO27001 and ISO9001 Lead Auditor. Mārtiņš Šitcs has more than 20 years of experience working on different scale IT projects, auditing, testing and managing information systems development and operations. Worked with leading Latvian companies including SWH Riga, Hansabanka and AA Projekts. Founder of 'Red Fox Consulting'. The mission is to promote knowledge, leading approaches and continual improvement in software development and IT management."
         photo: "/img/speakers/martins-sitcs.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "http://twitter.com/martinssitcs"
         linkedin: "https://lv.linkedin.com/pub/martins-sitcs/0/aa6/571/en"
         google-plus:
@@ -1108,10 +1146,10 @@ processes in your organization? I'm going to share some useful techniques, which
         name: "Ainars Biders"
         bio: "Lawyer, Board member of 'IT Sistēmas'. Working with IT companies and projects since 1995. Experience in public procurement tenders since 2003. Participation in development of requirements for government Electronic procurement portal (www.eis.gov.lv). Author of LIKTA (Latvian Information and Communications Technology Association) guidelines for IT procurements. Founder of www.vajagjuristu.lv project."
         photo: "/img/speakers/ainars-biders.png"
-        blog: 
-        facebook: 
-        twitter: 
-        linkedin: 
+        blog:
+        facebook:
+        twitter:
+        linkedin:
         google-plus:
   session10:
     day: 1
@@ -1126,8 +1164,8 @@ processes in your organization? I'm going to share some useful techniques, which
         name: "Angel Diaz-Maroto"
         bio: "Agile Coach at Agilar (Certified Enterprise Coach, CEC)"
         photo: "/img/speakers/angel-diaz-maroto.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "http://twitter.com/adiazmaroto"
         linkedin: "https://www.linkedin.com/in/adiazmaroto"
         google-plus:
@@ -1145,15 +1183,15 @@ processes in your organization? I'm going to share some useful techniques, which
         bio: "Agile, Lean, Mob Programming."
         photo: "/img/speakers/woody-zuill.jpg"
         blog: "http://mobprogramming.org/"
-        facebook: 
+        facebook:
         twitter: "http://twitter.com/woodyzuill"
-        linkedin: 
+        linkedin:
         google-plus:
 2014:
   session01:
     day: 1
     time: "10:15 - 11:00"
-    place: 
+    place:
     title: "Performance Reviews Are Incompatible with the Agile MindSet"
     about: "Have you had blood pressure and heart beat increase with the proximity of the annual performance review rituals? Do you get the chills just before your 'performance improvement plan' meeting with your boss? Have you had a poor review because you were not able to perform how you boss wanted, but in reality you could not have done anything different? Performance Reviews are based in completely wrong assumptions. Companies still think that Performance Reviews are great tools to provide feedback, to set goals and to improve the individuals. All this is pure nonsense and in reality Performance Reviews are a cancer for our companies and they need to be removed. Come to see my talk and you will understand how Performance Reviews are completely incompatible with Agile Mindset and I will explain what can be done using examples of companies from all over the world that successfully tackled this problem."
     slides: "https://speakerdeck.com/agilelatvia/performance-reviews-are-incompatible-with-the-agile-mindset-by-luis-goncalves"
@@ -1171,7 +1209,7 @@ processes in your organization? I'm going to share some useful techniques, which
   session02:
     day: 1
     time: "11:15 - 12:15"
-    place: 
+    place:
     title: "Organizational Design and Scrum"
     about: "It's very easy to become hierarchical and turn into a 'bank' when software company is growing fast. Is there a way to avoid that? How to keep the focus on value creation? What about Value departments, not Functional departments? Want to share ideas what we can learn from Scrum and apply in organisational design. Will share hypothesis how company could look like when everybody is focused on value creation."
     slides: "https://speakerdeck.com/agilelatvia/organizational-design-and-scrum-by-andrej-ruckij"
@@ -1182,14 +1220,14 @@ processes in your organization? I'm going to share some useful techniques, which
         bio: "Development manager."
         photo: "/img/speakers/andrej-ruckij.jpeg"
         blog: "www.agilemindstorm.com"
-        facebook: 
+        facebook:
         twitter: "https://twitter.com/ruckiand"
-        linkedin: 
+        linkedin:
         google-plus:
   session03:
     day: 1
     time: "12:15 - 12:45"
-    place: 
+    place:
     title: "Agile in Big Projects Using Jira"
     about: "Jira is leader in collaborative software and long time supported Scrum/Kanban workflows. However, with its rich tools it is a challenge to understand how to organize your work across the boards to manage: back log in a way that it does not mess with issues ready for development/in progress; scrum board; overall project flow. How to structure issues efficiently to manage 200, 300 or 500 issues at the same time and overview entire project with few clicks."
     slides: "https://speakerdeck.com/agilelatvia/big-jira-agile-by-antons-sapriko"
@@ -1200,14 +1238,14 @@ processes in your organization? I'm going to share some useful techniques, which
         bio: "Advanced eCommerce Solutions on Magento Platform. Experience: implementation and maintenance of 200+ projects on Magento platform including Lego Wear, Pandora, Netherlands Postal Service, Thomson Reuters, JYSK Home, Olympia Le-Tan Handbags, Danish Ministry of Education. Competences: mobile commerce, multi-channel integration, ERP integration, super-sized catalogs, high-load projects, B2B projects, 24/7 support. Established in 2003, now we are 52 people, who serve clients from New York, London and headquarters in Latvia that is home for 23 (and counting!) Certified Magento Developers. www.scandiweb.com"
         photo: "/img/speakers/antons-sapriko.jpg"
         blog: "http://blog.scandiweb.com/"
-        facebook: 
+        facebook:
         twitter: "https://twitter.com/scandiweb"
         linkedin: "https://www.linkedin.com/in/asapriko/"
         google-plus:
   session04:
     day: 1
     time: "12:45 - 13:15"
-    place: 
+    place:
     title: "Agile vs. Chaotic Projects — Similarities and Differentiations"
     about: "Field experiences and many observations for the Agile adaptations in various programming set-ups. Some of them has been catastrophic, others very successful. What makes not standard waterfall models to fail or ether to be successful? Is it determined by the size, by customer or by developer teams? How agile can be used to avoid chaos and cost overrun at any parties side?"
     slides: "https://speakerdeck.com/agilelatvia/agile-vs-chaotic-projects-similarities-and-differentiations-by-aigars-staks"
@@ -1217,15 +1255,15 @@ processes in your organization? I'm going to share some useful techniques, which
         name: "Aigars Staks"
         bio: "Project Manager. Specialized on delivery of large scale, business critical projects. Recovery of troubled ICT projects. Veteran of using Agile and Lean techniques to change the limits on what's possible and what should be expected. Solid background of process management. Strategic thinking with emphasis on getting things done as defined by the Customer. Specialties: Agile project management; Project mid-term evaluations; Recovery of projects; Legal dispute support; Quality assurance; Lean Six Sigma."
         photo: "/img/speakers/aigars-staks.jpg"
-        blog: 
-        facebook: 
-        twitter: 
+        blog:
+        facebook:
+        twitter:
         linkedin: "https://www.linkedin.com/in/aigarsstaks/"
         google-plus:
   session05:
     day: 1
     time: "14:00 - 14:30"
-    place: 
+    place:
     title: "Expanding an Agile Culture in Organisations with Design Thinking"
     about: "Design Thinking refers to the methods and processes to investigate complex problems in highly uncertain systems, acquiring information, analysing knowledge, and positing solutions. This workshop is about the usage of this process to better understand organisation's culture and minimise resistance to change in the creation of an Agile culture. The strategy is to combine empathy for the context, creativity in the generation of insights and solutions, and rationality to analyse and fit solutions to the context. This solutions are aimed to create reasons for people in the organisation to embrace Agile. This iterative process of observation, ideation and implementation can be integrated within your retrospectives and also applied outside IT to create a continuous improvement engine for organisational culture in organisations. This workshop is about how to use a design thinking process an techniques to better understand organisation's culture and minimize resistance to change in the creation of an Agile culture. The strategy is to combine empathy for the context, creativity in the generation of insights and solutions, and rationality to analyze and fit solutions to the context. This solutions are aimed to create reasons for people in the organisation to embrace Agile. You'll also learn some useful design thinking techniques that you can use in your retrospectives!!"
     slides: "https://www.slideshare.net/angeldiazmaroto/expanding-an-agile-culture-in-organisations-with-design-thinking-agile-day-riga"
@@ -1235,15 +1273,15 @@ processes in your organization? I'm going to share some useful techniques, which
         name: "Angel Diaz-Maroto"
         bio: "Agile Coach at Agilar (Certified Enterprise Coach, CEC). Angel is a very energetic Agile coach that truly enjoy challenges. His specialty and passion is putting in place Lean and Agile concepts and practices in very complex environments. As a matter of fact, he successfully led one of the biggest Agile transformations in europe, including IT and business departments of a 1000+ employees bank, from the trenches starting from scratch. In his 15+ years of experience in IT he has worked in various roles: Agile Coach, R&D manager, software developer, software architect, scrum master and trainer. He is also a frequent speaker in international Agile events such as ALE, LESS, CAS, IAD and Agile Coach camps."
         photo: "/img/speakers/angel-diaz-maroto.jpg"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "http://twitter.com/adiazmaroto"
         linkedin: "https://www.linkedin.com/in/adiazmaroto"
         google-plus:
   session06:
     day: 1
     time: "14:30 - 15:00"
-    place: 
+    place:
     title: "How to Achieve Efficiency and Happiness Combining Methodologies"
     about: "Management By Objectives, Getting Things Done, Agile Results, Strengths Based Development, Positive Psychology etc. A lot of methodologies and each of them provides ideas and concepts, fewer - concrete steps and criteria to measure achievements. Let's talk about how to better understand and achieve our goals, how to focus and enjoy our daily work and how make it all together to help our development as professionals and our feeling of happiness by using not one, but combining of those methodologies. What exact steps to make and what tools come handy (some demonstration and comparison also). Real cases will be shown to demonstrate exactly why and how each part can work for everyone of us. Session and topic is for you, if you:
 sometimes feel panic because of overload or just feel overloaded, miss feeling of development as professional, miss the feeling of happiness, even if looks like everything is going fine. As result of this session will be no miracle cure, but maybe some ideas to help you to get in more control of your life and happiness."
@@ -1254,15 +1292,15 @@ sometimes feel panic because of overload or just feel overloaded, miss feeling o
         name: "Andris Bariss"
         bio: "Business analyst at Idea Port Riga. Passionate about human psychology and usability based efficiency. 20 years in software development."
         photo: "/img/speakers/andris-bariss.jpg"
-        blog: 
-        facebook: 
-        twitter: 
+        blog:
+        facebook:
+        twitter:
         linkedin: "https://lv.linkedin.com/in/andrisbariss/"
         google-plus:
   session07:
     day: 1
     time: "15:15 - 16:00"
-    place: 
+    place:
     title: "Telco Case: Clash of Agile Project and Waterfall Organisation"
     about: "Let's focus on practical case analysis and avoid general statements you can hear on any agile conference. I will become a storyteller and will share a set of stories, representing lessons learned from runnung an agile project in a waterfall-based telecom culture. I will also give a clear understanding what was a project setup. What was done differently from the enterprise waterfall-based project management standard? What agile principles and specific practices were applied? What were tangible benefits to the business from the situation where one project team became 'outlaws' of the corporate culture. Moreover, I will share the challenges and lessons learned related to both phases - the transfer project and further operations and development of the Service Desk function."
     slides: "https://speakerdeck.com/agilelatvia/telco-case-clash-of-agile-project-and-waterfall-organisation-by-vladimir-ivanov"
@@ -1272,15 +1310,15 @@ sometimes feel panic because of overload or just feel overloaded, miss feeling o
         name: "Vladimir Ivanov"
         bio: "Vladimirs Ivanovs (40), have realised that I am the 'fox' and as philosopher Isaiah Berlin puts it 'the fox knows many things, but the hedgehog knows one big thing'. Since then I’ve started to form teams with the 'hedgehog focus'. agiletransofrmer.com is a perfect hedgehog, as is formed by the practitioners for the practitioners around one big thing – Agile (closely connected to Lean and Kanban). I love exploring cross-cultural differences and travel, so I do that in a form of 'workations' – public speaking on conferences + site seeing. Events are not only Agile related (also IPMA, PMI, itSMF, IT) in the following countries: Latvia, Lithuania, Estonia, Sweden, UK, Germany, Netherlands, Croatia, Czech Republic, Poland, Ukraine, Belarus, Russia, Kazakhstan, India."
         photo: "/img/speakers/vladimir-ivanov.png"
-        blog: 
-        facebook: 
+        blog:
+        facebook:
         twitter: "https://twitter.com/vivanovs"
         linkedin: "https://www.linkedin.com/in/vivanov/en"
         google-plus: "https://plus.google.com/111063784323765456395"
   session08:
     day: 1
     time: "16:15 - 17:00"
-    place: 
+    place:
     title: "Agile as a Success, Grown up Agile Without Dogma's"
     about: "Agile is not new. Agile is not a trend. Agile is established. Yet we struggle with a lot of problems doing Agile. Arie's diagnose regarding this problem is most of the time connected to what Arie calls 'Agile in the Core'. Arie has found over the last 20 years that the success of Agile is connected to the quality and discipline used applying the Agile techniques. These techniques are based in strong foundations. During his key note Arie will talk about the true the core of Agile, what it means, how you do them and how you can coach your client doing it. Learn more about Agile in the Core, application and how take your client with you in either continuous delivery or projects."
     slides: "https://speakerdeck.com/agilelatvia/agile-as-a-success-by-arie-van-bennekum"
@@ -1292,7 +1330,7 @@ sometimes feel panic because of overload or just feel overloaded, miss feeling o
 "
         photo: "/img/speakers/arie-van-bennekum.jpg"
         blog: "http://www.agileinthecore.com/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B6amfMmWySR6BkTO4zLzi5g%3D%3D"
-        facebook: 
+        facebook:
         twitter: "https://twitter.com/arievanbennekum?lang=en"
         linkedin: "https://www.linkedin.com/in/ariev3/"
         google-plus:
