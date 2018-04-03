@@ -18,11 +18,11 @@
     time: "16:00 - 17:00"
     place: "Daugava 1+2"
     title: "Have we lost the real meaning of Agile?"
-    about: "It this talk I will try to shed some light on the history of Agile. I was talking to Manifesto signatories reconstructing the talks they had about the deeper meaning of Agile and looking around 17 years later I can say that we have lost the real meaning of this word.
+    about: "In this talk I will try to shed some light on the history of Agile. I was talking to Manifesto signatories reconstructing the talks they had about the deeper meaning of Agile and looking around 17 years later, I can say that we have lost the real meaning of this word.
 
 I want to share with you my findings about the What and about the How of Agile. We will be discussing three goals of Agility and talking about the reasons why different companies are starting on this path. I will tell you about a few wrong reasons and a couple of good ones.
 
-I will also answer the question many people are asking now, is Agile dead, should we switch to building real organisations instead?"
+I will also answer the question many people are asking now: is Agile dead?, should we switch to building Real organisations instead?"
     speakers:
       speaker01:
         name: "Sergey Dmitriev"
@@ -36,6 +36,22 @@ I have diving as hobby. Interested in deep and wreck diving or a combination of 
         facebook: "https://www.facebook.com/blackie6"
         twitter: "https://twitter.com/blackie6?lang=en"
         linkedin: "https://www.linkedin.com/in/sergeydmitriev/"
+  session03:
+    day: 2
+    time: "09:30 - 10:15"
+    place: "Daugava 1+2"
+    title: "Coming soon..."
+    about: "Coming soon..."
+    speakers:
+      speaker01:
+        name: "Judy Rees"
+        bio: "Judy Rees (UK) is passionate about collaboration over distance. She supports people to develop their skills in the two of the three core collaboration competencies - paying attention and directing attention. (The third, advocating for a point of view, seems well covered elsewhere!)
+
+  At the heart of her approach is a precision inquiry methodology called Clean Language, which develops people’s paying-and-directing-attention muscles. As they build this strength, learners also gain a new understanding of why others say what they say and do what they do, and establish more positive and sustainable relationships - even in complex cross-cultural and geographically-distributed contexts.
+
+  For more than ten years, she has taught this deceptively-simple approach to senior leaders, operational managers, coaches, consultants - and whole teams - who are working to make change happen. Though she’s not the originator (that was the late David Grove), she literally wrote the book on it, making it clear and easy for people to learn, apply, and benefit from. A former journalist and media executive, she is based in London."
+        photo: "/img/speakers/judy-rees.png"
+
 2017:
   session01:
     day: 1
