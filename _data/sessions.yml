@@ -39,7 +39,7 @@ I have diving as hobby. Interested in deep and wreck diving or a combination of 
   session03:
     day: 2
     time: "09:30 - 10:15"
-    place: "Abava / Amata"
+    place: "Abava / Amata - 2nd floor"
     title: "Unlocking Enlightening Conversations"
     about: "In this highly-interactive session, participants will:
 
@@ -57,6 +57,10 @@ As a former news journalist and media executive, she’s been working with geogr
 
 She’s the co-author of the specialist bestseller Clean Language: Revealing Metaphors and Opening Minds as well as a number of ebooks and online courses, including Virtual Leadership Secrets. She is based in London."
         photo: "/img/speakers/judy-rees.png"
+        blog: "https://judyrees.co.uk/"
+        facebook: "https://www.facebook.com/JudyReesCleanLanguage/"
+        twitter: "https://twitter.com/judyrees"
+        linkedin: "https://www.linkedin.com/in/judyrees/"
 
 2017:
   session01:
