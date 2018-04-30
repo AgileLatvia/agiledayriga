@@ -62,6 +62,27 @@ She’s the co-author of the specialist bestseller Clean Language: Revealing Met
         twitter: "https://twitter.com/judyrees"
         linkedin: "https://www.linkedin.com/in/judyrees/"
 
+  session04:
+    day: 2
+    time: "16:45 - 17:30"
+    place: "Abava / Amata - 2nd floor"
+    title: "Coming soon..."
+    about: "Coming soon..."
+    speakers:
+      speaker01:
+        name: "Angel Diaz-Maroto"
+        bio: "Angel is a very energetic Agile coach who truly enjoys challenges. Putting in place Lean and Agile concepts and practices in very complex environments is his specialty and passion. As an Agile coach, trainer, and mentor, he’s supported several multinational organizations in their Agile journeys during the last 10 years.
+  Throughout his over 18 years of experience in IT Angel has worked in various roles: agile coach, R&D manager, software developer, software architect, ScrumMaster, and trainer.
+  Angel is recognized worldwide as an expert in Agile and Scrum and he holds the three highest level certifications in the field: CST (Certified Scrum Trainer), CEC (Certified Enterprise Coach) and CAL Educator (Certified Agile Leadership Educator) by the Scrum Alliance. This is a very unique set of credentials as there are only 24 CAL Educators, 94 CEC’s and 232 CST’s worldwide, as for today.
+  Angel is also a co-active coach, specialized in team coaching and systemic leadership, and Management 3.0 licensed trainer.
+  Additionally, he teaches video game production at ESNE (University of Design, Innovation and technology) and Design Thinking at LaSalle University.
+  Angel is as well a frequent speaker having participated in more than 40 international conferences and Agile events in Europe, Asia and the Americas.
+"
+        photo: "/img/speakers/angel-diaz-maroto.jpg"
+        facebook: "https://www.facebook.com/adiazmaroto/about?lst=100000200571456%3A514272136%3A1523957765"
+        twitter: "https://twitter.com/adiazmaroto"
+        linkedin: "https://www.linkedin.com/in/adiazmaroto/"
+
 2017:
   session01:
     day: 1
