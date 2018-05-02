@@ -37,53 +37,6 @@ I have diving as hobby. Interested in deep and wreck diving or a combination of 
         twitter: "https://twitter.com/blackie6?lang=en"
         linkedin: "https://www.linkedin.com/in/sergeydmitriev/"
   session03:
-    day: 2
-    time: "09:30 - 10:15"
-    place: "Abava / Amata - 2nd floor"
-    title: "Unlocking Enlightening Conversations"
-    about: "In this highly-interactive session, participants will:
-
-Learn about &quot;the nearest thing FBI negotiators have to a Jedi mind trick&quot; for building trust quickly and easily
-Find out how to use this approach to develop psychological safety in working relationships, especially those which cross organisational and cultural boundaries
-Hear how it has been used to reduce conflict and misunderstandings while maintaining the creative tension that’s essential to innovation
-Experiment with the technique in a series of lightning - and enlightening - conversations
-Plan to apply all of this straight away, so that they get even better value from the rest of the conference."
-    speakers:
-      speaker01:
-        name: "Judy Rees"
-        bio: "Judy Rees (UK) works with senior leaders, operational managers, teams, coaches, and all kinds of &quot;change professionals&quot; to develop advanced communication skills. Her specialism is supporting highly intelligent and highly diverse teams to connect effectively, even when members rarely (or never) meet in person.
-
-As a former news journalist and media executive, she’s been working with geographically distributed teams since long before it became mainstream. Her approaches have been designed to be effective both in person and remotely, and many of her training workshops happen via video conference calls.
-
-She’s the co-author of the specialist bestseller Clean Language: Revealing Metaphors and Opening Minds as well as a number of ebooks and online courses, including Virtual Leadership Secrets. She is based in London."
-        photo: "/img/speakers/judy-rees.png"
-        blog: "https://judyrees.co.uk/"
-        facebook: "https://www.facebook.com/JudyReesCleanLanguage/"
-        twitter: "https://twitter.com/judyrees"
-        linkedin: "https://www.linkedin.com/in/judyrees/"
-
-  session04:
-    day: 2
-    time: "16:45 - 17:30"
-    place: "Abava / Amata - 2nd floor"
-    title: "Coming soon..."
-    about: "Coming soon..."
-    speakers:
-      speaker01:
-        name: "Angel Diaz-Maroto"
-        bio: "Angel is a very energetic Agile coach who truly enjoys challenges. Putting in place Lean and Agile concepts and practices in very complex environments is his specialty and passion. As an Agile coach, trainer, and mentor, he’s supported several multinational organizations in their Agile journeys during the last 10 years.
-  Throughout his over 18 years of experience in IT Angel has worked in various roles: agile coach, R&D manager, software developer, software architect, ScrumMaster, and trainer.
-  Angel is recognized worldwide as an expert in Agile and Scrum and he holds the three highest level certifications in the field: CST (Certified Scrum Trainer), CEC (Certified Enterprise Coach) and CAL Educator (Certified Agile Leadership Educator) by the Scrum Alliance. This is a very unique set of credentials as there are only 24 CAL Educators, 94 CEC’s and 232 CST’s worldwide, as for today.
-  Angel is also a co-active coach, specialized in team coaching and systemic leadership, and Management 3.0 licensed trainer.
-  Additionally, he teaches video game production at ESNE (University of Design, Innovation and technology) and Design Thinking at LaSalle University.
-  Angel is as well a frequent speaker having participated in more than 40 international conferences and Agile events in Europe, Asia and the Americas.
-"
-        photo: "/img/speakers/angel-diaz-maroto2018.png"
-        facebook: "https://www.facebook.com/adiazmaroto/about?lst=100000200571456%3A514272136%3A1523957765"
-        twitter: "https://twitter.com/adiazmaroto"
-        linkedin: "https://www.linkedin.com/in/adiazmaroto/"
-
-  session05:
     day: 1
     time: "11:15 - 12:00"
     place: "Daugava 1"
@@ -93,22 +46,22 @@ She’s the co-author of the specialist bestseller Clean Language: Revealing Met
       speaker01:
         name: "Anna Obukhova"
         bio: "Anna Obukhova is an Agile Coach working with Agile methodologies since 2004 as a Scrum Master, Agile Coach, Project/Programme Manager and recently as Agile Portfolio Delivery Manager for a large investment bank in London. Anna is mainly interested in distributed and dispersed projects and effectiveness of team communication in such conditions. Her passion is to collect and share best industry and company practices in Agile management. She helps Agile teams and programmes to improve their processes and implement the transition from Waterfall to Agile in corporate environments (her clients are major banks and very large companies from other industries).
-Additionally Anna Obukhova is using neuroscience and biology to explain Agile productivity and enhance Agile coaching techniques. This perspective of Neuroscience and Agile was agreed to be novel and worth sharing by many conferences, to name a few: ALE Bucharest, Agile Days Moscow, Global Scrum Gathering Paris, Agile Cambridge, Agile Tour London, Agile on the Beach (UK), Agile 2017 (Orlando, USA), Agile Business Confernce (Moscow), Global Scrum Gathering Dublin, Manage Agile (Berlin).
-She uses her educations in Biology, Psychology and Coaching to connect working tips and recommendations with the natural processes that happen in our bodies (especially in the brain). She believes it can explain a lot and she`s very excited how naturally Agile works."
+  Additionally Anna Obukhova is using neuroscience and biology to explain Agile productivity and enhance Agile coaching techniques. This perspective of Neuroscience and Agile was agreed to be novel and worth sharing by many conferences, to name a few: ALE Bucharest, Agile Days Moscow, Global Scrum Gathering Paris, Agile Cambridge, Agile Tour London, Agile on the Beach (UK), Agile 2017 (Orlando, USA), Agile Business Confernce (Moscow), Global Scrum Gathering Dublin, Manage Agile (Berlin).
+  She uses her educations in Biology, Psychology and Coaching to connect working tips and recommendations with the natural processes that happen in our bodies (especially in the brain). She believes it can explain a lot and she`s very excited how naturally Agile works."
         photo: "/img/speakers/anna-obukhova.jpg"
         blog: "https://www.infoq.com/presentations/agile-tired-team"
         facebook: "https://www.facebook.com/anna.obukhova.1"
         linkedin: "https://www.linkedin.com/in/anna-obukhova-0b04381/"
-  session06:
+  session04:
     day: 1
     time: "11:15 - 12:00"
     place: "Daugava 2"
     title: "Granular Scrum"
     about: "How to design electronic Scum board and why many boards suck.
-How to turn your Daily Scrum from tedious status meeting into energising activity, which fuels the rest of the day.
-How to create engagement during retrospectives.
-How detect and track team's impediments.
-Scrum is simple, as you must already know, but each aspect of Scrum application could be dissected into small but essential pieces, without understanding of which you can't progress in your Scrum journey. This talk is going to discuss small pieces of daily practices, which put together create successful Scrum adoption."
+  How to turn your Daily Scrum from tedious status meeting into energising activity, which fuels the rest of the day.
+  How to create engagement during retrospectives.
+  How detect and track team's impediments.
+  Scrum is simple, as you must already know, but each aspect of Scrum application could be dissected into small but essential pieces, without understanding of which you can't progress in your Scrum journey. This talk is going to discuss small pieces of daily practices, which put together create successful Scrum adoption."
     speakers:
       speaker01:
         name: "Dmitry Lebedev"
@@ -116,15 +69,15 @@ Scrum is simple, as you must already know, but each aspect of Scrum application 
         photo: "/img/speakers/dmitry-lebedev.png"
         facebook: "https://www.facebook.com/uwabami"
         linkedin: "https://www.linkedin.com/in/dmitrylebedev/"
-  session07:
+  session05:
     day: 1
     time: "12:00 - 12:45"
     place: "Daugava 1"
     title: "What I learned about X on a 400km hike on the Santiago de Camino"
     about: "Every journey begins with a single step. Walking the Camino de Santiago for two weeks took me 586444. In this very personal talk I will share what I've learned about the practices of Kanban after applying them to learn about myself and make changes along the way.
 
-Learning Outcomes:
-Learn about Kanban's core practices in a gripping story about suffering and achievement. Get ideas about how you can apply these practices to your personal endeavors, too."
+  Learning Outcomes:
+  Learn about Kanban's core practices in a gripping story about suffering and achievement. Get ideas about how you can apply these practices to your personal endeavors, too."
     speakers:
       speaker01:
         name: "Markus Wissekal"
@@ -133,14 +86,14 @@ Learn about Kanban's core practices in a gripping story about suffering and achi
         facebook: "https://www.facebook.com/maxxmaster"
         twitter: "https://twitter.com/themaxxmaster"
         linkedin: "https://www.linkedin.com/in/mwissekal/"
-  session08:
+  session06:
     day: 1
     time: "12:00 - 12:45"
     place: "Daugava 2"
     title: "3 reasons why your company is deadly far from agility"
     about: "For the last 14 years I was observing enterprises from small to big striving to improve their business processes and improve results of the business. Once, consulting a 3-months old company of my friend, I got it clear. Although those problems of big and small enterprises are very different, the roots of that problems are quite the same. The same patterns keeps from org to org, and these patterns constitute the most hard impediments on the way to agility.
 
-In my speech I’m going to share the insights on the nature of this patterns, show how they work, and give ideas on what could be done to move away from the dead point."
+  In my speech I’m going to share the insights on the nature of this patterns, show how they work, and give ideas on what could be done to move away from the dead point."
     speakers:
       speaker01:
         name: "Andrey Tolmachev"
@@ -148,16 +101,14 @@ In my speech I’m going to share the insights on the nature of this patterns, s
         photo: "/img/speakers/andrey-tolmachev.jpg"
         blog: "https://www.unusual-concepts.ru/team/coach/andrey-tolmachev/"
         facebook: "https://www.facebook.com/andrey.tolmachev.me"
-  session09:
+  session07:
     day: 1
     time: "12:00 - 12:45"
     place: "Casino"
     title: "Top-7 Scrum Anti-Patterns and 5 Ways to Fix them"
     about: "Scrum is the most spread Agile-framework on the planet yet many times companies do not unlock its full potential and in the worst cases suffer and fail miserably. If your Scrum adoption does not work, if you’re stuck and can’t find a way out, if you feel that something is wrong with your Scrum, then this talk is for you!
 
-Mark will share the collective experience of his clients from the past 7 years and boil down the Top-7 Scrum Anti-Patterns he has been seeing in the wide range of companies - from small startups to huge international banks, telecom and insurance companies. Mark will also present 5 Ways to address this Anti-Patterns which will help prevent your Scrum adoption from failing.
-
-"
+  Mark will share the collective experience of his clients from the past 7 years and boil down the Top-7 Scrum Anti-Patterns he has been seeing in the wide range of companies - from small startups to huge international banks, telecom and insurance companies. Mark will also present 5 Ways to address this Anti-Patterns which will help prevent your Scrum adoption from failing."
     speakers:
       speaker01:
         name: "Mark Kachanov"
@@ -196,7 +147,7 @@ Mark will share the collective experience of his clients from the past 7 years a
         #facebook: ""
         #twitter: ""
         #linkedin: ""
-  session12:
+  session8:
     day: 1
     time: "13:45 - 14:30"
     place: "Casino"
@@ -206,20 +157,20 @@ Mark will share the collective experience of his clients from the past 7 years a
       speaker01:
         name: "Dmitriy Emelyanov"
         bio: "Dmitriy Emelyanov (Moscow, Russia) is the only one Russian Advanced Certified Scrum Master. More than 5 years in IT, hardware project management and software product development. Scrum practitioner, Agile coach at tutu.ru and facilitator from regular Scrum events to meetings at top management level.
-He is helping organisations to transform and be agile, creates awesome teams and helps Scrum Masters to perfect their skills with teaching, coaching and mentoring."
+  He is helping organisations to transform and be agile, creates awesome teams and helps Scrum Masters to perfect their skills with teaching, coaching and mentoring."
         photo: "/img/speakers/dmytri-emelyanov.jpg"
         facebook: "https://www.facebook.com/dima.emv"
         linkedin: "https://www.linkedin.com/in/dmitry-emelyanov-667456b0/"
-  session13:
+  session9:
     day: 1
     time: "14:30 - 15:15"
     place: "Daugava 1"
     title: "How to lead a DevOps team of 125 at a Fortune100 company"
     about: "Rules how to do business in 400k people company are very different from what people are used to in small and mid-size companies. It's similar to running your own company but few things are very different. I'll tell more about environment I live in, what targets we have as team and why we are being so successful.
 
-Last year at world class conference &quot;All Day DevOps&quot; I told about my journey how we grew from 0 to 100. Guess what - it didn't solve all our issues. This year I'm happy to continue my story with new things we implemented to build foundation for further growth.
+  Last year at world class conference &quot;All Day DevOps&quot; I told about my journey how we grew from 0 to 100. Guess what - it didn't solve all our issues. This year I'm happy to continue my story with new things we implemented to build foundation for further growth.
 
-This can be treated as &quot;management talk&quot; but DevOps is never just about tools. This talk covers cultural and business side which are very important to be the best in DevOps and IT world in general."
+  This can be treated as &quot;management talk&quot; but DevOps is never just about tools. This talk covers cultural and business side which are very important to be the best in DevOps and IT world in general."
     speakers:
       speaker01:
         name: "Uldis Karlov-Karlovskis"
@@ -228,6 +179,50 @@ This can be treated as &quot;management talk&quot; but DevOps is never just abou
         facebook: "https://www.facebook.com/search/top/?q=uldis%20karlovs-karlovskis"
         twitter: "https://twitter.com/UldisKK"
         linkedin: "https://www.linkedin.com/in/uldiskarlovskarlovskis/"
+  session10:
+    day: 2
+    time: "09:30 - 10:15"
+    place: "Abava / Amata - 2nd floor"
+    title: "Unlocking Enlightening Conversations"
+    about: "In this highly-interactive session, participants will:
+
+  Learn about &quot;the nearest thing FBI negotiators have to a Jedi mind trick&quot; for building trust quickly and easily
+  Find out how to use this approach to develop psychological safety in working relationships, especially those which cross organisational and cultural boundaries
+  Hear how it has been used to reduce conflict and misunderstandings while maintaining the creative tension that’s essential to innovation
+  Experiment with the technique in a series of lightning - and enlightening - conversations
+  Plan to apply all of this straight away, so that they get even better value from the rest of the conference."
+    speakers:
+      speaker01:
+        name: "Judy Rees"
+        bio: "Judy Rees (UK) works with senior leaders, operational managers, teams, coaches, and all kinds of &quot;change professionals&quot; to develop advanced communication skills. Her specialism is supporting highly intelligent and highly diverse teams to connect effectively, even when members rarely (or never) meet in person.
+
+  As a former news journalist and media executive, she’s been working with geographically distributed teams since long before it became mainstream. Her approaches have been designed to be effective both in person and remotely, and many of her training workshops happen via video conference calls.
+
+  She’s the co-author of the specialist bestseller Clean Language: Revealing Metaphors and Opening Minds as well as a number of ebooks and online courses, including Virtual Leadership Secrets. She is based in London."
+        photo: "/img/speakers/judy-rees.png"
+        blog: "https://judyrees.co.uk/"
+        facebook: "https://www.facebook.com/JudyReesCleanLanguage/"
+        twitter: "https://twitter.com/judyrees"
+        linkedin: "https://www.linkedin.com/in/judyrees/"
+  session11:
+    day: 2
+    time: "16:45 - 17:30"
+    place: "Abava / Amata - 2nd floor"
+    title: "Coming soon..."
+    about: "Coming soon..."
+    speakers:
+      speaker01:
+        name: "Angel Diaz-Maroto"
+        bio: "Angel is a very energetic Agile coach who truly enjoys challenges. Putting in place Lean and Agile concepts and practices in very complex environments is his specialty and passion. As an Agile coach, trainer, and mentor, he’s supported several multinational organizations in their Agile journeys during the last 10 years.
+    Throughout his over 18 years of experience in IT Angel has worked in various roles: agile coach, R&D manager, software developer, software architect, ScrumMaster, and trainer.
+    Angel is recognized worldwide as an expert in Agile and Scrum and he holds the three highest level certifications in the field: CST (Certified Scrum Trainer), CEC (Certified Enterprise Coach) and CAL Educator (Certified Agile Leadership Educator) by the Scrum Alliance. This is a very unique set of credentials as there are only 24 CAL Educators, 94 CEC’s and 232 CST’s worldwide, as for today.
+    Angel is also a co-active coach, specialized in team coaching and systemic leadership, and Management 3.0 licensed trainer.
+    Additionally, he teaches video game production at ESNE (University of Design, Innovation and technology) and Design Thinking at LaSalle University.
+    Angel is as well a frequent speaker having participated in more than 40 international conferences and Agile events in Europe, Asia and the Americas."
+        photo: "/img/speakers/angel-diaz-maroto2018.png"
+        facebook: "https://www.facebook.com/adiazmaroto/about?lst=100000200571456%3A514272136%3A1523957765"
+        twitter: "https://twitter.com/adiazmaroto"
+        linkedin: "https://www.linkedin.com/in/adiazmaroto/"
 2017:
   session01:
     day: 1
