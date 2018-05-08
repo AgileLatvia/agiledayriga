@@ -1,3 +1,13 @@
+2018:
+  show-subtitles: "true"
+  gold:
+    title: "Gold Sponsors"
+    show-captions: "true"
+    sponsor01:
+      title: "4finance"
+      image: "/img/sponsors/4finance.png"
+      url: "http://www.4finance.com/"
+      promo: "Europe’s largest online and mobile consumer lending group. We get money to people when they need it – quickly, conveniently and responsibly. We use cutting edge technology and data to offer convenient loans to customers across 17 countries. Since we were established in 2008, we have provided more than 11,500,000 Single Payment, Line of Credit and Instalment Loans totalling over EUR 4.0 billion. 4finance is a responsible lender. We do not believe in burdening people, in hard selling, or in hidden charges and penalties. We are upfront and transparent about the loans we offer. We are a consumer finance group for today’s fast-moving world, a proven alternative to conventional bank lending. And we are growing fast."
 2017:
   show-subtitles: "true"
   platinum:
@@ -25,7 +35,7 @@
     show-captions: "true"
     sponsor01:
       title: "Scrum Alliance"
-      image: "/img/sponsors/scrum-alliance.png" 
+      image: "/img/sponsors/scrum-alliance.png"
       url: "http://www.scrumalliance.org/"
       promo: "Become part of something bigger than you alone. Founded in 2001, Scrum Alliance® is the largest, most established and influential professional membership and certification organization in the Agile community. Scrum Alliance® is a nonprofit association, having certified more than 450,000 individuals worldwide. Its vision is to 'Transform the World of Work' with a mission to guide and inspire individuals, leaders, and organizations with practices, principles, and values that create workplaces that are joyful, prosperous, and sustainable. Come sprint with us at <a href='http://www.scrumalliance.org'>www.ScrumAlliance.org</a>."
     sponsor02:
@@ -73,9 +83,9 @@
       promo: "Our mission is to make operators successful and provide an excellent user experience for their end-users by offering a flawless and localised Live Casino into regulated markets, on all digital platforms for online and land-based operators and their customers. Our vision is to maintain and strengthen our position as the world’s number one Live Casino provider as gaming markets continue to evolve globally."
   # gold:
   #   sponsor01:
-  #     title: 
+  #     title:
   #     image:
-  #     url: 
+  #     url:
   silver:
     sponsor01:
       title: "Eptron"

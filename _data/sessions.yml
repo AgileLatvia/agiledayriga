@@ -3,7 +3,7 @@
     day: 1
     time: "10:00 - 11:00"
     place: "Daugava 1+2"
-    title: "Agility in the face of Perplexity"
+    title: "Agility in the Face of Perplexity"
     about: "Scrum was officially presented in 1995. In 2001, 17 software development leaders published the &quot;Manifesto for Agile Software Development&quot;. Agile gradually started replacing the industrial way of thinking, with Scrum being the most adopted technique to achieve a higher state of agility. Today, 2018, the Agile paradigm is more needed than ever, to avoid complexity turning into perplexity. Gunther aspires disentangling the clew that ’Scrum’ and ‘Agile’ turned into and show the value and their originality. Gunther has considered what Agile means to him, what it is that makes Agile work, what it is that makes Scrum work, and will share his views on the future state of Scrum and Agile."
     speakers:
       speaker01:
@@ -13,29 +13,6 @@
         blog: "https://guntherverheyen.com/about/"
         twitter: "https://twitter.com/Ullizee"
         linkedin: "https://www.linkedin.com/in/ullizee/"
-  session02:
-    day: 1
-    time: "16:00 - 17:00"
-    place: "Daugava 1+2"
-    title: "Have we lost the real meaning of Agile?"
-    about: "In this talk I will try to shed some light on the history of Agile. I was talking to Manifesto signatories reconstructing the talks they had about the deeper meaning of Agile and looking around 17 years later, I can say that we have lost the real meaning of this word.
-
-I want to share with you my findings about the What and about the How of Agile. We will be discussing three goals of Agility and talking about the reasons why different companies are starting on this path. I will tell you about a few wrong reasons and a couple of good ones.
-
-I will also answer the question many people are asking now: is Agile dead?, should we switch to building Real organisations instead?"
-    speakers:
-      speaker01:
-        name: "Sergey Dmitriev"
-        bio: "Sergey Dmitriev (Russia) is an agile and scrum evangelist focused on improvement of business processes, modern approaches to management and strategy consulting. I can help your organization transform to agile or to improve your existing agile practices. I do executive and team coaching and workshop facilitation.
-
-My mission is to convince the World that traditional approach to managing knowledge workers is broken.
-
-I have diving as hobby. Interested in deep and wreck diving or a combination of both :) I am a father of 4 and a happy man."
-        photo: "/img/speakers/sergey-dmitriev.jpg"
-        blog: "https://www.unusual-concepts.ru/"
-        facebook: "https://www.facebook.com/blackie6"
-        twitter: "https://twitter.com/blackie6?lang=en"
-        linkedin: "https://www.linkedin.com/in/sergeydmitriev/"
   session03:
     day: 1
     time: "11:15 - 12:00"
@@ -45,9 +22,9 @@ I have diving as hobby. Interested in deep and wreck diving or a combination of 
     speakers:
       speaker01:
         name: "Anna Obukhova"
-        bio: "Anna Obukhova is an Agile Coach working with Agile methodologies since 2004 as a Scrum Master, Agile Coach, Project/Programme Manager and recently as Agile Portfolio Delivery Manager for a large investment bank in London. Anna is mainly interested in distributed and dispersed projects and effectiveness of team communication in such conditions. Her passion is to collect and share best industry and company practices in Agile management. She helps Agile teams and programmes to improve their processes and implement the transition from Waterfall to Agile in corporate environments (her clients are major banks and very large companies from other industries).
-  Additionally Anna Obukhova is using neuroscience and biology to explain Agile productivity and enhance Agile coaching techniques. This perspective of Neuroscience and Agile was agreed to be novel and worth sharing by many conferences, to name a few: ALE Bucharest, Agile Days Moscow, Global Scrum Gathering Paris, Agile Cambridge, Agile Tour London, Agile on the Beach (UK), Agile 2017 (Orlando, USA), Agile Business Confernce (Moscow), Global Scrum Gathering Dublin, Manage Agile (Berlin).
-  She uses her educations in Biology, Psychology and Coaching to connect working tips and recommendations with the natural processes that happen in our bodies (especially in the brain). She believes it can explain a lot and she`s very excited how naturally Agile works."
+        bio: "Anna Obukhova is an Agile Coach working with Agile methodologies since 2004 as a Scrum Master, Agile Coach, Project/Programme Manager and recently as Agile Portfolio Delivery Manager for a large investment bank in London. Anna is mainly interested in distributed and dispersed projects and effectiveness of team communication in such conditions. Her passion is to collect and share best industry and company practices in Agile management.
+  Additionally Anna Obukhova is using neuroscience and biology to explain Agile productivity and enhance Agile coaching techniques. This perspective of Neuroscience and Agile was agreed to be novel and worth sharing by many conferences, to name a few: ALE Bucharest, Agile Days Moscow, Global Scrum Gathering Paris, Agile Cambridge, Agile Tour London, Agile on the Beach (UK), Agile 2017 (Orlando, USA)...
+  She uses her educations in Biology, Psychology and Coaching to connect working tips and recommendations with the natural processes that happen in our bodies (especially in the brain). "
         photo: "/img/speakers/anna-obukhova.jpg"
         blog: "https://www.infoq.com/presentations/agile-tired-team"
         facebook: "https://www.facebook.com/anna.obukhova.1"
@@ -57,7 +34,7 @@ I have diving as hobby. Interested in deep and wreck diving or a combination of 
     time: "11:15 - 12:00"
     place: "Daugava 2"
     title: "Granular Scrum"
-    about: "How to design electronic Scum board and why many boards suck.
+    about: "How to design electronic Scrum board and why many boards suck.
   How to turn your Daily Scrum from tedious status meeting into energising activity, which fuels the rest of the day.
   How to create engagement during retrospectives.
   How detect and track team's impediments.
@@ -180,6 +157,29 @@ I have diving as hobby. Interested in deep and wreck diving or a combination of 
         twitter: "https://twitter.com/UldisKK"
         linkedin: "https://www.linkedin.com/in/uldiskarlovskarlovskis/"
   session10:
+      day: 1
+      time: "16:00 - 17:00"
+      place: "Daugava 1+2"
+      title: "Have we lost the real meaning of Agile?"
+      about: "In this talk I will try to shed some light on the history of Agile. I was talking to Manifesto signatories reconstructing the talks they had about the deeper meaning of Agile and looking around 17 years later, I can say that we have lost the real meaning of this word.
+
+  I want to share with you my findings about the What and about the How of Agile. We will be discussing three goals of Agility and talking about the reasons why different companies are starting on this path. I will tell you about a few wrong reasons and a couple of good ones.
+
+  I will also answer the question many people are asking now: is Agile dead?, should we switch to building Real organisations instead?"
+      speakers:
+        speaker01:
+          name: "Sergey Dmitriev"
+          bio: "Sergey Dmitriev (Russia) is an agile and scrum evangelist focused on improvement of business processes, modern approaches to management and strategy consulting. I can help your organization transform to agile or to improve your existing agile practices. I do executive and team coaching and workshop facilitation.
+
+  My mission is to convince the World that traditional approach to managing knowledge workers is broken.
+
+  My hobby is diving. Interested in deep and wreck diving or a combination of both :) I am a father of 4 and a happy man."
+          photo: "/img/speakers/sergey-dmitriev.jpg"
+          blog: "https://www.unusual-concepts.ru/"
+          facebook: "https://www.facebook.com/blackie6"
+          twitter: "https://twitter.com/blackie6?lang=en"
+          linkedin: "https://www.linkedin.com/in/sergeydmitriev/"
+  session11:
     day: 2
     time: "09:30 - 10:15"
     place: "Abava / Amata - 2nd floor"
@@ -204,7 +204,7 @@ I have diving as hobby. Interested in deep and wreck diving or a combination of 
         facebook: "https://www.facebook.com/JudyReesCleanLanguage/"
         twitter: "https://twitter.com/judyrees"
         linkedin: "https://www.linkedin.com/in/judyrees/"
-  session11:
+  session12:
     day: 2
     time: "16:45 - 17:30"
     place: "Abava / Amata - 2nd floor"
