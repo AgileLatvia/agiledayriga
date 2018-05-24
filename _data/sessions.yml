@@ -31,12 +31,17 @@
     day: 1
     time: "11:15 - 12:00"
     place: "Daugava 2"
-    title: "Granular Scrum"
-    about: "How to design electronic Scrum board and why many boards suck.
-  How to turn your Daily Scrum from tedious status meeting into energising activity, which fuels the rest of the day.
-  How to create engagement during retrospectives.
-  How detect and track team's impediments.
-  Scrum is simple, as you must already know, but each aspect of Scrum application could be dissected into small but essential pieces, without understanding of which you can't progress in your Scrum journey. This talk is going to discuss small pieces of daily practices, which put together create successful Scrum adoption."
+    title: "Handle With Care. Scaling Your Agile."
+    about: "I’m going to share my experience in scaling work across different teams and even across countries. Insights on how to organise work of a distributed team, how to share codebase between different teams, how to onboard new developers efficiently, what are preconditions for scaling, what could make a scaling attempt to fail and etc.
+
+Can you have two agile teams instead of one in a short period of time? Can some company with two offices work as smoothly as a company, where all employees are sitting in the same building? Can you have the same values in different teams?
+My answer is &quot;yes&quot;, but everything comes with a price. This session tells about what price you have to pay in order to scale your software development business.
+Also it is going to explore which aspects of corporate culture can prevent or can support scaling process, what kind scaling aspects require more attention than others, how to setup a distributed teams in distributed company.
+
+case study. real-life story.
++ will compare different approaches including SAFe
++ team/company onboarding to new process
++ lessons learned"
     speakers:
       speaker01:
         name: "Dmitry Lebedev"
@@ -92,37 +97,7 @@
         blog: "https://www.unusual-concepts.ru/team/coach/mark-kachanov/"
         facebook: "https://www.facebook.com/mark.kachanov.agile"
         linkedin: "https://www.linkedin.com/in/markkachanov/"
-  #session10:
-    #day: 1
-    #time: "13:45 - 14:30"
-    #place: "Daugava 1"
-    #title: ""
-    #about: ""
-    #speakers:
-      #speaker01:
-        #name: "Silvana Wasitova"
-        #bio: ""
-        #photo: "/img/speakers/"
-        #blog: ""
-        #facebook: ""
-        #twitter: ""
-        #linkedin: ""
-  #session11:
-    #day: 1
-    #time: "13:45 - 14:30"
-    #place: "Daugava 2"
-    #title: ""
-    #about: ""
-    #speakers:
-      #speaker01:
-        #name: "Linda Liepina"
-        #bio: ""
-        #photo: "/img/speakers/"
-        #blog: ""
-        #facebook: ""
-        #twitter: ""
-        #linkedin: ""
-  session8:
+  session08:
     day: 1
     time: "13:45 - 14:30"
     place: "Casino"
@@ -136,7 +111,7 @@
         photo: "/img/speakers/dmytri-emelyanov.jpg"
         facebook: "https://www.facebook.com/dima.emv"
         linkedin: "https://www.linkedin.com/in/dmitry-emelyanov-667456b0/"
-  session9:
+  session09:
     day: 1
     time: "14:30 - 15:15"
     place: "Daugava 1"
@@ -155,28 +130,28 @@
         twitter: "https://twitter.com/UldisKK"
         linkedin: "https://www.linkedin.com/in/uldiskarlovskarlovskis/"
   session10:
-      day: 1
-      time: "16:00 - 17:00"
-      place: "Daugava 1+2"
-      title: "Have We Lost the Real Meaning of Agile?"
-      about: "In this talk I will try to shed some light on the history of Agile. I was talking to Manifesto signatories reconstructing the talks they had about the deeper meaning of Agile and looking around 17 years later, I can say that we have lost the real meaning of this word.
+    day: 1
+    time: "16:00 - 17:00"
+    place: "Daugava 1+2"
+    title: "Have We Lost the Real Meaning of Agile?"
+    about: "In this talk I will try to shed some light on the history of Agile. I was talking to Manifesto signatories reconstructing the talks they had about the deeper meaning of Agile and looking around 17 years later, I can say that we have lost the real meaning of this word.
 
   I want to share with you my findings about the What and about the How of Agile. We will be discussing three goals of Agility and talking about the reasons why different companies are starting on this path. I will tell you about a few wrong reasons and a couple of good ones.
 
   I will also answer the question many people are asking now: is Agile dead?, should we switch to building Real organisations instead?"
-      speakers:
-        speaker01:
-          name: "Sergey Dmitriev"
-          bio: "Sergey Dmitriev (Russia) is an agile and scrum evangelist focused on improvement of business processes, modern approaches to management and strategy consulting. I can help your organization transform to agile or to improve your existing agile practices. I do executive and team coaching and workshop facilitation.
+    speakers:
+      speaker01:
+        name: "Sergey Dmitriev"
+        bio: "Sergey Dmitriev (Russia) is an agile and scrum evangelist focused on improvement of business processes, modern approaches to management and strategy consulting. I can help your organization transform to agile or to improve your existing agile practices. I do executive and team coaching and workshop facilitation.
 
   My mission is to convince the World that traditional approach to managing knowledge workers is broken.
 
   My hobby is diving. Interested in deep and wreck diving or a combination of both :) I am a father of 4 and a happy man."
-          photo: "/img/speakers/sergey-dmitriev.jpg"
-          blog: "https://www.unusual-concepts.ru/"
-          facebook: "https://www.facebook.com/blackie6"
-          twitter: "https://twitter.com/blackie6?lang=en"
-          linkedin: "https://www.linkedin.com/in/sergeydmitriev/"
+        photo: "/img/speakers/sergey-dmitriev.jpg"
+        blog: "https://www.unusual-concepts.ru/"
+        facebook: "https://www.facebook.com/blackie6"
+        twitter: "https://twitter.com/blackie6?lang=en"
+        linkedin: "https://www.linkedin.com/in/sergeydmitriev/"
   session11:
     day: 2
     time: "09:30 - 10:15"
