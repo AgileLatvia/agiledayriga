@@ -13,7 +13,7 @@
         blog: "https://guntherverheyen.com/about/"
         twitter: "https://twitter.com/Ullizee"
         linkedin: "https://www.linkedin.com/in/ullizee/"
-  session03:
+  session02:
     day: 1
     time: "11:15 - 12:00"
     place: "Daugava 1"
@@ -27,6 +27,21 @@
         blog: "https://www.infoq.com/presentations/agile-tired-team"
         facebook: "https://www.facebook.com/anna.obukhova.1"
         linkedin: "https://www.linkedin.com/in/anna-obukhova-0b04381/"
+  session03:
+    day: 1
+    time: "11:15 - 12:00"
+    place: "Casino"
+    title: "How does a technical guy become an Agile Leader?"
+    about: "Olaf Lewitz is going to share with you some insights about the journey from an introvert engineer to an Agile Leader! According to him, everyone who is involved in software development can become an Agile Leader. Olaf thinks that all engineers like structure, processes, predictability, and simple design. Most of today’s managers in software organisations have an engineering background. They have taken responsibility in organisations that were designed for stability and success in stable markets. Now, the conditions change. Organisations change. Business agility and leadership agility are called for. How do we make that change? In his speech he will share his personal learnings and insights, his successes and failures. He will share patterns and strategies that worked for him, and tools that may help all of us deliver leadership as an Agile service."
+    speakers:
+      speaker01:
+        name: "Olaf Lewitz"
+        bio: "Olaf Lewitz, Trust Artist, TrustTemenos Leadership Academy. As Trust Artist and CEC, Olaf is a leader in the international agile community. He has helped hundreds of individuals and organisations to transform. His specialty: making sense of leadership. His strategy: increasing trust and responsibility through invitation and clarity. Olaf and Christine Neidhardt founded TrustTemenos Leadership Academy. They work with leaders increasing their clarity of identity and intent, and help growing organisations where people want to show up and grow. In 2016 they published a workbook for leaders: 'Showing Up'. Let’s trust ourselves and others. Olaf believes you deserve to love what you do."
+        photo: "/img/speakers/olaf-lewitz.jpg"
+        blog: "https://trustartist.com/"
+        facebook: "https://www.facebook.com/OlafLewitz"
+        linkedin: "https://www.linkedin.com/in/olaflewitz/"
+        twitter: "https://twitter.com/OlafLewitz"
   session04:
     day: 1
     time: "11:15 - 12:00"
