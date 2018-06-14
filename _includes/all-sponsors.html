@@ -1,6 +1,6 @@
   <div id="sponsors" class="page color-3">
     <!-- sponsors -->
-    
+
     {% if page.call-for-sponsors == "on" %}
     <div class="inner-page">
       <h2 class="page-headline">Looking for sponsors</h2>
@@ -87,12 +87,12 @@
       {% for golds in site.data.sponsors[page.year].gold %}
       {% if golds[1].title != null %}
       <div class="inner-page row">
-        <div class="col-md-4">
+        <div class="col-md-3">
           <a title="{{ golds[1].title }}" href="{{ golds[1].url }}" target="_blank"><img class="lazy" src="{{ golds[1].image }}" alt="{{ golds[1].title }}"></a>
         </div>
         <div class="col-md-1"></div>
-        <div class="col-md-7">
-          <p class="lead">{{ golds[1].promo }}</p>
+        <div class="col-md-8">
+          <p>{{ golds[1].promo }}</p>
         </div>
       </div>
       {% endif %}
@@ -144,12 +144,12 @@
       {% for silvers in site.data.sponsors[page.year].silver %}
       {% if silvers[1].title != null %}
       <div class="inner-page row">
-        <div class="col-md-4">
+        <div class="col-md-3">
           <a title="{{ silvers[1].title }}" href="{{ silvers[1].url }}" target="_blank"><img class="lazy" src="{{ silvers[1].image }}" alt="{{ silvers[1].title }}"></a>
         </div>
         <div class="col-md-1"></div>
-        <div class="col-md-7">
-          <p class="lead">{{ silvers[1].promo }}</p>
+        <div class="col-md-8">
+          <p>{{ silvers[1].promo }}</p>
         </div>
       </div>
       {% endif %}
