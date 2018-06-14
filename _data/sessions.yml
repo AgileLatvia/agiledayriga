@@ -196,8 +196,21 @@ case study. real-life story.
     day: 2
     time: "16:45 - 17:30"
     place: "Abava / Amata - 2nd floor"
-    title: "Coming soon..."
-    about: "Coming soon..."
+    title: "Avoid Agile transformations"
+    about: "Agile is no longer a set of software development methods used by a bunch of innovators. Nowadays Agile is arguably the most popular and successful product development strategy. Therefore many organisations decided to start their &quot;Agile transformation&quot; to become a different organisation that is able to operate in a new business paradigm….. Or not?
+Is it possible to transform an organisation? Is it viable to influence the culture, structure and processes in an organization to successfully operate as an entirely different entity? Is a transformation needed to succed in business?
+I will use Complexity thinking and Cynefin in practice to answer this questions from a experimental perspective. By making sense of the different business contexts, and understanding what are the more suitable practices for each context you will be able to understand when Agility makes sense and how to make business Agility happen.
+In this talk I’ll share my thoughts about Agile transformations: why this is becoming important in this moment of history, why Agile emerges in the software industry, how is agile connected to the 21st century customer, how Agile addresses the need of continuous innovation and why the concept of &quot;Agile Transformation&quot; can be an stopper for organisations to achieve a real growth.
+
+Learning Outcomes:
+Understand Business Agility,
+Describe why Agile is not always the answer,
+Understand why &quot;Agile transformations&quot; are often failing,
+Explain why the concept &quot;Agile transformation&quot; should be substituted by &quot;Incorporating experimentation capabilities&quot;,
+Define an Strategy for business Agility based on complexity thinking,
+Understanding of the core of agile,
+contextualize Agile in the current world of business.
+Powerful and proven arguments to encourage business people to get involved in Agile initiatives."
     speakers:
       speaker01:
         name: "Angel Diaz-Maroto"
