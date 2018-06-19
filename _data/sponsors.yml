@@ -4,6 +4,12 @@
     title: "Gold Sponsors"
     show-captions: "true"
     sponsor01:
+      title: "Evolution Gaming"
+      image: "/img/sponsors/evolution-gaming.png"
+      url: "https://www.evolutiongaming.com/"
+      promo: "Evolution Gaming is the leading provider of video-streamed award-winning live games, working with more top-tier brand than any other provider in this market and with a global presence across 13 countries.
+We are seeking for new colleagues to join our growing team of 300+ bright and talented engineers working in Riga, Tallinn and Amsterdam. We strongly believe in functional programming on the Scala platform and agile development, using technologies such as Akka (including Persistence, Streams & HTTP), Slick and Scala.js. We also enjoy using React, Redux and TypeScript and value pragmatic developers who undertake constructive code-reviews. If you are interested in talking to us about this, visit our booth!"
+    sponsor02:
       title: "4finance"
       image: "/img/sponsors/4finance.png"
       url: "http://www.4finance.com/"
