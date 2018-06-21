@@ -5,6 +5,7 @@
     place: "Daugava 1+2"
     title: "Agility in the Face of Perplexity"
     about: "Scrum was officially presented in 1995. In 2001, 17 software development leaders published the &quot;Manifesto for Agile Software Development&quot;. Agile gradually started replacing the industrial way of thinking, with Scrum being the most adopted technique to achieve a higher state of agility. Today, 2018, the Agile paradigm is more needed than ever, to avoid complexity turning into perplexity. Gunther aspires disentangling the clew that ’Scrum’ and ‘Agile’ turned into and show the value and their originality. Gunther has considered what Agile means to him, what it is that makes Agile work, what it is that makes Scrum work, and will share his views on the future state of Scrum and Agile."
+    video: "https://www.youtube.com/watch?v=KSYS2wFB_LA"
     speakers:
       speaker01:
         name: "Gunther Verheyen"
@@ -19,6 +20,7 @@
     place: "Daugava 1"
     title: "Fragile Agile: Coaching a Tired Team"
     about: "As an Agile Coach or Scrum Master do you want to add energy to your team that looks not enthusiastic or resists change? Is is possible to cause harm to your team even with proper Agile coaching? Yes, if you are working with tired, exhausted or even burned-out teams, they do need special treatment, usually counterintuitive to the coaches. Would you like to learn special set of actions, taken from the medical practice, tailored to work with exhausted people? Would you like to experience an upward spiral from tiredness to the true intristic motivation and creativity? Join me in the self test and practical steps discussion what needs to be modified in the coaching and facilitation techniques and in the Agile process that you as a coach or a scrum master can help your worn out team to transition into a better process and produce steady results."
+    video: "https://www.youtube.com/watch?v=spsJJRtZDmU"
     speakers:
       speaker01:
         name: "Anna Obukhova"
@@ -73,6 +75,7 @@ case study. real-life story.
 
   Learning Outcomes:
   Learn about Kanban's core practices in a gripping story about suffering and achievement. Get ideas about how you can apply these practices to your personal endeavors, too."
+    video: "https://www.youtube.com/watch?v=-veazdoOzZM"
     speakers:
       speaker01:
         name: "Markus Wissekal"
@@ -115,6 +118,30 @@ case study. real-life story.
   session08:
     day: 1
     time: "13:45 - 14:30"
+    place: "Daugava 1"
+    title: "Kay factors and tips for building high-performing teams"
+    about: "Agile is all about teamwork and collaboration. What are the secrets for how to work better together? This session will explore the key factors and practice exercises that help increase collaboration among team members, resulting in high performance."
+    speakers:
+      speaker01:
+        name: "Silvana Wasitova"
+        bio: "Agilist since 2005, passionate about helping teams and organizations achieve better results."
+        photo: "/img/speakers/silvana-wasitova.jpg"
+        twitter: "https://twitter.com/wasitova"
+  session09:
+    day: 1
+    time: "13:45 - 14:30"
+    place: "Daugava 2"
+    title: "Learnings from nature"
+    about: "How often do you meet people who simply love their job? Well, I’m the lucky one. I’ve got the privilege to learn process Improvement skills through SixSigma Black Belt training followed by exiting many years of experience.  In addition in DHL we have implemented the best in class and award winning internal culture and training system what we call “Certified International Specialists”. This is the basics of latest success and I’m so happy I had a chance to champion it in Baltics and in Latvia.  And the most favorite part of it is facilitation, the chance to live grows mindset and continues improvement  through development of colleagues. "
+    speakers:
+      speaker01:
+        name: "Linda Liepina"
+        bio: ""
+        photo: "/img/speakers/linda-liepina.jpg"
+        linkedin: "https://www.linkedin.com/in/linda-liepina-6610a15"
+  session10:
+    day: 1
+    time: "13:45 - 14:30"
     place: "Casino"
     title: "Scrum master. The Dark Side of the Moon, or What Scrum Guide does not write about it."
     about: "The topic is about role of Scrum Masters and things which are not written in Scrum Guide but belongs to this role."
@@ -126,7 +153,7 @@ case study. real-life story.
         photo: "/img/speakers/dmytri-emelyanov.jpg"
         facebook: "https://www.facebook.com/dima.emv"
         linkedin: "https://www.linkedin.com/in/dmitry-emelyanov-667456b0/"
-  session09:
+  session11:
     day: 1
     time: "14:30 - 15:15"
     place: "Daugava 1"
@@ -144,7 +171,71 @@ case study. real-life story.
         facebook: "https://www.facebook.com/search/top/?q=uldis%20karlovs-karlovskis"
         twitter: "https://twitter.com/UldisKK"
         linkedin: "https://www.linkedin.com/in/uldiskarlovskarlovskis/"
-  session10:
+  session12:
+    day: 1
+    time: "14:30 - 15:15"
+    place: "Daugava 2"
+    title: "Agile Reformation at Evolution Gaming"
+    about: "Evolution Gaming had a vision on how to scale Scrum, but failed to realise it due to practical obstacles and limited support. This talk is about how a reduced group of Scrum Masters faced the situation and reinvented itself and its role in the organisation. Stepwise, by acknowledging the urgency of the situation, by reconstituting its Scrum Master Community of Practice, by focusing on basic principles, by systematically pursuing feedback, by setting itself time-bound goals, and by re-engaging the organisation."
+    speakers:
+      speaker01:
+        name: "Cornelis Roele"
+        bio: "Twenty years of work in various roles in IT have left me with a practical outlook. And yet, I'm a philosopher at heart and revel at the theoretical analysis of decision-making. My current work as Scrum Master Lead at Evolution Gaming lets me couple the practical with the theoretical in the collaborative search for innovative arrangements."
+        photo: "/img/speakers/cornelis-roele.jpg"
+        linkedin: "https://www.linkedin.com/in/ceesroele/"
+  session13:
+    day: 1
+    time: "14:30 - 15:15"
+    place: "Casino"
+    title: "Tribalism in software development teams"
+    about: "We are social animals. We have evolved to depend on our tribes, literally, for our safety and survival. We identify ourselves as members of all sorts of tribes; our families, political parties, race, gender, social organizations. We even identify tribally just based on where we live.
+From my speech you will learn the traits of strong tribes and the journey any group has to make to become a real tribe. We will be looking at the tribes you belong to and how can you help them become stronger and healthier."
+    speakers:
+      speaker01:
+        name: "Vasilij Savin"
+        bio: "Vasilij Savin has been an Agile practitioner since 2008. After a career as an IT and Agile consultant in Sweden, he returned to Vilnius to assume an Agile Coach mantle in 4Finance.
+His main interests include modern management and leadership practices, tribal dynamics in teams, and how to work effectively. Even though Vasilij holds PSM and PSPO certificates, he considers himself beyond-Agile, using the practices and techniques that are most appropriate to given organisation and team maturity during the engagement."
+        photo: "/img/speakers/vasilij-savin.jpg"
+        linkedin: "https://www.linkedin.com/in/vasilij/"
+  session14:
+    day: 1
+    time: "15:15 - 16:30"
+    place: "Daugava 1"
+    title: "Accelerate your company's transformation from the linear to the exponential"
+    about: "Digital products are increasingly influential, but at the same rate that society becomes accustomed to fast-paced advances in innovation, artificial intelligence, and the exponential growth in computing power, so does the market become that much more complex. Many senior leaders have embraced Agile, Scrum and XP but they have the feeling that something is not working as expected. Alternatively, many feel the desired benefits of adopting Scrum and Agile have not been fully achieved. While we have experienced the exponential growth of supercomputing power and markets, we are still using old structures, paradigms, beliefs and patterns to structure our organizations. This session explains how humans confront highly changing environments and provides practical ideas to lead business transformations that help organizations gain greater flexibility while maintaining stability and setting foundations for the company's exponential growth. After the session the participant will know: Neuroscience and psychological concepts that help deliver Agile/Lean business transformation to create truly adaptable organizations, Insight into why business transformations follow different rules in highly volatile environments, Five key patterns to accelerate the transformation of your company. This session is valuable to any leader, consultant, Scrum Master or Agile Coach in the midst of a business transformation, working to scale up a product, increase the delivery of business value, introduce market disruptions or find fresh ideas and techniques."
+    speakers:
+      speaker01:
+        name: "Erich Bühler"
+        bio: "International Agile consultant, author of the book &quot;Leading Exponential Change, Go beyond Agile and Scrum to run even better business transformations&quot; (May 2018)"
+        photo: "/img/speakers/erich-buhler.jpeg"
+        linkedin: "https://es.linkedin.com/in/erich-buhler-09566067"
+  session15:
+    day: 1
+    time: "15:15 - 16:30"
+    place: "Daugava 2"
+    title: "Beyond Methodology"
+    about: "Have you ever faced these questions, &quot;Which methodology should I choose?&quot;, &quot;I am doing the methodology right?&quot;, &quot;Why isn't the rest of the organization doing agile?&quot;, maybe even &quot;Why isn't agile sticking?&quot; If so then this workshop is for you, and we'll discuss creating a common language and approach to work that successfully helps leaders, managers, and developers unlock their potential and the potential of an entire organization."
+    video: "https://www.youtube.com/watch?v=h9F1H9tQk3E"
+    speakers:
+      speaker01:
+        name: "Steve Angelo-Eadie"
+        bio: "Steven has led many Agile education programs in complex organizations across the world. He's developed courses and content alongside Emergn's clients and has built a number of coaching communities in the transformations he’s worked on."
+        photo: "/img/speakers/steve_angelo-eadie.png"
+        twitter: "https://twitter.com/StevieSBR"
+        linkedin: "https://www.linkedin.com/in/steven-angelo-eadie-25099b3/"
+  session16:
+    day: 1
+    time: "15:15 - 16:30"
+    place: "Casino"
+    title: "Lean and Agile Marketing with Kanban"
+    about: "Agile isn't just for IT! If done right, it can be just as, if not more, valuable to any business unit within the organization. In order to get the entire company working together using Lean and Agile methodologies, these best practices must spread beyond IT and into marketing and sales. The marketing department is in an advantageous position to bring Lean and Agile into the business because it acts as a facilitator of communication between all areas of an organization. There is also a lot of common ground between the processes that occur in a software product development team and a marketing team. As a marketer and a Lean/Agile coach, I can attest to the fact that applying Lean and Agile in marketing is an experiment in creating a more streamlined workflow than the creative team might have been used to before. This talk will discuss what is required to introduce (successfully!) the application of Kanban or Scrumban to deliver maximum value to the customer and reduce waste in a marketing team."
+    speakers:
+      speaker01:
+        name: "Monica Georgieff"
+        bio: "Monica Georgieff is a Lean and Kanban in Marketing evangelist, author of &quot;Lean and Agile Marketing with Kanban&quot; and international guest speaker. She is the former Director of Marketing at Kanbanize, a leading vendor of Kanban software for process management, a contributor at chiefmartec.com, and a Lean/Agile coach with AgileSherpas. Currently, Monica helps marketing departments and digital marketing agencies in London bring Lean and Agile methodologies into their process, take control of their workflow and measure their efficiency. She is also collaborating with Kanbanize to launch their second product, Flow-e."
+        photo: "/img/speakers/monica-georgieff.jpg"
+        linkedin: "https://www.linkedin.com/in/monica-georgieff-40876526/"
+  session17:
     day: 1
     time: "16:00 - 17:00"
     place: "Daugava 1+2"
@@ -167,7 +258,7 @@ case study. real-life story.
         facebook: "https://www.facebook.com/blackie6"
         twitter: "https://twitter.com/blackie6?lang=en"
         linkedin: "https://www.linkedin.com/in/sergeydmitriev/"
-  session11:
+  session18:
     day: 2
     time: "09:30 - 10:15"
     place: "Abava / Amata - 2nd floor"
@@ -179,6 +270,7 @@ case study. real-life story.
   Hear how it has been used to reduce conflict and misunderstandings while maintaining the creative tension that’s essential to innovation
   Experiment with the technique in a series of lightning - and enlightening - conversations
   Plan to apply all of this straight away, so that they get even better value from the rest of the conference."
+    video: "https://www.youtube.com/watch?v=mJ7hBV4PBkI"
     speakers:
       speaker01:
         name: "Judy Rees"
@@ -192,7 +284,7 @@ case study. real-life story.
         facebook: "https://www.facebook.com/JudyReesCleanLanguage/"
         twitter: "https://twitter.com/judyrees"
         linkedin: "https://www.linkedin.com/in/judyrees/"
-  session12:
+  session19:
     day: 2
     time: "16:45 - 17:30"
     place: "Abava / Amata - 2nd floor"

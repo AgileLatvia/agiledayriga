@@ -1,15 +1,15 @@
   <!-- Schedule caption -->
   <div id="sessions" class="page color-4">
-    <div class="inner-page">
+    <!--<div class="inner-page">
       <h2 class="page-headline">Schedule</h2>
-    </div>
+    </div>-->
     {% if page.year > 2011 %}
     {% if page.schedule-status == "on" %}
     <div class="inner-page">
       <div class="col-md-12">
         <p class="lead">
         {% if page.schedule-lanyrd %}The recent schedule can be found <a href="{{ page.schedule-lanyrd }}" target="_blank">here</a>.{% endif %}
-        </p> 
+        </p>
       </div>
     </div>
     {% endif %}
@@ -38,7 +38,7 @@
       <!-- Sessions -->
       <div class="row inner-page">
 
-      <!-- let's display sessions for the day and sort them -->  
+      <!-- let's display sessions for the day and sort them -->
       {% assign sessions_sorted = site.data.sessions[page.year] | sort:  %}
 
       {% for session in sessions_sorted %}
@@ -73,7 +73,7 @@
       {% endfor %}
       {% endif %}
       {% endfor %}
-      <!-- /let's display sessions for the day -->  
+      <!-- /let's display sessions for the day -->
       </div> <!-- /sessions -->
     {% endfor %}
     <!-- /let's iterate by days -->
