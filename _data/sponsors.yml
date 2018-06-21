@@ -33,6 +33,22 @@ We are seeking for new colleagues to join our growing team of 300+ bright and ta
       title: "LikeIT"
       image: "/img/sponsors/likeit.png"
       url: "http://www.likeit.lv/"
+    sponsor02:
+      title: "Agile Lietuva"
+      image: "/img/sponsors/agile-lietuva.png"
+      url: "http://www.agile.lt/"
+    sponsor03:
+      title: "Agile Transformer"
+      image: "/img/sponsors/agiletransformer.png"
+      url: "http://agiletransformer.com/"
+    sponsor04:
+      title: "Kursors.lv"
+      image: "/img/sponsors/kursorslv.png"
+      url: "http://www.kursors.lv/"
+    sponsor05:
+      title: "Agile Estonia"
+      image: "/img/sponsors/agile-ee-55.png"
+      url: "http://www.agile.ee/"
 2017:
   show-subtitles: "true"
   platinum:
