@@ -98,6 +98,7 @@ case study. real-life story.
         bio: "Andrey Tolmachev is a Business Trainer, Agile Coach, Scrum Trainer (PST certification is in progress) and certified Coach ICTA"
         photo: "/img/speakers/andrey-tolmachev.jpg"
         blog: "https://www.unusual-concepts.ru/team/coach/andrey-tolmachev/"
+        linkedin: "https://www.linkedin.com/in/atolmachev/"
         facebook: "https://www.facebook.com/andrey.tolmachev.me"
   session07:
     day: 1
@@ -119,7 +120,7 @@ case study. real-life story.
     day: 1
     time: "13:45 - 14:30"
     place: "Daugava 1"
-    title: "Kay factors and tips for building high-performing teams"
+    title: "Key factors and tips for building high-performing teams"
     about: "Agile is all about teamwork and collaboration. What are the secrets for how to work better together? This session will explore the key factors and practice exercises that help increase collaboration among team members, resulting in high performance."
     speakers:
       speaker01:
@@ -127,17 +128,21 @@ case study. real-life story.
         bio: "Agilist since 2005, passionate about helping teams and organizations achieve better results."
         photo: "/img/speakers/silvana-wasitova.jpg"
         twitter: "https://twitter.com/wasitova"
+        facebook: "https://www.facebook.com/wasitova"
+        linkedin: "https://www.linkedin.com/in/wasitova/"
   session09:
     day: 1
     time: "13:45 - 14:30"
     place: "Daugava 2"
     title: "Learnings from nature"
-    about: "How often do you meet people who simply love their job? Well, I’m the lucky one. I’ve got the privilege to learn process Improvement skills through SixSigma Black Belt training followed by exiting many years of experience.  In addition in DHL we have implemented the best in class and award winning internal culture and training system what we call “Certified International Specialists”. This is the basics of latest success and I’m so happy I had a chance to champion it in Baltics and in Latvia.  And the most favorite part of it is facilitation, the chance to live grows mindset and continues improvement  through development of colleagues. "
+    about: "The delegates will be taken on a journey into animal kingdom to illustrate the power and effectiveness of teamwork. We can all learn from the ability of animals to thrive in effective teams and achieve high performance, often in challenging and demanding environments. Did you know that gees work as an effective team during migration when they come together in V-formation? Scientists estimate they reach their destination up to 70% faster when they work in formation rather than flying alone. Gees also honk encouragement to each other on their journey. In the same way we are motivated by regular, engaging communication.
+Creative tools – slideshow, film clips, facilitated discussions, etc."
     speakers:
       speaker01:
         name: "Linda Liepina"
-        bio: ""
+        bio: "How often do you meet people who simply love their job? Well, I’m the lucky one. I’ve got the privilege to learn process Improvement skills through SixSigma Black Belt training followed by exiting many years of experience. In addition in DHL we have implemented the best in class and award winning internal culture and training system what we call “Certified International Specialists”. This is the basics of latest success and I’m so happy I had a chance to champion it in Baltics and in Latvia. And the most favorite part of it is facilitation, the chance to live grows mindset and continues improvement through development of colleagues."
         photo: "/img/speakers/linda-liepina.jpg"
+        facebook: "https://www.facebook.com/liepina.linda"
         linkedin: "https://www.linkedin.com/in/linda-liepina-6610a15"
   session10:
     day: 1
@@ -183,6 +188,7 @@ case study. real-life story.
         bio: "Twenty years of work in various roles in IT have left me with a practical outlook. And yet, I'm a philosopher at heart and revel at the theoretical analysis of decision-making. My current work as Scrum Master Lead at Evolution Gaming lets me couple the practical with the theoretical in the collaborative search for innovative arrangements."
         photo: "/img/speakers/cornelis-roele.jpg"
         linkedin: "https://www.linkedin.com/in/ceesroele/"
+        facebook: "https://www.facebook.com/cees.roele"
   session13:
     day: 1
     time: "14:30 - 15:15"
@@ -196,6 +202,8 @@ From my speech you will learn the traits of strong tribes and the journey any gr
         bio: "Vasilij Savin has been an Agile practitioner since 2008. After a career as an IT and Agile consultant in Sweden, he returned to Vilnius to assume an Agile Coach mantle in 4Finance.
 His main interests include modern management and leadership practices, tribal dynamics in teams, and how to work effectively. Even though Vasilij holds PSM and PSPO certificates, he considers himself beyond-Agile, using the practices and techniques that are most appropriate to given organisation and team maturity during the engagement."
         photo: "/img/speakers/vasilij-savin.jpg"
+        facebook: "https://www.facebook.com/chabbrik"
+        twitter: "https://twitter.com/VasilijSavin"
         linkedin: "https://www.linkedin.com/in/vasilij/"
   session14:
     day: 1
@@ -208,7 +216,7 @@ His main interests include modern management and leadership practices, tribal dy
         name: "Erich Bühler"
         bio: "International Agile consultant, author of the book &quot;Leading Exponential Change, Go beyond Agile and Scrum to run even better business transformations&quot; (May 2018)"
         photo: "/img/speakers/erich-buhler.jpeg"
-        linkedin: "https://es.linkedin.com/in/erich-buhler-09566067"
+        linkedin: "https://www.linkedin.com/in/erich-r-bühler-09566067"
   session15:
     day: 1
     time: "15:15 - 16:30"
@@ -234,6 +242,8 @@ His main interests include modern management and leadership practices, tribal dy
         name: "Monica Georgieff"
         bio: "Monica Georgieff is a Lean and Kanban in Marketing evangelist, author of &quot;Lean and Agile Marketing with Kanban&quot; and international guest speaker. She is the former Director of Marketing at Kanbanize, a leading vendor of Kanban software for process management, a contributor at chiefmartec.com, and a Lean/Agile coach with AgileSherpas. Currently, Monica helps marketing departments and digital marketing agencies in London bring Lean and Agile methodologies into their process, take control of their workflow and measure their efficiency. She is also collaborating with Kanbanize to launch their second product, Flow-e."
         photo: "/img/speakers/monica-georgieff.jpg"
+        facebook: "https://www.facebook.com/monica.georgieff"
+        twitter: "https://twitter.com/MonGeorgieff"
         linkedin: "https://www.linkedin.com/in/monica-georgieff-40876526/"
   session17:
     day: 1
@@ -245,6 +255,7 @@ His main interests include modern management and leadership practices, tribal dy
   I want to share with you my findings about the What and about the How of Agile. We will be discussing three goals of Agility and talking about the reasons why different companies are starting on this path. I will tell you about a few wrong reasons and a couple of good ones.
 
   I will also answer the question many people are asking now: is Agile dead?, should we switch to building Real organisations instead?"
+    video: "https://youtu.be/ww9I1mOZ5CM"
     speakers:
       speaker01:
         name: "Sergey Dmitriev"
