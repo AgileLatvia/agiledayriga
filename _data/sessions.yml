@@ -209,14 +209,24 @@ His main interests include modern management and leadership practices, tribal dy
     day: 1
     time: "15:15 - 16:30"
     place: "Daugava 1"
-    title: "Accelerate your company's transformation from the linear to the exponential"
-    about: "Digital products are increasingly influential, but at the same rate that society becomes accustomed to fast-paced advances in innovation, artificial intelligence, and the exponential growth in computing power, so does the market become that much more complex. Many senior leaders have embraced Agile, Scrum and XP but they have the feeling that something is not working as expected. Alternatively, many feel the desired benefits of adopting Scrum and Agile have not been fully achieved. While we have experienced the exponential growth of supercomputing power and markets, we are still using old structures, paradigms, beliefs and patterns to structure our organizations. This session explains how humans confront highly changing environments and provides practical ideas to lead business transformations that help organizations gain greater flexibility while maintaining stability and setting foundations for the company's exponential growth. After the session the participant will know: Neuroscience and psychological concepts that help deliver Agile/Lean business transformation to create truly adaptable organizations, Insight into why business transformations follow different rules in highly volatile environments, Five key patterns to accelerate the transformation of your company. This session is valuable to any leader, consultant, Scrum Master or Agile Coach in the midst of a business transformation, working to scale up a product, increase the delivery of business value, introduce market disruptions or find fresh ideas and techniques."
+    title: "Reframe your existing Agile change plans to be implemented everywhere in the company"
+    about: "The Agile manifesto helps uncover better ways to develop software. How can you expand a change plan from the small I.T. teams to the rest of the company?
+Many of the new practices or techniques used inside I.T. teams don’t work well or need to be adapted when they are implemented somewhere else in the organization—outside the I.T. world.
+A real change plan transforms the whole company and not just the software teams. Otherwise, it would be improving the local groups but downgrading the rest of the organization.
+Which consistent patterns can you use to create powerful plans that can be implemented everywhere?
+
+The answer requires to use different strategies that go beyond Agile and Scrum.
+This session provides an insight into how to adapt any change initiative to be easily implemented in the rest of the organization. It also shows the ways to make sure that a business transformation doesn’t lose traction.
+Join this session from the author of the best-seller book &quote;Leading Exponential Change&quote;."
     speakers:
       speaker01:
         name: "Erich Bühler"
-        bio: "International Agile consultant, author of the book &quot;Leading Exponential Change, Go beyond Agile and Scrum to run even better business transformations&quot; (May 2018)"
+        bio: "Erich Bühler is the founder director, main mentor and trainer at Innova1st Consulting. He began his professional career in 1993 and spent several years in positions of different global enterprises. He has helped companies in England, New Zealand, Spain, Malta, Chile, and Uruguay.
+He has also helped several governmental initiatives, he is a Certified Scrum Master, Certified Scrum Professional, outstanding youth person 2002 in Uruguay, and has published 2 books.
+He is the author of the best-selling book Leading Exponential Change ( https://www.amazon.de/Leading-Exponential-Change-business-transformations/dp/152722208X/) and speaker in international events and webinars."
         photo: "/img/speakers/erich-buhler.jpeg"
         linkedin: "https://www.linkedin.com/in/erich-r-bühler-09566067"
+        twitter: "https://twitter.com/erichbuhler"
   session15:
     day: 1
     time: "15:15 - 16:30"
