@@ -245,16 +245,19 @@ He is the author of the best-selling book Leading Exponential Change ( https://w
     day: 1
     time: "15:15 - 16:30"
     place: "Casino"
-    title: "Lean and Agile Marketing with Kanban"
-    about: "Agile isn't just for IT! If done right, it can be just as, if not more, valuable to any business unit within the organization. In order to get the entire company working together using Lean and Agile methodologies, these best practices must spread beyond IT and into marketing and sales. The marketing department is in an advantageous position to bring Lean and Agile into the business because it acts as a facilitator of communication between all areas of an organization. There is also a lot of common ground between the processes that occur in a software product development team and a marketing team. As a marketer and a Lean/Agile coach, I can attest to the fact that applying Lean and Agile in marketing is an experiment in creating a more streamlined workflow than the creative team might have been used to before. This talk will discuss what is required to introduce (successfully!) the application of Kanban or Scrumban to deliver maximum value to the customer and reduce waste in a marketing team."
+    title: "Valerie	Andrianova"
+    about: "Have you ever wondered how teams and individuals form an agile mindset?
+Are there specific practices to follow or processes to impose that nurture a truly agile team? Do agile values and principles come naturally to people who possess a certain mindset? Does company culture affect the personal qualities and values ​​of its employees?
+I believe that it is possible to  acquire an agile philosophy without following a standard set of rules. Based on our experience, I will try to prove that it’s not the practices and processes that make the team truly agile, but the mindset of people who work there. I will also describe the special qualities that our people, teams, and the company as a whole exemplify, and how these talents can be cultivated and nurtured."
     speakers:
       speaker01:
-        name: "Monica Georgieff"
-        bio: "Monica Georgieff is a Lean and Kanban in Marketing evangelist, author of &quot;Lean and Agile Marketing with Kanban&quot; and international guest speaker. She is the former Director of Marketing at Kanbanize, a leading vendor of Kanban software for process management, a contributor at chiefmartec.com, and a Lean/Agile coach with AgileSherpas. Currently, Monica helps marketing departments and digital marketing agencies in London bring Lean and Agile methodologies into their process, take control of their workflow and measure their efficiency. She is also collaborating with Kanbanize to launch their second product, Flow-e."
-        photo: "/img/speakers/monica-georgieff.jpg"
-        facebook: "https://www.facebook.com/monica.georgieff"
-        twitter: "https://twitter.com/MonGeorgieff"
-        linkedin: "https://www.linkedin.com/in/monica-georgieff-40876526/"
+        name: "Native Agile Psychology of Teams and Individuals"
+        bio: "I’ve been involved in Product Marketing at JetBrains for eight years. At JetBrains, we build IDEs for professional developers (IntelliJ IDEA, ReSharper), create new programming languages (Kotlin) and deliver tools for teams (TeamCity, YouTrack).
+I specialize in team tools, project management methodologies, and team collaboration. I’m a member of the YouTrack team (an issue tracker and agile project management tool), supporting an application that is used by everyone at JetBrains, from developers to accountants. Apart from product marketing, my role is to help various team at JetBrains establish the most productive processes in order reach their goals and improve collaboration.
+I strongly believe that soft skills are just as important as technical (hard) skills for long term success at work."
+        photo: "/img/speakers/valerie-andrianova.jpg"
+        facebook: "https://www.facebook.com/valery.andrianova"
+        linkedin: "https://www.linkedin.com/in/valerie-andrianova-1172031a/"
   session17:
     day: 1
     time: "16:00 - 17:00"
