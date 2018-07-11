@@ -310,6 +310,18 @@ I strongly believe that soft skills are just as important as technical (hard) sk
         linkedin: "https://www.linkedin.com/in/judyrees/"
   session19:
     day: 2
+    time: "10:45 - 15:45"
+    place: "Abava / Amata - 2nd floor"
+    title: "Open Space sessions"
+    about: "It is an agenda-less event where people come together, create agenda under specific theme, and then learn from each other in small groups. Items in agenda can be anything: problems, situations, experiences, approaches, lectures, etc. related to the specific theme. Please take a read and watch video below to get you into the mood and ‘be prepared to be surprised’ on July 20!"
+    video: "https://www.youtube.com/watch?v=4vEBcr_YkHU"
+    speakers:
+      speaker01:
+        name: "Speakers and Participants"
+        bio: "Most of the speakers from day one and anyone else who is interested to bring up a topic can start an Open space session."
+        photo: "/img/speakers/open-space.jpg"
+  session20:
+    day: 2
     time: "16:45 - 17:30"
     place: "Abava / Amata - 2nd floor"
     title: "Avoid Agile transformations"
