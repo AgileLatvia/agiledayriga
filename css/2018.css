@@ -7958,6 +7958,11 @@ button.close {
   max-width: 1100px;
   margin: 0 auto;
 }
+.inner-page-small {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 0 auto;
+}
 .newsletter,
 footer {
   padding: 0!important;

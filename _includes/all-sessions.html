@@ -1,8 +1,8 @@
   <!-- Schedule caption -->
   <div id="sessions" class="page color-4">
-    <!--<div class="inner-page">
+    <div class="inner-page">
       <h2 class="page-headline">Schedule</h2>
-    </div>-->
+    </div>
     {% if page.year > 2011 %}
     {% if page.schedule-status == "on" %}
     <div class="inner-page">
@@ -26,6 +26,40 @@
       {% endif %}
     {% endfor %}
     <!-- /calculate number of days -->
+
+    {% if page.year == 2018 %}
+    <!-- create schedule overview -->
+    {% for i in (1..days) %}
+      {% if days > 1 %} <!-- display day if more than one -->
+      <div class="inner-page">
+        <h3 class="sponsors-subtitle">Day {{ i }}</h3>
+      </div>
+      {% endif %}<!-- /isplay day if more than one -->
+        {% assign sessions_sorted = site.data.sessions[page.year] | sort:  %}
+        {% for session in sessions_sorted %}
+          {% if session[1].day == i %}
+            {% if session[1].place == "Daugava 1+2" or session[1].place == "Abava / Amata - 2nd floor" %}<div class="features inner-page-small">{% endif %}
+            {% if session[1].place == "Daugava 1"  %}<div class="row inner-page-small">{% endif %}
+            {% if session[1].place == "Daugava 1" or session[1].place == "Daugava 2"  or session[1].place == "Casino"  %}<div class="col-md-4 features">{% endif %}
+              {% if session[1].time %} {{ session[1].time | strip_html }}{% if session[1].place %}; {{ session[1].place | strip_html }}{% endif %}{% endif %}
+              <br>
+              {% if session[1].title %}<a href="#{{ session[0] }}" >{{ session[1].title | strip_html }}</a>{% endif %}<br>
+              {% for speaker in session[1].speakers %}
+                <strong>{% if speaker[1].name %}{{ speaker[1].name | strip_html }}{% endif %}</strong>
+              {% endfor %}
+            {% if session[1].place == "Daugava 1" or session[1].place == "Daugava 2"  or session[1].place == "Casino"  %}</div>{% endif %} <!-- close 4 col speaker -->
+            {% if session[1].place == "Casino"  %}</div>{% endif %} <!-- close three tracks -->
+            {% if session[1].place == "Daugava 1+2" or session[1].place == "Abava / Amata - 2nd floor" %}</div>{% endif %} <!-- close keynote row -->
+          {% endif %}
+        {% endfor %}
+
+    {% endfor %}
+
+    <div class="inner-page">
+      <h2 class="page-headline">Detailed schedule</h2>
+    </div>
+    {% endif %} <!-- end if for 2018 overview -->
+
 
     <!-- let's iterate by days -->
     {% for i in (1..days) %}

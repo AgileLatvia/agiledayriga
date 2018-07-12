@@ -18,33 +18,17 @@
     day: 1
     time: "11:15 - 12:00"
     place: "Daugava 1"
-    title: "Fragile Agile: Coaching a Tired Team"
-    about: "As an Agile Coach or Scrum Master do you want to add energy to your team that looks not enthusiastic or resists change? Is is possible to cause harm to your team even with proper Agile coaching? Yes, if you are working with tired, exhausted or even burned-out teams, they do need special treatment, usually counterintuitive to the coaches. Would you like to learn special set of actions, taken from the medical practice, tailored to work with exhausted people? Would you like to experience an upward spiral from tiredness to the true intristic motivation and creativity? Join me in the self test and practical steps discussion what needs to be modified in the coaching and facilitation techniques and in the Agile process that you as a coach or a scrum master can help your worn out team to transition into a better process and produce steady results."
-    video: "https://www.youtube.com/watch?v=spsJJRtZDmU"
+    title: "Scrum master. The Dark Side of the Moon, or What Scrum Guide does not write about it."
+    about: "The topic is about role of Scrum Masters and things which are not written in Scrum Guide but belongs to this role."
     speakers:
       speaker01:
-        name: "Anna Obukhova"
-        bio: "Anna Obukhova is an Agile Coach working with Agile approach since 2004 as a Scrum Master, Agile Coach, Project/Program Manager and recently as Agile Portfolio Delivery Manager for a large investment bank in London. Anna is mainly interested in distributed and dispersed projects and effectiveness of team communication in such conditions. Her passion is to collect and share best industry and company practices in Agile management. Additionally, Anna Obukhova is using neuroscience and biology to explain Agile productivity and enhance Agile coaching techniques. This perspective of Neuroscience and Agile was agreed to be novel and worth sharing by many conferences, to name a few: ALE Bucharest, Agile Days Moscow, Global Scrum Gathering Paris, Agile Cambridge, Agile Tour London, Agile on the Beach (UK), Agile 2017 (Orlando, USA)... She uses her educations in Biology, Psychology and Coaching to connect working tips and recommendations with the natural processes that happen in our bodies (especially in the brain). "
-        photo: "/img/speakers/anna-obukhova.jpg"
-        blog: "https://www.infoq.com/presentations/agile-tired-team"
-        facebook: "https://www.facebook.com/anna.obukhova.1"
-        linkedin: "https://www.linkedin.com/in/anna-obukhova-0b04381/"
+        name: "Dmitriy Emelyanov"
+        bio: "Dmitriy Emelyanov (Moscow, Russia) is the only one Russian Advanced Certified Scrum Master. More than 5 years in IT, hardware project management and software product development. Scrum practitioner, Agile coach at tutu.ru and facilitator from regular Scrum events to meetings at top management level.
+  He is helping organisations to transform and be agile, creates awesome teams and helps Scrum Masters to perfect their skills with teaching, coaching and mentoring."
+        photo: "/img/speakers/dmytri-emelyanov.jpg"
+        facebook: "https://www.facebook.com/dima.emv"
+        linkedin: "https://www.linkedin.com/in/dmitry-emelyanov-667456b0/"
   session03:
-    day: 1
-    time: "11:15 - 12:00"
-    place: "Casino"
-    title: "How does a technical guy become an Agile Leader?"
-    about: "Olaf Lewitz is going to share with you some insights about the journey from an introvert engineer to an Agile Leader! According to him, everyone who is involved in software development can become an Agile Leader. Olaf thinks that all engineers like structure, processes, predictability, and simple design. Most of today’s managers in software organisations have an engineering background. They have taken responsibility in organisations that were designed for stability and success in stable markets. Now, the conditions change. Organisations change. Business agility and leadership agility are called for. How do we make that change? In his speech he will share his personal learnings and insights, his successes and failures. He will share patterns and strategies that worked for him, and tools that may help all of us deliver leadership as an Agile service."
-    speakers:
-      speaker01:
-        name: "Olaf Lewitz"
-        bio: "Olaf Lewitz, Trust Artist, TrustTemenos Leadership Academy. As Trust Artist and CEC, Olaf is a leader in the international agile community. He has helped hundreds of individuals and organisations to transform. His specialty: making sense of leadership. His strategy: increasing trust and responsibility through invitation and clarity. Olaf and Christine Neidhardt founded TrustTemenos Leadership Academy. They work with leaders increasing their clarity of identity and intent, and help growing organisations where people want to show up and grow. In 2016 they published a workbook for leaders: 'Showing Up'. Let’s trust ourselves and others. Olaf believes you deserve to love what you do."
-        photo: "/img/speakers/olaf-lewitz.jpg"
-        blog: "https://trustartist.com/"
-        facebook: "https://www.facebook.com/OlafLewitz"
-        linkedin: "https://www.linkedin.com/in/olaflewitz/"
-        twitter: "https://twitter.com/OlafLewitz"
-  session04:
     day: 1
     time: "11:15 - 12:00"
     place: "Daugava 2"
@@ -66,24 +50,34 @@ case study. real-life story.
         photo: "/img/speakers/dmitry-lebedev.png"
         facebook: "https://www.facebook.com/uwabami"
         linkedin: "https://www.linkedin.com/in/dmitrylebedev/"
+  session04:
+    day: 1
+    time: "11:15 - 12:00"
+    place: "Casino"
+    title: "Beyond Methodology"
+    about: "Have you ever faced these questions, &quot;Which methodology should I choose?&quot;, &quot;I am doing the methodology right?&quot;, &quot;Why isn't the rest of the organization doing agile?&quot;, maybe even &quot;Why isn't agile sticking?&quot; If so then this workshop is for you, and we'll discuss creating a common language and approach to work that successfully helps leaders, managers, and developers unlock their potential and the potential of an entire organization."
+    video: "https://www.youtube.com/watch?v=h9F1H9tQk3E"
+    speakers:
+      speaker01:
+        name: "Steve Angelo-Eadie"
+        bio: "Steven has led many Agile education programs in complex organizations across the world. He's developed courses and content alongside Emergn's clients and has built a number of coaching communities in the transformations he’s worked on."
+        photo: "/img/speakers/steve_angelo-eadie.png"
+        twitter: "https://twitter.com/StevieSBR"
+        linkedin: "https://www.linkedin.com/in/steven-angelo-eadie-25099b3/"
   session05:
     day: 1
     time: "12:00 - 12:45"
     place: "Daugava 1"
-    title: "What I learned about Kanban on a 400km hike on the Santiago de Camino"
-    about: "Every journey begins with a single step. Walking the Camino de Santiago for two weeks took me 586444. In this very personal talk I will share what I've learned about the practices of Kanban after applying them to learn about myself and make changes along the way.
-
-  Learning Outcomes:
-  Learn about Kanban's core practices in a gripping story about suffering and achievement. Get ideas about how you can apply these practices to your personal endeavors, too."
-    video: "https://www.youtube.com/watch?v=-veazdoOzZM"
+    title: "Learnings from nature"
+    about: "The delegates will be taken on a journey into animal kingdom to illustrate the power and effectiveness of teamwork. We can all learn from the ability of animals to thrive in effective teams and achieve high performance, often in challenging and demanding environments. Did you know that gees work as an effective team during migration when they come together in V-formation? Scientists estimate they reach their destination up to 70% faster when they work in formation rather than flying alone. Gees also honk encouragement to each other on their journey. In the same way we are motivated by regular, engaging communication.
+Creative tools – slideshow, film clips, facilitated discussions, etc."
     speakers:
       speaker01:
-        name: "Markus Wissekal"
-        bio: "Markus is accredited Kanban trainer, Agile Coach and LegoSeriousPlay Facilitator. In the past he was a programmer writing code that makes things work and do cool stuff. Now he concentrates his talents on helping teams to work better together and make even cooler stuff. Markus is really passionate about what he does and loves hearing about, and trying out new ideas within Agile. This is what led him from Scrum to become Switzerlands first Accredited Kanban Trainer and this is what will continue to lead him into a more agile, lean and positive future."
-        photo: "/img/speakers/markus-wissekal.jpg"
-        facebook: "https://www.facebook.com/maxxmaster"
-        twitter: "https://twitter.com/themaxxmaster"
-        linkedin: "https://www.linkedin.com/in/mwissekal/"
+        name: "Linda Liepina"
+        bio: "How often do you meet people who simply love their job? Well, I’m the lucky one. I’ve got the privilege to learn process Improvement skills through SixSigma Black Belt training followed by exiting many years of experience. In addition in DHL we have implemented the best in class and award winning internal culture and training system what we call “Certified International Specialists”. This is the basics of latest success and I’m so happy I had a chance to champion it in Baltics and in Latvia. And the most favorite part of it is facilitation, the chance to live grows mindset and continues improvement through development of colleagues."
+        photo: "/img/speakers/linda-liepina.jpg"
+        facebook: "https://www.facebook.com/liepina.linda"
+        linkedin: "https://www.linkedin.com/in/linda-liepina-6610a15"
   session06:
     day: 1
     time: "12:00 - 12:45"
@@ -104,111 +98,6 @@ case study. real-life story.
     day: 1
     time: "12:00 - 12:45"
     place: "Casino"
-    title: "Top-7 Scrum Anti-Patterns and 5 Ways to Fix them"
-    about: "Scrum is the most spread Agile-framework on the planet yet many times companies do not unlock its full potential and in the worst cases suffer and fail miserably. If your Scrum adoption does not work, if you’re stuck and can’t find a way out, if you feel that something is wrong with your Scrum, then this talk is for you!
-
-  Mark will share the collective experience of his clients from the past 7 years and boil down the Top-7 Scrum Anti-Patterns he has been seeing in the wide range of companies - from small startups to huge international banks, telecom and insurance companies. Mark will also present 5 Ways to address these Anti-Patterns which will help prevent your Scrum adoption from failing."
-    speakers:
-      speaker01:
-        name: "Mark Kachanov"
-        bio: "Mark Kachanov (Russia) is an Agile Coach and certified Professional Scrum Trainer via Scrum.org. Having more than 7 years of experience in Scrum he kicked-off more than 25 teams and taught more than 500 people from all over the world. His primary areas of interest are business agility and underlying scaled scrum adoptions involving structural changes of organizations. Mark has been consulting a wide variety of companies from small startups to huge international banks, telecom and insurance companies."
-        photo: "/img/speakers/mark-kachanov.png"
-        blog: "https://www.unusual-concepts.ru/team/coach/mark-kachanov/"
-        facebook: "https://www.facebook.com/mark.kachanov.agile"
-        linkedin: "https://www.linkedin.com/in/markkachanov/"
-  session08:
-    day: 1
-    time: "13:45 - 14:30"
-    place: "Daugava 1"
-    title: "Key factors and tips for building high-performing teams"
-    about: "Agile is all about teamwork and collaboration. What are the secrets for how to work better together? This session will explore the key factors and practice exercises that help increase collaboration among team members, resulting in high performance."
-    speakers:
-      speaker01:
-        name: "Silvana Wasitova"
-        bio: "Agilist since 2005, passionate about helping teams and organizations achieve better results."
-        photo: "/img/speakers/silvana-wasitova.jpg"
-        twitter: "https://twitter.com/wasitova"
-        facebook: "https://www.facebook.com/wasitova"
-        linkedin: "https://www.linkedin.com/in/wasitova/"
-  session09:
-    day: 1
-    time: "13:45 - 14:30"
-    place: "Daugava 2"
-    title: "Learnings from nature"
-    about: "The delegates will be taken on a journey into animal kingdom to illustrate the power and effectiveness of teamwork. We can all learn from the ability of animals to thrive in effective teams and achieve high performance, often in challenging and demanding environments. Did you know that gees work as an effective team during migration when they come together in V-formation? Scientists estimate they reach their destination up to 70% faster when they work in formation rather than flying alone. Gees also honk encouragement to each other on their journey. In the same way we are motivated by regular, engaging communication.
-Creative tools – slideshow, film clips, facilitated discussions, etc."
-    speakers:
-      speaker01:
-        name: "Linda Liepina"
-        bio: "How often do you meet people who simply love their job? Well, I’m the lucky one. I’ve got the privilege to learn process Improvement skills through SixSigma Black Belt training followed by exiting many years of experience. In addition in DHL we have implemented the best in class and award winning internal culture and training system what we call “Certified International Specialists”. This is the basics of latest success and I’m so happy I had a chance to champion it in Baltics and in Latvia. And the most favorite part of it is facilitation, the chance to live grows mindset and continues improvement through development of colleagues."
-        photo: "/img/speakers/linda-liepina.jpg"
-        facebook: "https://www.facebook.com/liepina.linda"
-        linkedin: "https://www.linkedin.com/in/linda-liepina-6610a15"
-  session10:
-    day: 1
-    time: "13:45 - 14:30"
-    place: "Casino"
-    title: "Scrum master. The Dark Side of the Moon, or What Scrum Guide does not write about it."
-    about: "The topic is about role of Scrum Masters and things which are not written in Scrum Guide but belongs to this role."
-    speakers:
-      speaker01:
-        name: "Dmitriy Emelyanov"
-        bio: "Dmitriy Emelyanov (Moscow, Russia) is the only one Russian Advanced Certified Scrum Master. More than 5 years in IT, hardware project management and software product development. Scrum practitioner, Agile coach at tutu.ru and facilitator from regular Scrum events to meetings at top management level.
-  He is helping organisations to transform and be agile, creates awesome teams and helps Scrum Masters to perfect their skills with teaching, coaching and mentoring."
-        photo: "/img/speakers/dmytri-emelyanov.jpg"
-        facebook: "https://www.facebook.com/dima.emv"
-        linkedin: "https://www.linkedin.com/in/dmitry-emelyanov-667456b0/"
-  session11:
-    day: 1
-    time: "14:30 - 15:15"
-    place: "Daugava 1"
-    title: "How to lead a DevOps team of 125 at a Fortune100 company"
-    about: "Rules how to do business in 400k people company are very different from what people are used to in small and mid-size companies. It's similar to running your own company but few things are very different. I'll tell more about environment I live in, what targets we have as team and why we are being so successful.
-
-  Last year at world class conference &quot;All Day DevOps&quot; I told about my journey how we grew from 0 to 100. Guess what - it didn't solve all our issues. This year I'm happy to continue my story with new things we implemented to build foundation for further growth.
-
-  This can be treated as &quot;management talk&quot; but DevOps is never just about tools. This talk covers cultural and business side which are very important to be the best in DevOps and IT world in general."
-    speakers:
-      speaker01:
-        name: "Uldis Karlov-Karlovskis"
-        bio: "I believe there is no single me. While being technician and problem solver in my heart, during last 6-7 years I have been very much interested in group psychology and therapy. Some 5 years I spent doing a lot of acting and directing in theatre. In March of 2018 I started building my own theatre troupe. Luckily my role in company gives me the opportunity to try out different methods and experiment with culture and hierarchies. I hate reading books but currently that’s the only way how to open my mind for new ideas."
-        photo: "/img/speakers/uldis-karlovs-karlovskis.jpg"
-        facebook: "https://www.facebook.com/search/top/?q=uldis%20karlovs-karlovskis"
-        twitter: "https://twitter.com/UldisKK"
-        linkedin: "https://www.linkedin.com/in/uldiskarlovskarlovskis/"
-  session12:
-    day: 1
-    time: "14:30 - 15:15"
-    place: "Daugava 2"
-    title: "Agile Reformation at Evolution Gaming"
-    about: "Evolution Gaming had a vision on how to scale Scrum, but failed to realise it due to practical obstacles and limited support. This talk is about how a reduced group of Scrum Masters faced the situation and reinvented itself and its role in the organisation. Stepwise, by acknowledging the urgency of the situation, by reconstituting its Scrum Master Community of Practice, by focusing on basic principles, by systematically pursuing feedback, by setting itself time-bound goals, and by re-engaging the organisation."
-    speakers:
-      speaker01:
-        name: "Cornelis Roele"
-        bio: "Twenty years of work in various roles in IT have left me with a practical outlook. And yet, I'm a philosopher at heart and revel at the theoretical analysis of decision-making. My current work as Scrum Master Lead at Evolution Gaming lets me couple the practical with the theoretical in the collaborative search for innovative arrangements."
-        photo: "/img/speakers/cornelis-roele.jpg"
-        linkedin: "https://www.linkedin.com/in/ceesroele/"
-        facebook: "https://www.facebook.com/cees.roele"
-  session13:
-    day: 1
-    time: "14:30 - 15:15"
-    place: "Casino"
-    title: "Tribalism in software development teams"
-    about: "We are social animals. We have evolved to depend on our tribes, literally, for our safety and survival. We identify ourselves as members of all sorts of tribes; our families, political parties, race, gender, social organizations. We even identify tribally just based on where we live.
-From my speech you will learn the traits of strong tribes and the journey any group has to make to become a real tribe. We will be looking at the tribes you belong to and how can you help them become stronger and healthier."
-    speakers:
-      speaker01:
-        name: "Vasilij Savin"
-        bio: "Vasilij Savin has been an Agile practitioner since 2008. After a career as an IT and Agile consultant in Sweden, he returned to Vilnius to assume an Agile Coach mantle in 4Finance.
-His main interests include modern management and leadership practices, tribal dynamics in teams, and how to work effectively. Even though Vasilij holds PSM and PSPO certificates, he considers himself beyond-Agile, using the practices and techniques that are most appropriate to given organisation and team maturity during the engagement."
-        photo: "/img/speakers/vasilij-savin.jpg"
-        facebook: "https://www.facebook.com/chabbrik"
-        twitter: "https://twitter.com/VasilijSavin"
-        linkedin: "https://www.linkedin.com/in/vasilij/"
-  session14:
-    day: 1
-    time: "15:15 - 16:30"
-    place: "Daugava 1"
     title: "Reframe your existing Agile change plans to be implemented everywhere in the company"
     about: "The Agile manifesto helps uncover better ways to develop software. How can you expand a change plan from the small I.T. teams to the rest of the company?
 Many of the new practices or techniques used inside I.T. teams don’t work well or need to be adapted when they are implemented somewhere else in the organization—outside the I.T. world.
@@ -227,23 +116,87 @@ He is the author of the best-selling book Leading Exponential Change ( https://w
         photo: "/img/speakers/erich-buhler.jpeg"
         linkedin: "https://www.linkedin.com/in/erich-r-bühler-09566067"
         twitter: "https://twitter.com/erichbuhler"
-  session15:
+  session08:
     day: 1
-    time: "15:15 - 16:30"
-    place: "Daugava 2"
-    title: "Beyond Methodology"
-    about: "Have you ever faced these questions, &quot;Which methodology should I choose?&quot;, &quot;I am doing the methodology right?&quot;, &quot;Why isn't the rest of the organization doing agile?&quot;, maybe even &quot;Why isn't agile sticking?&quot; If so then this workshop is for you, and we'll discuss creating a common language and approach to work that successfully helps leaders, managers, and developers unlock their potential and the potential of an entire organization."
-    video: "https://www.youtube.com/watch?v=h9F1H9tQk3E"
+    time: "13:45 - 14:30"
+    place: "Daugava 1"
+    title: "Tribalism in software development teams"
+    about: "We are social animals. We have evolved to depend on our tribes, literally, for our safety and survival. We identify ourselves as members of all sorts of tribes; our families, political parties, race, gender, social organizations. We even identify tribally just based on where we live.
+From my speech you will learn the traits of strong tribes and the journey any group has to make to become a real tribe. We will be looking at the tribes you belong to and how can you help them become stronger and healthier."
     speakers:
       speaker01:
-        name: "Steve Angelo-Eadie"
-        bio: "Steven has led many Agile education programs in complex organizations across the world. He's developed courses and content alongside Emergn's clients and has built a number of coaching communities in the transformations he’s worked on."
-        photo: "/img/speakers/steve_angelo-eadie.png"
-        twitter: "https://twitter.com/StevieSBR"
-        linkedin: "https://www.linkedin.com/in/steven-angelo-eadie-25099b3/"
-  session16:
+        name: "Vasilij Savin"
+        bio: "Vasilij Savin has been an Agile practitioner since 2008. After a career as an IT and Agile consultant in Sweden, he returned to Vilnius to assume an Agile Coach mantle in 4Finance.
+His main interests include modern management and leadership practices, tribal dynamics in teams, and how to work effectively. Even though Vasilij holds PSM and PSPO certificates, he considers himself beyond-Agile, using the practices and techniques that are most appropriate to given organisation and team maturity during the engagement."
+        photo: "/img/speakers/vasilij-savin.jpg"
+        facebook: "https://www.facebook.com/chabbrik"
+        twitter: "https://twitter.com/VasilijSavin"
+        linkedin: "https://www.linkedin.com/in/vasilij/"
+  session09:
     day: 1
-    time: "15:15 - 16:30"
+    time: "13:45 - 14:30"
+    place: "Daugava 2"
+    title: "How to lead a DevOps team of 125 at a Fortune100 company"
+    about: "Rules how to do business in 400k people company are very different from what people are used to in small and mid-size companies. It's similar to running your own company but few things are very different. I'll tell more about environment I live in, what targets we have as team and why we are being so successful.
+
+  Last year at world class conference &quot;All Day DevOps&quot; I told about my journey how we grew from 0 to 100. Guess what - it didn't solve all our issues. This year I'm happy to continue my story with new things we implemented to build foundation for further growth.
+
+  This can be treated as &quot;management talk&quot; but DevOps is never just about tools. This talk covers cultural and business side which are very important to be the best in DevOps and IT world in general."
+    speakers:
+      speaker01:
+        name: "Uldis Karlov-Karlovskis"
+        bio: "I believe there is no single me. While being technician and problem solver in my heart, during last 6-7 years I have been very much interested in group psychology and therapy. Some 5 years I spent doing a lot of acting and directing in theatre. In March of 2018 I started building my own theatre troupe. Luckily my role in company gives me the opportunity to try out different methods and experiment with culture and hierarchies. I hate reading books but currently that’s the only way how to open my mind for new ideas."
+        photo: "/img/speakers/uldis-karlovs-karlovskis.jpg"
+        facebook: "https://www.facebook.com/search/top/?q=uldis%20karlovs-karlovskis"
+        twitter: "https://twitter.com/UldisKK"
+        linkedin: "https://www.linkedin.com/in/uldiskarlovskarlovskis/"
+  session10:
+    day: 1
+    time: "13:45 - 14:30"
+    place: "Casino"
+    title: "Top-7 Scrum Anti-Patterns and 5 Ways to Fix them"
+    about: "Scrum is the most spread Agile-framework on the planet yet many times companies do not unlock its full potential and in the worst cases suffer and fail miserably. If your Scrum adoption does not work, if you’re stuck and can’t find a way out, if you feel that something is wrong with your Scrum, then this talk is for you!
+
+  Mark will share the collective experience of his clients from the past 7 years and boil down the Top-7 Scrum Anti-Patterns he has been seeing in the wide range of companies - from small startups to huge international banks, telecom and insurance companies. Mark will also present 5 Ways to address these Anti-Patterns which will help prevent your Scrum adoption from failing."
+    speakers:
+      speaker01:
+        name: "Mark Kachanov"
+        bio: "Mark Kachanov (Russia) is an Agile Coach and certified Professional Scrum Trainer via Scrum.org. Having more than 7 years of experience in Scrum he kicked-off more than 25 teams and taught more than 500 people from all over the world. His primary areas of interest are business agility and underlying scaled scrum adoptions involving structural changes of organizations. Mark has been consulting a wide variety of companies from small startups to huge international banks, telecom and insurance companies."
+        photo: "/img/speakers/mark-kachanov.png"
+        blog: "https://www.unusual-concepts.ru/team/coach/mark-kachanov/"
+        facebook: "https://www.facebook.com/mark.kachanov.agile"
+        linkedin: "https://www.linkedin.com/in/markkachanov/"
+  session11:
+    day: 1
+    time: "14:30 - 15:15"
+    place: "Daugava 1"
+    title: "Fragile Agile: Coaching a Tired Team"
+    about: "As an Agile Coach or Scrum Master do you want to add energy to your team that looks not enthusiastic or resists change? Is is possible to cause harm to your team even with proper Agile coaching? Yes, if you are working with tired, exhausted or even burned-out teams, they do need special treatment, usually counterintuitive to the coaches. Would you like to learn special set of actions, taken from the medical practice, tailored to work with exhausted people? Would you like to experience an upward spiral from tiredness to the true intristic motivation and creativity? Join me in the self test and practical steps discussion what needs to be modified in the coaching and facilitation techniques and in the Agile process that you as a coach or a scrum master can help your worn out team to transition into a better process and produce steady results."
+    video: "https://www.youtube.com/watch?v=spsJJRtZDmU"
+    speakers:
+      speaker01:
+        name: "Anna Obukhova"
+        bio: "Anna Obukhova is an Agile Coach working with Agile approach since 2004 as a Scrum Master, Agile Coach, Project/Program Manager and recently as Agile Portfolio Delivery Manager for a large investment bank in London. Anna is mainly interested in distributed and dispersed projects and effectiveness of team communication in such conditions. Her passion is to collect and share best industry and company practices in Agile management. Additionally, Anna Obukhova is using neuroscience and biology to explain Agile productivity and enhance Agile coaching techniques. This perspective of Neuroscience and Agile was agreed to be novel and worth sharing by many conferences, to name a few: ALE Bucharest, Agile Days Moscow, Global Scrum Gathering Paris, Agile Cambridge, Agile Tour London, Agile on the Beach (UK), Agile 2017 (Orlando, USA)... She uses her educations in Biology, Psychology and Coaching to connect working tips and recommendations with the natural processes that happen in our bodies (especially in the brain). "
+        photo: "/img/speakers/anna-obukhova.jpg"
+        blog: "https://www.infoq.com/presentations/agile-tired-team"
+        facebook: "https://www.facebook.com/anna.obukhova.1"
+        linkedin: "https://www.linkedin.com/in/anna-obukhova-0b04381/"
+  session12:
+    day: 1
+    time: "14:30 - 15:15"
+    place: "Daugava 2"
+    title: "Agile Reformation at Evolution Gaming"
+    about: "Evolution Gaming had a vision on how to scale Scrum, but failed to realise it due to practical obstacles and limited support. This talk is about how a reduced group of Scrum Masters faced the situation and reinvented itself and its role in the organisation. Stepwise, by acknowledging the urgency of the situation, by reconstituting its Scrum Master Community of Practice, by focusing on basic principles, by systematically pursuing feedback, by setting itself time-bound goals, and by re-engaging the organisation."
+    speakers:
+      speaker01:
+        name: "Cornelis Roele"
+        bio: "Twenty years of work in various roles in IT have left me with a practical outlook. And yet, I'm a philosopher at heart and revel at the theoretical analysis of decision-making. My current work as Scrum Master Lead at Evolution Gaming lets me couple the practical with the theoretical in the collaborative search for innovative arrangements."
+        photo: "/img/speakers/cornelis-roele.jpg"
+        linkedin: "https://www.linkedin.com/in/ceesroele/"
+        facebook: "https://www.facebook.com/cees.roele"
+  session13:
+    day: 1
+    time: "14:30 - 15:15"
     place: "Casino"
     title: "Native Agile Psychology of Teams and Individuals"
     about: "Have you ever wondered how teams and individuals form an agile mindset?
@@ -258,6 +211,53 @@ I strongly believe that soft skills are just as important as technical (hard) sk
         photo: "/img/speakers/valerie-andrianova.jpg"
         facebook: "https://www.facebook.com/valery.andrianova"
         linkedin: "https://www.linkedin.com/in/valerie-andrianova-1172031a/"
+  session14:
+    day: 1
+    time: "15:15 - 16:15"
+    place: "Daugava 1"
+    title: "Key factors and tips for building high-performing teams"
+    about: "Agile is all about teamwork and collaboration. What are the secrets for how to work better together? This session will explore the key factors and practice exercises that help increase collaboration among team members, resulting in high performance."
+    speakers:
+      speaker01:
+        name: "Silvana Wasitova"
+        bio: "Agilist since 2005, passionate about helping teams and organizations achieve better results."
+        photo: "/img/speakers/silvana-wasitova.jpg"
+        twitter: "https://twitter.com/wasitova"
+        facebook: "https://www.facebook.com/wasitova"
+        linkedin: "https://www.linkedin.com/in/wasitova/"
+  session15:
+    day: 1
+    time: "15:15 - 16:15"
+    place: "Daugava 2"
+    title: "How does a technical guy become an Agile Leader?"
+    about: "Olaf Lewitz is going to share with you some insights about the journey from an introvert engineer to an Agile Leader! According to him, everyone who is involved in software development can become an Agile Leader. Olaf thinks that all engineers like structure, processes, predictability, and simple design. Most of today’s managers in software organisations have an engineering background. They have taken responsibility in organisations that were designed for stability and success in stable markets. Now, the conditions change. Organisations change. Business agility and leadership agility are called for. How do we make that change? In his speech he will share his personal learnings and insights, his successes and failures. He will share patterns and strategies that worked for him, and tools that may help all of us deliver leadership as an Agile service."
+    speakers:
+      speaker01:
+        name: "Olaf Lewitz"
+        bio: "Olaf Lewitz, Trust Artist, TrustTemenos Leadership Academy. As Trust Artist and CEC, Olaf is a leader in the international agile community. He has helped hundreds of individuals and organisations to transform. His specialty: making sense of leadership. His strategy: increasing trust and responsibility through invitation and clarity. Olaf and Christine Neidhardt founded TrustTemenos Leadership Academy. They work with leaders increasing their clarity of identity and intent, and help growing organisations where people want to show up and grow. In 2016 they published a workbook for leaders: 'Showing Up'. Let’s trust ourselves and others. Olaf believes you deserve to love what you do."
+        photo: "/img/speakers/olaf-lewitz.jpg"
+        blog: "https://trustartist.com/"
+        facebook: "https://www.facebook.com/OlafLewitz"
+        linkedin: "https://www.linkedin.com/in/olaflewitz/"
+        twitter: "https://twitter.com/OlafLewitz"
+  session16:
+    day: 1
+    time: "15:15 - 16:15"
+    place: "Casino"
+    title: "What I learned about Kanban on a 400km hike on the Santiago de Camino"
+    about: "Every journey begins with a single step. Walking the Camino de Santiago for two weeks took me 586444. In this very personal talk I will share what I've learned about the practices of Kanban after applying them to learn about myself and make changes along the way.
+
+  Learning Outcomes:
+  Learn about Kanban's core practices in a gripping story about suffering and achievement. Get ideas about how you can apply these practices to your personal endeavors, too."
+    video: "https://www.youtube.com/watch?v=-veazdoOzZM"
+    speakers:
+      speaker01:
+        name: "Markus Wissekal"
+        bio: "Markus is accredited Kanban trainer, Agile Coach and LegoSeriousPlay Facilitator. In the past he was a programmer writing code that makes things work and do cool stuff. Now he concentrates his talents on helping teams to work better together and make even cooler stuff. Markus is really passionate about what he does and loves hearing about, and trying out new ideas within Agile. This is what led him from Scrum to become Switzerlands first Accredited Kanban Trainer and this is what will continue to lead him into a more agile, lean and positive future."
+        photo: "/img/speakers/markus-wissekal.jpg"
+        facebook: "https://www.facebook.com/maxxmaster"
+        twitter: "https://twitter.com/themaxxmaster"
+        linkedin: "https://www.linkedin.com/in/mwissekal/"
   session17:
     day: 1
     time: "16:00 - 17:00"
