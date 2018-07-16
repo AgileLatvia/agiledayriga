@@ -34,11 +34,15 @@
       <div class="inner-page">
         <h3 class="sponsors-subtitle">Day {{ i }}</h3>
       </div>
-      {% endif %}<!-- /isplay day if more than one -->
+      {% endif %}<!-- display day if more than one -->
+
+
+
+
         {% assign sessions_sorted = site.data.sessions[page.year] | sort:  %}
         {% for session in sessions_sorted %}
           {% if session[1].day == i %}
-            {% if session[1].place == "Daugava 1+2" or session[1].place == "Abava / Amata - 2nd floor" %}<div class="features inner-page-small">{% endif %}
+            {% if session[1].place == "Daugava 1+2" or session[1].place == "Hotel's restaurant" or session[1].place == "Next to Daugava 1+2" or session[1].place == "Abava / Amata - 2nd floor" %}<div class="features inner-page-small">{% endif %}
             {% if session[1].place == "Daugava 1"  %}<div class="row inner-page-small">{% endif %}
             {% if session[1].place == "Daugava 1" or session[1].place == "Daugava 2"  or session[1].place == "Casino"  %}<div class="col-md-4 features">{% endif %}
               {% if session[1].time %} {{ session[1].time | strip_html }}{% if session[1].place %}; {{ session[1].place | strip_html }}{% endif %}{% endif %}
@@ -48,9 +52,9 @@
               {% for speaker in session[1].speakers %}
                 <strong>{% if speaker[1].name %}{{ speaker[1].name | strip_html }}{% endif %}</strong>
               {% endfor %}
-            {% if session[1].place == "Daugava 1" or session[1].place == "Daugava 2"  or session[1].place == "Casino"  %}</div>{% endif %} <!-- close 4 col speaker -->
+            {% if session[1].place == "Daugava 1" or session[1].place == "Hotel's restaurant" or session[1].place == "Daugava 2"  or session[1].place == "Casino"  %}</div>{% endif %} <!-- close 4 col speaker -->
             {% if session[1].place == "Casino"  %}</div>{% endif %} <!-- close three tracks -->
-            {% if session[1].place == "Daugava 1+2" or session[1].place == "Abava / Amata - 2nd floor" %}</div>{% endif %} <!-- close keynote row -->
+            {% if session[1].place == "Daugava 1+2" or session[1].place == "Next to Daugava 1+2" or session[1].place == "Abava / Amata - 2nd floor" %}</div>{% endif %} <!-- close keynote row -->
           {% endif %}
         {% endfor %}
 
