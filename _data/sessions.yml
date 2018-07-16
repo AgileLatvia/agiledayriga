@@ -1,7 +1,7 @@
 2018:
   session01:
     day: 1
-    time: "10:00 - 11:00"
+    time: "10:00 - 10:45"
     place: "Daugava 1+2"
     title: "Agility in the Face of Perplexity"
     about: "Scrum was officially presented in 1995. In 2001, 17 software development leaders published the &quot;Manifesto for Agile Software Development&quot;. Agile gradually started replacing the industrial way of thinking, with Scrum being the most adopted technique to achieve a higher state of agility. Today, 2018, the Agile paradigm is more needed than ever, to avoid complexity turning into perplexity. Gunther aspires disentangling the clew that ’Scrum’ and ‘Agile’ turned into and show the value and their originality. Gunther has considered what Agile means to him, what it is that makes Agile work, what it is that makes Scrum work, and will share his views on the future state of Scrum and Agile."
@@ -260,7 +260,7 @@ I strongly believe that soft skills are just as important as technical (hard) sk
         linkedin: "https://www.linkedin.com/in/mwissekal/"
   session17:
     day: 1
-    time: "16:00 - 17:00"
+    time: "16:45 - 17:30"
     place: "Daugava 1+2"
     title: "Have We Lost the Real Meaning of Agile?"
     about: "In this talk I will try to shed some light on the history of Agile. I was talking to Manifesto signatories reconstructing the talks they had about the deeper meaning of Agile and looking around 17 years later, I can say that we have lost the real meaning of this word.
