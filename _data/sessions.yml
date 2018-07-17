@@ -164,7 +164,7 @@ His main interests include modern management and leadership practices, tribal dy
   This can be treated as &quot;management talk&quot; but DevOps is never just about tools. This talk covers cultural and business side which are very important to be the best in DevOps and IT world in general."
     speakers:
       speaker01:
-        name: "Uldis Karlov-Karlovskis"
+        name: "Uldis Karlovs-Karlovskis"
         bio: "I believe there is no single me. While being technician and problem solver in my heart, during last 6-7 years I have been very much interested in group psychology and therapy. Some 5 years I spent doing a lot of acting and directing in theatre. In March of 2018 I started building my own theatre troupe. Luckily my role in company gives me the opportunity to try out different methods and experiment with culture and hierarchies. I hate reading books but currently that’s the only way how to open my mind for new ideas."
         photo: "/img/speakers/uldis-karlovs-karlovskis.jpg"
         facebook: "https://www.facebook.com/search/top/?q=uldis%20karlovs-karlovskis"
@@ -287,26 +287,34 @@ I strongly believe that soft skills are just as important as technical (hard) sk
     day: 1
     time: "16:45 - 17:30"
     place: "Daugava 1+2"
-    title: "Have We Lost the Real Meaning of Agile?"
-    about: "In this talk I will try to shed some light on the history of Agile. I was talking to Manifesto signatories reconstructing the talks they had about the deeper meaning of Agile and looking around 17 years later, I can say that we have lost the real meaning of this word.
+    title: "Avoid Agile transformations"
+    about: "Agile is no longer a set of software development methods used by a bunch of innovators. Nowadays Agile is arguably the most popular and successful product development strategy. Therefore many organisations decided to start their &quot;Agile transformation&quot; to become a different organisation that is able to operate in a new business paradigm….. Or not?
+Is it possible to transform an organisation? Is it viable to influence the culture, structure and processes in an organization to successfully operate as an entirely different entity? Is a transformation needed to succed in business?
+I will use Complexity thinking and Cynefin in practice to answer this questions from a experimental perspective. By making sense of the different business contexts, and understanding what are the more suitable practices for each context you will be able to understand when Agility makes sense and how to make business Agility happen.
+In this talk I’ll share my thoughts about Agile transformations: why this is becoming important in this moment of history, why Agile emerges in the software industry, how is agile connected to the 21st century customer, how Agile addresses the need of continuous innovation and why the concept of &quot;Agile Transformation&quot; can be an stopper for organisations to achieve a real growth.
 
-  I want to share with you my findings about the What and about the How of Agile. We will be discussing three goals of Agility and talking about the reasons why different companies are starting on this path. I will tell you about a few wrong reasons and a couple of good ones.
-
-  I will also answer the question many people are asking now: is Agile dead?, should we switch to building Real organisations instead?"
-    video: "https://youtu.be/ww9I1mOZ5CM"
+Learning Outcomes:
+Understand Business Agility,
+Describe why Agile is not always the answer,
+Understand why &quot;Agile transformations&quot; are often failing,
+Explain why the concept &quot;Agile transformation&quot; should be substituted by &quot;Incorporating experimentation capabilities&quot;,
+Define an Strategy for business Agility based on complexity thinking,
+Understanding of the core of agile,
+contextualize Agile in the current world of business.
+Powerful and proven arguments to encourage business people to get involved in Agile initiatives."
     speakers:
       speaker01:
-        name: "Sergey Dmitriev"
-        bio: "Sergey Dmitriev (Russia) is an agile and scrum evangelist focused on improvement of business processes, modern approaches to management and strategy consulting. I can help your organization transform to agile or to improve your existing agile practices. I do executive and team coaching and workshop facilitation.
-
-  My mission is to convince the World that traditional approach to managing knowledge workers is broken.
-
-  My hobby is diving. Interested in deep and wreck diving or a combination of both :) I am a father of 4 and a happy man."
-        photo: "/img/speakers/sergey-dmitriev.jpg"
-        blog: "https://www.unusual-concepts.ru/"
-        facebook: "https://www.facebook.com/blackie6"
-        twitter: "https://twitter.com/blackie6?lang=en"
-        linkedin: "https://www.linkedin.com/in/sergeydmitriev/"
+        name: "Angel Diaz-Maroto"
+        bio: "Angel is a very energetic Agile coach who truly enjoys challenges. Putting in place Lean and Agile concepts and practices in very complex environments is his specialty and passion. As an Agile coach, trainer, and mentor, he’s supported several multinational organizations in their Agile journeys during the last 10 years.
+    Throughout his over 18 years of experience in IT Angel has worked in various roles: agile coach, R&D manager, software developer, software architect, ScrumMaster, and trainer.
+    Angel is recognized worldwide as an expert in Agile and Scrum and he holds the three highest level certifications in the field: CST (Certified Scrum Trainer), CEC (Certified Enterprise Coach) and CAL Educator (Certified Agile Leadership Educator) by the Scrum Alliance. This is a very unique set of credentials as there are only 24 CAL Educators, 94 CEC’s and 232 CST’s worldwide, as for today.
+    Angel is also a co-active coach, specialized in team coaching and systemic leadership, and Management 3.0 licensed trainer.
+    Additionally, he teaches video game production at ESNE (University of Design, Innovation and technology) and Design Thinking at LaSalle University.
+    Angel is as well a frequent speaker having participated in more than 40 international conferences and Agile events in Europe, Asia and the Americas."
+        photo: "/img/speakers/angel-diaz-maroto2018.png"
+        facebook: "https://www.facebook.com/adiazmaroto/about?lst=100000200571456%3A514272136%3A1523957765"
+        twitter: "https://twitter.com/adiazmaroto"
+        linkedin: "https://www.linkedin.com/in/adiazmaroto/"
   session23:
     day: 1
     time: "17:30 - 17:45"
@@ -393,34 +401,26 @@ I strongly believe that soft skills are just as important as technical (hard) sk
     day: 2
     time: "16:45 - 17:30"
     place: "Abava / Amata - 2nd floor"
-    title: "Avoid Agile transformations"
-    about: "Agile is no longer a set of software development methods used by a bunch of innovators. Nowadays Agile is arguably the most popular and successful product development strategy. Therefore many organisations decided to start their &quot;Agile transformation&quot; to become a different organisation that is able to operate in a new business paradigm….. Or not?
-Is it possible to transform an organisation? Is it viable to influence the culture, structure and processes in an organization to successfully operate as an entirely different entity? Is a transformation needed to succed in business?
-I will use Complexity thinking and Cynefin in practice to answer this questions from a experimental perspective. By making sense of the different business contexts, and understanding what are the more suitable practices for each context you will be able to understand when Agility makes sense and how to make business Agility happen.
-In this talk I’ll share my thoughts about Agile transformations: why this is becoming important in this moment of history, why Agile emerges in the software industry, how is agile connected to the 21st century customer, how Agile addresses the need of continuous innovation and why the concept of &quot;Agile Transformation&quot; can be an stopper for organisations to achieve a real growth.
+    title: "Have We Lost the Real Meaning of Agile?"
+    about: "In this talk I will try to shed some light on the history of Agile. I was talking to Manifesto signatories reconstructing the talks they had about the deeper meaning of Agile and looking around 17 years later, I can say that we have lost the real meaning of this word.
 
-Learning Outcomes:
-Understand Business Agility,
-Describe why Agile is not always the answer,
-Understand why &quot;Agile transformations&quot; are often failing,
-Explain why the concept &quot;Agile transformation&quot; should be substituted by &quot;Incorporating experimentation capabilities&quot;,
-Define an Strategy for business Agility based on complexity thinking,
-Understanding of the core of agile,
-contextualize Agile in the current world of business.
-Powerful and proven arguments to encourage business people to get involved in Agile initiatives."
+  I want to share with you my findings about the What and about the How of Agile. We will be discussing three goals of Agility and talking about the reasons why different companies are starting on this path. I will tell you about a few wrong reasons and a couple of good ones.
+
+  I will also answer the question many people are asking now: is Agile dead?, should we switch to building Real organisations instead?"
+    video: "https://youtu.be/ww9I1mOZ5CM"
     speakers:
       speaker01:
-        name: "Angel Diaz-Maroto"
-        bio: "Angel is a very energetic Agile coach who truly enjoys challenges. Putting in place Lean and Agile concepts and practices in very complex environments is his specialty and passion. As an Agile coach, trainer, and mentor, he’s supported several multinational organizations in their Agile journeys during the last 10 years.
-    Throughout his over 18 years of experience in IT Angel has worked in various roles: agile coach, R&D manager, software developer, software architect, ScrumMaster, and trainer.
-    Angel is recognized worldwide as an expert in Agile and Scrum and he holds the three highest level certifications in the field: CST (Certified Scrum Trainer), CEC (Certified Enterprise Coach) and CAL Educator (Certified Agile Leadership Educator) by the Scrum Alliance. This is a very unique set of credentials as there are only 24 CAL Educators, 94 CEC’s and 232 CST’s worldwide, as for today.
-    Angel is also a co-active coach, specialized in team coaching and systemic leadership, and Management 3.0 licensed trainer.
-    Additionally, he teaches video game production at ESNE (University of Design, Innovation and technology) and Design Thinking at LaSalle University.
-    Angel is as well a frequent speaker having participated in more than 40 international conferences and Agile events in Europe, Asia and the Americas."
-        photo: "/img/speakers/angel-diaz-maroto2018.png"
-        facebook: "https://www.facebook.com/adiazmaroto/about?lst=100000200571456%3A514272136%3A1523957765"
-        twitter: "https://twitter.com/adiazmaroto"
-        linkedin: "https://www.linkedin.com/in/adiazmaroto/"
+        name: "Sergey Dmitriev"
+        bio: "Sergey Dmitriev (Russia) is an agile and scrum evangelist focused on improvement of business processes, modern approaches to management and strategy consulting. I can help your organization transform to agile or to improve your existing agile practices. I do executive and team coaching and workshop facilitation.
+
+  My mission is to convince the World that traditional approach to managing knowledge workers is broken.
+
+  My hobby is diving. Interested in deep and wreck diving or a combination of both :) I am a father of 4 and a happy man."
+        photo: "/img/speakers/sergey-dmitriev.jpg"
+        blog: "https://www.unusual-concepts.ru/"
+        facebook: "https://www.facebook.com/blackie6"
+        twitter: "https://twitter.com/blackie6?lang=en"
+        linkedin: "https://www.linkedin.com/in/sergeydmitriev/"
   session33:
     day: 2
     time: "17:30 - 18:00"
