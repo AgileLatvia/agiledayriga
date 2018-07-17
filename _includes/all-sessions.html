@@ -46,16 +46,17 @@
             {% if session[1].place == "Daugava 1"  %}<div class="row inner-page-small">{% endif %}
             {% if session[1].place == "Daugava 1" or session[1].place == "Daugava 2"  or session[1].place == "Casino"  %}<div class="col-md-4 features">{% endif %}
               {% if session[1].time %} {{ session[1].time | strip_html }}{% if session[1].place %}; {{ session[1].place | strip_html }}{% endif %}{% endif %}
-              <br>
+              {% if session[1].place == "Daugava 1" or session[1].place == "Daugava 2"  or session[1].place == "Casino"  %}<br>{% else %} - {% endif %}
               {% if session[1].title %}<a href="#{{ session[0] }}" >{{ session[1].title | strip_html }}</a>{% endif %}<br>
 
               {% for speaker in session[1].speakers %}
                 <strong>{% if speaker[1].name %}{{ speaker[1].name | strip_html }}{% endif %}</strong>
               {% endfor %}
-            {% if session[1].place == "Daugava 1" or session[1].place == "Hotel's restaurant" or session[1].place == "Daugava 2"  or session[1].place == "Casino"  %}</div>{% endif %} <!-- close 4 col speaker -->
-            {% if session[1].place == "Casino"  %}</div>{% endif %} <!-- close three tracks -->
-            {% if session[1].place == "Daugava 1+2" or session[1].place == "Next to Daugava 1+2" or session[1].place == "Abava / Amata - 2nd floor" %}</div>{% endif %} <!-- close keynote row -->
+            {% if session[1].place == "Daugava 1"  or session[1].place == "Daugava 2"  or session[1].place == "Casino"  %}</div>{% endif %} <!-- close 4 col speaker -->
+            {% if session[1].place == "Casino"  %}</div><hr class="col-md-12 hr_no_padding">{% endif %} <!-- close three tracks -->
+            {% if session[1].place == "Daugava 1+2" or session[1].place == "Hotel's restaurant" or session[1].place == "Next to Daugava 1+2" or session[1].place == "Abava / Amata - 2nd floor" %}</div><hr class="hr_no_padding">{% endif %} <!-- close keynote row -->
           {% endif %}
+
         {% endfor %}
 
     {% endfor %}

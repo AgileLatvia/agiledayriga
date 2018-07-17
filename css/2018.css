@@ -8093,6 +8093,10 @@ hr {
   margin: 30px auto;
   border-width: 1px;
 }
+.hr_no_padding{
+  margin: 0px auto;
+  padding: 0px;
+}
 /* Lists */
 ul {
   list-style: none;
