@@ -16,6 +16,7 @@
     title: "Agility in the Face of Perplexity"
     about: "Scrum was officially presented in 1995. In 2001, 17 software development leaders published the &quot;Manifesto for Agile Software Development&quot;. Agile gradually started replacing the industrial way of thinking, with Scrum being the most adopted technique to achieve a higher state of agility. Today, 2018, the Agile paradigm is more needed than ever, to avoid complexity turning into perplexity. Gunther aspires disentangling the clew that ’Scrum’ and ‘Agile’ turned into and show the value and their originality. Gunther has considered what Agile means to him, what it is that makes Agile work, what it is that makes Scrum work, and will share his views on the future state of Scrum and Agile."
     video: "https://www.youtube.com/watch?v=KSYS2wFB_LA"
+    slides: "https://drive.google.com/open?id=1PzeeCyCNXkW53JLxy_hSiKq9NRjSR62o"
     speakers:
       speaker01:
         name: "Gunther Verheyen"
@@ -35,6 +36,8 @@
     place: "Daugava 1"
     title: "Scrum master. The Dark Side of the Moon, or What Scrum Guide does not write about it."
     about: "The topic is about role of Scrum Masters and things which are not written in Scrum Guide but belongs to this role."
+    slides:
+    video: "https://www.youtube.com/watch?v=0rOCHf-FAlg&t=0s&list=PLdVGonf7NDxZMpNEW5Zgw4nQcHDX26yl2&index=9"
     speakers:
       speaker01:
         name: "Dmitriy Emelyanov"
@@ -58,6 +61,7 @@ case study. real-life story.
 + will compare different approaches including SAFe
 + team/company onboarding to new process
 + lessons learned"
+    slides: "https://drive.google.com/open?id=1v-zu5iwnCJEVDaq8lgawNmI8qNuOI5m0"
     speakers:
       speaker01:
         name: "Dmitry Lebedev"
@@ -86,6 +90,8 @@ case study. real-life story.
     title: "Learnings from nature"
     about: "The delegates will be taken on a journey into animal kingdom to illustrate the power and effectiveness of teamwork. We can all learn from the ability of animals to thrive in effective teams and achieve high performance, often in challenging and demanding environments. Did you know that gees work as an effective team during migration when they come together in V-formation? Scientists estimate they reach their destination up to 70% faster when they work in formation rather than flying alone. Gees also honk encouragement to each other on their journey. In the same way we are motivated by regular, engaging communication.
 Creative tools – slideshow, film clips, facilitated discussions, etc."
+    slides: "https://drive.google.com/open?id=1HLxNbtOq-whnbae0wEcmU1c_iHbyLpSr"
+    video: "https://www.youtube.com/watch?v=Qo9ep0lIo04&t=0s&list=PLdVGonf7NDxZMpNEW5Zgw4nQcHDX26yl2&index=11"
     speakers:
       speaker01:
         name: "Linda Liepina"
@@ -101,6 +107,7 @@ Creative tools – slideshow, film clips, facilitated discussions, etc."
     about: "For the last 14 years I was observing enterprises from small to big striving to improve their business processes and improve results of the business. Once, consulting a 3-months old company of my friend, I got it clear. Although those problems of big and small enterprises are very different, the roots of that problems are quite the same. The same patterns keeps from org to org, and these patterns constitute the most hard impediments on the way to agility.
 
   In my speech I’m going to share the insights on the nature of this patterns, show how they work, and give ideas on what could be done to move away from the dead point."
+    slides: "https://drive.google.com/open?id=1zGdSUL_51JlmT8vUllAYPffLLHg2HMjf"
     speakers:
       speaker01:
         name: "Andrey Tolmachev"
@@ -122,6 +129,8 @@ Which consistent patterns can you use to create powerful plans that can be imple
 The answer requires to use different strategies that go beyond Agile and Scrum.
 This session provides an insight into how to adapt any change initiative to be easily implemented in the rest of the organization. It also shows the ways to make sure that a business transformation doesn’t lose traction.
 Join this session from the author of the best-seller book &quote;Leading Exponential Change&quote;."
+    slides: "https://drive.google.com/open?id=1bRnz_SfbH6C6sU_r_4ImTsR3Yad8TIii"
+    video:
     speakers:
       speaker01:
         name: "Erich Bühler"
@@ -143,6 +152,8 @@ He is the author of the best-selling book Leading Exponential Change ( https://w
     title: "Tribalism in software development teams"
     about: "We are social animals. We have evolved to depend on our tribes, literally, for our safety and survival. We identify ourselves as members of all sorts of tribes; our families, political parties, race, gender, social organizations. We even identify tribally just based on where we live.
 From my speech you will learn the traits of strong tribes and the journey any group has to make to become a real tribe. We will be looking at the tribes you belong to and how can you help them become stronger and healthier."
+    video:
+    slides: "https://drive.google.com/open?id=1jxvcYAnTB4f5-ovawfhNH8q4lBBMZhj0sQ5Uh28s2uQ"
     speakers:
       speaker01:
         name: "Vasilij Savin"
@@ -162,6 +173,8 @@ His main interests include modern management and leadership practices, tribal dy
   Last year at world class conference &quot;All Day DevOps&quot; I told about my journey how we grew from 0 to 100. Guess what - it didn't solve all our issues. This year I'm happy to continue my story with new things we implemented to build foundation for further growth.
 
   This can be treated as &quot;management talk&quot; but DevOps is never just about tools. This talk covers cultural and business side which are very important to be the best in DevOps and IT world in general."
+    slides:
+    video: "https://www.youtube.com/watch?v=Uxt112F-G7g&t=0s&list=PLdVGonf7NDxZMpNEW5Zgw4nQcHDX26yl2&index=12"
     speakers:
       speaker01:
         name: "Uldis Karlovs-Karlovskis"
@@ -178,6 +191,8 @@ His main interests include modern management and leadership practices, tribal dy
     about: "Scrum is the most spread Agile-framework on the planet yet many times companies do not unlock its full potential and in the worst cases suffer and fail miserably. If your Scrum adoption does not work, if you’re stuck and can’t find a way out, if you feel that something is wrong with your Scrum, then this talk is for you!
 
   Mark will share the collective experience of his clients from the past 7 years and boil down the Top-7 Scrum Anti-Patterns he has been seeing in the wide range of companies - from small startups to huge international banks, telecom and insurance companies. Mark will also present 5 Ways to address these Anti-Patterns which will help prevent your Scrum adoption from failing."
+    slides: "https://drive.google.com/open?id=1pwtspThSJeHo4wM5oXkh7jS9StXZCPnM"
+    video: "https://www.youtube.com/watch?v=LK17l44QEps&t=0s&list=PLdVGonf7NDxZMpNEW5Zgw4nQcHDX26yl2&index=13"
     speakers:
       speaker01:
         name: "Mark Kachanov"
@@ -193,6 +208,7 @@ His main interests include modern management and leadership practices, tribal dy
     title: "Fragile Agile: Coaching a Tired Team"
     about: "As an Agile Coach or Scrum Master do you want to add energy to your team that looks not enthusiastic or resists change? Is is possible to cause harm to your team even with proper Agile coaching? Yes, if you are working with tired, exhausted or even burned-out teams, they do need special treatment, usually counterintuitive to the coaches. Would you like to learn special set of actions, taken from the medical practice, tailored to work with exhausted people? Would you like to experience an upward spiral from tiredness to the true intristic motivation and creativity? Join me in the self test and practical steps discussion what needs to be modified in the coaching and facilitation techniques and in the Agile process that you as a coach or a scrum master can help your worn out team to transition into a better process and produce steady results."
     video: "https://www.youtube.com/watch?v=spsJJRtZDmU"
+    slides:
     speakers:
       speaker01:
         name: "Anna Obukhova"
@@ -207,6 +223,8 @@ His main interests include modern management and leadership practices, tribal dy
     place: "Daugava 2"
     title: "Agile Reformation at Evolution Gaming"
     about: "Evolution Gaming had a vision on how to scale Scrum, but failed to realise it due to practical obstacles and limited support. This talk is about how a reduced group of Scrum Masters faced the situation and reinvented itself and its role in the organisation. Stepwise, by acknowledging the urgency of the situation, by reconstituting its Scrum Master Community of Practice, by focusing on basic principles, by systematically pursuing feedback, by setting itself time-bound goals, and by re-engaging the organisation."
+    slides: "https://drive.google.com/open?id=1VXSaA0-Xw_SQpzD2zuWZDFGbuDP0KDz_"
+    video:
     speakers:
       speaker01:
         name: "Cornelis Roele"
@@ -222,6 +240,8 @@ His main interests include modern management and leadership practices, tribal dy
     about: "Have you ever wondered how teams and individuals form an agile mindset?
 Are there specific practices to follow or processes to impose that nurture a truly agile team? Do agile values and principles come naturally to people who possess a certain mindset? Does company culture affect the personal qualities and values ​​of its employees?
 I believe that it is possible to  acquire an agile philosophy without following a standard set of rules. Based on our experience, I will try to prove that it’s not the practices and processes that make the team truly agile, but the mindset of people who work there. I will also describe the special qualities that our people, teams, and the company as a whole exemplify, and how these talents can be cultivated and nurtured."
+    slides: "https://drive.google.com/open?id=1jrH_uxQ0i0uJICE5VlXlZBtyeXIcRVG3"
+    video: "https://www.youtube.com/watch?v=bfQjGNZtKtw&t=0s&list=PLdVGonf7NDxZMpNEW5Zgw4nQcHDX26yl2&index=10"
     speakers:
       speaker01:
         name: "Valerie	Andrianova"
@@ -237,6 +257,8 @@ I strongly believe that soft skills are just as important as technical (hard) sk
     place: "Daugava 1"
     title: "Key factors and tips for building high-performing teams"
     about: "Agile is all about teamwork and collaboration. What are the secrets for how to work better together? This session will explore the key factors and practice exercises that help increase collaboration among team members, resulting in high performance."
+    slides:
+    video: "https://www.youtube.com/watch?v=Ifl9f0oOG-E&t=0s&list=PLdVGonf7NDxZMpNEW5Zgw4nQcHDX26yl2&index=8"
     speakers:
       speaker01:
         name: "Silvana Wasitova"
@@ -251,6 +273,8 @@ I strongly believe that soft skills are just as important as technical (hard) sk
     place: "Daugava 2"
     title: "How does a technical guy become an Agile Leader?"
     about: "Olaf Lewitz is going to share with you some insights about the journey from an introvert engineer to an Agile Leader! According to him, everyone who is involved in software development can become an Agile Leader. Olaf thinks that all engineers like structure, processes, predictability, and simple design. Most of today’s managers in software organisations have an engineering background. They have taken responsibility in organisations that were designed for stability and success in stable markets. Now, the conditions change. Organisations change. Business agility and leadership agility are called for. How do we make that change? In his speech he will share his personal learnings and insights, his successes and failures. He will share patterns and strategies that worked for him, and tools that may help all of us deliver leadership as an Agile service."
+    slides: "https://drive.google.com/open?id=1d7HtGziZorQbPN6xF6k9CLaimT_cMLOM"
+    video: ""
     speakers:
       speaker01:
         name: "Olaf Lewitz"
@@ -270,6 +294,7 @@ I strongly believe that soft skills are just as important as technical (hard) sk
   Learning Outcomes:
   Learn about Kanban's core practices in a gripping story about suffering and achievement. Get ideas about how you can apply these practices to your personal endeavors, too."
     video: "https://www.youtube.com/watch?v=-veazdoOzZM"
+    slides: "https://drive.google.com/open?id=1YxDF0ZciNiHQPDLwxq2ARhidvB79RMSA"
     speakers:
       speaker01:
         name: "Markus Wissekal"
@@ -302,6 +327,8 @@ Define an Strategy for business Agility based on complexity thinking,
 Understanding of the core of agile,
 contextualize Agile in the current world of business.
 Powerful and proven arguments to encourage business people to get involved in Agile initiatives."
+    slides:
+    video:
     speakers:
       speaker01:
         name: "Angel Diaz-Maroto"
@@ -338,6 +365,7 @@ Powerful and proven arguments to encourage business people to get involved in Ag
   Experiment with the technique in a series of lightning - and enlightening - conversations
   Plan to apply all of this straight away, so that they get even better value from the rest of the conference."
     video: "https://www.youtube.com/watch?v=mJ7hBV4PBkI"
+    slides:
     speakers:
       speaker01:
         name: "Judy Rees"
@@ -408,6 +436,7 @@ Powerful and proven arguments to encourage business people to get involved in Ag
 
   I will also answer the question many people are asking now: is Agile dead?, should we switch to building Real organisations instead?"
     video: "https://youtu.be/ww9I1mOZ5CM"
+    slides: 
     speakers:
       speaker01:
         name: "Sergey Dmitriev"
