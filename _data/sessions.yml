@@ -15,7 +15,8 @@
     place: "Daugava 1+2"
     title: "Agility in the Face of Perplexity"
     about: "Scrum was officially presented in 1995. In 2001, 17 software development leaders published the &quot;Manifesto for Agile Software Development&quot;. Agile gradually started replacing the industrial way of thinking, with Scrum being the most adopted technique to achieve a higher state of agility. Today, 2018, the Agile paradigm is more needed than ever, to avoid complexity turning into perplexity. Gunther aspires disentangling the clew that ’Scrum’ and ‘Agile’ turned into and show the value and their originality. Gunther has considered what Agile means to him, what it is that makes Agile work, what it is that makes Scrum work, and will share his views on the future state of Scrum and Agile."
-    video: "https://www.youtube.com/watch?v=KSYS2wFB_LA"
+    trailer: "https://www.youtube.com/watch?v=KSYS2wFB_LA"
+    video: "https://www.youtube.com/watch?v=9ihwY5_Beyc&list=PLdVGonf7NDxb1-2IprHMHHHihJwwWLA6H&index=2&t=0s"
     slides: "https://drive.google.com/open?id=1PzeeCyCNXkW53JLxy_hSiKq9NRjSR62o"
     speakers:
       speaker01:
@@ -36,7 +37,7 @@
     place: "Daugava 1"
     title: "Scrum master. The Dark Side of the Moon, or What Scrum Guide does not write about it."
     about: "The topic is about role of Scrum Masters and things which are not written in Scrum Guide but belongs to this role."
-    slides:
+    slides: "https://drive.google.com/open?id=1zlbRxLpnr8Fc9TYjNPSSzB9QOb-CtQbM"
     video: "https://www.youtube.com/watch?v=0rOCHf-FAlg&t=0s&list=PLdVGonf7NDxZMpNEW5Zgw4nQcHDX26yl2&index=9"
     speakers:
       speaker01:
@@ -76,6 +77,7 @@ case study. real-life story.
     title: "Beyond Methodology"
     about: "Have you ever faced these questions, &quot;Which methodology should I choose?&quot;, &quot;I am doing the methodology right?&quot;, &quot;Why isn't the rest of the organization doing agile?&quot;, maybe even &quot;Why isn't agile sticking?&quot; If so then this workshop is for you, and we'll discuss creating a common language and approach to work that successfully helps leaders, managers, and developers unlock their potential and the potential of an entire organization."
     video: "https://www.youtube.com/watch?v=h9F1H9tQk3E"
+    slides: "https://drive.google.com/open?id=19Z2J4SaPd8Hb4l17HBjXV2Lx0ZwvONcO"
     speakers:
       speaker01:
         name: "Steve Angelo-Eadie"
@@ -108,6 +110,7 @@ Creative tools – slideshow, film clips, facilitated discussions, etc."
 
   In my speech I’m going to share the insights on the nature of this patterns, show how they work, and give ideas on what could be done to move away from the dead point."
     slides: "https://drive.google.com/open?id=1zGdSUL_51JlmT8vUllAYPffLLHg2HMjf"
+    video:
     speakers:
       speaker01:
         name: "Andrey Tolmachev"
@@ -173,7 +176,7 @@ His main interests include modern management and leadership practices, tribal dy
   Last year at world class conference &quot;All Day DevOps&quot; I told about my journey how we grew from 0 to 100. Guess what - it didn't solve all our issues. This year I'm happy to continue my story with new things we implemented to build foundation for further growth.
 
   This can be treated as &quot;management talk&quot; but DevOps is never just about tools. This talk covers cultural and business side which are very important to be the best in DevOps and IT world in general."
-    slides:
+    slides: "https://drive.google.com/open?id=1S-MJ-XQGNDMsDvQrsfE1pqy0Tz1XMlC5"
     video: "https://www.youtube.com/watch?v=Uxt112F-G7g&t=0s&list=PLdVGonf7NDxZMpNEW5Zgw4nQcHDX26yl2&index=12"
     speakers:
       speaker01:
@@ -208,7 +211,7 @@ His main interests include modern management and leadership practices, tribal dy
     title: "Fragile Agile: Coaching a Tired Team"
     about: "As an Agile Coach or Scrum Master do you want to add energy to your team that looks not enthusiastic or resists change? Is is possible to cause harm to your team even with proper Agile coaching? Yes, if you are working with tired, exhausted or even burned-out teams, they do need special treatment, usually counterintuitive to the coaches. Would you like to learn special set of actions, taken from the medical practice, tailored to work with exhausted people? Would you like to experience an upward spiral from tiredness to the true intristic motivation and creativity? Join me in the self test and practical steps discussion what needs to be modified in the coaching and facilitation techniques and in the Agile process that you as a coach or a scrum master can help your worn out team to transition into a better process and produce steady results."
     video: "https://www.youtube.com/watch?v=spsJJRtZDmU"
-    slides:
+    slides: "https://drive.google.com/open?id=1Hdjp04ZF8o1wlFQadMWOBuPgnBYfTKvn"
     speakers:
       speaker01:
         name: "Anna Obukhova"
@@ -327,7 +330,7 @@ Define an Strategy for business Agility based on complexity thinking,
 Understanding of the core of agile,
 contextualize Agile in the current world of business.
 Powerful and proven arguments to encourage business people to get involved in Agile initiatives."
-    slides:
+    slides: "https://drive.google.com/open?id=1z0fSMmekJiN2Ms02PWP7liRFsW0IjoMP"
     video:
     speakers:
       speaker01:
@@ -436,7 +439,7 @@ Powerful and proven arguments to encourage business people to get involved in Ag
 
   I will also answer the question many people are asking now: is Agile dead?, should we switch to building Real organisations instead?"
     video: "https://youtu.be/ww9I1mOZ5CM"
-    slides: 
+    slides:
     speakers:
       speaker01:
         name: "Sergey Dmitriev"

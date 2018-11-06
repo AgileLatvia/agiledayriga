@@ -89,7 +89,8 @@
         <p>{% if session[1].about %}{{ session[1].about | strip_html }}{% endif %}</p>
         <p class="social-darker">
         {% if session[1].slides %}<a href="{{ session[1].slides }}" title="Slides"><i class="fa fa-file-text"></i></a>{% endif %}
-        {% if session[1].video %}<a href="{{ session[1].video }}" title="Video"><i class="fa fa-youtube-square"></i></a>{% endif %}
+        {% if session[1].video %}<a href="{{ session[1].trailer }}" title="Video trailer for the talk"><i class="fa fa-youtube-square"></i></a>{% endif %}
+        {% if session[1].video %}<a href="{{ session[1].video }}" title="Video of the whole talk"><i class="fa fa-youtube-play"></i></a>{% endif %}
         </p>
       </div>
       <!-- Speaker (s) -->
