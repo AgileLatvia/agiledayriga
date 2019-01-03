@@ -102,7 +102,7 @@
       <!-- Speaker (s) -->
       {% for speaker in session[1].speakers %}
       <div class="row">
-        <div class="col-md-2">
+        <div class="col-md-2 lazy-container"> <!-- Ola! -->
           <img class="pull-left figurette lazy" style="width: 160px; margin-top: 16px; margin-right: 16px"   src="{% if page.title %}{{ speaker[1].photo }}{% endif %}" alt="{% if speaker[1].name %}{{ speaker[1].name | strip_html }}{% endif %}">
         </div>
         <div class="col-md-10">
