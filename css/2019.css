@@ -1096,7 +1096,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #e74c3c;
+  color: #FA7268;
   text-decoration: none;
 }
 a:hover,
@@ -1468,7 +1468,7 @@ blockquote {
   padding: 13.5px 27px;
   margin: 0 0 27px;
   font-size: 21.25px;
-  border-left: 5px solid #e74c3c;
+  border-left: 5px solid #FA7268;
 }
 blockquote p:last-child,
 blockquote ul:last-child,
@@ -1492,7 +1492,7 @@ blockquote .small:before {
 blockquote.pull-right {
   padding-right: 15px;
   padding-left: 0;
-  border-right: 5px solid #e74c3c;
+  border-right: 5px solid #FA7268;
   border-left: 0;
   text-align: right;
 }
@@ -3303,7 +3303,7 @@ fieldset[disabled] .btn-danger.active {
   background-color: #ffffff;
 }
 .btn-link {
-  color: #e74c3c;
+  color: #FA7268;
   font-weight: normal;
   border-radius: 0;
 }
@@ -3895,7 +3895,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav .open > a:hover,
 .nav .open > a:focus {
   background-color: #eeeeee;
-  border-color: #e74c3c;
+  border-color: #FA7268;
 }
 .nav .nav-divider {
   height: 1px;
@@ -4403,13 +4403,13 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #000000;
-  background-color: #e74c3c;
+  background-color: #FA7268;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #000000;
-  background-color: #e74c3c;
+  background-color: #FA7268;
 }
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
@@ -4434,7 +4434,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  background-color: #e74c3c;
+  background-color: #FA7268;
   color: #000000;
 }
 @media (max-width: 767px) {
@@ -4444,13 +4444,13 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
     color: #000000;
-    background-color: #e74c3c;
+    background-color: #FA7268;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #000000;
-    background-color: #e74c3c;
+    background-color: #FA7268;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,
@@ -4614,7 +4614,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   padding: 10px 12px;
   line-height: 1.6;
   text-decoration: none;
-  color: #e74c3c;
+  color: #FA7268;
   background-color: #ffffff;
   border: 1px solid #dddddd;
   margin-left: -1px;
@@ -4830,7 +4830,7 @@ a.badge:focus {
 }
 .list-group-item.active > .badge,
 .nav-pills > .active > a > .badge {
-  color: #e74c3c;
+  color: #FA7268;
   background-color: #ffffff;
 }
 .list-group-item > .badge {
@@ -4901,7 +4901,7 @@ a.badge:focus {
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
-  border-color: #e74c3c;
+  border-color: #FA7268;
 }
 .thumbnail .caption {
   padding: 9px;
@@ -7902,7 +7902,7 @@ button.close {
 /* Colors. Just add appropriate class
  to your new page.*/
 .color-1 {
-  background: #e74c3c;
+  background: #FA7268;
   color: #ffffff;
 }
 .color-2 {
@@ -8040,10 +8040,10 @@ footer a {
 }
 /* Menu colors */
 .active .brand-1 {
-  background-color: #e74c3c !important;
+  background-color: #FA7268 !important;
 }
 .brand-1:hover {
-  background-color: #e74c3c !important;
+  background-color: #FA7268 !important;
 }
 .active .brand-2 {
   background-color: #c0392b !important;
@@ -8168,7 +8168,7 @@ ul {
 }
 .panel .panel-heading {
   color: #ffffff;
-  background: #e74c3c;
+  background: #FA7268;
 }
 .panel .panel-heading i {
   margin-top: 5px;
@@ -8184,7 +8184,7 @@ ul {
 /* Tabs */
 .nav-tabs {
   border: 0;
-  background: #e74c3c;
+  background: #FA7268;
   margin: 0;
 }
 .nav-tabs li a {
@@ -8304,7 +8304,7 @@ ul {
   color: #c0392b;
 }
 .btn-map div {
-  background: #e74c3c;
+  background: #FA7268;
   float: right;
   padding: 5px;
   -webkit-transition: background 0.6s;
