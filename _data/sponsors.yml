@@ -1,3 +1,55 @@
+2019:
+  show-subtitles: "true"
+  gold:
+    title: "Gold Sponsor"
+    show-captions: "true"
+    sponsor01:
+      title: "Accenture"
+      image: "/img/sponsors/accenture2019.png"
+      url: "http://www.accenture.lv/"
+      promo: "Accenture is a leading global company providing strategy, consulting, digital and technology services and solutions, more than 469 000 employees serve clients in 120 countries. We take an innovation-led approach to help clients “imagine and invent” their future with the help of any leading-edge technology. We are No. 1 employer in IT sector in Latvia having more than 1500 IT professionals on board. Being an Agile for Accenture Latvia goes beyond technology delivery, permeating the whole organizational structure, processes, leadership style, governance and innovation.
+Visit us <A href='https://www.accenture.com'>www.accenture.com</a>"
+  silver:
+    title: "Silver Sponsors"
+    show-captions: "true"
+    sponsor01:
+      title: "Scrum Alliance"
+      image: "/img/sponsors/scrum-alliance.png"
+      url: "http://www.scrumalliance.org/"
+      promo: "Become part of something bigger than you alone. Founded in 2001, Scrum Alliance® is the largest, most established and influential professional membership and certification organization in the Agile community. Scrum Alliance® is a nonprofit association, having certified more than 450,000 individuals worldwide. Its vision is to 'Transform the World of Work' with a mission to guide and inspire individuals, leaders, and organizations with practices, principles, and values that create workplaces that are joyful, prosperous, and sustainable. Come sprint with us at <a href='http://www.scrumalliance.org'>www.ScrumAlliance.org</a>."
+    sponsor02:
+      title: "Tieto"
+      image: "/img/sponsors/tieto-2017-small.png"
+      url: "http://www.tieto.lv"
+      promo: "In a rapidly changing world, every bit of information can be used to provide new value. Tieto aims to capture the significant opportunities of the data-driven world and turn them into lifelong value for people, business and society. Our culture aims to empower employees to positively influence their own work, to create a transparent working environment and enhance collaboration and innovation both internally as well as with our customers and ecosystems. To find out more, visit <a href='https://www.tieto.lv'>www.tieto.lv</a>"
+    sponsor03:
+      title: "Evolution Gaming"
+      image: "/img/sponsors/evolution-gaming.png"
+      url: "https://www.evolutiongaming.com/"
+      promo: "Evolution Gaming is the leading provider of video-streamed award-winning live games, working with more top-tier brand than any other provider in this market and with a global presence across 13 countries.
+    We are seeking for new colleagues to join our growing team of 300+ bright and talented engineers working in Riga, Tallinn and Amsterdam. We strongly believe in functional programming on the Scala platform and agile development, using technologies such as Akka (including Persistence, Streams & HTTP), Slick and Scala.js. We also enjoy using React, Redux and TypeScript and value pragmatic developers who undertake constructive code-reviews. If you are interested in talking to us about this, visit our booth!"
+  info:
+    title: "Info Sponsors"
+    sponsor01:
+      title: "LikeIT"
+      image: "/img/sponsors/likeit.png"
+      url: "http://www.likeit.lv/"
+    sponsor02:
+      title: "Agile Lietuva"
+      image: "/img/sponsors/agile-lietuva.png"
+      url: "http://www.agile.lt/"
+    sponsor03:
+      title: "Kursors.lv"
+      image: "/img/sponsors/kursorslv.png"
+      url: "http://www.kursors.lv/"
+    sponsor04:
+      title: "Agile Estonia"
+      image: "/img/sponsors/agile-ee-55.png"
+      url: "http://www.agile.ee/"
+    sponsor05:
+      title: "Agile Transformer"
+      image: "/img/sponsors/agiletransformer.png"
+      url: "http://agiletransformer.com/"
 2018:
   show-subtitles: "true"
   gold:
