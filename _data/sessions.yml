@@ -1,3 +1,590 @@
+2019:
+  session01:
+    day: 1
+    time: "9:00 - 9:30"
+    place: "Next to Daugava 1+2"
+    title: "Registration + coffee"
+  session02:
+    day: 1
+    time: "9:30 - 10:00"
+    place: "Daugava 1+2"
+    title: "Opening"
+  session03:
+    day: 1
+    time: "10:00 - 10:45"
+    place: "Daugava 1+2"
+    title: "Agility at Scale"
+    about: "A common view is that scaling Agile is a change for teams only. Therefore, the focus is primarily on changing development teams, while the system of management, the organisational structure and policies remain the same.
+At the heart of agile organizations are self-managing teams that solve client needs. This is radically different than the standard way of organizing teams, where teams deliver only a small part of the clients’ needs. Management faces the task to redesign the organization so that agility at scale becomes possible. Typically this means:
+
+Organizing around your product to optimize for solving customer needs.
+Developing teams that are able to deliver products that meet business objectives and market needs.
+Moving to a management system that values adaptability and learning over control and predictability.
+Scaling Scrum requires more than improving at the team level, it requires focus to  optimize the whole of product development. From my point of view the question organizations should ask is:
+
+How can we change and simplify the organizational design to become really Agile instead of putting Agile famethods on top of the current structures?
+"
+    trailer: "https://www.youtube.com/watch?v=AXz1VslPLmg"
+    slides:
+    speakers:
+      speaker01:
+        name: "Ilja Pavlichenko"
+        bio: "New words 'Agile' and 'Scrum' entered my vocabulary in 2006. This year can be marked as the start of my battle against old Waterfall and Command and Control thinking in IT industry. I don’t consider myself an Agile evangelist, I’m just an Agile pragmatic. I'm convinced that Agile and Scrum is the more effective and suitable approach for IT.
+
+An active participant of Agile Community
+Love studying and reading a lot
+First Scrum.org trainer in Russia
+Founder of Scrum Day conference
+Founder of Scrum Russia and Inspired By Agile meetups
+Father of 2 beautiful children
+Solo guitarist and powerlifter
+In a bloody battles for the Agile clearness received the following certifications:
+
+Certified Scrum Professional (CSP)
+Certified Scrum Master (CSM)
+Certified Scrum Product Owner (CSPO)
+Professional Scrum Master I (PSMI)
+Professional Scrum Master II (PSMII)
+Professional Scrum Trainer (PST)
+Practice, practice... and even more practice - the main motto of mine."
+        photo: "/img/speakers/ilja_pavlichenko.jpg"
+        blog: "http://agilix.ru"
+        facebook: "https://www.facebook.com/illya.pavlichenko"
+        twitter:
+        linkedin: "https://www.scrum.org/user/144"
+  session04:
+    day: 1
+    time: "10:45 - 11:15"
+    place: "Next to Daugava 1+2"
+    title: "Coffee break"
+  session05:
+    day: 1
+    time: "11:15 - 12:00"
+    place: "Daugava 1"
+    title: "The Language of Outcomes"
+    about: "For the past 20 years, the Agile community has been trying to improve the world of work. However, while working in new ways, we continue to use the old language. For example, we talk about product/sprint backlogs and ceremonies, and “…doing twice the work in half the time”. It is hardly surprising then to hear the people we have been supporting on their change journey say that it’s all the same as before.
+
+We should change this perception by learning and using the language of outcomes to consistently remind ourselves, as individuals, teams and organisations, why we are here, what our purpose is and what we are trying to achieve. From our purpose, to outcomes, fresh insights, and back again - we will introduce to you “Wholehearted Delivery”. The model consists of three complementary perspectives: creation of value, enhancing fitness and alignment with purpose. We look forward to your input to help us evolve our model and make it more useful."
+    slides:
+    trailer: ""
+    video:
+    speakers:
+      speaker01:
+        name: "Dragan	Jojic"
+        bio: "Dragan is a change agent, coach and trainer with 35 years of experience. Over the last 15 years, he has been focusing on Agile and business change consulting and coaching and has worked with a multitude of clients in insurance, retail banking, online gaming and many other industries. His specialist area of interest is organisational agility and the type of culture and leadership required to support it.
+
+Dragan is an independent coach as well a founding partner of BeLiminal (www.beliminal.com), an interdependent ecosystem of experts in Lean, Agile and Systems coaching."
+        photo: "/img/speakers/dragan_jojic.jpg"
+        blog:
+        facebook:
+        twitter: "https://twitter.com/DrJojic"
+        linkedin: "https://www.linkedin.com/in/draganjojic/"
+  session06:
+    day: 1
+    time: "11:15 - 12:00"
+    place: "Daugava 2"
+    title: "Cost Of Delay"
+    about: "Generally we want to control things. We want to know how long things will take and how much effort will be needed. There are ways how to achieve that - we lock architect in a room and he comes with results. He’s the expert! Just for any case we put 20% contingency on top to be safe. And then negotiate down the price to fit the budget. Later PM makes a plan what to do in what order, calls it project and team starts work. Simple, isn’t it? That’s what everyone does, so it should be correct...
+We’ll look into classical estimation and planning techniques and why they don’t work. We’ll investigate why all projects fail and look into musings of one of Agile fathers, Donald G. Reinertsen, and his approach to so called Cost of Delay. We need to talk about projects versus products as well. Finally, You’ll get a chance to try this  out by yourself and have some fun!"
+    slides:
+    trailer: "https://youtu.be/Z1JQT3LP8-s"
+    video:
+    speakers:
+      speaker01:
+        name: "Uldis Karlovs-Karlovskis"
+        bio: "I believe there is no single me. While being technician and problem solver in my heart, during last 6-7 years I have been very much interested in group psychology and therapy. Some 5 years I spent doing a lot of acting and directing in theatre. In March of 2018 I started building my own theatre troupe. Luckily my role in company gives me the opportunity to try out different methods and experiment with culture and hierarchies. I hate reading books but currently that’s the only way how to open my mind for new ideas."
+        photo: "/img/speakers/uldis-karlovs-karlovskis.jpg"
+        facebook: "https://www.facebook.com/search/top/?q=uldis%20karlovs-karlovskis"
+        twitter: "https://twitter.com/UldisKK"
+        linkedin: "https://www.linkedin.com/in/uldiskarlovskarlovskis/"
+  session07:
+    day: 1
+    time: "11:15 - 12:00"
+    place: "Casino"
+    title: "Kanban. Feel the spirit of Kaizen"
+    about: "We are faster, even if we are not working at full speed.
+- We have enough time for work for which we normally never have time.
+- We become more predictable when we set limits for ourselves.
+- When everything has priority, then nothing has priority.
+- The later we start the work, the better it is for the customer.
+- Local optimization results in global sub-optimization.
+
+Sounds interesting and not so intuitive, isn't it? We are waiting for you in our flow experiment.
+Let's feel the difference between the two work systems: Push vs Pull; discuss how Kanban practices can improve your current system and ways of working ( … even Scrum)."
+    slides:
+    trailer: "https://www.youtube.com/watch?v=lz94cyHl6qQ&feature=youtu.be&fbclid=IwAR1YYS0vJB9q0uC66vPQ4G3o0V1ogK1iUE99d_PX1qiMsIdLXSxH5b0pwKo"
+    video:
+    speakers:
+      speaker01:
+        name: "Yehor Kachanov"
+        bio: "Kanban Sensei from Accenture. He helps to unlock the creative power of teams and organizations to transform uncertainty into opportunity through evolutionary steps and by helping to create a new way of working."
+        photo: "/img/speakers/yehor_kachanov.jpeg"
+        blog:
+        facebook:
+        twitter: "https://twitter.com/Yastreb861"
+        linkedin: "https://www.linkedin.com/in/yehor-kachanov-49a42387/"
+      speaker02:
+        name: "Zoia Shupletsova"
+        bio: "Agile Coach, Accenture Latvia with 10 years of experience in Agile. My mission is bringing out the best in individuals, teams and companies by balancing coaching with mentoring, teaching and facilitating."
+        photo: "/img/speakers/zoia_shupletsova.jpeg"
+        blog:
+        facebook:
+        twitter:
+        linkedin: "https://www.linkedin.com/in/zshupletsova/"
+  session08:
+    day: 1
+    time: "12:00 - 12:45"
+    place: "Daugava 1"
+    title: "Coming soon!"
+    about: ""
+    slides:
+    trailer:
+    video:
+    speakers:
+      speaker01:
+        name: "Arturs Gedvillo"
+        bio: "An independent and experienced project manager of business automation and Enterprise Resource Planning, warehouse management, manufacturing planning and retail software implementation. Strong experience with waterfall, scrum and kanban approaches for 16+ years.
+
+Developed an excellent combination of analytical and project management skills, supplemented with effective communication skills. Capability to keep great overview and also go into details when necessary.
+I highly value customer’s requirements and expectations, and together with field experts find the gaps and the best combination of people, processes and technology to address them.
+Further I enjoy observing how my structured analyst's abilities and detailed followups leads my team and our customer towards our goals. "
+        photo: "/img/speakers/arturs-gedvillo.jpg"
+        blog:
+        facebook: "https://www.facebook.com/artursg"
+        twitter:
+        linkedin: "https://www.linkedin.com/in/artursg/"
+  session09:
+    day: 1
+    time: "12:00 - 12:45"
+    place: "Daugava 2"
+    title: "DevOps Transformations: Tools vs Culture"
+    about: "SysAdmins are obsolete, we need more DevOps engineers! Or do we?
+
+In this talk, the author will give several use cases from his personal experience helping organizations to implement DevOps initiatives and automation of software delivery and testing.
+
+Why technology X is not what you need right now
+Why ignoring skills that are already present in the team may be a huge risk
+Why everything-as-code is an effective approach
+Why not investing in team member education may be very destructive
+Why not having time is a bad excuse for not automating
+Why process improvement effects may not be observable immediately
+Why cost of automation sometimes is higher than the time invested in writing the scripts"
+    slides:
+    trailer:
+    video:
+    speakers:
+      speaker01:
+        name: "Andrey Adamovich"
+        bio: "Andrey is a software craftsman with many years of experience in different lifecycle phases of software creation. He is passionate about defining good development practices, documenting and presenting architecture, reuse of code and design patterns, profiling and analysis of application performance as well as extreme automation of development and operations activities.
+
+At the moment, Andrey works as a free-lance DevOps consultant offering his expertise in implementing DevOps initiatives, selecting automation tooling, switching to infrastructure-as-code and immutable infrastructure and constructing software delivery pipelines.
+
+Another Andrey's passion is teaching software automation practices and tooling. His DevOps MasterClass (eXtreme Automation) course has been delivered more than 30 times in various locations in Europe: Austria, Sweden, Denmark, UK, Romania, Estonia, Latvia. Andrey is also a co-founder of DevChampions training centre.
+
+Andrey is a frequent speaker at international conferences and local communities. He is one of the leaders of LatCraft - Latvian Software Craftsmanship Community as well as co-founder and organizer of DevTernity conference."
+        photo: "/img/speakers/andrey_adamovich.png"
+        blog:
+        facebook:
+        twitter:
+        linkedin:
+  session10:
+    day: 1
+    time: "12:00 - 12:45"
+    place: "Casino"
+    title: "Kanban. Feel the spirit of Kaizen - continue"
+    about: "Workshop from Yehor Kachanov and Zoia Shupletsova continues."
+    slides:
+    trailer:
+    video:
+    speakers:
+      speaker01:
+        name: ""
+        bio: "What can be more beautiful then one person working together? Only two persons working together as one! See description of the workshop above."
+        photo: "/img/speakers/zoia_shupletsova.jpeg"
+        blog:
+        facebook:
+        twitter:
+        linkedin:
+  session11:
+    day: 1
+    time: "12:45 - 13:45"
+    place: "Hotel's restaurant"
+    title: "Lunch"
+  session12:
+    day: 1
+    time: "13:45 - 14:30"
+    place: "Daugava 1"
+    title: "Unlocking Business Agility"
+    about: "Coming soon!"
+    slides:
+    trailer: "https://www.youtube.com/watch?v=f8IWsXksAqk&t=4s"
+    video:
+    speakers:
+      speaker01:
+        name: "Howard Johnson"
+        bio: "Seasoned Leader of Product Management, IT software development and Digital Servicing. 20+ years of experience leading global teams responsible for Large Program transformation specializing in Financial Services, Commercial and B2B services.
+
+Significant experience with business transformation and scaled agile practices. Developed customer-centric solutions, and large global programs of change. Led teams of product managers, IT Directors, engineers, Business and Technical architects, Project Managers and analysts responsible for all aspects of product development from concept to realization across global lines of business.
+
+I'm pretty adept at quickly finding the core problem, coming up with ideas and then collaborating with others to figure out a way forward. I'm a change agent who believes in authenticity and getting things done. "
+        photo: "/img/speakers/howard-johnson.png"
+        blog:
+        facebook:
+        twitter:
+        linkedin: "https://www.linkedin.com/in/howard-johnson-433213"
+  session13:
+    day: 1
+    time: "13:45 - 14:30"
+    place: "Daugava 2"
+    title: "Stop believing in magic and change your organisation!"
+    about: "Evolution in technology is changing the game in every industry - this is not news to any business. Predicting market demand and satisfying customer expectation is becoming gradually more and more complex task. To improve strategy execution capabilities - to be faster and more adaptive - companies adopt agile frameworks. These transitions are often painful and in many cases lack the desired business impact. This talk is about the 'Elephant in the room' - how we pick the methods that are convenient to adopt and dismiss the change that is really needed to move the needle. Agile is not an IT thing!"
+    slides:
+    trailer:
+    video:
+    speakers:
+      speaker01:
+        name: "Heldin Rikk"
+        bio: "Heldin Rikk and Kaspar Eding have more than a decade of experience in adopting agile methodologies in finance, banking, logistics, hardware manufacturing and communication industries. They have taken several organisations through an agile transition, built new agile organisations and most importantly delivered several successful products on the way."
+        photo: "/img/speakers/heldin-rikk19.jpg"
+        blog:
+        facebook:
+        twitter:
+        linkedin: "https://www.linkedin.com/in/heldinrikk"
+      speaker02:
+        name: "Kaspar Eding"
+        bio: "In search for know-how on implementation challenges, Heldin and Kaspar have found themselves in consulting organisations and presenting the challenges in conferences. They claim to have found a cultural offset that holds organisations back from harnessing the benefits of agile. Their story is based on engineering success, but they talk about why organisations often still consider agile frameworks to be not suitable for them."
+        photo: "/img/speakers/kaspar-eding.jpg"
+        blog:
+        facebook:
+        twitter:
+        linkedin: "https://www.linkedin.com/in/kaspareding"
+  session14:
+    day: 1
+    time: "13:45 - 14:30"
+    place: "Casino"
+    title: "Advanced Communication with Liberating Structures by Chewbacca and Leia"
+    about: "- Did you came across situations when the same people speak majority of the time?
+- Do you find difficult keeping attention at the constant high level throughout the meeting?
+- Are you always happy with decision making process and your involvement?
+
+Five conventional structures (practices) guide the way we organize routine interactions and how groups work together: presentations, managed discussions, open discussions, status reports and brainstorm sessions. Liberating Structures add 33 more options to the big five conventional approaches.
+
+During this interactive workshop we will be trying out these new practices and will be learning with fun!
+
+Princess Leia and Chewbacca are coming to Riga! They are coming to liberate us!
+People are sitting at their computers and are silent, people are sitting at the meetings and majority are silent too. It looks like we are unlearning to talk, agree and communicate...
+Leia brought us a secret weapon - liberating structures. Let's come together in the after lunch session and get armed to teeth! ...and have some fun :)"
+    slides:
+    video:
+    trailer:
+    speakers:
+      speaker01:
+        name: "Vladimir Ivanov"
+        bio: "Optimus Prime of the agiletransformer.com team. Now is Agile Coach in BP (British Petroleum) in the AGT region (Azerbaijan, Georgia, Turkey)."
+        photo: "/img/speakers/vladimir-ivanov.png"
+        blog: "http://agiletransformer.com"
+        facebook: "https://www.facebook.com/agiletransformer/"
+        twitter: "https://twitter.com/vivanovs"
+        linkedin: "https://www.linkedin.com/in/vivanov/en"
+      speaker02:
+        name: "Marija Maijere"
+        bio: "Agiletransformer girl. Special skill: can transform events into games and adventures. Empathy lvl98."
+        photo: "/img/speakers/marija-maijere.jpg"
+        blog: "http://agiletransformer.com"
+        facebook:
+        twitter: "https://twitter.com/vivanovs"
+        linkedin: "https://www.linkedin.com/in/marijamaijere/"
+  session15:
+    day: 1
+    time: "14:30 - 15:15"
+    place: "Daugava 1"
+    title: "The Wisdom is Inside. Laws of Nature in Team Development"
+    about: "This lecture would be beneficial for everyone who faces the challenge of team development, motivation and high performance.
+Teams are complicated, complex structures. They are comprised of individuals with different personalities, biases, strengths, and weaknesses. Leaders are constantly attempting to crack the team driving puzzle.
+What if all the answers already exist inside your team, and you just need to learn how to hear them?
+NB: Based on theory of Spiral Dynamics."
+    slides:
+    trailer:
+    video:
+    speakers:
+      speaker01:
+        name: "Artur Chernikau"
+        bio: "An experienced leader from Financial and Shared service industries with passion in defining strategy, leading change, people and organizational development.
+
+Leaders today have to find their inner compass, purpose, source of vital energy to be able to respond properly to the challenges of ever changing environment.
+I believe in a sentence “everything is personal” and I do assist my clients on their change journey towards authentic self."
+        photo: "/img/speakers/artur-chernikau.jpeg"
+        blog: "http://teamlead.lv/"
+        facebook: "https://www.facebook.com/artur.chernikau"
+        twitter:
+        linkedin: "https://www.linkedin.com/in/chernikau/"
+      speaker02:
+        name: "Elena Zlygosteva"
+        bio: "Executive Coach at TeamLead, Fellow at Oxford Leadership. Helping leaders and management teams redefine their leadership and strive in the '4th Industrial Revolution' world.
+
+Board Member, International Coach Federation, Latvia.
+
+My previous experience belongs to Executive Search industry. For 8 years I was responsible for completing search projects on senior-level positions for corporate (mostly international) clients in Automotive, Heavy Industry, FMCG and finance sectors. "
+        photo: "/img/speakers/elena-zlygosteva.jpeg"
+        blog: "http://teamlead.lv/"
+        facebook: "https://www.facebook.com/elena.zlygosteva"
+        twitter:
+        linkedin: "https://www.linkedin.com/in/zlygosteva/"
+  session16:
+    day: 1
+    time: "14:30 - 15:15"
+    place: "Daugava 2"
+    title: "Coming soon!"
+    about: ""
+    slides:
+    trailer:
+    video:
+    speakers:
+      speaker01:
+        name: ""
+        bio: ""
+        photo: ""
+        blog:
+        facebook:
+        twitter:
+        linkedin:
+  session17:
+    day: 1
+    time: "14:30 - 15:15"
+    place: "Casino"
+    title: "Advanced Communication with Liberating Structures by Chewbacca and Leia - continue"
+    about: ""
+    slides:
+    trailer:
+    video:
+    speakers:
+      speaker01:
+        name:
+        bio:
+        photo: "/img/speakers/marija-maijere.jpg"
+        blog:
+        facebook:
+        twitter:
+        linkedin:
+  session18:
+    day: 1
+    time: "15:15 - 16:15"
+    place: "Daugava 1"
+    title: "Coming soon!"
+    about: ""
+    slides:
+    trailer:
+    video:
+    speakers:
+      speaker01:
+        name: ""
+        bio: ""
+        photo: ""
+        blog:
+        facebook:
+        twitter:
+        linkedin:
+  session19:
+    day: 1
+    time: "15:15 - 16:15"
+    place: "Daugava 2"
+    title: "Coming soon!"
+    about: ""
+    slides:
+    trailer:
+    video:
+    speakers:
+      speaker01:
+        name: ""
+        bio: ""
+        photo: ""
+        blog:
+        facebook:
+        twitter:
+        linkedin:
+  session20:
+    day: 1
+    time: "15:15 - 16:15"
+    place: "Casino"
+    title: "Are you in a search for a job as a Scrum Master?"
+    about: "The market is now full fo Ads searching for a Scrum Masters and we invite you to check together with us how it is done. To see if we would want to go to work as SM's to one company or another. The format is a workshop so be prepared to participate."
+    slides:
+    trailer:
+    video:
+    speakers:
+      speaker01:
+        name: "Leonid Uljankin"
+        bio: "As an Agile practitioner - I love working with teams and individuals to help them uncover their full potential while delivering more value to the world. I take active role in Agile Latvia non-profit Agile popularisation organisation as a board member and one of the main organisers behind monthly Agile Latvia meet-ups and yearly Agile Days Riga conference. "
+        photo: "/img/speakers/leonid-uljankin.jpg"
+        blog:
+        facebook: "https://www.facebook.com/agilelatvia/"
+        twitter:
+        linkedin: "https://www.linkedin.com/in/leoniduljankin/"
+      speaker02:
+        name: "Maxim Yemelyanov"
+        bio: "My expertise lies in establishing, improving and / or developing Agile practices, and my career of 15 at major international companies drives me to make world a better place. "
+        photo: "/img/speakers/maxim-yemelyanov.jpeg"
+        blog:
+        facebook: "https://www.facebook.com/maxim.yemelyanov"
+        twitter:
+        linkedin: "https://www.linkedin.com/in/maxyemelyanov/"
+  session21:
+    day: 1
+    time: "16:15 - 16:45"
+    place: "Next to Daugava 1+2"
+    title: "Coffee break"
+  session22:
+    day: 1
+    time: "16:45 - 17:30"
+    place: "Daugava 1+2"
+    title: "Coming soon!"
+    about: ""
+    slides:
+    video:
+    speakers:
+      speaker01:
+        name: "Angel Diaz-Maroto"
+        bio: "Angel is a very energetic Agile coach who truly enjoys challenges. Putting in place Lean and Agile concepts and practices in very complex environments is his specialty and passion. As an Agile coach, trainer, and mentor, he’s supported several multinational organizations in their Agile journeys during the last 10 years.
+    Throughout his over 18 years of experience in IT Angel has worked in various roles: agile coach, R&D manager, software developer, software architect, ScrumMaster, and trainer.
+    Angel is recognized worldwide as an expert in Agile and Scrum and he holds the three highest level certifications in the field: CST (Certified Scrum Trainer), CEC (Certified Enterprise Coach) and CAL Educator (Certified Agile Leadership Educator) by the Scrum Alliance. This is a very unique set of credentials as there are only 24 CAL Educators, 94 CEC’s and 232 CST’s worldwide, as for today.
+    Angel is also a co-active coach, specialized in team coaching and systemic leadership, and Management 3.0 licensed trainer.
+    Additionally, he teaches video game production at ESNE (University of Design, Innovation and technology) and Design Thinking at LaSalle University.
+    Angel is as well a frequent speaker having participated in more than 40 international conferences and Agile events in Europe, Asia and the Americas."
+        photo: "/img/speakers/angel-diaz-maroto2018.png"
+        facebook: "https://www.facebook.com/adiazmaroto/about?lst=100000200571456%3A514272136%3A1523957765"
+        twitter: "https://twitter.com/adiazmaroto"
+        linkedin: "https://www.linkedin.com/in/adiazmaroto/"
+  session23:
+    day: 1
+    time: "17:30 - 17:45"
+    place: "Daugava 1+2"
+    title: "Day one wrap-up"
+  session24:
+    day: 2
+    time: "9:00 - 9:30"
+    place: "Abava / Amata - 2nd floor"
+    title: "Morning coffee"
+  session25:
+    day: 2
+    time: "09:30 - 10:15"
+    place: "Abava / Amata - 2nd floor"
+    title: "Biology of Powerful Powerless Leader"
+    about: "Agile Leadership has its unique flavour of natural leadership, when power is not given with a title but taken by a person based on his/her inner abilities. We use Servant Leadership or Powerless Leader to emphasise this difference. If we look deeper into the biology and neuroscience of leadership we might find really unexpected things – that Agile leaders are the ones that are recognised by nature and we unconsciously can select these people from the crowd. How to become this type of person?
+To be an effective Agile leader we need to understand:
+What makes a leader: Leader-Leader Agile Model; The difference between a leader and dominant behaviour, why leaders look younger and more active (on hormonal level)
+; Hormones and neuroscience of a natural leader (with some cases and practice); Leadership differences and similarities of Scrum Master and Product Owner; Simple (4 words) yet powerful mindset change to become a natural leader that people will follow
+."
+    trailer: "https://www.youtube.com/watch?v=aXz3rT6YGm0&list=PLdVGonf7NDxal2oq9tazFsLVXZVRcIW-7&index=3&t=1s"
+    video:
+    slides:
+    speakers:
+      speaker01:
+        name: "Anna Obukhova"
+        bio: "Anna Obukhova is an Agile Coach working with Agile methodologies since 2004 as a Scrum Master, Agile Coach, Project/Programme Manager and recently as Agile Portfolio Delivery Manager for a large investment bank in London. Anna is mainly interested in distributed and dispersed projects and the effectiveness of team communication in such conditions. Her passion is to collect and share the best industry and company practices in Agile management. She helps Agile teams and programmes to improve their processes and implement the transition from Waterfall to Agile in corporate environments (her clients are major banks and very large companies from other industries).
+Additionally, Anna Obukhova is using neuroscience and biology to explain Agile productivity and enhance Agile coaching techniques. My presenting experience started in 2008 and from 2011 internationally.
+This perspective of Neuroscience and Agile was agreed to be novel and worth sharing by many conferences, to name a few: ALE Bucharest, Agile Days Moscow, Global Scrum Gathering Paris, Agile Cambridge, Agile Tour London, Agile on the Beach (UK, 2017, 2018), Agile 2017 (Orlando, USA), Agile 2018 (San Diego), Agile Business Conference (Moscow 2017, 2018), Global Scrum Gathering Dublin, Manage Agile (Berlin).
+She uses her educations in Biology, Psychology and Coaching to connect working tips and recommendations with the natural processes that happen in our bodies (especially in the brain). She believes it can explain a lot and she`s very excited how naturally Agile works.
+"
+        photo: "/img/speakers/anna-obukhova.jpg"
+        blog:
+        facebook: "https://www.facebook.com/anna.obukhova.1"
+        linkedin: "https://www.linkedin.com/in/anna-obukhova-0b04381/"
+  session27:
+    day: 2
+    time: "10:45 - 12:15"
+    place: "Abava / Amata - 2nd floor"
+    title: "Open Space sessions"
+    about: "It is an agenda-less event where people come together, create agenda under specific theme, and then learn from each other in small groups. Items in agenda can be anything: problems, situations, experiences, approaches, lectures, etc. related to the specific theme. Please take a read and watch video below to get you into the mood and ‘be prepared to be surprised’ on June 21!"
+    video: "https://www.youtube.com/watch?v=4vEBcr_YkHU"
+    speakers:
+      speaker01:
+        name: "Speakers and Participants"
+        bio: "Most of the speakers from day one and anyone else who is interested to bring up a topic can start an Open space session."
+        photo: "/img/speakers/open-space.jpg"
+  session28:
+    day: 2
+    time: "12:15 - 13:15"
+    place: "Abava / Amata - 2nd floor"
+    title: "Stand-up Lunch"
+  session29:
+    day: 2
+    time: "13:15 - 14:00"
+    place: "Abava / Amata - 2nd floor"
+    title: "When inspiration becomes imitation…  lessons from the coaching trenches"
+    about: "Over the past decade, Evelyn has gained unique and diverse experience coaching organizations large or small, from APAC, to North America, to Europe and to Middle East. She has solid background from product management, project management, people management, software development, system integration, customer support to agile coaching. Her clients range from automotive industry, manufacturing, insurance, banking, e-commerce and of course telecom due to her years of experience in Ericsson.
+
+In this talk, she brings insightful messages for organizations which are in their Agile transformation, wondering how to advance, or are about to start.
+
+Participants will be able to:
+- recognize camera-effect transformation and describe alternatives
+- list the challenges with squads, and tribes;
+- identify possible 'solving a problem now but creating a problem to be solved in the months to come as a consequence'
+- explain incorrect understandings and applications of key popular concepts from lean startup, to product discovery, to value flow, to sociocracy, to holacracy.
+- restate important factors to consider and fine-tune for Agile transformation
+
+The session is a talk, with short analysis to enforce learning."
+    trailer: "https://youtu.be/qPUvWobYESI"
+    speakers:
+      speaker01:
+        name: "Evelyn Tian"
+        bio: "Evelyn Tian is a professional Lean and Agile Coach and Trainer, supporting organizations with all their transformation initiatives.
+
+She previously was the Lean and Agile Head Coach of Ericsson and headed the Ericsson Global Transformation Support Center. She has been passionately working with Lean and Agile transformations since 2009 and she has grown over 20 coaches and trainers through apprenticeship and mentorship programs. She designed her own Agile Leadership course in 2011, which has been delivered to over 1000 leaders. She has also developed her own Agile Coaching course, with more than 30 classes of graduates.
+
+Evelyn’s focus is on organization transformational strategy, continuous improvement and enhancing the art and science of crafting products. Evelyn has built a lengthy track record and gathered deep insights in coaching organization transformation, agile leadership, and teams to reach their potential.
+
+She has over 20 years of product development and coaching experience in telecom, financial, automobile and e-commerce products.
+
+With backgrounds in both E.E. and C.S., she has furthered her education in EMBA, psychology, and professional coaching as well. "
+        photo: "/img/speakers/evelyn_tian.png"
+        linkedin: "https://www.linkedin.com/company/evelyn-konsult-ab/"
+        twitter: "https://twitter.com/TianEvelyn"
+        facebook: "https://www.facebook.com/evelyn.tian"
+        blog: "https://www.evelynkonsult.se/the-company.html"
+  session30:
+    day: 2
+    time: "14:45 - 15:15"
+    place: "Abava / Amata - 2nd floor"
+    title: "Coffee break"
+  session31:
+    day: 2
+    time: "15:15 - 16:45"
+    place: "Abava / Amata - 2nd floor"
+    title: "Open Space sessions - continue"
+    about: "It is an agenda-less event where people come together, create agenda under specific theme, and then learn from each other in small groups. Items in agenda can be anything: problems, situations, experiences, approaches, lectures, etc. related to the specific theme. Please take a read and watch video below to get you into the mood and ‘be prepared to be surprised’ on June 21!"
+    video: "https://www.youtube.com/watch?v=4vEBcr_YkHU"
+    speakers:
+      speaker01:
+        name: "Speakers and Participants"
+        bio: "Most of the speakers from day one and anyone else who is interested to bring up a topic can start an Open space session."
+        photo: "/img/speakers/open-space.jpg"
+  session32:
+    day: 2
+    time: "16:45 - 17:30"
+    place: "Abava / Amata - 2nd floor"
+    title: "Iterating towards Professional Scrum"
+    about: "The 2019 Scrum Master Trends Report by scrum.org and the State of Agile 2018 shows numbers that provide insight in the maturity of agile adoptions. More than 80% of the companies claim to be in or below a 'still maturing' level. With Scrum being the industry standard (at least in western Europe it is), these numbers are surprising.
+
+In this overview of iterations towards Scrum maturity I describe the characteristics and main challenges to overcome in each maturity stage. This overview might help you as a Scrum Master or leader to assess your current situation and show you a direction in which you might find a solution for the problems you are facing implementing Scrum."
+    trailer: "https://www.youtube.com/watch?v=nL2Gm_qPc1E"
+    slides:
+    speakers:
+      speaker01:
+        name: "Roland Flemm"
+        bio: "Roland Flemm is a product development consultant. He works as a consultant on large and small scale Scrum adoptions, he is a Professional Scrum trainer and is a lecturer at international conventions.
+
+Roland has a background in application development (.Net and Java) and in infrastructure engineering (IBM WebsPhere & Portal) for over 20 years. Since 2013 he is dedicated to working as a scrum master and LeSS Coach.
+Roland has a reputation for having a “non compromise agility” style. He regularly publishes articles, is developed scrumcards (www.scrumcards.org) and is the creator of humorist movies (Koos Coach). Roland strongly believes that fun and diversity at the workplace is essential for success."
+        photo: "/img/speakers/roland-flemm.png"
+        blog: "http://www.agilix.nl"
+        facebook: "https://www.facebook.com/roland.flemm"
+        twitter: "https://twitter.com/roland_flemm"
+        linkedin: "https://www.linkedin.com/in/rolandflemm"
+  session33:
+    day: 2
+    time: "17:30 - 18:00"
+    place: "Abava / Amata - 2nd floor"
+    title: "Conference closing"
 2018:
   session01:
     day: 1

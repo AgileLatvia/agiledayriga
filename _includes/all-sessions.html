@@ -27,7 +27,7 @@
     {% endfor %}
     <!-- /calculate number of days -->
 
-    {% if page.year == 2018 or page.year == 2017 %}
+    {% if page.year == 2018 or page.year == 2017 or page.year == 2019 %}
     <!-- create schedule overview -->
     {% for i in (1..days) %}
       {% if days > 1 %} <!-- display day if more than one -->
@@ -54,9 +54,10 @@
               {% if session[1].video %}<a href="{{ session[1].video }}" title="Video of the whole talk"><i class="fa fa-youtube-play"></i></a>{% endif %}
 
               <br>
-
+              {% assign comma = "" %}
               {% for speaker in session[1].speakers %}
-                <strong>{% if speaker[1].name %}{{ speaker[1].name | strip_html }}{% endif %}</strong>
+                <strong>{{ comma }} {% if speaker[1].name %}{{ speaker[1].name | strip_html }}{% endif %}</strong>
+                {% assign comma = " and " %}
               {% endfor %}
             {% if session[1].place == "Daugava 1"  or session[1].place == "Daugava 2"  or session[1].place == "Casino"  %}</div>{% endif %} <!-- close 4 col speaker -->
             {% if session[1].place == "Casino"  %}</div><hr class="col-md-12 hr_no_padding">{% endif %} <!-- close three tracks -->
