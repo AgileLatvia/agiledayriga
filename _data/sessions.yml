@@ -136,20 +136,17 @@ Let's feel the difference between the two work systems: Push vs Pull; discuss ho
     time: "12:00 - 12:45"
     place: "Daugava 1"
     title: "From Confusion to Transparency"
-    about: ""
+    about: "Arturs will talk about a case study which vividly illustrates how a software project can fail big-time if wrong approach is used for business transformation and software development and implementation. This story will take you through 2 years of the project life. It all started as a phased Waterfall and transformed into Scrum. Do you want to find out how and why? During this journey you will have a chance to witness confusion, stubbornness, dissatisfaction. It will be topped with a touch of Agile cargo cult. The story will finish with transparency and team happiness, while leaping into beautiful scrum implementation with co-located team and a room full with visualized valuable information for radical transparency. "
     slides:
     trailer:
     video:
     speakers:
       speaker01:
         name: "Arturs Gedvillo"
-        bio: "An independent and experienced project manager of business automation and Enterprise Resource Planning, warehouse management, manufacturing planning and retail software implementation. Strong experience with waterfall, scrum and kanban approaches for 16+ years.
-
-Developed an excellent combination of analytical and project management skills, supplemented with effective communication skills. Capability to keep great overview and also go into details when necessary.
-I highly value customer’s requirements and expectations, and together with field experts find the gaps and the best combination of people, processes and technology to address them.
-Further I enjoy observing how my structured analyst's abilities and detailed followups leads my team and our customer towards our goals. "
+        bio: "Your host of this journey is a project manager and PM supervisor in business automation and Enterprise Resource Planning, warehouse management, manufacturing planning and retail software implementation projects. He has strong experience with Waterfall (16+ years) and Agile (3+ years) approaches.
+Currently Arturs as a consultant is helping organizations to improve their business productivity by transforming people, processes and technologies using best coaches, tools and practices available."
         photo: "/img/speakers/arturs-gedvillo.jpg"
-        blog:
+        blog: "http://www.gedvillo.com"
         facebook: "https://www.facebook.com/artursg"
         twitter:
         linkedin: "https://www.linkedin.com/in/artursg/"
