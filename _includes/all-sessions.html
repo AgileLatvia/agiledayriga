@@ -1,7 +1,7 @@
   <!-- Schedule caption -->
   <div id="sessions" class="page color-4">
     <div class="inner-page">
-      <h2 class="page-headline">Schedule</h2>
+      <h2 class="page-headline">{% if page.year == 2019 %}{{"Conference "}}{% endif %}Schedule</h2>
     </div>
     {% if page.year > 2011 %}
     {% if page.schedule-status == "on" %}
@@ -16,7 +16,6 @@
     {% endif %}
 
     <!-- calculate number of days -->
-    {% assign days_qnt = 0 %}
     {% assign days = 0 %}
     {% for session in site.data.sessions[page.year] %}
       {% if session[1].day != null %}
@@ -27,17 +26,18 @@
     {% endfor %}
     <!-- /calculate number of days -->
 
+
+
+
     {% if page.year == 2018 or page.year == 2017 or page.year == 2019 %}
     <!-- create schedule overview -->
     {% for i in (1..days) %}
       {% if days > 1 %} <!-- display day if more than one -->
       <div class="inner-page">
-        <h3 class="sponsors-subtitle">Day {{ i }}</h3>
+        <h3 class="sponsors-subtitle">Day {{ i }}  {% if page.year == 2019 and i == 1 %}{{" - June 20"}}{% endif %}
+        {% if page.year == 2019 and i == 2 %}{{" - June 21"}}{% endif %}</h3>
       </div>
       {% endif %}<!-- display day if more than one -->
-
-
-
 
         {% assign sessions_sorted = site.data.sessions[page.year] | sort:  %}
         {% for session in sessions_sorted %}
