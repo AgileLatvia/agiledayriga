@@ -101,6 +101,10 @@ hr {
   box-sizing: content-box;
   height: 0;
 }
+.hr_no_padding{
+  margin: 4px auto;
+  padding: 0px;
+}
 pre {
   overflow: auto;
 }

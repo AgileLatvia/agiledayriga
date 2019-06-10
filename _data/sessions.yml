@@ -301,7 +301,7 @@ Teams are complicated, complex structures. They are comprised of individuals wit
 What if all the answers already exist inside your team, and you just need to learn how to hear them?
 NB: Based on theory of Spiral Dynamics."
     slides:
-    trailer:
+    trailer: "https://youtu.be/zCeY7qDolTg"
     video:
     speakers:
       speaker01:
@@ -331,20 +331,34 @@ My previous experience belongs to Executive Search industry. For 8 years I was r
     day: 1
     time: "14:30 - 15:15"
     place: "Daugava 2"
-    title: "Coming soon!"
-    about: ""
+    title: "Back to the Roots"
+    about: "Implementing Scrum might seem to be all fun and games until you get so high where you finally see, that stakes are much higher and there is no connection to the 'ground flight control'. Are you aware of your flying course and destination? Are all passengers aboard?
+IRPC unit of Tieto Latvia would like to share their own experience of getting down to the solid ground and coming back to the roots of actual values of Agile."
     slides:
-    trailer:
+    trailer: "https://youtu.be/37G24Wo9YN4"
     video:
     speakers:
       speaker01:
-        name: ""
-        bio: ""
-        photo: ""
+        name: "Edgars Kalva"
+        bio: "Team Lead & Scrum Master, Sports Psychology Coach, and Challenge Enthusiast
+Milestones, challenges, up's and down's ... all of those are, everywhere - in business or high-performance sports.
+More to - emotion, which is one of the performance drivers. Emotion creates a drive, bottlenecks, positive or negative self-esteem. Then, how do You control them?
+I've started my journey in IT as ICT Engineer. After, successfully transformed to Project Manager in IT and later on, switching to Agile and Coaching."
+        photo: "/img/speakers/edgars-kalva.jpg"
         blog:
         facebook:
         twitter:
-        linkedin:
+        linkedin: "https://www.linkedin.com/in/edgars-kalva-coach/"
+      speaker02:
+        name: "Vladimirs Silin"
+        bio: "Evergreen Scrum Master with years of experience
+Scrum Master with 8+ years in software development from designing and handling blueprints of new solutions to leading projects with hundreds of thousand end-users all over the globe. Sounds braggy, but it's true.
+I entered into software development field from technical documentation and requirement analysis, continued to product delivery management and the journey goes on leveraging agile practices in team leading and project coordination."
+        photo: "/img/speakers/vladimirs-silin.jpg"
+        blog:
+        facebook:
+        twitter:
+        linkedin: "https://www.linkedin.com/in/vladimir-silin-scrum-master/"
   session17:
     day: 1
     time: "14:30 - 15:15"

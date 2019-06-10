@@ -42,8 +42,8 @@
         {% assign sessions_sorted = site.data.sessions[page.year] | sort:  %}
         {% for session in sessions_sorted %}
           {% if session[1].day == i %}
-            {% if session[1].place == "Daugava 1+2" or session[1].place == "Hotel's restaurant" or session[1].place == "Next to Daugava 1+2" or session[1].place == "Abava / Amata - 2nd floor" %}<div class="features inner-page-small">{% endif %}
-            {% if session[1].place == "Daugava 1"  %}<div class="row inner-page-small">{% endif %}
+            {% if session[1].place == "Daugava 1+2" or session[1].place == "Hotel's restaurant" or session[1].place == "Next to Daugava 1+2" or session[1].place == "Abava / Amata - 2nd floor" %}<hr class="col-md-12 hr_no_padding"><div class="features inner-page-small">{% endif %}
+            {% if session[1].place == "Daugava 1"  %}<hr class="col-md-12 hr_no_padding"><div class="row inner-page-small">{% endif %}
             {% if session[1].place == "Daugava 1" or session[1].place == "Daugava 2"  or session[1].place == "Casino"  %}<div class="col-md-4 features">{% endif %}
               {% if session[1].time %} {{ session[1].time | strip_html }}{% if session[1].place %}; {{ session[1].place | strip_html }}{% endif %}{% endif %}
               {% if session[1].place == "Daugava 1" or session[1].place == "Daugava 2"  or session[1].place == "Casino"  %}<br>{% else %} - {% endif %}
@@ -53,15 +53,15 @@
               {% if session[1].trailer %}<a href="{{ session[1].trailer }}" title="Video trailer for the talk"><i class="fa fa-youtube-square"></i></a>{% endif %}
               {% if session[1].video %}<a href="{{ session[1].video }}" title="Video of the whole talk"><i class="fa fa-youtube-play"></i></a>{% endif %}
 
-              <br>
+
               {% assign comma = "" %}
               {% for speaker in session[1].speakers %}
                 <strong>{{ comma }} {% if speaker[1].name %}{{ speaker[1].name | strip_html }}{% endif %}</strong>
                 {% assign comma = " and " %}
               {% endfor %}
             {% if session[1].place == "Daugava 1"  or session[1].place == "Daugava 2"  or session[1].place == "Casino"  %}</div>{% endif %} <!-- close 4 col speaker -->
-            {% if session[1].place == "Casino"  %}</div><hr class="col-md-12 hr_no_padding">{% endif %} <!-- close three tracks -->
-            {% if session[1].place == "Daugava 1+2" or session[1].place == "Hotel's restaurant" or session[1].place == "Next to Daugava 1+2" or session[1].place == "Abava / Amata - 2nd floor" %}</div><hr class="hr_no_padding">{% endif %} <!-- close keynote row -->
+            {% if session[1].place == "Casino"  %}</div>{% endif %} <!-- close three tracks -->
+            {% if session[1].place == "Daugava 1+2" or session[1].place == "Hotel's restaurant" or session[1].place == "Next to Daugava 1+2" or session[1].place == "Abava / Amata - 2nd floor" %}</div>{% endif %} <!-- close keynote row -->
           {% endif %}
 
         {% endfor %}
@@ -69,7 +69,7 @@
     {% endfor %}
 
     <div class="inner-page">
-      <h2 class="page-headline">Detailed schedule</h2>
+      <h2 class="page-headline">Detailed {% if page.year == 2019 %}{{"Conference "}}{% endif %}schedule</h2>
     </div>
     {% endif %} <!-- end if for 2018 overview -->
 
@@ -78,7 +78,8 @@
     {% for i in (1..days) %}
       {% if days > 1 %} <!-- display day if more than one -->
       <div class="inner-page">
-        <h3 class="sponsors-subtitle">Day {{ i }}</h3>
+        <h3 class="sponsors-subtitle">Day {{ i }} {% if page.year == 2019 and i == 1 %}{{" - June 20"}}{% endif %}
+        {% if page.year == 2019 and i == 2 %}{{" - June 21"}}{% endif %}</h3>
       </div>
       {% endif %} <!-- /display day if more than one -->
 
@@ -90,7 +91,7 @@
 
       {% for session in sessions_sorted %}
       {% if session[1].day == i %}
-      <hr class="col-md-12">
+      <hr class="col-md-12 hr_no_padding">
       <div id="{{ session[0] }}" class="col-md-12">
         <h3>{% if session[1].title %}{{ session[1].title | strip_html }}{% endif %}{% if session[1].time %} ({{ session[1].time | strip_html }}{% if session[1].place %}; {{ session[1].place | strip_html }}{% endif %}){% endif %}</h3>
         <p>{% if session[1].about %}{{ session[1].about | strip_html }}{% endif %}</p>
