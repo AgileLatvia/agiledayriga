@@ -1,11 +1,11 @@
 2019:
   session01:
-    day: "June 20"
+    day: 1
     time: "9:00 - 9:30"
     place: "Next to Daugava 1+2"
     title: "Registration + coffee"
   session02:
-    day: "June 21"
+    day: 1
     time: "9:30 - 10:00"
     place: "Daugava 1+2"
     title: "Opening"
