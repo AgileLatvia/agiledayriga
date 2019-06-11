@@ -31,22 +31,18 @@ Visit us <A href='https://www.accenture.com'>www.accenture.com</a>"
   info:
     title: "Info Sponsors"
     sponsor01:
-      title: "LikeIT"
-      image: "/img/sponsors/likeit.png"
-      url: "http://www.likeit.lv/"
-    sponsor02:
       title: "Agile Lietuva"
       image: "/img/sponsors/agile-lietuva.png"
       url: "http://www.agile.lt/"
-    sponsor03:
+    sponsor02:
       title: "Kursors.lv"
       image: "/img/sponsors/kursorslv.png"
       url: "http://www.kursors.lv/"
-    sponsor04:
+    sponsor03:
       title: "Agile Estonia"
       image: "/img/sponsors/agile-ee-55.png"
       url: "http://www.agile.ee/"
-    sponsor05:
+    sponsor04:
       title: "Agile Transformer"
       image: "/img/sponsors/agiletransformer.png"
       url: "http://agiletransformer.com/"
