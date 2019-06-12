@@ -101,7 +101,7 @@ We’ll look into classical estimation and planning techniques and why they don�
     day: 1
     time: "11:15 - 12:00"
     place: "Casino"
-    title: "Kanban. Feel the spirit of Kaizen"
+    title: "Kanban. Feel the spirit of Kaizen - PART #1"
     about: "We are faster, even if we are not working at full speed.
 - We have enough time for work for which we normally never have time.
 - We become more predictable when we set limits for ourselves.
@@ -188,7 +188,7 @@ Andrey is a frequent speaker at international conferences and local communities.
     day: 1
     time: "12:00 - 12:45"
     place: "Casino"
-    title: "Kanban. Feel the spirit of Kaizen - continue"
+    title: "Kanban. Feel the spirit of Kaizen - PART #2"
     about: "Workshop from Yehor Kachanov and Zoia Shupletsova continues."
     slides:
     trailer:
@@ -210,87 +210,25 @@ Andrey is a frequent speaker at international conferences and local communities.
   session12:
     day: 1
     time: "13:45 - 14:30"
-    place: "Daugava 1"
-    title: "Unlocking Business Agility"
-    about: "Coming soon!"
+    place: "Daugava 1+2"
+    title: "Iterating towards Professional Scrum"
+    about: "The 2019 Scrum Master Trends Report by scrum.org and the State of Agile 2018 shows numbers that provide insight in the maturity of agile adoptions. More than 80% of the companies claim to be in or below a 'still maturing' level. With Scrum being the industry standard (at least in western Europe it is), these numbers are surprising.
+
+In this overview of iterations towards Scrum maturity I describe the characteristics and main challenges to overcome in each maturity stage. This overview might help you as a Scrum Master or leader to assess your current situation and show you a direction in which you might find a solution for the problems you are facing implementing Scrum."
+    trailer: "https://www.youtube.com/watch?v=nL2Gm_qPc1E"
     slides:
-    trailer: "https://www.youtube.com/watch?v=f8IWsXksAqk&t=4s"
-    video:
     speakers:
       speaker01:
-        name: "Howard Johnson"
-        bio: "Seasoned Leader of Product Management, IT software development and Digital Servicing. 20+ years of experience leading global teams responsible for Large Program transformation specializing in Financial Services, Commercial and B2B services.
+        name: "Roland Flemm"
+        bio: "Roland Flemm is a product development consultant. He works as a consultant on large and small scale Scrum adoptions, he is a Professional Scrum trainer and is a lecturer at international conventions.
 
-Significant experience with business transformation and scaled agile practices. Developed customer-centric solutions, and large global programs of change. Led teams of product managers, IT Directors, engineers, Business and Technical architects, Project Managers and analysts responsible for all aspects of product development from concept to realization across global lines of business.
-
-I'm pretty adept at quickly finding the core problem, coming up with ideas and then collaborating with others to figure out a way forward. I'm a change agent who believes in authenticity and getting things done. "
-        photo: "/img/speakers/howard-johnson.png"
-        blog:
-        facebook:
-        twitter:
-        linkedin: "https://www.linkedin.com/in/howard-johnson-433213"
-  session13:
-    day: 1
-    time: "13:45 - 14:30"
-    place: "Daugava 2"
-    title: "Stop believing in magic and change your organisation!"
-    about: "Evolution in technology is changing the game in every industry - this is not news to any business. Predicting market demand and satisfying customer expectation is becoming gradually more and more complex task. To improve strategy execution capabilities - to be faster and more adaptive - companies adopt agile frameworks. These transitions are often painful and in many cases lack the desired business impact. This talk is about the 'Elephant in the room' - how we pick the methods that are convenient to adopt and dismiss the change that is really needed to move the needle. Agile is not an IT thing!"
-    slides:
-    trailer:
-    video:
-    speakers:
-      speaker01:
-        name: "Heldin Rikk"
-        bio: "Heldin Rikk and Kaspar Eding have more than a decade of experience in adopting agile methodologies in finance, banking, logistics, hardware manufacturing and communication industries. They have taken several organisations through an agile transition, built new agile organisations and most importantly delivered several successful products on the way."
-        photo: "/img/speakers/heldin-rikk19.jpg"
-        blog:
-        facebook:
-        twitter:
-        linkedin: "https://www.linkedin.com/in/heldinrikk"
-      speaker02:
-        name: "Kaspar Eding"
-        bio: "In search for know-how on implementation challenges, Heldin and Kaspar have found themselves in consulting organisations and presenting the challenges in conferences. They claim to have found a cultural offset that holds organisations back from harnessing the benefits of agile. Their story is based on engineering success, but they talk about why organisations often still consider agile frameworks to be not suitable for them."
-        photo: "/img/speakers/kaspar-eding.jpg"
-        blog:
-        facebook:
-        twitter:
-        linkedin: "https://www.linkedin.com/in/kaspareding"
-  session14:
-    day: 1
-    time: "13:45 - 14:30"
-    place: "Casino"
-    title: "Advanced Communication with Liberating Structures by Chewbacca and Leia"
-    about: "- Did you came across situations when the same people speak majority of the time?
-- Do you find difficult keeping attention at the constant high level throughout the meeting?
-- Are you always happy with decision making process and your involvement?
-
-Five conventional structures (practices) guide the way we organize routine interactions and how groups work together: presentations, managed discussions, open discussions, status reports and brainstorm sessions. Liberating Structures add 33 more options to the big five conventional approaches.
-
-During this interactive workshop we will be trying out these new practices and will be learning with fun!
-
-Princess Leia and Chewbacca are coming to Riga! They are coming to liberate us!
-People are sitting at their computers and are silent, people are sitting at the meetings and majority are silent too. It looks like we are unlearning to talk, agree and communicate...
-Leia brought us a secret weapon - liberating structures. Let's come together in the after lunch session and get armed to teeth! ...and have some fun :)"
-    slides:
-    video:
-    trailer:
-    speakers:
-      speaker01:
-        name: "Vladimir Ivanov"
-        bio: "Optimus Prime of the agiletransformer.com team. Now is Agile Coach in BP (British Petroleum) in the AGT region (Azerbaijan, Georgia, Turkey)."
-        photo: "/img/speakers/vladimir-ivanov.png"
-        blog: "http://agiletransformer.com"
-        facebook: "https://www.facebook.com/agiletransformer/"
-        twitter: "https://twitter.com/vivanovs"
-        linkedin: "https://www.linkedin.com/in/vivanov/en"
-      speaker02:
-        name: "Marija Maijere"
-        bio: "Agiletransformer girl. Special skill: can transform events into games and adventures. Empathy lvl98."
-        photo: "/img/speakers/marija-maijere.jpg"
-        blog: "http://agiletransformer.com"
-        facebook:
-        twitter: "https://twitter.com/vivanovs"
-        linkedin: "https://www.linkedin.com/in/marijamaijere/"
+Roland has a background in application development (.Net and Java) and in infrastructure engineering (IBM WebsPhere & Portal) for over 20 years. Since 2013 he is dedicated to working as a scrum master and LeSS Coach.
+Roland has a reputation for having a “non compromise agility” style. He regularly publishes articles, is developed scrumcards (www.scrumcards.org) and is the creator of humorist movies (Koos Coach). Roland strongly believes that fun and diversity at the workplace is essential for success."
+        photo: "/img/speakers/roland-flemm.png"
+        blog: "http://www.agilix.nl"
+        facebook: "https://www.facebook.com/roland.flemm"
+        twitter: "https://twitter.com/roland_flemm"
+        linkedin: "https://www.linkedin.com/in/rolandflemm"
   session15:
     day: 1
     time: "14:30 - 15:15"
@@ -363,7 +301,91 @@ I entered into software development field from technical documentation and requi
     day: 1
     time: "14:30 - 15:15"
     place: "Casino"
-    title: "Advanced Communication with Liberating Structures by Chewbacca and Leia - continue"
+    title: "Advanced Communication with Liberating Structures by Chewbacca and Leia - PART #1"
+    about: "- Did you came across situations when the same people speak majority of the time?
+- Do you find difficult keeping attention at the constant high level throughout the meeting?
+- Are you always happy with decision making process and your involvement?
+
+Five conventional structures (practices) guide the way we organize routine interactions and how groups work together: presentations, managed discussions, open discussions, status reports and brainstorm sessions. Liberating Structures add 33 more options to the big five conventional approaches.
+
+During this interactive workshop we will be trying out these new practices and will be learning with fun!
+
+Princess Leia and Chewbacca are coming to Riga! They are coming to liberate us!
+People are sitting at their computers and are silent, people are sitting at the meetings and majority are silent too. It looks like we are unlearning to talk, agree and communicate...
+Leia brought us a secret weapon - liberating structures. Let's come together in the after lunch session and get armed to teeth! ...and have some fun :)"
+    slides:
+    video:
+    trailer:
+    speakers:
+      speaker01:
+        name: "Vladimir Ivanov"
+        bio: "Optimus Prime of the agiletransformer.com team. Now is Agile Coach in BP (British Petroleum) in the AGT region (Azerbaijan, Georgia, Turkey)."
+        photo: "/img/speakers/vladimir-ivanov.png"
+        blog: "http://agiletransformer.com"
+        facebook: "https://www.facebook.com/agiletransformer/"
+        twitter: "https://twitter.com/vivanovs"
+        linkedin: "https://www.linkedin.com/in/vivanov/en"
+      speaker02:
+        name: "Marija Maijere"
+        bio: "Agiletransformer girl. Special skill: can transform events into games and adventures. Empathy lvl98."
+        photo: "/img/speakers/marija-maijere.jpg"
+        blog: "http://agiletransformer.com"
+        facebook:
+        twitter: "https://twitter.com/vivanovs"
+        linkedin: "https://www.linkedin.com/in/marijamaijere/"
+  session18:
+    day: 1
+    time: "15:15 - 16:15"
+    place: "Daugava 1"
+    title: "Unlocking Business Agility"
+    about: "Coming soon!"
+    slides:
+    trailer: "https://www.youtube.com/watch?v=f8IWsXksAqk&t=4s"
+    video:
+    speakers:
+      speaker01:
+        name: "Howard Johnson"
+        bio: "Seasoned Leader of Product Management, IT software development and Digital Servicing. 20+ years of experience leading global teams responsible for Large Program transformation specializing in Financial Services, Commercial and B2B services.
+
+Significant experience with business transformation and scaled agile practices. Developed customer-centric solutions, and large global programs of change. Led teams of product managers, IT Directors, engineers, Business and Technical architects, Project Managers and analysts responsible for all aspects of product development from concept to realization across global lines of business.
+
+I'm pretty adept at quickly finding the core problem, coming up with ideas and then collaborating with others to figure out a way forward. I'm a change agent who believes in authenticity and getting things done. "
+        photo: "/img/speakers/howard-johnson.png"
+        blog:
+        facebook:
+        twitter:
+        linkedin: "https://www.linkedin.com/in/howard-johnson-433213"
+  session19:
+    day: 1
+    time: "15:15 - 16:15"
+    place: "Daugava 2"
+    title: "Stop believing in magic and change your organisation!"
+    about: "Evolution in technology is changing the game in every industry - this is not news to any business. Predicting market demand and satisfying customer expectation is becoming gradually more and more complex task. To improve strategy execution capabilities - to be faster and more adaptive - companies adopt agile frameworks. These transitions are often painful and in many cases lack the desired business impact. This talk is about the 'Elephant in the room' - how we pick the methods that are convenient to adopt and dismiss the change that is really needed to move the needle. Agile is not an IT thing!"
+    slides:
+    trailer:
+    video:
+    speakers:
+      speaker01:
+        name: "Heldin Rikk"
+        bio: "Heldin Rikk and Kaspar Eding have more than a decade of experience in adopting agile methodologies in finance, banking, logistics, hardware manufacturing and communication industries. They have taken several organisations through an agile transition, built new agile organisations and most importantly delivered several successful products on the way."
+        photo: "/img/speakers/heldin-rikk19.jpg"
+        blog:
+        facebook:
+        twitter:
+        linkedin: "https://www.linkedin.com/in/heldinrikk"
+      speaker02:
+        name: "Kaspar Eding"
+        bio: "In search for know-how on implementation challenges, Heldin and Kaspar have found themselves in consulting organisations and presenting the challenges in conferences. They claim to have found a cultural offset that holds organisations back from harnessing the benefits of agile. Their story is based on engineering success, but they talk about why organisations often still consider agile frameworks to be not suitable for them."
+        photo: "/img/speakers/kaspar-eding.jpg"
+        blog:
+        facebook:
+        twitter:
+        linkedin: "https://www.linkedin.com/in/kaspareding"
+  session20:
+    day: 1
+    time: "15:15 - 16:15"
+    place: "Casino"
+    title: "Advanced Communication with Liberating Structures by Chewbacca and Leia - PART #2"
     about: ""
     slides:
     trailer:
@@ -377,68 +399,6 @@ I entered into software development field from technical documentation and requi
         facebook:
         twitter:
         linkedin:
-  session18:
-    day: 1
-    time: "15:15 - 16:15"
-    place: "Daugava 1"
-    title: "Coming soon!"
-    about: ""
-    slides:
-    trailer:
-    video:
-    speakers:
-      speaker01:
-        name: ""
-        bio: ""
-        photo: ""
-        blog:
-        facebook:
-        twitter:
-        linkedin:
-  session19:
-    day: 1
-    time: "15:15 - 16:15"
-    place: "Daugava 2"
-    title: "Coming soon!"
-    about: ""
-    slides:
-    trailer:
-    video:
-    speakers:
-      speaker01:
-        name: ""
-        bio: ""
-        photo: ""
-        blog:
-        facebook:
-        twitter:
-        linkedin:
-  session20:
-    day: 1
-    time: "15:15 - 16:15"
-    place: "Casino"
-    title: "Are you in a search for a job as a Scrum Master?"
-    about: "The market is now full fo Ads searching for a Scrum Masters and we invite you to check together with us how it is done. To see if we would want to go to work as SM's to one company or another. The format is a workshop so be prepared to participate."
-    slides:
-    trailer:
-    video:
-    speakers:
-      speaker01:
-        name: "Leonid Uljankin"
-        bio: "As an Agile practitioner - I love working with teams and individuals to help them uncover their full potential while delivering more value to the world. I take active role in Agile Latvia non-profit Agile popularisation organisation as a board member and one of the main organisers behind monthly Agile Latvia meet-ups and yearly Agile Days Riga conference. "
-        photo: "/img/speakers/leonid-uljankin.jpg"
-        blog:
-        facebook: "https://www.facebook.com/agilelatvia/"
-        twitter:
-        linkedin: "https://www.linkedin.com/in/leoniduljankin/"
-      speaker02:
-        name: "Maxim Yemelyanov"
-        bio: "My expertise lies in establishing, improving and / or developing Agile practices, and my career of 15 at major international companies drives me to make world a better place. "
-        photo: "/img/speakers/maxim-yemelyanov.jpeg"
-        blog:
-        facebook: "https://www.facebook.com/maxim.yemelyanov"
-        twitter:
-        linkedin: "https://www.linkedin.com/in/maxyemelyanov/"
   session21:
     day: 1
     time: "16:15 - 16:45"
@@ -448,8 +408,11 @@ I entered into software development field from technical documentation and requi
     day: 1
     time: "16:45 - 17:30"
     place: "Daugava 1+2"
-    title: "Coming soon!"
-    about: ""
+    title: "Past, present and future of Agility from an Integral perspective"
+    about: "Understanding context is a key factor to set expectations, define appropriate strategies and achieve results in any kind of initiative. The Agile movement started 18 years ago with a simple sentence 'We are uncovering better ways of developing software by doing it and helping others do it'. Now the Agile movement grew way beyond software offering a new perspective to all kinds of organisations and businesses.
+To ensure the success of Agile initiatives, is critical for Agile professionals, enthusiasts and curious people to not only explore Agile but understand the Agility phenomenon itself. As a first step, many questions need to be clearly and consistently answered: What’s the difference between Agile software development and Business Agility? Why does it start in software? Why now? What’s next? Why organisations struggle implementing Agile? How can we make  Agility happen? What does it really mean?
+
+As a result of my more than 13 years of experience helping organisations from more than 30 countries to implement Agile. I’ll give my answer to all this questions from a systemic perspective, based on the Integral theory, in the service of a pragmatic approach to understanding the Agility phenomenon. Furthermore I’ll explain a simple and practical tool for organisational management to design their own strategic planning and goals setting standards and enhance Agility."
     slides:
     video:
     speakers:
@@ -559,7 +522,7 @@ With backgrounds in both E.E. and C.S., she has furthered her education in EMBA,
     title: "Coffee break"
   session31:
     day: 2
-    time: "15:15 - 16:45"
+    time: "15:15 - 17:00"
     place: "Abava / Amata - 2nd floor"
     title: "Open Space sessions - continue"
     about: "It is an agenda-less event where people come together, create agenda under specific theme, and then learn from each other in small groups. Items in agenda can be anything: problems, situations, experiences, approaches, lectures, etc. related to the specific theme. Please take a read and watch video below to get you into the mood and ‘be prepared to be surprised’ on June 21!"
@@ -571,29 +534,7 @@ With backgrounds in both E.E. and C.S., she has furthered her education in EMBA,
         photo: "/img/speakers/open-space.jpg"
   session32:
     day: 2
-    time: "16:45 - 17:30"
-    place: "Abava / Amata - 2nd floor"
-    title: "Iterating towards Professional Scrum"
-    about: "The 2019 Scrum Master Trends Report by scrum.org and the State of Agile 2018 shows numbers that provide insight in the maturity of agile adoptions. More than 80% of the companies claim to be in or below a 'still maturing' level. With Scrum being the industry standard (at least in western Europe it is), these numbers are surprising.
-
-In this overview of iterations towards Scrum maturity I describe the characteristics and main challenges to overcome in each maturity stage. This overview might help you as a Scrum Master or leader to assess your current situation and show you a direction in which you might find a solution for the problems you are facing implementing Scrum."
-    trailer: "https://www.youtube.com/watch?v=nL2Gm_qPc1E"
-    slides:
-    speakers:
-      speaker01:
-        name: "Roland Flemm"
-        bio: "Roland Flemm is a product development consultant. He works as a consultant on large and small scale Scrum adoptions, he is a Professional Scrum trainer and is a lecturer at international conventions.
-
-Roland has a background in application development (.Net and Java) and in infrastructure engineering (IBM WebsPhere & Portal) for over 20 years. Since 2013 he is dedicated to working as a scrum master and LeSS Coach.
-Roland has a reputation for having a “non compromise agility” style. He regularly publishes articles, is developed scrumcards (www.scrumcards.org) and is the creator of humorist movies (Koos Coach). Roland strongly believes that fun and diversity at the workplace is essential for success."
-        photo: "/img/speakers/roland-flemm.png"
-        blog: "http://www.agilix.nl"
-        facebook: "https://www.facebook.com/roland.flemm"
-        twitter: "https://twitter.com/roland_flemm"
-        linkedin: "https://www.linkedin.com/in/rolandflemm"
-  session33:
-    day: 2
-    time: "17:30 - 18:00"
+    time: "17:00 - 17:30"
     place: "Abava / Amata - 2nd floor"
     title: "Conference closing"
 2018:
