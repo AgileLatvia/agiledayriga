@@ -229,7 +229,7 @@ Roland has a reputation for having a “non compromise agility” style. He regu
         facebook: "https://www.facebook.com/roland.flemm"
         twitter: "https://twitter.com/roland_flemm"
         linkedin: "https://www.linkedin.com/in/rolandflemm"
-  session15:
+  session13:
     day: 1
     time: "14:30 - 15:15"
     place: "Daugava 1"
@@ -265,7 +265,7 @@ My previous experience belongs to Executive Search industry. For 8 years I was r
         facebook: "https://www.facebook.com/elena.zlygosteva"
         twitter:
         linkedin: "https://www.linkedin.com/in/zlygosteva/"
-  session16:
+  session14:
     day: 1
     time: "14:30 - 15:15"
     place: "Daugava 2"
@@ -297,7 +297,7 @@ I entered into software development field from technical documentation and requi
         facebook:
         twitter:
         linkedin: "https://www.linkedin.com/in/vladimir-silin-scrum-master/"
-  session17:
+  session15:
     day: 1
     time: "14:30 - 15:15"
     place: "Casino"
@@ -333,7 +333,7 @@ Leia brought us a secret weapon - liberating structures. Let's come together in 
         facebook:
         twitter: "https://twitter.com/vivanovs"
         linkedin: "https://www.linkedin.com/in/marijamaijere/"
-  session18:
+  session16:
     day: 1
     time: "15:15 - 16:15"
     place: "Daugava 1"
@@ -355,7 +355,7 @@ I'm pretty adept at quickly finding the core problem, coming up with ideas and t
         facebook:
         twitter:
         linkedin: "https://www.linkedin.com/in/howard-johnson-433213"
-  session19:
+  session17:
     day: 1
     time: "15:15 - 16:15"
     place: "Daugava 2"
@@ -381,7 +381,7 @@ I'm pretty adept at quickly finding the core problem, coming up with ideas and t
         facebook:
         twitter:
         linkedin: "https://www.linkedin.com/in/kaspareding"
-  session20:
+  session18:
     day: 1
     time: "15:15 - 16:15"
     place: "Casino"
@@ -399,12 +399,12 @@ I'm pretty adept at quickly finding the core problem, coming up with ideas and t
         facebook:
         twitter:
         linkedin:
-  session21:
+  session19:
     day: 1
     time: "16:15 - 16:45"
     place: "Next to Daugava 1+2"
     title: "Coffee break"
-  session22:
+  session20:
     day: 1
     time: "16:45 - 17:30"
     place: "Daugava 1+2"
@@ -428,12 +428,20 @@ As a result of my more than 13 years of experience helping organisations from mo
         facebook: "https://www.facebook.com/adiazmaroto/about?lst=100000200571456%3A514272136%3A1523957765"
         twitter: "https://twitter.com/adiazmaroto"
         linkedin: "https://www.linkedin.com/in/adiazmaroto/"
-  session23:
+  session21:
     day: 1
     time: "17:30 - 17:45"
     place: "Daugava 1+2"
     title: "Day one wrap-up"
-  session24:
+  session22:
+    day: 1
+    time: "18:00 - 21:00"
+    place: "Daugava 1+2"
+    title: "After party and networking in the inner yard of the conference venue"
+    about: "It was a long day, but now it is time to rewind and relax together!
+    You are all welcome to join for a drink or two sponsored by Accenture!
+     We have prepared a fun entertainment programm too. Join us and let's have fun together, network and just enjoy aqulity time."
+  session23:
     day: 2
     time: "9:00 - 9:30"
     place: "Abava / Amata - 2nd floor"
