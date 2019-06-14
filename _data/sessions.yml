@@ -438,7 +438,7 @@ As a result of my more than 13 years of experience helping organisations from mo
     time: "18:00 - 21:00"
     place: "Daugava 1+2"
     title: "After party and networking in the inner yard of the conference venue"
-    about: "It was a long day, but now it is time to rewind and relax together!
+    about: "It was a long day, but now it is time to reflect and relax together!
     You are all welcome to join for a drink or two sponsored by Accenture!
      We have prepared a fun entertainment programm too. Join us and let's have fun together, network and just enjoy aqulity time."
   session23:
@@ -449,48 +449,6 @@ As a result of my more than 13 years of experience helping organisations from mo
   session25:
     day: 2
     time: "09:30 - 10:15"
-    place: "Abava / Amata - 2nd floor"
-    title: "Biology of Powerful Powerless Leader"
-    about: "Agile Leadership has its unique flavour of natural leadership, when power is not given with a title but taken by a person based on his/her inner abilities. We use Servant Leadership or Powerless Leader to emphasise this difference. If we look deeper into the biology and neuroscience of leadership we might find really unexpected things – that Agile leaders are the ones that are recognised by nature and we unconsciously can select these people from the crowd. How to become this type of person?
-To be an effective Agile leader we need to understand:
-What makes a leader: Leader-Leader Agile Model; The difference between a leader and dominant behaviour, why leaders look younger and more active (on hormonal level)
-; Hormones and neuroscience of a natural leader (with some cases and practice); Leadership differences and similarities of Scrum Master and Product Owner; Simple (4 words) yet powerful mindset change to become a natural leader that people will follow
-."
-    trailer: "https://www.youtube.com/watch?v=aXz3rT6YGm0&list=PLdVGonf7NDxal2oq9tazFsLVXZVRcIW-7&index=3&t=1s"
-    video:
-    slides:
-    speakers:
-      speaker01:
-        name: "Anna Obukhova"
-        bio: "Anna Obukhova is an Agile Coach working with Agile methodologies since 2004 as a Scrum Master, Agile Coach, Project/Programme Manager and recently as Agile Portfolio Delivery Manager for a large investment bank in London. Anna is mainly interested in distributed and dispersed projects and the effectiveness of team communication in such conditions. Her passion is to collect and share the best industry and company practices in Agile management. She helps Agile teams and programmes to improve their processes and implement the transition from Waterfall to Agile in corporate environments (her clients are major banks and very large companies from other industries).
-Additionally, Anna Obukhova is using neuroscience and biology to explain Agile productivity and enhance Agile coaching techniques. My presenting experience started in 2008 and from 2011 internationally.
-This perspective of Neuroscience and Agile was agreed to be novel and worth sharing by many conferences, to name a few: ALE Bucharest, Agile Days Moscow, Global Scrum Gathering Paris, Agile Cambridge, Agile Tour London, Agile on the Beach (UK, 2017, 2018), Agile 2017 (Orlando, USA), Agile 2018 (San Diego), Agile Business Conference (Moscow 2017, 2018), Global Scrum Gathering Dublin, Manage Agile (Berlin).
-She uses her educations in Biology, Psychology and Coaching to connect working tips and recommendations with the natural processes that happen in our bodies (especially in the brain). She believes it can explain a lot and she`s very excited how naturally Agile works.
-"
-        photo: "/img/speakers/anna-obukhova.jpg"
-        blog:
-        facebook: "https://www.facebook.com/anna.obukhova.1"
-        linkedin: "https://www.linkedin.com/in/anna-obukhova-0b04381/"
-  session27:
-    day: 2
-    time: "10:45 - 12:15"
-    place: "Abava / Amata - 2nd floor"
-    title: "Open Space sessions"
-    about: "It is an agenda-less event where people come together, create agenda under specific theme, and then learn from each other in small groups. Items in agenda can be anything: problems, situations, experiences, approaches, lectures, etc. related to the specific theme. Please take a read and watch video below to get you into the mood and ‘be prepared to be surprised’ on June 21!"
-    video: "https://www.youtube.com/watch?v=4vEBcr_YkHU"
-    speakers:
-      speaker01:
-        name: "Speakers and Participants"
-        bio: "Most of the speakers from day one and anyone else who is interested to bring up a topic can start an Open space session."
-        photo: "/img/speakers/open-space.jpg"
-  session28:
-    day: 2
-    time: "12:15 - 13:15"
-    place: "Abava / Amata - 2nd floor"
-    title: "Stand-up Lunch"
-  session29:
-    day: 2
-    time: "13:15 - 14:00"
     place: "Abava / Amata - 2nd floor"
     title: "When inspiration becomes imitation…  lessons from the coaching trenches"
     about: "Over the past decade, Evelyn has gained unique and diverse experience coaching organizations large or small, from APAC, to North America, to Europe and to Middle East. She has solid background from product management, project management, people management, software development, system integration, customer support to agile coaching. Her clients range from automotive industry, manufacturing, insurance, banking, e-commerce and of course telecom due to her years of experience in Ericsson.
@@ -523,14 +481,56 @@ With backgrounds in both E.E. and C.S., she has furthered her education in EMBA,
         twitter: "https://twitter.com/TianEvelyn"
         facebook: "https://www.facebook.com/evelyn.tian"
         blog: "https://www.evelynkonsult.se/the-company.html"
+  session27:
+    day: 2
+    time: "10:45 - 12:15"
+    place: "Abava / Amata - 2nd floor"
+    title: "Open Space sessions"
+    about: "It is an agenda-less event where people come together, create agenda under specific theme, and then learn from each other in small groups. Items in agenda can be anything: problems, situations, experiences, approaches, lectures, etc. related to the specific theme. Please take a read and watch video below to get you into the mood and ‘be prepared to be surprised’ on June 21!"
+    video: "https://www.youtube.com/watch?v=4vEBcr_YkHU"
+    speakers:
+      speaker01:
+        name: "Speakers and Participants"
+        bio: "Most of the speakers from day one and anyone else who is interested to bring up a topic can start an Open space session."
+        photo: "/img/speakers/open-space.jpg"
+  session28:
+    day: 2
+    time: "12:15 - 13:15"
+    place: "Abava / Amata - 2nd floor"
+    title: "Stand-up Lunch"
+  session29:
+    day: 2
+    time: "13:15 - 14:00"
+    place: "Abava / Amata - 2nd floor"
+    title: "Biology of Powerful Powerless Leader"
+    about: "Agile Leadership has its unique flavour of natural leadership, when power is not given with a title but taken by a person based on his/her inner abilities. We use Servant Leadership or Powerless Leader to emphasise this difference. If we look deeper into the biology and neuroscience of leadership we might find really unexpected things – that Agile leaders are the ones that are recognised by nature and we unconsciously can select these people from the crowd. How to become this type of person?
+To be an effective Agile leader we need to understand:
+What makes a leader: Leader-Leader Agile Model; The difference between a leader and dominant behaviour, why leaders look younger and more active (on hormonal level)
+; Hormones and neuroscience of a natural leader (with some cases and practice); Leadership differences and similarities of Scrum Master and Product Owner; Simple (4 words) yet powerful mindset change to become a natural leader that people will follow
+."
+    trailer: "https://www.youtube.com/watch?v=aXz3rT6YGm0&list=PLdVGonf7NDxal2oq9tazFsLVXZVRcIW-7&index=3&t=1s"
+    video:
+    slides:
+    speakers:
+      speaker01:
+        name: "Anna Obukhova"
+        bio: "Anna Obukhova is an Agile Coach working with Agile methodologies since 2004 as a Scrum Master, Agile Coach, Project/Programme Manager and recently as Agile Portfolio Delivery Manager for a large investment bank in London. Anna is mainly interested in distributed and dispersed projects and the effectiveness of team communication in such conditions. Her passion is to collect and share the best industry and company practices in Agile management. She helps Agile teams and programmes to improve their processes and implement the transition from Waterfall to Agile in corporate environments (her clients are major banks and very large companies from other industries).
+Additionally, Anna Obukhova is using neuroscience and biology to explain Agile productivity and enhance Agile coaching techniques. My presenting experience started in 2008 and from 2011 internationally.
+This perspective of Neuroscience and Agile was agreed to be novel and worth sharing by many conferences, to name a few: ALE Bucharest, Agile Days Moscow, Global Scrum Gathering Paris, Agile Cambridge, Agile Tour London, Agile on the Beach (UK, 2017, 2018), Agile 2017 (Orlando, USA), Agile 2018 (San Diego), Agile Business Conference (Moscow 2017, 2018), Global Scrum Gathering Dublin, Manage Agile (Berlin).
+She uses her educations in Biology, Psychology and Coaching to connect working tips and recommendations with the natural processes that happen in our bodies (especially in the brain). She believes it can explain a lot and she`s very excited how naturally Agile works.
+"
+        photo: "/img/speakers/anna-obukhova.jpg"
+        blog:
+        facebook: "https://www.facebook.com/anna.obukhova.1"
+        linkedin: "https://www.linkedin.com/in/anna-obukhova-0b04381/"
   session30:
     day: 2
-    time: "14:45 - 15:15"
+    time: "14:00 - 14:15"
     place: "Abava / Amata - 2nd floor"
     title: "Coffee break"
   session31:
     day: 2
-    time: "15:15 - 17:00"
+    time: "14:15 - 17:00"
     place: "Abava / Amata - 2nd floor"
     title: "Open Space sessions - continue"
     about: "It is an agenda-less event where people come together, create agenda under specific theme, and then learn from each other in small groups. Items in agenda can be anything: problems, situations, experiences, approaches, lectures, etc. related to the specific theme. Please take a read and watch video below to get you into the mood and ‘be prepared to be surprised’ on June 21!"
