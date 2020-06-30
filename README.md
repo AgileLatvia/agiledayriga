@@ -21,6 +21,8 @@ In order to setup the conference site for the new conference we need to move the
 This change will affect both menu and `sitemap.xml`.
 
 - If done right when you browse http://127.0.0.1:4000/events/2016/index.html you should see the copy of recent conference.
+## Deployment
+It is done from netlify.com account details are available in reg file.
 
 ## Step 1
 Let's start with preparing our website for the new conference.
@@ -92,7 +94,7 @@ If we know the venue then we can put it on our site. In order to do that follow 
 3. Final step is to open `index.html` and set `venue-block` variable to `on`.
 
 ## Step 6
-Time for the sponsors, if there're some of them at the moment. 
+Time for the sponsors, if there're some of them at the moment.
 
 1. Open `index.html` and set `sponsors-block` variable to `on`. By doind this you will enable this block on the conference page as well as menu item for this section.
 2. Then open `_data/sponsors.yml`
@@ -124,7 +126,7 @@ Here's an example:
   silver:
     sponsor01:
       title: "Scrum Alliance"
-      image: "/img/sponsors/scrum-alliance.png" 
+      image: "/img/sponsors/scrum-alliance.png"
       url: "http://www.scrumalliance.org/"
 ```
 
@@ -148,31 +150,31 @@ Here's an example:
     place: "Room A"
     title: "Nexus: How We Do Scrum with 150+ People"
     about: "Nexus is a framework for scaled Scrum developed by Scrum co-creator Ken Schwaber and Scrum.org community. It addresses the most painful problems of scaled development – dealing with dependencies and building 'Done' integrated software every iteration. In our short talk, we are going to explain the key concepts of Nexus and illustrate them with our own case study where 150+ people successfully do Scrum to build software for a big North American retail company using Nexus."
-    slides: 
-    video: 
+    slides:
+    video:
     speakers:
       speaker01:
         name: "Artem Kolyshkin"
         bio: "Artem Kolyshkin is a Senior Delivery Manager at EPAM with wide experience of product and project delivery. Currently implementing the Nexus framework on a project with 150 + people."
         photo: "/img/speakers/artem-kolyshkin.jpg"
-        blog: 
-        facebook: 
-        twitter: 
+        blog:
+        facebook:
+        twitter:
         linkedin: "https://www.linkedin.com/in/akolyshkin/"
-        google-plus: 
+        google-plus:
       speaker02:
         name: "Konstantin Razumovsky"
         bio: "Konstantin Razumovsky is an Agile Coach and Professional Scrum Trainer by Scrum.org. He has an extensive hands-on experience as a Java Developer, Scrum Master, and Project Manager."
         photo: "/img/speakers/konstantin-razumovsky.jpg"
         blog: "http://proscrum.by/"
-        facebook: 
-        twitter: 
+        facebook:
+        twitter:
         linkedin: "https://www.linkedin.com/in/razumovsky/"
-        google-plus: 
+        google-plus:
 ```
 
 ## Step 8
-How to Add Tickets? 
+How to Add Tickets?
 
 1. Copy one of the existing 'Tickets' snippets to the new one which will be used this year: `cp _includes/2016-tickets.html _includes/2017-tickets.html`
 2. Edit `_includes/2017-tickets.html` the way you need using the pre-generated widget from Eventbrite: open 'Manage Event', then click 'Widgets' from 'Invite & Promote' section, then select 'Ticket Form'
@@ -195,7 +197,7 @@ Here's an example of `_includes/2017-tickets.html`:
 ```
 
 ## Step 9
-How to Setup Conference Schedule? 
+How to Setup Conference Schedule?
 
 1. Assuming that you have already created an event in Lanyrd service set `schedule-lanyrd` variable in `index.html` file. Use the link to schedule from event created there.
 2. Set variable `schedule-status` to `on`.
@@ -225,15 +227,15 @@ How to Add Slides and Videos?
 -----
 
 ### To Be Developed
-1. Add HTML minification. :x: 
+1. Add HTML minification. :x:
 2. Add HTTPS if possible. :heavy_minus_sign: (not available for custom domains)
-3. Add Events microdata. :white_check_mark: 
-4. Fix the issue with speakers if there're no SMs defined. In this case the 2nd speaker's block is aligned improperly. :white_check_mark: 
-5. Update event schema.org markup with Eventbrite link and data. :white_check_mark: 
-6. Use the same approach from Info sponors for grid view of other types of sponsors, except Platinums. :white_check_mark: 
+3. Add Events microdata. :white_check_mark:
+4. Fix the issue with speakers if there're no SMs defined. In this case the 2nd speaker's block is aligned improperly. :white_check_mark:
+5. Update event schema.org markup with Eventbrite link and data. :white_check_mark:
+6. Use the same approach from Info sponors for grid view of other types of sponsors, except Platinums. :white_check_mark:
 
 ### To Be Done
-1. Move 2015 under standard flow. :white_check_mark: 
+1. Move 2015 under standard flow. :white_check_mark:
 2. Move 2014 under standard flow. :white_check_mark:
-3. Move older conferences under standard flow. :white_check_mark: 
+3. Move older conferences under standard flow. :white_check_mark:
 4. Support more than 1 day for sessions. :white_check_mark:
